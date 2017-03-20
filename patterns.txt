@@ -1,0 +1,4 @@
+*_ADJ [lemma]
+[lemma] in the *_NOUN
+[lemma] is *_VERB
+[lemma] was *_VERB
