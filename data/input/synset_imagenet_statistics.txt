@@ -1,0 +1,24 @@
+1,000 synsets.
+
+Distribution of number of lemmas per synset:
+
+ 1|508
+ 2|279
+ 3|122
+ 4| 53
+ 5| 23
+ 6|  8
+ 7|  5
+ 8|  1
+ 9|  0
+10|  1
+
+1,860 lemmas.
+
+Distribution of number of words per lemma:
+
+1|447
+2|878
+3|499
+4| 26
+5| 10
