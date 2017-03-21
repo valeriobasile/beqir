@@ -11,7 +11,7 @@ def expand_query(words_path, patterns_path):
     with open(join(dirname(__file__), patterns_path)) as fin:
         pattern_list = [x.rstrip() for x in fin.readlines()]
 
-    for word in word_list[:5]:
+    for word in word_list:
         candidates = []
         for pattern in pattern_list:
             query = pattern.replace("[lemma]", word)
