@@ -68,5 +68,5 @@ def calculate_statistics():
 if __name__ == '__main__':
     synsets_path = "../data/input/synset_imagenet_10.txt"
     patterns_path = "../data/input/patterns.txt"
-    #expand_query(synsets_path, patterns_path)
+    expand_query(synsets_path, patterns_path)
     calculate_statistics()
