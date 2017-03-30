@@ -997,4 +997,4 @@ n13054560	bolete
 n01751748	sea snake 
 n04111531	rotisserie 
 n02089973	English foxhound 
-n02085782	Japanese spaniel 
+n02085782	Japanese spaniel
