@@ -166,6 +166,6 @@ if __name__ == '__main__':
     synsets_path = "../data/input/synset_imagenet.txt"
     patterns_path = "../data/input/patterns.txt"
     expansions_path = "../data/output/query_expansions_patterns.txt"
-    #expand_query(synsets_path, patterns_path)
-    #filter_expansions(patterns_path, expansions_path)
+    expand_query(synsets_path, patterns_path)
+    filter_expansions(patterns_path, expansions_path)
     calculate_statistics("../data/output/query_expansions_patterns_filtered.txt")
