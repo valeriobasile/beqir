@@ -998,3 +998,7 @@ n01751748	sea snake
 n04111531	rotisserie 
 n02089973	English foxhound 
 n02085782	Japanese spaniel
+NA	dog
+NA	butterfly
+NA	airplane
+NA	bird

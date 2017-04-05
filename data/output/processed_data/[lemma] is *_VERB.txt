@@ -1,0 +1,1864 @@
+n02268443	dragonfly	dragonfly is called, dragonfly is shown
+n02268443	darning needle	
+n02268443	devil  s darning needle	
+n02268443	sewing needle	
+n02268443	snake feeder	
+n02268443	snake doctor	
+n02268443	mosquito hawk	
+n02268443	skeeter hawk	
+n03977966	police van	
+n03977966	police wagon	
+n03977966	paddy wagon	
+n03977966	patrol wagon	
+n03977966	wagon	wagon is going, wagon is made, wagon is drawn, wagon is being, wagon is loaded, wagon is coming, wagon is used, wagon is moving, wagon is brought, wagon is driven
+n03977966	black Maria	
+n02747177	ashcan	
+n02747177	trash can	
+n02747177	garbage can	
+n02747177	wastebin	
+n02747177	ash bin	
+n02747177	ash-bin	
+n02747177	ashbin	
+n02747177	dustbin	
+n02747177	trash barrel	
+n02747177	trash bin	
+n02814533	beach wagon	
+n02814533	station wagon	
+n02814533	wagon	wagon is going, wagon is made, wagon is drawn, wagon is being, wagon is loaded, wagon is coming, wagon is used, wagon is moving, wagon is brought, wagon is driven
+n02814533	estate car	
+n02814533	beach waggon	
+n02814533	station waggon	
+n02814533	waggon	waggon is drawn, waggon is going, waggon is prepar&#39;d, waggon is made, waggon is called, waggon is sent, waggon is being, waggon is loaded, waggon is put, waggon is gone
+n04467665	trailer truck	
+n04467665	tractor trailer	
+n04467665	trucking rig	
+n04467665	rig	rig is designed, rig is used, rig is made, rig is equipped, rig is shown, rig is moved, rig is mounted, rig is set, rig is being, rig is required
+n04467665	articulated lorry	
+n04467665	semi	
+n01984695	spiny lobster	
+n01984695	langouste	
+n01984695	rock lobster	
+n01984695	crawfish	
+n01984695	crayfish	crayfish is hatched, crayfish is placed, crayfish is divided, crayfish is made, crayfish is held, crayfish is used, crayfish is found
+n01984695	sea crawfish	
+n02125311	cougar	cougar is found
+n02125311	puma	puma is said, puma is called, puma is found
+n02125311	catamount	
+n02125311	mountain lion	
+n02125311	painter	painter is concerned, painter is bound, painter is said, painter is obliged, painter is seen, painter is employed, painter is required, painter is represented, painter is supposed, painter is confined
+n02125311	panther	panther is said, panther is seen, panther is driving, panther is found, panther is known
+n02125311	Felis concolor	
+n04335435	streetcar	
+n04335435	tram	tram is made, tram is coming, tram is used, tram is placed, tram is going
+n04335435	tramcar	
+n04335435	trolley	trolley is provided, trolley is mounted, trolley is pulled, trolley is used, trolley is moved, trolley is placed, trolley is shown, trolley is pushed, trolley is taken, trolley is run
+n04335435	trolley car	
+n02894605	breakwater	breakwater is composed, breakwater is completed, breakwater is formed, breakwater is being, breakwater is intended, breakwater is shown, breakwater is covered, breakwater is constructed, breakwater is made, breakwater is built
+n02894605	groin	groin is shaved, groin is used, groin is exposed, groin is affected, groin is involved, groin is taken, groin is covered
+n02894605	groyne	
+n02894605	mole	mole is given, mole is used, mole is expelled, mole is defined, mole is formed, mole is obtained, mole is called, mole is found, mole is constructed, mole is built
+n02894605	bulwark	bulwark is gone, bulwark is formed, bulwark is destroyed, bulwark is set
+n02894605	seawall	seawall is built
+n02894605	jetty	jetty is constructed, jetty is being, jetty is located, jetty is shown, jetty is used, jetty is built
+n03065424	coil	coil is wound, coil is placed, coil is suspended, coil is energized, coil is connected, coil is mounted, coil is moved, coil is shown, coil is made, coil is used
+n03065424	spiral	spiral is formed, spiral is connected, spiral is made, spiral is wound, spiral is placed, spiral is found, spiral is called, spiral is heated, spiral is fixed, spiral is used
+n03065424	volute	volute is made
+n03065424	whorl	whorl is marked, whorl is made, whorl is formed, whorl is called, whorl is flattened, whorl is covered, whorl is rounded, whorl is produced, whorl is ornamented, whorl is composed
+n03065424	helix	helix is placed, helix is shown, helix is composed, helix is called, helix is wound, helix is given, helix is made, helix is connected, helix is formed, helix is filled
+n02966193	carousel	
+n02966193	carrousel	
+n02966193	merry-go-round	
+n02966193	roundabout	
+n02966193	whirligig	
+n02788148	bannister	
+n02788148	banister	
+n02788148	balustrade	balustrade is formed, balustrade is carried, balustrade is employed, balustrade is cut, balustrade is put, balustrade is placed, balustrade is ornamented, balustrade is composed, balustrade is made, balustrade is worked
+n02788148	balusters	
+n02788148	handrail	handrail is required, handrail is fastened, handrail is attached, handrail is supported, handrail is made, handrail is fixed, handrail is provided
+n03000247	chain mail	
+n03000247	ring mail	
+n03000247	mail	mail is being, mail is opened, mail is transported, mail is carried, mail is sent, mail is received, mail is used, mail is made, mail is sorted, mail is delivered
+n03000247	chain armor	
+n03000247	chain armour	
+n03000247	ring armor	
+n03000247	ring armour	
+n04553703	washbasin	
+n04553703	handbasin	
+n04553703	washbowl	
+n04553703	lavabo	
+n04553703	wash-hand basin	
+n02415577	bighorn	
+n02415577	bighorn sheep	
+n02415577	cimarron	
+n02415577	Rocky Mountain bighorn	
+n02415577	Rocky Mountain sheep	
+n02415577	Ovis canadensis	
+n02071294	killer whale	
+n02071294	killer	killer is revealed, killer is found, killer is going, killer is engaged, killer is used, killer is caught, killer is known, killer is called, killer is coming, killer is killed
+n02071294	orca	
+n02071294	grampus	
+n02071294	sea wolf	
+n02071294	Orcinus orca	
+n02769748	backpack	backpack is filled, backpack is gone
+n02769748	back pack	
+n02769748	knapsack	knapsack is made, knapsack is filled, knapsack is strapped
+n02769748	packsack	
+n02769748	rucksack	
+n02769748	haversack	
+n02536864	coho	
+n02536864	cohoe	
+n02536864	coho salmon	
+n02536864	blue jack	
+n02536864	silver salmon	
+n02536864	Oncorhynchus kisutch	
+n03691459	loudspeaker	loudspeaker is used, loudspeaker is provided, loudspeaker is shown, loudspeaker is connected, loudspeaker is turned, loudspeaker is driven, loudspeaker is placed, loudspeaker is located, loudspeaker is replaced, loudspeaker is mounted
+n03691459	speaker	speaker is referring, speaker is going, speaker is concerned, speaker is saying, speaker is using, speaker is chosen, speaker is talking, speaker is addressing, speaker is supposed, speaker is trying
+n03691459	speaker unit	
+n03691459	loudspeaker system	
+n03691459	speaker system	
+n02992529	cellular telephone	
+n02992529	cellular phone	
+n02992529	cellphone	
+n02992529	cell	cell is used, cell is connected, cell is shown, cell is filled, cell is placed, cell is given, cell is made, cell is called, cell is composed, cell is formed
+n02992529	mobile phone	
+n01644900	tailed frog	
+n01644900	bell toad	
+n01644900	ribbed toad	
+n01644900	tailed toad	
+n01644900	Ascaphus trui	
+n02018207	American coot	
+n02018207	marsh hen	
+n02018207	mud hen	
+n02018207	water hen	
+n02018207	Fulica americana	
+n02395406	hog	hog is called, hog is said, hog is slaughtered, hog is given, hog is used, hog is considered, hog is killed, hog is found, hog is exposed, hog is carried
+n02395406	pig	pig is killed, pig is sacrificed, pig is injected, pig is called, pig is eaten, pig is used, pig is inoculated, pig is brought, pig is placed, pig is given
+n02395406	grunter	
+n02395406	squealer	
+n02395406	Sus scrofa	
+n02509815	lesser panda	
+n02509815	red panda	
+n02509815	panda	panda is found
+n02509815	bear cat	
+n02509815	cat bear	
+n02509815	Ailurus fulgens	
+n04081281	restaurant	restaurant is set, restaurant is decorated, restaurant is located, restaurant is housed, restaurant is named, restaurant is situated, restaurant is closed, restaurant is known, restaurant is run, restaurant is called
+n04081281	eating house	
+n04081281	eating place	
+n04081281	eatery	eatery is decorated, eatery is run, eatery is housed, eatery is known, eatery is located, eatery is named
+n03047690	clog	clog is removed
+n03047690	geta	
+n03047690	patten	patten is worn
+n03047690	sabot	
+n03877472	pajama	
+n03877472	pyjama	
+n03877472	pj  s	
+n03877472	jammies	
+n02808440	bathtub	bathtub is used, bathtub is filling, bathtub is made, bathtub is filled
+n02808440	bathing tub	
+n02808440	bath	bath is taken, bath is heated, bath is filled, bath is given, bath is made, bath is maintained, bath is prepared, bath is employed, bath is used, bath is kept
+n02808440	tub	tub is made, tub is placed, tub is covered, tub is kept, tub is set, tub is used, tub is emptied, tub is brought, tub is filled, tub is provided
+n04033995	quilt	quilt is removed, quilt is rolled, quilt is laid, quilt is finished, quilt is spread, quilt is composed, quilt is turned, quilt is made, quilt is put, quilt is used
+n04033995	comforter	comforter is come
+n04033995	comfort	comfort is given, comfort is provided, comfort is offered, comfort is obtained, comfort is withdrawn, comfort is found, comfort is gone, comfort is concerned, comfort is derived, comfort is afforded
+n04033995	puff	puff is made, puff is swallowed, puff is given, puff is delivered, puff is used
+n03032252	cinema	cinema is given, cinema is becoming, cinema is going, cinema is being, cinema is regarded, cinema is used, cinema is recognized, cinema is made, cinema is based, cinema is concerned
+n03032252	movie theater	
+n03032252	movie theatre	
+n03032252	movie house	
+n03032252	picture palace	
+n03110669	cornet	cornet is used, cornet is washed
+n03110669	horn	horn is blown, horn is found, horn is heard, horn is sounded, horn is made, horn is placed, horn is attached, horn is said, horn is cut, horn is used
+n03110669	trumpet	trumpet is called, trumpet is given, trumpet is constructed, trumpet is made, trumpet is blown, trumpet is mentioned, trumpet is used, trumpet is sounded, trumpet is heard, trumpet is sounding
+n03110669	trump	trump is heard, trump is declared, trump is made, trump is sounded, trump is led, trump is blown, trump is played, trump is sounding, trump is called, trump is turned
+n02165456	ladybug	
+n02165456	ladybeetle	
+n02165456	lady beetle	
+n02165456	ladybird	
+n02165456	ladybird beetle	
+n03461385	grocery store	
+n03461385	grocery	
+n03461385	food market	
+n03461385	market	market is being, market is glutted, market is made, market is concerned, market is found, market is supplied, market is limited, market is going, market is overstocked, market is held
+n03485794	handkerchief	handkerchief is worn, handkerchief is folded, handkerchief is dropped, handkerchief is used, handkerchief is held, handkerchief is thrown, handkerchief is tied, handkerchief is placed, handkerchief is given, handkerchief is bound
+n03485794	hankie	
+n03485794	hanky	
+n03485794	hankey	
+n01695060	Komodo dragon	
+n01695060	Komodo lizard	
+n01695060	dragon lizard	
+n01695060	giant lizard	
+n01695060	Varanus komodoensis	
+n09428293	seashore	seashore is covered, seashore is made, seashore is called
+n09428293	coast	coast is covered, coast is bordered, coast is found, coast is formed, coast is lined, coast is fringed, coast is broken, coast is composed, coast is indented, coast is called
+n09428293	seacoast	
+n09428293	sea-coast	
+n01985128	crayfish	crayfish is hatched, crayfish is placed, crayfish is divided, crayfish is made, crayfish is held, crayfish is used, crayfish is found
+n01985128	crawfish	
+n01985128	crawdad	
+n01985128	crawdaddy	
+n02814860	beacon	beacon is lighted, beacon is used, beacon is placed, beacon is shown, beacon is seen, beacon is located, beacon is blazing, beacon is erected, beacon is extinguished, beacon is passed
+n02814860	lighthouse	lighthouse is built, lighthouse is surrounded, lighthouse is erected, lighthouse is being, lighthouse is provided, lighthouse is maintained, lighthouse is located, lighthouse is placed, lighthouse is situated, lighthouse is seen
+n02814860	beacon light	
+n02814860	pharos	
+n02066245	grey whale	
+n02066245	gray whale	
+n02066245	devilfish	
+n02066245	Eschrichtius gibbosus	
+n02066245	Eschrichtius robustus	
+n02687172	aircraft carrier	
+n02687172	carrier	carrier is used, carrier is held, carrier is authorized, carrier is modulated, carrier is bound, carrier is engaged, carrier is obliged, carrier is made, carrier is entitled, carrier is required
+n02687172	flattop	
+n02687172	attack aircraft carrier	
+n02443114	polecat	polecat is found
+n02443114	fitch	
+n02443114	foulmart	
+n02443114	foumart	
+n02443114	Mustela putorius	
+n03425413	gas pump	
+n03425413	gasoline pump	
+n03425413	petrol pump	
+n03425413	island dispenser	
+n03666591	lighter	lighter is used, lighter is being, lighter is placed, lighter is made, lighter is called
+n03666591	light	light is thrown, light is emitted, light is reflected, light is transmitted, light is seen, light is produced, light is shed, light is come, light is admitted, light is used
+n03666591	igniter	igniter is made, igniter is illustrated, igniter is operated, igniter is located, igniter is placed, igniter is shown, igniter is used
+n03666591	ignitor	ignitor is used
+n04389033	tank	tank is made, tank is kept, tank is placed, tank is provided, tank is filled, tank is located, tank is shown, tank is used, tank is being, tank is connected
+n04389033	army tank	
+n04389033	armored combat vehicle	
+n04389033	armoured combat vehicle	
+n07248320	book jacket	
+n07248320	dust cover	
+n07248320	dust jacket	
+n07248320	dust wrapper	
+n02930766	cab	cab is used, cab is taken, cab is made, cab is built, cab is waiting, cab is mounted, cab is provided, cab is called, cab is placed, cab is licensed
+n02930766	hack	hack is used, hack is turned
+n02930766	taxi	taxi is parked, taxi is waiting, taxi is going, taxi is stopped, taxi is called, taxi is required, taxi is coming, taxi is used, taxi is moving, taxi is needed
+n02930766	taxicab	taxicab is waiting
+n02641379	gar	gar is found
+n02641379	garfish	
+n02641379	garpike	
+n02641379	billfish	
+n02641379	Lepisosteus osseus	
+n03841143	odometer	odometer is used
+n03841143	hodometer	
+n03841143	mileometer	
+n03841143	milometer	
+n04347754	submarine	submarine is moving, submarine is sighted, submarine is required, submarine is designed, submarine is equipped, submarine is known, submarine is submerged, submarine is built, submarine is made, submarine is being
+n04347754	pigboat	
+n04347754	sub	sub is followed, sub is installed, sub is going, sub is called, sub is prefixed, sub is used
+n04347754	U-boat	
+n03494278	harmonica	harmonica is played, harmonica is used
+n03494278	mouth organ	
+n03494278	harp	harp is constructed, harp is hung, harp is made, harp is suspended, harp is played, harp is strung, harp is turned, harp is tuned, harp is heard, harp is broken
+n03494278	mouth harp	
+n02114855	coyote	coyote is seen, coyote is found, coyote is known, coyote is heard, coyote is going, coyote is said
+n02114855	prairie wolf	
+n02114855	brush wolf	
+n02114855	Canis latrans	
+n04604644	worm fence	
+n04604644	snake fence	
+n04604644	snake-rail fence	
+n04604644	Virginia fence	
+n07615774	ice lolly	
+n07615774	lolly	
+n07615774	lollipop	
+n07615774	popsicle	
+n12057211	yellow lady  s slipper	
+n12057211	yellow lady-slipper	
+n12057211	Cypripedium calceolus	
+n12057211	Cypripedium parviflorum	
+n03188531	diaper	diaper is placed, diaper is removed, diaper is used, diaper is applied, diaper is soiled, diaper is made, diaper is put, diaper is changed, diaper is folded, diaper is pinned
+n03188531	nappy	nappy is changed
+n03188531	napkin	napkin is removed, napkin is applied, napkin is placed, napkin is used, napkin is taken, napkin is folded, napkin is spread, napkin is put, napkin is laid, napkin is changed
+n02655020	puffer	
+n02655020	pufferfish	
+n02655020	blowfish	
+n02655020	globefish	
+n01882714	koala	koala is born
+n01882714	koala bear	
+n01882714	kangaroo bear	
+n01882714	native bear	
+n01882714	Phascolarctos cinereus	
+n01955084	chiton	chiton is pulled, chiton is worn, chiton is fastened
+n01955084	coat-of-mail shell	
+n01955084	sea cradle	
+n01955084	polyplacophore	
+n01496331	electric ray	
+n01496331	crampfish	
+n01496331	numbfish	
+n01496331	torpedo	torpedo is propelled, torpedo is released, torpedo is said, torpedo is discharged, torpedo is fired, torpedo is exploded, torpedo is launched, torpedo is made, torpedo is placed, torpedo is used
+n04482393	tricycle	
+n04482393	trike	
+n04482393	velocipede	
+n02408429	water buffalo	
+n02408429	water ox	
+n02408429	Asiatic buffalo	
+n02408429	Bubalus bubalis	
+n04599235	wool	wool is used, wool is exported, wool is spun, wool is sold, wool is sent, wool is dyed, wool is produced, wool is made, wool is placed, wool is washed
+n04599235	woolen	
+n04599235	woollen	
+n03895866	passenger car	
+n03895866	coach	coach is passing, coach is come, coach is going, coach is waiting, coach is gone, coach is said, coach is called, coach is drawn, coach is coming, coach is ordered
+n03895866	carriage	carriage is placed, carriage is ordered, carriage is moving, carriage is waiting, carriage is moved, carriage is supposed, carriage is coming, carriage is used, carriage is drawn, carriage is made
+n01753488	horned viper	
+n01753488	cerastes	
+n01753488	sand viper	
+n01753488	horned asp	
+n01753488	Cerastes cornutus	
+n02510455	giant panda	
+n02510455	panda	panda is found
+n02510455	panda bear	
+n02510455	coon bear	
+n02510455	Ailuropoda melanoleuca	
+n02977058	cash machine	
+n02977058	cash dispenser	
+n02977058	automated teller machine	
+n02977058	automatic teller machine	
+n02977058	automated teller	
+n02977058	automatic teller	
+n02977058	ATM	ATM is designed, ATM is considered, ATM is installed, ATM is defined, ATM is located, ATM is expected, ATM is being, ATM is intended, ATM is used, ATM is based
+n03457902	greenhouse	greenhouse is shown, greenhouse is built, greenhouse is used, greenhouse is warmed, greenhouse is kept, greenhouse is designed, greenhouse is located, greenhouse is attached, greenhouse is heated, greenhouse is being
+n03457902	nursery	nursery is formed, nursery is located, nursery is kept, nursery is maintained, nursery is prepared, nursery is being, nursery is situated, nursery is established, nursery is made, nursery is provided
+n03457902	glasshouse	
+n03017168	chime	chime is concerned, chime is heard
+n03017168	bell	bell is sounded, bell is heard, bell is ringing, bell is rung, bell is hung, bell is tolling, bell is tolled, bell is struck, bell is made, bell is suspended
+n03017168	gong	gong is beaten, gong is used, gong is suspended, gong is made, gong is sounding, gong is placed, gong is sounded, gong is struck, gong is heard, gong is rung
+n03954731	plane	plane is used, plane is found, plane is shown, plane is said, plane is inclined, plane is made, plane is given, plane is determined, plane is flying, plane is called
+n03954731	carpenter  s plane	
+n03954731	woodworking plane	
+n02115641	dingo	
+n02115641	warrigal	
+n02115641	warragal	
+n02115641	Canis dingo	
+n01981276	king crab	
+n01981276	Alaska crab	
+n01981276	Alaskan king crab	
+n01981276	Alaska king crab	
+n01981276	Paralithodes camtschatica	
+n02114367	timber wolf	
+n02114367	grey wolf	
+n02114367	gray wolf	
+n02114367	Canis lupus	
+n01484850	great white shark	
+n01484850	white shark	
+n01484850	man-eater	
+n01484850	man-eating shark	
+n01484850	Carcharodon carcharias	
+n03089624	confectionery	confectionery is made, confectionery is sold
+n03089624	confectionary	
+n03089624	candy store	
+n02398521	hippopotamus	hippopotamus is found, hippopotamus is said, hippopotamus is killed
+n02398521	hippo	
+n02398521	river horse	
+n02398521	Hippopotamus amphibius	
+n02116738	African hunting dog	
+n02116738	hyena dog	
+n02116738	Cape hunting dog	
+n02116738	Lycaon pictus	
+n09399592	promontory	promontory is covered, promontory is named, promontory is seen, promontory is called, promontory is composed, promontory is situated, promontory is crowned, promontory is formed, promontory is said, promontory is cut
+n09399592	headland	headland is reached, headland is called, headland is formed, headland is rounded, headland is crowned, headland is covered, headland is composed
+n09399592	head	head is held, head is turned, head is placed, head is made, head is bent, head is covered, head is raised, head is cut, head is drawn, head is thrown
+n09399592	foreland	
+n02892201	brass	brass is given, brass is used, brass is molten, brass is laid, brass is shown, brass is gone, brass is made, brass is fixed, brass is placed, brass is said
+n02892201	memorial tablet	
+n02892201	plaque	plaque is inscribed, plaque is placed, plaque is made, plaque is removed, plaque is presented, plaque is found, plaque is seen, plaque is awarded, plaque is composed, plaque is formed
+n03792782	mountain bike	
+n03792782	all-terrain bike	
+n03792782	off-roader	
+n02871525	bookshop	
+n02871525	bookstore	bookstore is closed, bookstore is located, bookstore is filled
+n02871525	bookstall	
+n02895154	breastplate	breastplate is worn, breastplate is made, breastplate is called
+n02895154	aegis	
+n02895154	egis	
+n04367480	swab	swab is withdrawn, swab is returned, swab is passed, swab is rubbed, swab is taken, swab is used, swab is placed, swab is inserted, swab is made, swab is removed
+n04367480	swob	
+n04367480	mop	mop is used, mop is made
+n03903868	pedestal	pedestal is ornamented, pedestal is formed, pedestal is adorned, pedestal is inscribed, pedestal is erected, pedestal is fixed, pedestal is placed, pedestal is represented, pedestal is covered, pedestal is made
+n03903868	plinth	plinth is made, plinth is raised, plinth is indicated, plinth is divided, plinth is placed, plinth is carved, plinth is cut, plinth is inscribed, plinth is ornamented, plinth is decorated
+n03903868	footstall	
+n03216828	dock	dock is filled, dock is equipped, dock is being, dock is built, dock is provided, dock is used, dock is closed, dock is constructed, dock is pumped, dock is raised
+n03216828	dockage	
+n03216828	docking facility	
+n09246464	cliff	cliff is formed, cliff is used, cliff is broken, cliff is composed, cliff is undermined, cliff is seen, cliff is covered, cliff is cut, cliff is excavated, cliff is called
+n09246464	drop	drop is formed, drop is taken, drop is falling, drop is made, drop is placed, drop is used, drop is allowed, drop is given, drop is increased, drop is added
+n09246464	drop-off	
+n02776631	bakery	bakery is run, bakery is carried, bakery is owned, bakery is located, bakery is being, bakery is closed
+n02776631	bakeshop	
+n02776631	bakehouse	
+n02279972	monarch	monarch is said, monarch is acknowledged, monarch is described, monarch is seen, monarch is supposed, monarch is made, monarch is called, monarch is seated, monarch is limited, monarch is represented
+n02279972	monarch butterfly	
+n02279972	milkweed butterfly	
+n02279972	Danaus plexippus	
+n04372370	switch	switch is thrown, switch is used, switch is operated, switch is connected, switch is shown, switch is opened, switch is set, switch is closed, switch is turned, switch is provided
+n04372370	electric switch	
+n04372370	electrical switch	
+n04487081	trolleybus	
+n04487081	trolley coach	
+n04487081	trackless trolley	
+n02219486	ant	ant is known, ant is found, ant is used, ant is made, ant is supposed, ant is divided, ant is called, ant is said, ant is seen, ant is carrying
+n02219486	emmet	
+n02219486	pismire	
+n04023962	punching bag	
+n04023962	punch bag	
+n04023962	punching ball	
+n04023962	punchball	
+n02129165	lion	lion is represented, lion is seen, lion is supposed, lion is said, lion is coming, lion is found, lion is come, lion is placed, lion is made, lion is called
+n02129165	king of beasts	
+n02129165	Panthera leo	
+n04037443	racer	racer is known, racer is found
+n04037443	race car	
+n04037443	racing car	
+n04461696	tow truck	
+n04461696	tow car	
+n04461696	wrecker	
+n03041632	cleaver	cleaver is used
+n03041632	meat cleaver	
+n03041632	chopper	chopper is shown, chopper is used, chopper is mounted, chopper is employed, chopper is made, chopper is illustrated, chopper is set, chopper is required, chopper is placed, chopper is connected
+n03594734	jean	
+n03594734	blue jean	
+n03594734	denim	denim is made
+n02783161	ballpoint	
+n02783161	ballpoint pen	
+n02783161	ballpen	
+n02783161	Biro	
+n02009912	American egret	
+n02009912	great white heron	
+n02009912	Egretta albus	
+n02817516	bearskin	
+n02817516	busby	
+n02817516	shako	
+n02835271	bicycle-built-for-two	
+n02835271	tandem bicycle	
+n02835271	tandem	tandem is shown, tandem is used, tandem is taken
+n03424325	gasmask	
+n03424325	respirator	respirator is attached, respirator is indicated, respirator is designed, respirator is turned, respirator is used, respirator is required, respirator is worn, respirator is needed, respirator is being, respirator is recommended
+n03424325	gas helmet	
+n02841315	binoculars	
+n02841315	field glasses	
+n02841315	opera glasses	
+n02114712	red wolf	
+n02114712	maned wolf	
+n02114712	Canis rufus	
+n02114712	Canis niger	
+n04356056	sunglasses	
+n04356056	dark glasses	
+n04356056	shades	shades is obtained, shades is limited, shades is produced, shades is made, shades is called, shades is used, shades is gone, shades is seen
+n13133613	ear	ear is formed, ear is gratified, ear is affected, ear is pained, ear is applied, ear is made, ear is stunned, ear is struck, ear is filled, ear is placed
+n13133613	spike	spike is driven, spike is made, spike is followed, spike is generated, spike is said, spike is seen, spike is shown, spike is produced, spike is used, spike is inserted
+n13133613	capitulum	capitulum is formed, capitulum is surrounded, capitulum is composed
+n04554684	washer	washer is inserted, washer is fitted, washer is required, washer is made, washer is used, washer is installed, washer is placed, washer is shown, washer is provided, washer is put
+n04554684	automatic washer	
+n04554684	washing machine	
+n03929660	pick	pick is used, pick is shown, pick is required, pick is needed, pick is inserted, pick is made, pick is being, pick is placed, pick is beaten, pick is driven
+n03929660	plectrum	plectrum is used, plectrum is made
+n03929660	plectron	
+n04116512	rubber eraser	
+n04116512	rubber	rubber is used, rubber is obtained, rubber is placed, rubber is dissolved, rubber is cut, rubber is being, rubber is produced, rubber is applied, rubber is stretched, rubber is made
+n04116512	pencil eraser	
+n07754684	jackfruit	
+n07754684	jak	
+n07754684	jack	jack is used, jack is placed, jack is moved, jack is made, jack is provided, jack is seen, jack is coming, jack is connected, jack is removed, jack is shown
+n04357314	sunscreen	sunscreen is applied, sunscreen is used, sunscreen is needed, sunscreen is recommended
+n04357314	sunblock	
+n04357314	sun blocker	
+n02445715	skunk	skunk is found, skunk is known, skunk is said, skunk is protected
+n02445715	polecat	polecat is found
+n02445715	wood pussy	
+n02110341	dalmatian	
+n02110341	coach dog	
+n02110341	carriage dog	
+n02134084	ice bear	
+n02134084	polar bear	
+n02134084	Ursus Maritimus	
+n02134084	Thalarctos maritimus	
+n01983481	American lobster	
+n01983481	Northern lobster	
+n01983481	Maine lobster	
+n01983481	Homarus americanus	
+n02120505	grey fox	
+n02120505	gray fox	
+n02120505	Urocyon cinereoargenteus	
+n02128925	jaguar	jaguar is known, jaguar is associated, jaguar is killed, jaguar is found, jaguar is shown, jaguar is called
+n02128925	panther	panther is said, panther is seen, panther is driving, panther is found, panther is known
+n02128925	Panthera onca	
+n02128925	Felis onca	
+n02892767	brassiere	brassiere is worn
+n02892767	bra	bra is worn, bra is made
+n02892767	bandeau	
+n03249569	drum	drum is driven, drum is heard, drum is made, drum is connected, drum is struck, drum is rotated, drum is placed, drum is used, drum is beaten, drum is turned
+n03249569	membranophone	
+n03249569	tympan	tympan is lowered
+n12768682	buckeye	
+n12768682	horse chestnut	
+n12768682	conker	
+n01614925	bald eagle	
+n01614925	American eagle	
+n01614925	Haliaeetus leucocephalus	
+n04443257	tobacco shop	
+n04443257	tobacconist shop	
+n04443257	tobacconist	
+n04086273	revolver	revolver is called, revolver is going, revolver is shown, revolver is fired, revolver is discharged, revolver is carried, revolver is gone, revolver is found, revolver is loaded, revolver is used
+n04086273	six-gun	
+n04086273	six-shooter	
+n02480495	orangutan	orangutan is found
+n02480495	orang	orang is compelled, orang is known, orang is believed
+n02480495	orangutang	
+n02480495	Pongo pygmaeus	
+n02672831	accordion	accordion is played, accordion is playing, accordion is used, accordion is heard, accordion is being
+n02672831	piano accordion	
+n02672831	squeeze box	
+n02669723	academic gown	
+n02669723	academic robe	
+n02669723	judge  s robe	
+n01682714	American chameleon	
+n01682714	anole	
+n01682714	Anolis carolinensis	
+n02111129	Leonberg	
+n02492035	capuchin	
+n02492035	ringtail	
+n02492035	Cebus capucinus	
+n15075141	toilet tissue	
+n15075141	toilet paper	
+n15075141	bathroom tissue	
+n02325366	wood rabbit	
+n02325366	cottontail	cottontail is found
+n02325366	cottontail rabbit	
+n02027492	red-backed sandpiper	
+n02027492	dunlin	
+n02027492	Erolia alpina	
+n03400231	frying pan	
+n03400231	frypan	
+n03400231	skillet	skillet is covered, skillet is used
+n04548362	wallet	wallet is made, wallet is lost, wallet is opened, wallet is stolen, wallet is gone, wallet is found, wallet is stuffed, wallet is filled, wallet is missing, wallet is going
+n04548362	billfold	
+n04548362	notecase	
+n04548362	pocketbook	pocketbook is affected, pocketbook is stuffed, pocketbook is concerned
+n03857828	oscilloscope	oscilloscope is set, oscilloscope is used, oscilloscope is synchronized, oscilloscope is shown, oscilloscope is required, oscilloscope is connected, oscilloscope is provided, oscilloscope is adjusted, oscilloscope is placed, oscilloscope is triggered
+n03857828	scope	scope is left, scope is afforded, scope is allowed, scope is given, scope is indicated, scope is confined, scope is limited, scope is defined, scope is determined, scope is restricted
+n03857828	cathode-ray oscilloscope	
+n03857828	CRO	CRO is set, CRO is shown, CRO is used
+n03160309	dam	dam is constructed, dam is being, dam is placed, dam is used, dam is formed, dam is completed, dam is made, dam is built, dam is shown, dam is located
+n03160309	dike	dike is known, dike is formed, dike is exposed, dike is composed, dike is found, dike is built, dike is represented, dike is cut, dike is broken, dike is seen
+n03160309	dyke	dyke is cut, dyke is said, dyke is made, dyke is raised, dyke is broken, dyke is seen, dyke is formed, dyke is exposed, dyke is composed, dyke is built
+n02168699	long-horned beetle	
+n02168699	longicorn	
+n02168699	longicorn beetle	
+n12620546	hip	hip is called, hip is extended, hip is flexed, hip is involved, hip is held, hip is flattened, hip is affected, hip is lost, hip is dislocated, hip is reduced
+n12620546	rose hip	
+n12620546	rosehip	
+n01558993	robin	robin is brought, robin is singing, robin is thought, robin is killed, robin is seen, robin is found, robin is called, robin is plastering, robin is building, robin is heard
+n01558993	American robin	
+n01558993	Turdus migratorius	
+n01728572	thunder snake	
+n01728572	worm snake	
+n01728572	Carphophis amoenus	
+n01797886	ruffed grouse	
+n01797886	partridge	partridge is called, partridge is found
+n01797886	Bonasa umbellus	
+n07697537	hotdog	
+n07697537	hot dog	
+n07697537	red hot	
+n06874185	traffic light	
+n06874185	traffic signal	
+n06874185	stoplight	
+n02128757	snow leopard	
+n02128757	ounce	ounce is used, ounce is paid, ounce is added, ounce is taken, ounce is required, ounce is dissolved, ounce is given, ounce is made, ounce is reckoned, ounce is divided
+n02128757	Panthera uncia	
+n01819313	sulphur-crested cockatoo	
+n01819313	Kakatoe galerita	
+n01819313	Cacatua galerita	
+n02114548	white wolf	
+n02114548	Arctic wolf	
+n02114548	Canis lupus tundrarum	
+n02486261	patas	
+n02486261	hussar monkey	
+n02486261	Erythrocebus patas	
+n01873310	platypus	platypus is found
+n01873310	duckbill	
+n01873310	duckbilled platypus	
+n01873310	duck-billed platypus	
+n01873310	Ornithorhynchus anatinus	
+n02231487	walking stick	
+n02231487	walkingstick	
+n02231487	stick insect	
+n01770081	harvestman	
+n01770081	daddy longlegs	
+n01770081	Phalangium opilio	
+n03884397	panpipe	
+n03884397	pandean pipe	
+n03884397	syrinx	syrinx is located, syrinx is seen
+n02797295	barrow	barrow is used, barrow is wheeled, barrow is built, barrow is situated, barrow is shown
+n02797295	garden cart	
+n02797295	lawn cart	
+n02797295	wheelbarrow	wheelbarrow is used
+n02132136	brown bear	
+n02132136	bruin	
+n02132136	Ursus arctos	
+n04229816	ski mask	
+n02133161	American black bear	
+n02133161	black bear	
+n02133161	Ursus americanus	
+n02133161	Euarctos americanus	
+n02948072	candle	candle is lit, candle is placed, candle is burning, candle is extinguished, candle is lighted, candle is blown, candle is brought, candle is held, candle is made, candle is put
+n02948072	taper	taper is plunged, taper is brought, taper is given, taper is held, taper is made, taper is placed, taper is extinguished, taper is applied, taper is introduced, taper is lighted
+n02948072	wax light	
+n03838899	oboe	oboe is heard, oboe is called, oboe is added, oboe is used, oboe is made, oboe is held
+n03838899	hautboy	hautboy is animating
+n03838899	hautbois	
+n02860847	bobsled	
+n02860847	bobsleigh	
+n02860847	bob	bob is made, bob is pulled, bob is drawn, bob is raised, bob is displaced, bob is used, bob is suspended, bob is moving, bob is attached, bob is hung
+n03271574	electric fan	
+n03271574	blower	blower is driven, blower is required, blower is started, blower is shown, blower is placed, blower is provided, blower is mounted, blower is attached, blower is used, blower is stopped
+n01872401	echidna	
+n01872401	spiny anteater	
+n01872401	anteater	
+n04200800	shoe shop	
+n04200800	shoe-shop	
+n04200800	shoe store	
+n01798484	prairie chicken	
+n01798484	prairie grouse	
+n01798484	prairie fowl	
+n04004767	printer	printer is shown, printer is made, printer is set, printer is turned, printer is attached, printer is used, printer is called, printer is going, printer is given, printer is connected
+n02481823	chimpanzee	chimpanzee is concerned, chimpanzee is shown, chimpanzee is known, chimpanzee is said, chimpanzee is found, chimpanzee is called, chimpanzee is given, chimpanzee is being, chimpanzee is using, chimpanzee is placed
+n02481823	chimp	
+n02481823	Pan troglodytes	
+n02497673	Madagascar cat	
+n02497673	ring-tailed lemur	
+n02497673	Lemur catta	
+n04118538	rugby ball	
+n01910747	jellyfish	jellyfish is called
+n04039381	racket	racket is going, racket is kept, racket is taken, racket is used, racket is being, racket is drawn, racket is swung, racket is made, racket is held, racket is brought
+n04039381	racquet	racquet is swung, racquet is held, racquet is made, racquet is brought, racquet is used
+n03218198	dogsled	
+n03218198	dog sled	
+n03218198	dog sleigh	
+n03337140	file	file is closed, file is opened, file is used, file is updated, file is read, file is called, file is located, file is stored, file is created, file is being
+n03337140	file cabinet	
+n03337140	filing cabinet	
+n02085936	Maltese dog	
+n02085936	Maltese terrier	
+n02085936	Maltese	Maltese is used
+n03483316	hand blower	
+n03483316	blow dryer	
+n03483316	blow drier	
+n03483316	hair dryer	
+n03483316	hair drier	
+n02396427	wild boar	
+n02396427	boar	boar is represented, boar is seen, boar is brought, boar is used, boar is killed, boar is hunted, boar is taken, boar is found, boar is unharboured, boar is said
+n02396427	Sus scrofa	
+n01729322	hognose snake	
+n01729322	puff adder	
+n01729322	sand viper	
+n02106662	German shepherd	
+n02106662	German shepherd dog	
+n02106662	German police dog	
+n02106662	alsatian	
+n04264628	space bar	
+n03991062	pot	pot is broken, pot is removed, pot is set, pot is put, pot is filled, pot is made, pot is placed, pot is covered, pot is boiling, pot is used
+n03991062	flowerpot	
+n04493381	tub	tub is made, tub is placed, tub is covered, tub is kept, tub is set, tub is used, tub is emptied, tub is brought, tub is filled, tub is provided
+n04493381	vat	vat is filled, vat is prepared, vat is placed, vat is provided, vat is made, vat is covered, vat is used, vat is closed, vat is allowed, vat is dat
+n03899768	patio	patio is shaded, patio is covered, patio is made, patio is paved, patio is surrounded, patio is used, patio is enclosed, patio is located, patio is filled, patio is built
+n03899768	terrace	terrace is formed, terrace is divided, terrace is reached, terrace is built, terrace is found, terrace is seen, terrace is cut, terrace is covered, terrace is supported, terrace is composed
+n03658185	letter opener	
+n03658185	paper knife	
+n03658185	paperknife	
+n03770439	miniskirt	
+n03770439	mini	mini is used
+n03982430	pool table	
+n03982430	billiard table	
+n03982430	snooker table	
+n04428191	thresher	thresher is used, thresher is called
+n04428191	thrasher	thrasher is singing
+n04428191	threshing machine	
+n03459775	grille	grille is located, grille is used, grille is made, grille is placed, grille is shown
+n03459775	radiator grille	
+n04252225	snowplow	
+n04252225	snowplough	
+n07716358	zucchini	zucchini is cooked, zucchini is done
+n07716358	courgette	
+n03791053	motor scooter	
+n03791053	scooter	
+n04258138	solar dish	
+n04258138	solar collector	
+n04258138	solar furnace	
+n04099969	rocking chair	
+n04099969	rocker	rocker is moved, rocker is pressed, rocker is made, rocker is shown, rocker is used, rocker is placed, rocker is pivoted, rocker is set
+n01756291	sidewinder	
+n01756291	horned rattlesnake	
+n01756291	Crotalus cerastes	
+n13052670	hen-of-the-woods	
+n13052670	hen of the woods	
+n13052670	Polyporus frondosus	
+n13052670	Grifola frondosa	
+n02093428	American Staffordshire terrier	
+n02093428	Staffordshire terrier	
+n02093428	American pit bull terrier	
+n02093428	pit bull terrier	
+n02356798	fox squirrel	
+n02356798	eastern fox squirrel	
+n02356798	Sciurus niger	
+n02120079	Arctic fox	
+n02120079	white fox	
+n02120079	Alopex lagopus	
+n03109150	corkscrew	corkscrew is turned
+n03109150	bottle screw	
+n03930630	pickup	pickup is attached, pickup is used, pickup is shown, pickup is connected, pickup is placed, pickup is amplified, pickup is located, pickup is made, pickup is mounted, pickup is moved
+n03930630	pickup truck	
+n01632777	axolotl	
+n01632777	mud puppy	
+n01632777	Ambystoma mexicanum	
+n03710721	maillot	
+n03710721	tank suit	
+n02437312	Arabian camel	
+n02437312	dromedary	dromedary is confined, dromedary is found
+n02437312	Camelus dromedarius	
+n03967562	plow	plow is put, plow is pulled, plow is attached, plow is made, plow is shown, plow is used, plow is run, plow is drawn, plow is being, plow is started
+n03967562	plough	plough is run, plough is passed, plough is put, plough is drawn, plough is employed, plough is made, plough is set, plough is used, plough is said, plough is fit
+n03916031	perfume	perfume is used, perfume is prepared, perfume is added, perfume is extracted, perfume is obtained, perfume is said, perfume is wafted, perfume is made, perfume is distilled, perfume is found
+n03916031	essence	essence is made, essence is concerned, essence is found, essence is called, essence is given, essence is thought, essence is supposed, essence is said, essence is contained, essence is kept
+n03095699	container ship	
+n03095699	containership	
+n03095699	container vessel	
+n01930112	nematode	nematode is considered, nematode is found, nematode is known, nematode is transmitted
+n01930112	nematode worm	
+n01930112	roundworm	
+n02704792	amphibian	amphibian is known
+n02704792	amphibious vehicle	
+n02412080	ram	ram is drawn, ram is put, ram is brought, ram is driven, ram is used, ram is raised, ram is lifted, ram is forced, ram is shown, ram is made
+n02412080	tup	
+n03950228	pitcher	pitcher is rested, pitcher is held, pitcher is covered, pitcher is placed, pitcher is going, pitcher is throwing, pitcher is broken, pitcher is filled, pitcher is made, pitcher is used
+n03950228	ewer	
+n03532672	hook	hook is made, hook is passed, hook is placed, hook is fixed, hook is attached, hook is inserted, hook is used, hook is tied, hook is baited, hook is fastened
+n03532672	claw	claw is retracted, claw is fixed, claw is broken, claw is supposed, claw is considered, claw is placed, claw is attached, claw is held, claw is serrated, claw is used
+n03345487	fire engine	
+n03345487	fire truck	
+n01665541	leatherback turtle	
+n01665541	leatherback	
+n01665541	leathery turtle	
+n01665541	Dermochelys coriacea	
+n02837789	bikini	
+n02837789	two-piece	
+n03873416	paddle	paddle is dipped, paddle is brought, paddle is applied, paddle is used, paddle is turned, paddle is held, paddle is inserted, paddle is placed, paddle is shown, paddle is made
+n03873416	boat paddle	
+n03394916	French horn	
+n03394916	horn	horn is blown, horn is found, horn is heard, horn is sounded, horn is made, horn is placed, horn is attached, horn is said, horn is cut, horn is used
+n03496892	harvester	harvester is taken, harvester is used, harvester is being, harvester is shown
+n03496892	reaper	reaper is heard, reaper is being, reaper is wounded, reaper is taken, reaper is done
+n10148035	groom	groom is obliged, groom is called, groom is expected, groom is dressed, groom is supposed, groom is taken, groom is required, groom is employed, groom is given, groom is told
+n10148035	bridegroom	bridegroom is called, bridegroom is conducted, bridegroom is required, bridegroom is taken, bridegroom is expected, bridegroom is led, bridegroom is coming, bridegroom is obliged, bridegroom is represented, bridegroom is made
+n01622779	great grey owl	
+n01622779	great gray owl	
+n01622779	Strix nebulosa	
+n02966687	carpenter  s kit	
+n02966687	tool kit	
+n01817953	African grey	
+n01817953	African gray	
+n01817953	Psittacus erithacus	
+n03492542	hard disc	
+n03492542	hard disk	
+n03492542	fixed disk	
+n02277742	ringlet	
+n02277742	ringlet butterfly	
+n02226429	grasshopper	grasshopper is become, grasshopper is divided, grasshopper is called, grasshopper is said, grasshopper is shown, grasshopper is found, grasshopper is known, grasshopper is heard, grasshopper is made
+n02226429	hopper	hopper is fitted, hopper is kept, hopper is closed, hopper is placed, hopper is made, hopper is shown, hopper is used, hopper is provided, hopper is fed, hopper is filled
+n04141975	scale	scale is based, scale is placed, scale is made, scale is graduated, scale is called, scale is divided, scale is used, scale is shown, scale is marked, scale is given
+n04141975	weighing machine	
+n03673027	liner	liner is fitted, liner is held, liner is provided, liner is placed, liner is pressed, liner is inserted, liner is shown, liner is made, liner is removed, liner is used
+n03673027	ocean liner	
+n04509417	unicycle	
+n04509417	monocycle	
+n03447721	gong	gong is beaten, gong is used, gong is suspended, gong is made, gong is sounding, gong is placed, gong is sounded, gong is struck, gong is heard, gong is rung
+n03447721	tam-tam	
+n03888257	parachute	parachute is attached, parachute is packed, parachute is opened, parachute is formed, parachute is designed, parachute is released, parachute is deployed, parachute is used, parachute is made, parachute is required
+n03888257	chute	chute is attached, chute is placed, chute is set, chute is opened, chute is provided, chute is shown, chute is made, chute is built, chute is used, chute is filled
+n03692522	loupe	loupe is used
+n03692522	jeweler  s loupe	
+n04350905	suit	suit is pending, suit is barred, suit is made, suit is brought, suit is founded, suit is filed, suit is instituted, suit is based, suit is commenced, suit is depending
+n04350905	suit of clothes	
+n09468604	valley	valley is seen, valley is formed, valley is called, valley is covered, valley is filled, valley is divided, valley is occupied, valley is surrounded, valley is bounded, valley is watered
+n09468604	vale	vale is sinking, vale is watered, vale is bounded, vale is closed, vale is called, vale is girdled, vale is spread, vale is seen, vale is filled, vale is covered
+n03325584	feather boa	
+n03325584	boa	boa is found
+n02939185	caldron	caldron is boiling
+n02939185	cauldron	cauldron is heated, cauldron is filled, cauldron is said, cauldron is associated, cauldron is placed, cauldron is used, cauldron is made, cauldron is bubbling, cauldron is boiling
+n01693334	green lizard	
+n01693334	Lacerta viridis	
+n01532829	house finch	
+n01532829	linnet	linnet is singing
+n01532829	Carpodacus mexicanus	
+n03131574	crib	crib is constructed, crib is laid, crib is shown, crib is sunk, crib is placed, crib is made, crib is used, crib is built, crib is filled, crib is moved
+n03131574	cot	cot is placed, cot is made, cot is called, cot is covered, cot is provided, cot is carried, cot is applied, cot is used, cot is raised, cot is given
+n07718747	artichoke	artichoke is cooked, artichoke is used, artichoke is grown, artichoke is done
+n07718747	globe artichoke	
+n07753275	pineapple	pineapple is grown, pineapple is added, pineapple is produced, pineapple is being, pineapple is used, pineapple is heated, pineapple is called
+n07753275	ananas	
+n01697457	African crocodile	
+n01697457	Nile crocodile	
+n01697457	Crocodylus niloticus	
+n02129604	tiger	tiger is separated, tiger is supposed, tiger is seen, tiger is known, tiger is killed, tiger is drowned, tiger is called, tiger is said, tiger is worshipped, tiger is found
+n02129604	Panthera tigris	
+n03085013	computer keyboard	
+n03085013	keypad	keypad is set, keypad is designed, keypad is pressed, keypad is located, keypad is shown, keypad is used
+n07718472	cucumber	cucumber is grown, cucumber is used, cucumber is cut
+n07718472	cuke	
+n07693725	bagel	
+n07693725	beigel	
+n02727426	apiary	apiary is located, apiary is situated, apiary is redolent
+n02727426	bee house	
+n03908618	pencil box	
+n03908618	pencil case	
+n03854065	organ	organ is increased, organ is called, organ is enlarged, organ is affected, organ is found, organ is formed, organ is situated, organ is made, organ is composed, organ is placed
+n03854065	pipe organ	
+n02457408	three-toed sloth	
+n02457408	ai	ai is represented, ai is given, ai is called, ai is determined, ai is pronounced, ai is used, ai is taken, ai is found, ai is known, ai is said
+n02457408	Bradypus tridactylus	
+n03028079	church	church is represented, church is dedicated, church is built, church is divided, church is said, church is made, church is founded, church is called, church is described, church is situated
+n03028079	church building	
+n03594945	jeep	jeep is parked, jeep is coming, jeep is gone, jeep is waiting, jeep is going
+n03594945	landrover	
+n04346328	stupa	stupa is known, stupa is built, stupa is situated, stupa is made, stupa is placed, stupa is said, stupa is located, stupa is surrounded, stupa is called, stupa is seen
+n04346328	tope	
+n03935335	piggy bank	
+n03935335	penny bank	
+n03733281	maze	maze is constructed, maze is learned, maze is rotated, maze is shown, maze is covered, maze is called, maze is traversed, maze is made, maze is given, maze is used
+n03733281	labyrinth	labyrinth is destroyed, labyrinth is formed, labyrinth is composed, labyrinth is filled, labyrinth is removed, labyrinth is affected, labyrinth is divided, labyrinth is contained, labyrinth is lined, labyrinth is involved
+n02256656	cicada	cicada is heard, cicada is found, cicada is singing, cicada is produced
+n02256656	cicala	
+n04371430	swimming trunks	
+n04371430	bathing trunks	
+n02951585	can opener	
+n02951585	tin opener	
+n02317335	starfish	starfish is found, starfish is called, starfish is cut, starfish is made, starfish is covered, starfish is turned, starfish is placed
+n02317335	sea star	
+n02028035	redshank	
+n02028035	Tringa totanus	
+n02909870	bucket	bucket is filled, bucket is made, bucket is suspended, bucket is placed, bucket is lowered, bucket is attached, bucket is drawn, bucket is used, bucket is raised, bucket is emptied
+n02909870	pail	pail is filled, pail is emptied, pail is drawn, pail is hung, pail is placed, pail is removed, pail is made, pail is taken, pail is set, pail is used
+n02927161	butcher shop	
+n02927161	meat market	
+n02422699	impala	
+n02422699	Aepyceros melampus	
+n04536866	violin	violin is given, violin is played, violin is placed, violin is used, violin is heard, violin is mentioned, violin is called, violin is held, violin is tuned, violin is made
+n04536866	fiddle	fiddle is kept, fiddle is tuned, fiddle is made, fiddle is heard, fiddle is broken, fiddle is brought, fiddle is used, fiddle is played
+n01775062	wolf spider	
+n01775062	hunting spider	
+n03207743	dishrag	
+n03207743	dishcloth	
+n03983396	pop bottle	
+n03983396	soda bottle	
+n03240683	drilling platform	
+n03240683	offshore rig	
+n01755581	diamondback	
+n01755581	diamondback rattlesnake	
+n01755581	Crotalus adamanteus	
+n04404412	television	television is based, television is limited, television is concerned, television is used, television is turned, television is considered, television is being, television is going, television is becoming, television is seen
+n04404412	television system	
+n01968897	chambered nautilus	
+n01968897	pearly nautilus	
+n01968897	nautilus	nautilus is found
+n03776460	mobile home	
+n03776460	manufactured home	
+n04552348	warplane	
+n04552348	military plane	
+n02013706	limpkin	
+n02013706	Aramus pictus	
+n02883205	bow tie	
+n02883205	bow-tie	
+n02883205	bowtie	
+n03670208	limousine	limousine is waiting, limousine is parked
+n03670208	limo	limo is going, limo is parked, limo is waiting, limo is coming
+n02807133	bathing cap	
+n02807133	swimming cap	
+n03347037	fire screen	
+n03347037	fireguard	
+n03947888	pirate	pirate is going, pirate is deemed, pirate is said, pirate is gone, pirate is defined, pirate is considered, pirate is getting
+n03947888	pirate ship	
+n02869837	bonnet	bonnet is called, bonnet is placed, bonnet is fitted, bonnet is blown, bonnet is trimmed, bonnet is put, bonnet is entitled, bonnet is worn, bonnet is covered, bonnet is made
+n02869837	poke bonnet	
+n04141076	sax	
+n04141076	saxophone	saxophone is used, saxophone is played, saxophone is heard, saxophone is made
+n01735189	garter snake	
+n01735189	grass snake	
+n02236044	mantis	
+n02236044	mantid	
+n03595614	jersey	
+n03595614	T-shirt	
+n03595614	tee shirt	
+n03417042	garbage truck	
+n03417042	dustcart	
+n04008634	projectile	projectile is used, projectile is discharged, projectile is made, projectile is thrown, projectile is fired, projectile is acted, projectile is moved, projectile is shot, projectile is launched, projectile is moving
+n04008634	missile	missile is fired, missile is shown, missile is directed, missile is flying, missile is being, missile is guided, missile is launched, missile is used, missile is thrown, missile is designed
+n04192698	shield	shield is placed, shield is surmounted, shield is suspended, shield is covered, shield is shown, shield is used, shield is supported, shield is held, shield is divided, shield is made
+n04192698	buckler	
+n03372029	flute	flute is said, flute is made, flute is heard, flute is held, flute is played, flute is blown, flute is playing, flute is called, flute is used, flute is sounded
+n03372029	transverse flute	
+n01694178	African chameleon	
+n01694178	Chamaeleo chamaeleon	
+n02795169	barrel	barrel is turned, barrel is paid, barrel is made, barrel is opened, barrel is placed, barrel is filled, barrel is used, barrel is closed, barrel is forced, barrel is fixed
+n02795169	cask	cask is emptied, cask is bunged, cask is rolled, cask is kept, cask is placed, cask is made, cask is headed, cask is filled, cask is said, cask is opened
+n02825657	bell cote	
+n02825657	bell cot	
+n02025239	ruddy turnstone	
+n02025239	Arenaria interpres	
+n02051845	pelican	pelican is seen, pelican is said, pelican is shown, pelican is found
+n02110627	affenpinscher	
+n02110627	monkey pinscher	
+n02110627	monkey dog	
+n03697007	lumbermill	
+n03697007	sawmill	sawmill is being, sawmill is located, sawmill is operated, sawmill is situated
+n02500267	indri	
+n02500267	indris	
+n02500267	Indri indri	
+n02500267	Indri brevicaudatus	
+n02123394	Persian cat	
+n02917067	bullet train	
+n02917067	bullet	bullet is made, bullet is found, bullet is placed, bullet is used, bullet is projected, bullet is shot, bullet is fired, bullet is discharged, bullet is lodged, bullet is forced
+n03814639	neck brace	
+n09332890	lakeside	
+n09332890	lakeshore	
+n03124170	cowboy hat	
+n03124170	ten-gallon hat	
+n01877812	wallaby	
+n01877812	brush kangaroo	
+n02840245	binder	binder is spread, binder is applied, binder is used, binder is placed, binder is put, binder is removed, binder is made, binder is employed, binder is required, binder is added
+n02840245	ring-binder	
+n03710193	mailbox	mailbox is created, mailbox is identified, mailbox is deleted, mailbox is stored, mailbox is located, mailbox is stuffed, mailbox is used, mailbox is filled, mailbox is assigned, mailbox is set
+n03710193	letter box	
+n01630670	common newt	
+n01630670	Triturus vulgaris	
+n01748264	Indian cobra	
+n01748264	Naja naja	
+n02109961	Eskimo dog	
+n02109961	husky	
+n03868863	oxygen mask	
+n03970156	plunger	plunger is drawn, plunger is moved, plunger is pulled, plunger is raised, plunger is depressed, plunger is forced, plunger is operated, plunger is made, plunger is pushed, plunger is withdrawn
+n03970156	plumber  s helper	
+n03207941	dishwasher	dishwasher is installed, dishwasher is used, dishwasher is running, dishwasher is broken, dishwasher is located, dishwasher is loaded
+n03207941	dish washer	
+n03207941	dishwashing machine	
+n04517823	vacuum	vacuum is used, vacuum is obtained, vacuum is left, vacuum is made, vacuum is formed, vacuum is produced, vacuum is maintained, vacuum is filled, vacuum is applied, vacuum is created
+n04517823	vacuum cleaner	
+n02111277	Newfoundland	Newfoundland is divided, Newfoundland is concerned, Newfoundland is covered, Newfoundland is called, Newfoundland is represented, Newfoundland is separated, Newfoundland is regarded, Newfoundland is admitted, Newfoundland is situated, Newfoundland is included
+n02111277	Newfoundland dog	
+n04074963	remote control	
+n04074963	remote	remote is forced, remote is brought, remote is used, remote is shown, remote is made, remote is called
+n01641577	bullfrog	
+n01641577	Rana catesbeiana	
+n07873807	pizza	pizza is made, pizza is baked, pizza is delivered, pizza is done, pizza is cut, pizza is left, pizza is cooked, pizza is being, pizza is served, pizza is topped
+n07873807	pizza pie	
+n02123045	tabby	
+n02123045	tabby cat	
+n03720891	maraca	
+n02097298	Scotch terrier	
+n02097298	Scottish terrier	
+n02097298	Scottie	Scottie is going
+n01531178	goldfinch	
+n01531178	Carduelis carduelis	
+n02233338	cockroach	cockroach is known, cockroach is found
+n02233338	roach	roach is accounted
+n01729977	green snake	
+n01729977	grass snake	
+n02992211	cello	cello is played, cello is given, cello is used, cello is treated, cello is held, cello is tuned, cello is heard, cello is playing
+n02992211	violoncello	
+n02102318	cocker spaniel	
+n02102318	English cocker spaniel	
+n02102318	cocker	
+n02113712	miniature poodle	
+n02870880	bookcase	bookcase is built, bookcase is filled, bookcase is shown, bookcase is made
+n01744401	rock python	
+n01744401	rock snake	
+n01744401	Python sebae	
+n04044716	radio telescope	
+n04044716	radio reflector	
+n03637318	lampshade	lampshade is made
+n03637318	lamp shade	
+n03743016	megalith	
+n03743016	megalithic structure	
+n02169497	leaf beetle	
+n02169497	chrysomelid	
+n01601694	water ouzel	
+n01601694	dipper	dipper is raised, dipper is loading, dipper is attached, dipper is used, dipper is placed, dipper is filled, dipper is made, dipper is lowered, dipper is provided
+n03062245	cocktail shaker	
+n03788195	mosque	mosque is covered, mosque is adorned, mosque is supported, mosque is situated, mosque is paved, mosque is erected, mosque is called, mosque is built, mosque is surrounded, mosque is said
+n02119022	red fox	
+n02119022	Vulpes vulpes	
+n02281787	lycaenid	
+n02281787	lycaenid butterfly	
+n03902125	pay-phone	
+n03902125	pay-station	
+n01860187	black swan	
+n01860187	Cygnus atratus	
+n01978287	Dungeness crab	
+n01978287	Cancer magister	
+n02417914	ibex	ibex is found
+n02417914	Capra ibex	
+n02606052	rock beauty	
+n02606052	Holocanthus tricolor	
+n02092002	Scottish deerhound	
+n02092002	deerhound	
+n02804414	bassinet	
+n04019541	puck	puck is faced, puck is shot, puck is moved, puck is placed, puck is dropped, puck is put, puck is used, puck is being, puck is going, puck is passed
+n04019541	hockey puck	
+n04523525	vault	vault is divided, vault is composed, vault is formed, vault is built, vault is closed, vault is made, vault is opened, vault is covered, vault is supported, vault is constructed
+n02437616	llama	llama is found, llama is used
+n01986214	hermit crab	
+n03920288	Petri dish	
+n04070727	refrigerator	refrigerator is given, refrigerator is used, refrigerator is built, refrigerator is located, refrigerator is made, refrigerator is cooled, refrigerator is provided, refrigerator is shown, refrigerator is kept, refrigerator is placed
+n04070727	icebox	
+n03803284	muzzle	muzzle is held, muzzle is elongated, muzzle is raised, muzzle is pointed, muzzle is covered, muzzle is prolonged, muzzle is made, muzzle is put, muzzle is rounded, muzzle is thrust
+n04065272	recreational vehicle	
+n04065272	RV	RV is dilated, RV is reached, RV is calculated, RV is determined, RV is used, RV is parked, RV is increased
+n04065272	R.V.	
+n02017213	European gallinule	
+n02017213	Porphyrio porphyrio	
+n02110958	pug	
+n02110958	pug-dog	
+n03759954	microphone	microphone is attached, microphone is shown, microphone is used, microphone is placed, microphone is moved, microphone is located, microphone is amplified, microphone is mounted, microphone is connected, microphone is spoken
+n03759954	mike	mike is working, mike is used, mike is attached, mike is placed, mike is turned
+n09256479	coral reef	
+n02692877	airship	airship is hauled, airship is made, airship is being, airship is attached, airship is flying
+n02692877	dirigible	dirigible is made
+n02165105	tiger beetle	
+n03775546	mixing bowl	
+n01978455	rock crab	
+n01978455	Cancer irroratus	
+n03874599	padlock	padlock is locked, padlock is used, padlock is placed, padlock is carried, padlock is closed
+n04515003	upright	upright is connected, upright is used, upright is placed, upright is fixed, upright is nailed, upright is cut, upright is called, upright is attached, upright is held, upright is made
+n04515003	upright piano	
+n04049303	rain barrel	
+n04243546	slot	slot is filled, slot is placed, slot is made, slot is provided, slot is formed, slot is closed, slot is milled, slot is used, slot is cut, slot is shown
+n04243546	one-armed bandit	
+n02640242	sturgeon	sturgeon is found, sturgeon is said, sturgeon is caught, sturgeon is taken, sturgeon is known, sturgeon is considered
+n01669191	box turtle	
+n01669191	box tortoise	
+n04311174	steel drum	
+n04591157	Windsor tie	
+n01677366	common iguana	
+n01677366	iguana	iguana is found
+n01677366	Iguana iguana	
+n04152593	screen	screen is displayed, screen is placed, screen is shown, screen is removed, screen is moved, screen is illuminated, screen is used, screen is called, screen is made, screen is held
+n04152593	CRT screen	
+n02799071	baseball	baseball is used, baseball is going, baseball is thrown, baseball is concerned, baseball is dropped, baseball is being, baseball is made, baseball is hit, baseball is called, baseball is played
+n02087046	toy terrier	
+n03661043	library	library is opened, library is maintained, library is situated, library is said, library is attached, library is used, library is being, library is located, library is closed, library is kept
+n04254680	soccer ball	
+n03721384	marimba	marimba is played, marimba is used
+n03721384	xylophone	xylophone is used, xylophone is played, xylophone is made
+n04344873	studio couch	
+n04344873	day bed	
+n11879895	rapeseed	rapeseed is grown
+n03649909	lawn mower	
+n03649909	mower	mower is set, mower is run, mower is purchased, mower is broken, mower is made, mower is running, mower is used, mower is pushed, mower is being
+n02105641	Old English sheepdog	
+n02105641	bobtail	
+n02259212	leafhopper	
+n02877765	bottlecap	
+n03733131	maypole	
+n02128385	leopard	leopard is killed, leopard is watching, leopard is seen, leopard is considered, leopard is lying, leopard is called, leopard is known, leopard is found, leopard is said, leopard is used
+n02128385	Panthera pardus	
+n04370456	sweatshirt	
+n02483362	gibbon	gibbon is found
+n02483362	Hylobates lar	
+n02134418	sloth bear	
+n02134418	Melursus ursinus	
+n02134418	Ursus ursinus	
+n02130308	cheetah	cheetah is built, cheetah is taken
+n02130308	chetah	
+n02130308	Acinonyx jubatus	
+n03976467	Polaroid camera	
+n03976467	Polaroid Land camera	
+n02056570	king penguin	
+n02056570	Aptenodytes patagonica	
+n02091467	Norwegian elkhound	
+n02091467	elkhound	
+n04591713	wine bottle	
+n07836838	chocolate sauce	
+n07836838	chocolate syrup	
+n03602883	joystick	joystick is used, joystick is moved, joystick is pushed, joystick is connected
+n03208938	disk brake	
+n03208938	disc brake	
+n03498962	hatchet	hatchet is given, hatchet is made, hatchet is buried, hatchet is used, hatchet is fallen
+n02127052	lynx	lynx is found, lynx is said
+n02127052	catamount	
+n02666196	abacus	abacus is formed, abacus is superseded, abacus is carved, abacus is called, abacus is united, abacus is decorated, abacus is made, abacus is used, abacus is shown, abacus is adorned
+n03534580	hoopskirt	
+n03534580	crinoline	
+n02328150	Angora	
+n02328150	Angora rabbit	
+n01773157	black and gold garden spider	
+n01773157	Argiope aurantia	
+n02006656	spoonbill	
+n02113978	Mexican hairless	
+n01776313	tick	tick is used, tick is found, tick is feeding, tick is known, tick is heard, tick is made, tick is placed, tick is attached, tick is said, tick is removed
+n02123597	Siamese cat	
+n02123597	Siamese	Siamese is implied
+n02749479	assault rifle	
+n02749479	assault gun	
+n04409515	tennis ball	
+n01855032	red-breasted merganser	
+n01855032	Mergus serrator	
+n02096585	Boston bull	
+n02096585	Boston terrier	
+n03355925	flagpole	flagpole is located
+n03355925	flagstaff	
+n04146614	school bus	
+n03529860	home theater	
+n03529860	home theatre	
+n04033901	quill	quill is inserted, quill is made, quill is attached, quill is placed, quill is dipped, quill is used, quill is cut, quill is fixed, quill is held, quill is filled
+n04033901	quill pen	
+n07614500	ice cream	
+n07614500	icecream	
+n01914609	sea anemone	
+n01914609	anemone	anemone is fed, anemone is called, anemone is found, anemone is placed, anemone is said, anemone is attached, anemone is carried, anemone is disturbed
+n07871810	meat loaf	
+n07871810	meatloaf	
+n09421951	sandbar	
+n09421951	sand bar	
+n03018349	china cabinet	
+n03018349	china closet	
+n04238763	slide rule	
+n04238763	slipstick	
+n01944390	snail	snail is crawling, snail is called, snail is eaten, snail is seen, snail is reproduced, snail is found, snail is said, snail is used, snail is moving, snail is placed
+n02206856	bee	bee is seen, bee is furnished, bee is said, bee is heard, bee is composed, bee is found, bee is born, bee is divided, bee is called, bee is humming
+n01728920	ringneck snake	
+n01728920	ring-necked snake	
+n01728920	ring snake	
+n03887697	paper towel	
+n02091134	whippet	
+n02321529	sea cucumber	
+n02321529	holothurian	
+n09472597	volcano	volcano is situated, volcano is said, volcano is covered, volcano is built, volcano is known, volcano is seen, volcano is found, volcano is called, volcano is spent, volcano is formed
+n02086910	papillon	
+n01950731	sea slug	
+n01950731	nudibranch	
+n07584110	consomme	
+n02504013	Indian elephant	
+n02504013	Elephas maximus	
+n02058221	albatross	albatross is constructed, albatross is said, albatross is hung, albatross is seen
+n02058221	mollymawk	
+n02106030	collie	
+n03924679	photocopier	photocopier is used
+n09835506	ballplayer	ballplayer is born
+n09835506	baseball player	
+n01692333	Gila monster	
+n01692333	Heloderma suspectum	
+n02804610	bassoon	bassoon is added, bassoon is written, bassoon is made, bassoon is given, bassoon is used, bassoon is heard
+n03535780	horizontal bar	
+n03535780	high bar	
+n02117135	hyena	hyena is heard, hyena is said, hyena is found
+n02117135	hyaena	hyaena is called
+n04542943	waffle iron	
+n04550184	wardrobe	wardrobe is filled, wardrobe is kept, wardrobe is built, wardrobe is limited, wardrobe is laid, wardrobe is going, wardrobe is called, wardrobe is made, wardrobe is concerned
+n04550184	closet	closet is made, closet is connected, closet is built, closet is shown, closet is located, closet is filled, closet is used, closet is provided, closet is flushed, closet is placed
+n04550184	press	press is concerned, press is guaranteed, press is teeming, press is filled, press is beginning, press is shown, press is established, press is made, press is given, press is used
+n03297495	espresso maker	
+n02281406	sulphur butterfly	
+n02281406	sulfur butterfly	
+n02493793	spider monkey	
+n02493793	Ateles geoffroyi	
+n03467068	guillotine	guillotine is used, guillotine is set, guillotine is going, guillotine is applied, guillotine is erected, guillotine is waiting
+n01833805	hummingbird	hummingbird is found
+n02490219	marmoset	
+n02493509	titi	
+n02493509	titi monkey	
+n02137549	mongoose	mongoose is found, mongoose is killing
+n02391049	zebra	zebra is found, zebra is said, zebra is striped
+n03742115	medicine chest	
+n03742115	medicine cabinet	
+n02113624	toy poodle	
+n03929855	pickelhaube	
+n02002556	white stork	
+n02002556	Ciconia ciconia	
+n03016953	chiffonier	
+n03016953	commode	commode is used
+n03599486	jinrikisha	
+n03599486	ricksha	
+n03599486	rickshaw	
+n01514668	cock	cock is crowing, cock is shut, cock is opened, cock is fixed, cock is attached, cock is fitted, cock is provided, cock is placed, cock is turned, cock is closed
+n01742172	boa constrictor	
+n01742172	Constrictor constrictor	
+n03995372	power drill	
+n02494079	squirrel monkey	
+n02494079	Saimiri sciureus	
+n01770393	scorpion	scorpion is falling, scorpion is shown, scorpion is found, scorpion is represented, scorpion is signified, scorpion is said
+n02097474	Tibetan terrier	
+n02097474	chrysanthemum dog	
+n10565667	scuba diver	
+n03709823	mailbag	
+n03709823	postbag	
+n07590611	hot pot	
+n07590611	hotpot	
+n02110063	malamute	
+n02110063	malemute	
+n02110063	Alaskan malamute	
+n03201208	dining table	
+n03201208	board	board is placed, board is used, board is given, board is empowered, board is required, board is elected, board is composed, board is made, board is authorized, board is appointed
+n02107908	Appenzeller	
+n03187595	dial telephone	
+n03187595	dial phone	
+n02483708	siamang	
+n02483708	Hylobates syndactylus	
+n02483708	Symphalangus syndactylus	
+n03840681	ocarina	
+n03840681	sweet potato	
+n01667114	mud turtle	
+n01774384	black widow	
+n01774384	Latrodectus mactans	
+n03075370	combination lock	
+n04418357	theater curtain	
+n04418357	theatre curtain	
+n01664065	loggerhead	
+n01664065	loggerhead turtle	
+n01664065	Caretta caretta	
+n03825788	nipple	nipple is formed, nipple is screwed, nipple is surrounded, nipple is put, nipple is retracted, nipple is placed, nipple is observed, nipple is covered, nipple is drawn, nipple is used
+n02708093	analog clock	
+n07753592	banana	banana is called, banana is eaten, banana is cultivated, banana is grown, banana is propagated, banana is used, banana is planted, banana is placed, banana is found, banana is said
+n02113799	standard poodle	
+n02342885	hamster	hamster is placed
+n02486410	baboon	baboon is considered, baboon is found, baboon is born
+n03793489	mouse	mouse is moved, mouse is born, mouse is clicked, mouse is placed, mouse is killed, mouse is given, mouse is used, mouse is caught, mouse is heard, mouse is found
+n03793489	computer mouse	
+n03782006	monitor	monitor is appointed, monitor is placed, monitor is shown, monitor is required, monitor is attached, monitor is blinded, monitor is connected, monitor is set, monitor is used, monitor is persecuted
+n02107312	miniature pinscher	
+n02504458	African elephant	
+n02504458	Loxodonta africana	
+n02859443	boathouse	
+n02105162	malinois	
+n03045698	cloak	cloak is lined, cloak is taken, cloak is called, cloak is placed, cloak is fastened, cloak is flung, cloak is worn, cloak is thrown, cloak is made, cloak is used
+n06785654	crossword puzzle	
+n06785654	crossword	
+n02447366	badger	badger is found, badger is said
+n02815834	beaker	beaker is heated, beaker is filled, beaker is allowed, beaker is covered, beaker is rinsed, beaker is placed, beaker is used, beaker is set, beaker is washed, beaker is removed
+n03676483	lipstick	lipstick is smudged, lipstick is used, lipstick is applied, lipstick is made, lipstick is smeared
+n03676483	lip rouge	
+n07730033	cardoon	
+n04162706	seat belt	
+n04162706	seatbelt	seatbelt is fastened
+n03998194	prayer rug	
+n03998194	prayer mat	
+n02091831	Saluki	
+n02091831	gazelle hound	
+n02105855	Shetland sheepdog	
+n02105855	Shetland sheep dog	
+n02105855	Shetland	
+n02364673	guinea pig	
+n02364673	Cavia cobaya	
+n03223299	doormat	
+n03223299	welcome mat	
+n04548280	wall clock	
+n02489166	proboscis monkey	
+n02489166	Nasalis larvatus	
+n02002724	black stork	
+n02002724	Ciconia nigra	
+n02444819	otter	otter is made, otter is considered, otter is killed, otter is said, otter is known, otter is seen, otter is shown, otter is called, otter is found, otter is feeding
+n02119789	kit fox	
+n02119789	Vulpes macrotis	
+n01629819	European fire salamander	
+n01629819	Salamandra salamandra	
+n02113023	Pembroke	Pembroke is said, Pembroke is named
+n02113023	Pembroke Welsh corgi	
+n02782093	balloon	balloon is deflated, balloon is made, balloon is attached, balloon is placed, balloon is filled, balloon is inflated, balloon is rising, balloon is used, balloon is released, balloon is blown
+n12998815	agaric	
+n02077923	sea lion	
+n07745940	strawberry	strawberry is propagated, strawberry is thought, strawberry is found, strawberry is grown
+n03680355	Loafer	
+n01795545	black grouse	
+n02091032	Italian greyhound	
+n04380533	table lamp	
+n02346627	porcupine	porcupine is said, porcupine is born, porcupine is covered, porcupine is found, porcupine is attacked, porcupine is considered
+n02346627	hedgehog	hedgehog is found, hedgehog is required, hedgehog is expressed, hedgehog is said
+n02093647	Bedlington terrier	
+n02101388	Brittany spaniel	
+n03000684	chain saw	
+n03000684	chainsaw	
+n03874293	paddlewheel	
+n03874293	paddle wheel	
+n03690938	lotion	lotion is prepared, lotion is poured, lotion is required, lotion is composed, lotion is recommended, lotion is employed, lotion is made, lotion is applied, lotion is used, lotion is preferred
+n01784675	centipede	
+n02100735	English setter	
+n03706229	magnetic compass	
+n04399382	teddy	
+n04399382	teddy bear	
+n02105412	kelpie	
+n01688243	frilled lizard	
+n01688243	Chlamydosaurus kingi	
+n04328186	stopwatch	stopwatch is needed, stopwatch is ticking, stopwatch is set, stopwatch is started, stopwatch is required, stopwatch is stopped, stopwatch is running, stopwatch is used
+n04328186	stop watch	
+n02102177	Welsh springer spaniel	
+n02480855	gorilla	gorilla is called, gorilla is going, gorilla is known, gorilla is said, gorilla is melting, gorilla is found, gorilla is considered, gorilla is born, gorilla is shown, gorilla is made
+n02480855	Gorilla gorilla	
+n04235860	sleeping bag	
+n01924916	flatworm	flatworm is cut
+n01924916	platyhelminth	
+n13040303	stinkhorn	
+n13040303	carrion fungus	
+n02280649	cabbage butterfly	
+n03445777	golf ball	
+n02093754	Border terrier	
+n02099267	flat-coated retriever	
+n02105505	komondor	
+n02085620	Chihuahua	
+n02090379	redbone	
+n02092339	Weimaraner	
+n02138441	meerkat	
+n02138441	mierkat	
+n02088364	beagle	
+n02363005	beaver	beaver is used, beaver is caught, beaver is seen, beaver is found, beaver is shown, beaver is known, beaver is hunted, beaver is considered, beaver is sent, beaver is said
+n02676566	acoustic guitar	
+n04417672	thatch	thatch is fastened, thatch is formed, thatch is eaten, thatch is held, thatch is used, thatch is put, thatch is secured, thatch is tied, thatch is laid, thatch is made
+n04417672	thatched roof	
+n03538406	horse cart	
+n03538406	horse-cart	
+n02095314	wire-haired fox terrier	
+n02104029	kuvasz	
+n03785016	moped	
+n02088094	Afghan hound	
+n02088094	Afghan	
+n03794056	mousetrap	
+n04285008	sports car	
+n04285008	sport car	
+n02098413	Lhasa	Lhasa is situated, Lhasa is taxed, Lhasa is called, Lhasa is located
+n02098413	Lhasa apso	
+n02107574	Greater Swiss Mountain dog	
+n01698640	American alligator	
+n01698640	Alligator mississipiensis	
+n03888605	parallel bars	
+n03888605	bars	bars is determined, bars is found, bars is placed, bars is made, bars is called, bars is shown, bars is used, bars is increased, bars is taken, bars is given
+n04505470	typewriter keyboard	
+n02107683	Bernese mountain dog	
+n02264363	lacewing	
+n02264363	lacewing fly	
+n04266014	space shuttle	
+n02099849	Chesapeake Bay retriever	
+n03134739	croquet ball	
+n02090622	borzoi	
+n02090622	Russian wolfhound	
+n02100236	German short-haired pointer	
+n02667093	abaya	
+n01537544	indigo bunting	
+n01537544	indigo finch	
+n01537544	indigo bird	
+n01537544	Passerina cyanea	
+n01773797	garden spider	
+n01773797	Aranea diademata	
+n04286575	spotlight	spotlight is thrown, spotlight is placed, spotlight is focused, spotlight is trained, spotlight is focussed, spotlight is fixed, spotlight is directed, spotlight is used, spotlight is turned, spotlight is put
+n04286575	spot	spot is known, spot is found, spot is seen, spot is called, spot is left, spot is laid, spot is pointed, spot is formed, spot is situated, spot is marked
+n01632458	spotted salamander	
+n01632458	Ambystoma maculatum	
+n02492660	howler monkey	
+n02492660	howler	
+n04275548	spider web	
+n04275548	spider  s web	
+n01494475	hammerhead	
+n01494475	hammerhead shark	
+n01980166	fiddler crab	
+n02441942	weasel	weasel is called, weasel is considered, weasel is found, weasel is nailed
+n02108915	French bulldog	
+n02690373	airliner	airliner is flying, airliner is shot, airliner is designed, airliner is hijacked
+n02108422	bull mastiff	
+n02009229	little blue heron	
+n02009229	Egretta caerulea	
+n01739381	vine snake	
+n02111889	Samoyed	
+n02111889	Samoyede	
+n02865351	bolo tie	
+n02865351	bolo	
+n02865351	bola tie	
+n02865351	bola	
+n02106382	Bouvier des Flandres	
+n02106382	Bouviers des Flandres	
+n02089867	Walker hound	
+n02089867	Walker foxhound	
+n02088466	bloodhound	
+n02088466	sleuthhound	
+n02086079	Pekinese	
+n02086079	Pekingese	
+n02086079	Peke	
+n02113186	Cardigan	
+n02113186	Cardigan Welsh corgi	
+n03126707	crane	crane is used, crane is supported, crane is shown, crane is mounted, crane is provided, crane is required, crane is made, crane is attached, crane is placed, crane is employed
+n04525038	velvet	velvet is shed, velvet is covered, velvet is cut, velvet is used, velvet is sold, velvet is embroidered, velvet is woven, velvet is rubbed, velvet is made, velvet is called
+n02802426	basketball	basketball is played, basketball is supposed, basketball is concerned, basketball is going, basketball is being, basketball is becoming, basketball is used, basketball is thrown
+n01443537	goldfish	goldfish is swimming
+n01443537	Carassius auratus	
+n02108089	boxer	boxer is said, boxer is knocked, boxer is considered, boxer is regarded
+n02093256	Staffordshire bullterrier	
+n02093256	Staffordshire bull terrier	
+n02096437	Dandie Dinmont	
+n02096437	Dandie Dinmont terrier	
+n02172182	dung beetle	
+n03617480	kimono	kimono is made, kimono is cut, kimono is worn, kimono is folded
+n04584207	wig	wig is dashed, wig is left, wig is tied, wig is made, wig is caught, wig is used, wig is worn, wig is curled, wig is fastened, wig is removed
+n02101006	Gordon setter	
+n03781244	monastery	monastery is called, monastery is situated, monastery is located, monastery is placed, monastery is supposed, monastery is described, monastery is built, monastery is given, monastery is said, monastery is mentioned
+n02087394	Rhodesian ridgeback	
+n01518878	ostrich	ostrich is described, ostrich is known, ostrich is said, ostrich is called, ostrich is found, ostrich is hunted, ostrich is supposed
+n01518878	Struthio camelus	
+n04265275	space heater	
+n02112706	Brabancon griffon	
+n02443484	black-footed ferret	
+n02443484	ferret	ferret is put, ferret is muzzled, ferret is used
+n02443484	Mustela nigripes	
+n03729826	matchstick	
+n02091635	otterhound	
+n02091635	otter hound	
+n02094114	Norfolk terrier	
+n02389026	sorrel	sorrel is used
+n02086646	Blenheim spaniel	
+n02777292	balance beam	
+n02777292	beam	beam is made, beam is subjected, beam is shown, beam is fixed, beam is supported, beam is loaded, beam is directed, beam is reflected, beam is deflected, beam is used
+n02090721	Irish wolfhound	
+n02167151	ground beetle	
+n02167151	carabid beetle	
+n02097209	standard schnauzer	
+n02916936	bulletproof vest	
+n03272562	electric locomotive	
+n03452741	grand piano	
+n03452741	grand	grand is conveyed, grand is going
+n03770679	minivan	
+n03042490	cliff dwelling	
+n04239074	sliding door	
+n02088238	basset	
+n02088238	basset hound	
+n02823428	beer bottle	
+n01773549	barn spider	
+n01773549	Araneus cavaticus	
+n02093991	Irish terrier	
+n02488702	colobus	
+n02488702	colobus monkey	
+n02086240	Shih-Tzu	
+n03404251	fur coat	
+n07860988	dough	dough is used, dough is baked, dough is placed, dough is kneaded, dough is made, dough is allowed, dough is rolled, dough is put, dough is formed, dough is rising
+n03761084	microwave	microwave is used, microwave is being
+n03761084	microwave oven	
+n03775071	mitten	
+n02105251	briard	
+n03657121	lens cap	
+n03657121	lens cover	
+n02100583	vizsla	
+n02100583	Hungarian pointer	
+n04131690	saltshaker	
+n04131690	salt shaker	
+n02105056	groenendael	
+n02484975	guenon	
+n02484975	guenon monkey	
+n04310018	steam locomotive	
+n02095570	Lakeland terrier	
+n02112350	keeshond	
+n02793495	barn	barn is constructed, barn is located, barn is being, barn is used, barn is burned, barn is burning, barn is supported, barn is kept, barn is built, barn is filled
+n03777754	modem	modem is needed, modem is required, modem is set, modem is used, modem is designed, modem is turned, modem is connected, modem is receiving, modem is attached, modem is installed
+n04590129	window shade	
+n02097130	giant schnauzer	
+n04136333	sarong	sarong is worn
+n07583066	guacamole	guacamole is made
+n02454379	armadillo	armadillo is covered, armadillo is found
+n03376595	folding chair	
+n02879718	bow	bow is applied, bow is bent, bow is drawn, bow is broken, bow is carried, bow is used, bow is seen, bow is formed, bow is made, bow is held
+n01990800	isopod	
+n02074367	dugong	dugong is found
+n02074367	Dugong dugon	
+n04251144	snorkel	
+n02108551	Tibetan mastiff	
+n03763968	military uniform	
+n04277352	spindle	spindle is formed, spindle is fitted, spindle is provided, spindle is mounted, spindle is carried, spindle is made, spindle is fixed, spindle is driven, spindle is rotated, spindle is turned
+n02096177	cairn	cairn is piled, cairn is situated, cairn is located, cairn is erected, cairn is surrounded, cairn is composed, cairn is built, cairn is called
+n02096177	cairn terrier	
+n03843555	oil filter	
+n04355933	sunglass	
+n04485082	tripod	tripod is used, tripod is raised, tripod is erected, tripod is provided, tripod is going, tripod is formed, tripod is placed, tripod is shown, tripod is made, tripod is set
+n04273569	speedboat	
+n04332243	strainer	strainer is removed, strainer is used, strainer is fitted, strainer is located, strainer is put, strainer is made, strainer is provided, strainer is shown, strainer is composed, strainer is placed
+n01740131	night snake	
+n01740131	Hypsiglena torquata	
+n02107142	Doberman	
+n02107142	Doberman pinscher	
+n03127747	crash helmet	
+n02088632	bluetick	
+n02106166	Border collie	
+n02094258	Norwich terrier	
+n02110806	basenji	
+n07760859	custard apple	
+n02097047	miniature schnauzer	
+n03710637	maillot	
+n01685808	whiptail	
+n01685808	whiptail lizard	
+n02980441	castle	castle is supposed, castle is situated, castle is seen, castle is surrounded, castle is built, castle is seated, castle is placed, castle is said, castle is taken, castle is called
+n02981792	catamaran	catamaran is used
+n03133878	Crock Pot	
+n04040759	radiator	radiator is used, radiator is connected, radiator is provided, radiator is shown, radiator is exposed, radiator is located, radiator is filled, radiator is mounted, radiator is made, radiator is placed
+n03933933	pier	pier is formed, pier is erected, pier is made, pier is shown, pier is constructed, pier is built, pier is founded, pier is composed, pier is placed, pier is used
+n03476684	hair slide	
+n04069434	reflex camera	
+n03871628	packet	packet is opened, packet is sent, packet is received, packet is delivered, packet is being, packet is closed, packet is arrived, packet is placed, packet is addressed, packet is transmitted
+n03958227	plastic bag	
+n02108000	EntleBucher	
+n02109047	Great Dane	
+n04118776	rule	rule is given, rule is founded, rule is laid, rule is observed, rule is found, rule is made, rule is followed, rule is applied, rule is based, rule is stated
+n04118776	ruler	ruler is supposed, ruler is held, ruler is said, ruler is regarded, ruler is called, ruler is used, ruler is known, ruler is bound, ruler is placed, ruler is made
+n04371774	swing	swing is increased, swing is limited, swing is started, swing is completed, swing is reached, swing is made, swing is called, swing is required, swing is given, swing is used
+n01440764	tench	
+n01440764	Tinca tinca	
+n03961711	plate rack	
+n03100240	convertible	convertible is issued, convertible is parked, convertible is called, convertible is selling, convertible is determined, convertible is trading
+n04153751	screw	screw is placed, screw is made, screw is turned, screw is cut, screw is tightened, screw is provided, screw is attached, screw is fixed, screw is used, screw is inserted
+n02906734	broom	broom is considered, broom is placed, broom is blowing, broom is held, broom is sweeping, broom is used, broom is made, broom is found, broom is left, broom is called
+n02951358	canoe	canoe is built, canoe is carried, canoe is called, canoe is launched, canoe is seen, canoe is used, canoe is paddled, canoe is found, canoe is placed, canoe is made
+n07715103	cauliflower	cauliflower is cooking, cauliflower is done, cauliflower is cooked, cauliflower is grown
+n02102040	English springer	
+n02102040	English springer spaniel	
+n03445924	golfcart	
+n03445924	golf cart	
+n02104365	schipperke	
+n03976657	pole	pole is used, pole is applied, pole is elevated, pole is fixed, pole is attached, pole is turned, pole is placed, pole is made, pole is connected, pole is called
+n04589890	window screen	
+n03944341	pinwheel	
+n03063689	coffeepot	
+n04228054	ski	ski is lifted, ski is used, ski is brought, ski is advanced, ski is weighted, ski is edged, ski is stemmed, ski is pushed, ski is placed, ski is made
+n04562935	water tower	
+n01644373	tree frog	
+n01644373	tree-frog	
+n04392985	tape player	
+n04456115	torch	torch is burning, torch is lighted, torch is held, torch is passed, torch is extinguished, torch is applied, torch is used, torch is moved, torch is lit, torch is kindled
+n04259630	sombrero	
+n02098286	West Highland white terrier	
+n04606251	wreck	wreck is lying, wreck is seen, wreck is left, wreck is distinguished, wreck is cleared, wreck is secreted, wreck is found, wreck is claimed, wreck is allowed, wreck is saved
+n04147183	schooner	schooner is going, schooner is sailing, schooner is seen, schooner is being, schooner is anchored, schooner is said
+n04423845	thimble	thimble is made, thimble is turned, thimble is graduated, thimble is divided, thimble is put, thimble is fixed, thimble is attached, thimble is placed, thimble is used, thimble is inserted
+n02514041	barracouta	
+n02514041	snoek	
+n02037110	oystercatcher	
+n02037110	oyster catcher	
+n04252077	snowmobile	
+n02978881	cassette	cassette is centered, cassette is inserted, cassette is placed, cassette is shown, cassette is held, cassette is supported, cassette is closed, cassette is loaded, cassette is positioned, cassette is used
+n07695742	pretzel	
+n07717556	butternut squash	
+n02112137	chow	chow is situated, chow is served
+n02112137	chow chow	
+n01675722	banded gecko	
+n01734418	king snake	
+n01734418	kingsnake	
+n02096051	Airedale	
+n02096051	Airedale terrier	
+n04330267	stove	stove is set, stove is placed, stove is used, stove is made, stove is built, stove is constructed, stove is heated, stove is shown, stove is kept, stove is lighted
+n02190166	fly	fly is called, fly is tied, fly is said, fly is taken, fly is known, fly is found, fly is caught, fly is used, fly is finished, fly is made
+n03633091	ladle	ladle is carried, ladle is used, ladle is filled, ladle is brought, ladle is poured, ladle is held, ladle is placed, ladle is suspended, ladle is made, ladle is moved
+n03773504	missile	missile is fired, missile is shown, missile is directed, missile is flying, missile is being, missile is guided, missile is launched, missile is used, missile is thrown, missile is designed
+n07920052	espresso	espresso is brewed, espresso is served
+n01608432	kite	kite is seen, kite is attached, kite is flying, kite is held, kite is flown, kite is employed, kite is raised, kite is supported, kite is made, kite is hovering
+n03891251	park bench	
+n02177972	weevil	weevil is known, weevil is found, weevil is shown
+n04435653	tile roof	
+n13037406	gyromitra	
+n03623198	knee pad	
+n02115913	dhole	
+n02115913	Cuon alpinus	
+n03908714	pencil sharpener	
+n04026417	purse	purse is taken, purse is drained, purse is made, purse is found, purse is intrusted, purse is put, purse is gone, purse is filled, purse is concerned, purse is embroidered
+n04476259	tray	tray is placed, tray is set, tray is made, tray is used, tray is put, tray is removed, tray is filled, tray is provided, tray is brought, tray is held
+n03291819	envelope	envelope is opened, envelope is composed, envelope is used, envelope is addressed, envelope is formed, envelope is called, envelope is sent, envelope is made, envelope is enclosed, envelope is sealed
+n01774750	tarantula	
+n03447447	gondola	gondola is rowed, gondola is painted, gondola is waiting, gondola is made
+n04325704	stole	stole is placed, stole is worn, stole is used, stole is laid
+n01580077	jay	jay is heard, jay is calling, jay is found
+n07697313	cheeseburger	
+n03290653	entertainment center	
+n06596364	comic book	
+n03388043	fountain	fountain is said, fountain is opened, fountain is drained, fountain is called, fountain is made, fountain is dried, fountain is springing, fountain is playing, fountain is supplied, fountain is situated
+n03530642	honeycomb	honeycomb is built, honeycomb is formed, honeycomb is made, honeycomb is used
+n03956157	planetarium	
+n04204347	shopping cart	
+n04522168	vase	vase is decorated, vase is placed, vase is filled, vase is broken, vase is given, vase is covered, vase is ornamented, vase is painted, vase is made, vase is formed
+n07714990	broccoli	broccoli is done, broccoli is sold, broccoli is grown, broccoli is cooking, broccoli is cooked, broccoli is heated
+n01514859	hen	hen is set, hen is sitting, hen is kept, hen is killed, hen is brooding, hen is induced, hen is setting, hen is starved, hen is laying, hen is covering
+n02808304	bath towel	
+n03777568	Model T	
+n03868242	oxcart	
+n04209133	shower cap	
+n04366367	suspension bridge	
+n02607072	anemone fish	
+n02974003	car wheel	
+n03662601	lifeboat	lifeboat is launched, lifeboat is used, lifeboat is being, lifeboat is stationed, lifeboat is lowered
+n03769881	minibus	
+n07875152	potpie	
+n04133789	sandal	sandal is made, sandal is worn
+n03393912	freight car	
+n02229544	cricket	cricket is called, cricket is caught, cricket is played, cricket is chirping, cricket is considered, cricket is heard, cricket is made, cricket is discovered, cricket is found, cricket is concerned
+n02730930	apron	apron is worn, apron is placed, apron is made, apron is suspended, apron is fastened, apron is provided, apron is tied, apron is attached, apron is put, apron is used
+n04336792	stretcher	stretcher is shown, stretcher is lifted, stretcher is used, stretcher is made, stretcher is placed, stretcher is brought, stretcher is lowered, stretcher is being, stretcher is carried, stretcher is laid
+n07747607	orange	orange is cut, orange is found, orange is used, orange is obtained, orange is known, orange is seen, orange is made, orange is grown, orange is produced, orange is added
+n02999410	chain	chain is wound, chain is fastened, chain is called, chain is attached, chain is known, chain is formed, chain is broken, chain is made, chain is composed, chain is used
+n03026506	Christmas stocking	
+n04525305	vending machine	
+n02012849	crane	crane is used, crane is supported, crane is shown, crane is mounted, crane is provided, crane is required, crane is made, crane is attached, crane is placed, crane is employed
+n03443371	goblet	goblet is placed, goblet is set, goblet is broken, goblet is decorated, goblet is filled, goblet is found, goblet is chained, goblet is passed, goblet is made
+n02089078	black-and-tan coonhound	
+n03379051	football helmet	
+n03598930	jigsaw puzzle	
+n04613696	yurt	yurt is covered
+n03627232	knot	knot is shown, knot is placed, knot is made, knot is completed, knot is used, knot is formed, knot is untied, knot is cut, knot is tied, knot is drawn
+n01689811	alligator lizard	
+n03179701	desk	desk is used, desk is made, desk is located, desk is shown, desk is piled, desk is placed, desk is furnished, desk is provided, desk is covered, desk is seen
+n07716906	spaghetti squash	
+n02106550	Rottweiler	
+n02110185	Siberian husky	
+n04009552	projector	projector is placed, projector is used, projector is mounted, projector is running, projector is designed, projector is turned, projector is equipped, projector is shown, projector is operated, projector is set
+n04179913	sewing machine	
+n04209239	shower curtain	
+n04532670	viaduct	viaduct is built, viaduct is constructed, viaduct is locked
+n02094433	Yorkshire terrier	
+n03127925	crate	crate is being, crate is opened, crate is packed, crate is required, crate is filled, crate is placed, crate is lined, crate is shown, crate is made, crate is used
+n07711569	mashed potato	
+n03837869	obelisk	obelisk is represented, obelisk is inscribed, obelisk is raised, obelisk is made, obelisk is said, obelisk is composed, obelisk is placed, obelisk is erected, obelisk is covered, obelisk is seen
+n04532106	vestment	vestment is made, vestment is called, vestment is worn
+n03444034	go-kart	
+n03980874	poncho	poncho is made, poncho is worn
+n01855672	goose	goose is cooked, goose is taken, goose is supposed, goose is gone, goose is dished, goose is killed, goose is cackling, goose is said, goose is represented, goose is found
+n02699494	altar	altar is covered, altar is supported, altar is raised, altar is adorned, altar is erected, altar is decorated, altar is composed, altar is built, altar is placed, altar is made
+n02950826	cannon	cannon is heard, cannon is brought, cannon is cast, cannon is made, cannon is fired, cannon is charged, cannon is discharged, cannon is placed, cannon is said, cannon is mounted
+n03796401	moving van	
+n04090263	rifle	rifle is loaded, rifle is made, rifle is used, rifle is heard, rifle is carried, rifle is sighted, rifle is brought, rifle is fired, rifle is raised, rifle is held
+n07880968	burrito	
+n04458633	totem pole	
+n07613480	trifle	trifle is made, trifle is expected, trifle is given, trifle is left
+n07831146	carbonara	
+n01560419	bulbul	
+n02102973	Irish water spaniel	
+n03220513	dome	dome is lighted, dome is covered, dome is formed, dome is constructed, dome is built, dome is painted, dome is placed, dome is supported, dome is made, dome is seen
+n03527444	holster	
+n03630383	lab coat	
+n03630383	laboratory coat	
+n03717622	manhole cover	
+n02843684	birdhouse	
+n03384352	forklift	forklift is used
+n04447861	toilet seat	
+n07734744	mushroom	mushroom is shown, mushroom is used, mushroom is found, mushroom is called, mushroom is said, mushroom is considered, mushroom is cultivated, mushroom is produced, mushroom is eaten, mushroom is known
+n04487394	trombone	trombone is used, trombone is played, trombone is made
+n07802026	hay	hay is taken, hay is made, hay is carried, hay is fed, hay is put, hay is given, hay is stored, hay is cut, hay is used, hay is grown
+n09193705	alp	
+n06359193	web site	
+n06359193	website	website is being, website is located, website is maintained, website is called, website is dedicated, website is organized, website is intended, website is designed, website is devoted, website is updated
+n06359193	internet site	
+n06359193	site	site is marked, site is chosen, site is located, site is called, site is situated, site is occupied, site is known, site is shown, site is covered, site is selected
+n03804744	nail	nail is used, nail is inserted, nail is hammered, nail is driven, nail is removed, nail is drawn, nail is made, nail is cut, nail is placed, nail is formed
+n07717410	acorn squash	
+n07720875	bell pepper	
+n09229709	bubble	bubble is brought, bubble is made, bubble is displaced, bubble is centered, bubble is blown, bubble is seen, bubble is pricked, bubble is burst, bubble is found, bubble is formed
+n04067472	reel	reel is employed, reel is used, reel is turned, reel is provided, reel is made, reel is mounted, reel is attached, reel is held, reel is placed, reel is stopped
+n04398044	teapot	teapot is placed, teapot is brought, teapot is set, teapot is used, teapot is made
+n04483307	trimaran	
+n04486054	triumphal arch	
+n02791270	barbershop	
+n04154565	screwdriver	screwdriver is needed, screwdriver is shown, screwdriver is required, screwdriver is used, screwdriver is placed, screwdriver is turned, screwdriver is made, screwdriver is being, screwdriver is designed, screwdriver is inserted
+n04462240	toyshop	
+n04596742	wok	wok is used
+n02097658	silky terrier	
+n02097658	Sydney silky	
+n07742313	Granny Smith	
+n07930864	cup	cup is made, cup is filled, cup is presented, cup is placed, cup is called, cup is formed, cup is lined, cup is used, cup is held, cup is found
+n02701002	ambulance	ambulance is summoned, ambulance is heard, ambulance is coming, ambulance is waiting, ambulance is used, ambulance is going, ambulance is kept, ambulance is called, ambulance is needed, ambulance is sent
+n03344393	fireboat	
+n04479046	trench coat	
+n04204238	shopping basket	
+n02102480	Sussex spaniel	
+n04592741	wing	wing is occupied, wing is attached, wing is covered, wing is broken, wing is made, wing is divided, wing is closed, wing is shown, wing is extended, wing is folded
+n04254777	sock	sock is put, sock is made, sock is pulled, sock is placed, sock is worn, sock is used
+n04465501	tractor	tractor is made, tractor is operated, tractor is pulling, tractor is equipped, tractor is being, tractor is moving, tractor is driven, tractor is used, tractor is shown, tractor is required
+n03197337	digital watch	
+n03125729	cradle	cradle is made, cradle is slung, cradle is shown, cradle is formed, cradle is rocked, cradle is suspended, cradle is placed, cradle is used, cradle is carried, cradle is hung
+n04127249	safety pin	
+n07892512	red wine	
+n02988304	CD player	
+n02093859	Kerry blue terrier	
+n02096294	Australian terrier	
+n04579145	whiskey jug	
+n07579787	plate	plate is removed, plate is placed, plate is given, plate is made, plate is covered, plate is held, plate is used, plate is taken, plate is fixed, plate is shown
+n02268853	damselfly	
+n04317175	stethoscope	stethoscope is moved, stethoscope is placed, stethoscope is removed, stethoscope is applied, stethoscope is held, stethoscope is carried, stethoscope is enunciated, stethoscope is employed, stethoscope is pressed, stethoscope is used
+n02423022	gazelle	gazelle is found
+n02319095	sea urchin	
+n04326547	stone wall	
+n04597913	wooden spoon	
+n01806143	peacock	peacock is supposed, peacock is painted, peacock is considered, peacock is seen, peacock is perched, peacock is called, peacock is meant, peacock is said, peacock is found, peacock is mentioned
+n02963159	cardigan	
+n04355338	sundial	sundial is used, sundial is said, sundial is made, sundial is called, sundial is set, sundial is placed
+n03272010	electric guitar	
+n07714571	head cabbage	
+n02791124	barber chair	
+n03733805	measuring cup	
+n03814906	necklace	necklace is strung, necklace is worn, necklace is formed, necklace is missing, necklace is given, necklace is made, necklace is called, necklace is composed, necklace is put, necklace is gone
+n13044778	earthstar	
+n02361337	marmot	marmot is found
+n03314780	face powder	
+n04376876	syringe	syringe is connected, syringe is used, syringe is removed, syringe is withdrawn, syringe is introduced, syringe is attached, syringe is held, syringe is inserted, syringe is employed, syringe is filled
+n02033041	dowitcher	
+n04442312	toaster	toaster is plugged, toaster is used, toaster is designed, toaster is broken, toaster is connected, toaster is turned, toaster is rated, toaster is made
+n03388549	four-poster	
+n04201297	shoji	
+n03255030	dumbbell	dumbbell is held
+n03495258	harp	harp is constructed, harp is hung, harp is made, harp is suspended, harp is played, harp is strung, harp is turned, harp is tuned, harp is heard, harp is broken
+n01534433	junco	
+n01534433	snowbird	
+n01843065	jacamar	
+n03584829	iron	iron is precipitated, iron is found, iron is converted, iron is obtained, iron is placed, iron is heated, iron is made, iron is produced, iron is dissolved, iron is used
+n03584829	smoothing iron	
+n04560804	water jug	
+n12267677	acorn	acorn is covered, acorn is planted, acorn is made, acorn is placed, acorn is said, acorn is fringed, acorn is derived, acorn is cast
+n01491361	tiger shark	
+n01491361	Galeocerdo cuvieri	
+n01818515	macaw	
+n02790996	barbell	barbell is held, barbell is placed, barbell is lifted, barbell is lowered, barbell is raised
+n03891332	parking meter	
+n07932039	eggnog	
+n01829413	hornbill	
+n02091244	Ibizan hound	
+n02091244	Ibizan Podenco	
+n04612504	yawl	yawl is approaching
+n01768244	trilobite	
+n02965783	car mirror	
+n07749582	lemon	lemon is grown, lemon is put, lemon is squeezed, lemon is considered, lemon is served, lemon is used, lemon is defined, lemon is placed, lemon is added, lemon is cut
+n01820546	lorikeet	
+n02098105	soft-coated wheaten terrier	
+n02971356	carton	carton is closed, carton is marked, carton is sealed, carton is opened, carton is made, carton is placed, carton is used, carton is filled, carton is designed
+n04579432	whistle	whistle is prohibited, whistle is used, whistle is produced, whistle is blown, whistle is blowing, whistle is heard, whistle is given, whistle is sounding, whistle is sounded, whistle is made
+n01704323	triceratops	
+n07768694	pomegranate	pomegranate is cultivated, pomegranate is placed, pomegranate is filled, pomegranate is used, pomegranate is mentioned
+n01883070	wombat	
+n02397096	warthog	
+n03788365	mosquito net	
+n03792972	mountain tent	
+n04125021	safe	safe is closed, safe is built, safe is placed, safe is locked, safe is used, safe is made, safe is opened, safe is left, safe is kept, safe is provided
+n01498041	stingray	
+n01828970	bee eater	
+n01943899	conch	conch is found, conch is blown, conch is sounded, conch is held, conch is seen, conch is heard, conch is used
+n02410509	bison	bison is represented, bison is found, bison is said, bison is called, bison is gone, bison is known, bison is shown
+n02910353	buckle	buckle is placed, buckle is shown, buckle is worn, buckle is formed, buckle is used, buckle is fastened, buckle is attached, buckle is made
+n01631663	eft	
+n02123159	tiger cat	
+n03930313	picket fence	
+n03930313	paling	
+n12144580	corn	corn is planted, corn is grown, corn is ground, corn is sifted, corn is raised, corn is cut, corn is sown, corn is used, corn is cultivated, corn is produced
+n01917289	brain coral	
+n04005630	prison	prison is located, prison is built, prison is divided, prison is said, prison is made, prison is called, prison is conducted, prison is situated, prison is kept, prison is surrounded
+n04005630	prison house	
+n03146219	cuirass	cuirass is made, cuirass is composed
+n04296562	stage	stage is followed, stage is characterized, stage is reached, stage is known, stage is shown, stage is passed, stage is set, stage is marked, stage is called, stage is represented
+n01737021	water snake	
+n01807496	partridge	partridge is called, partridge is found
+n02786058	Band Aid	
+n04141327	scabbard	scabbard is thrown, scabbard is suspended, scabbard is attached, scabbard is covered, scabbard is decorated, scabbard is made, scabbard is ornamented, scabbard is left, scabbard is carried
+n04263257	soup bowl	
+n03481172	hammer	hammer is made, hammer is attached, hammer is held, hammer is used, hammer is raised, hammer is moved, hammer is required, hammer is heard, hammer is lifted, hammer is thrown
+n02018795	bustard	bustard is found
+n04540053	volleyball	volleyball is played, volleyball is used
+n03724870	mask	mask is put, mask is taken, mask is removed, mask is worn, mask is placed, mask is thrown, mask is torn, mask is used, mask is applied, mask is made
+n03938244	pillow	pillow is filled, pillow is made, pillow is put, pillow is stuffed, pillow is used, pillow is provided, pillow is removed, pillow is placed, pillow is needed, pillow is laid
+n04501370	turnstile	turnstile is used
+n01806567	quail	quail is called, quail is found, quail is known, quail is heard, quail is whistling, quail is said
+n03063599	coffee mug	
+n03124043	cowboy boot	
+n02007558	flamingo	
+n03478589	half track	
+n03786901	mortar	mortar is required, mortar is prepared, mortar is made, mortar is composed, mortar is used, mortar is applied, mortar is placed, mortar is spread, mortar is laid, mortar is formed
+n04149813	scoreboard	scoreboard is used
+n01530575	brambling	
+n01530575	Fringilla montifringilla	
+n02099429	curly-coated retriever	
+n03764736	milk can	
+n03876231	paintbrush	paintbrush is used, paintbrush is dipped
+n01667778	terrapin	
+n01847000	drake	
+n03000134	chainlink fence	
+n01796340	ptarmigan	ptarmigan is found
+n02422106	hartebeest	
+n02403003	ox	ox is suited, ox is made, ox is gored, ox is slaughtered, ox is sacrificed, ox is being, ox is killed, ox is used, ox is said, ox is felled
+n03642806	laptop	laptop is plugged, laptop is stolen, laptop is configured, laptop is lost, laptop is equipped, laptop is connected, laptop is running, laptop is gone, laptop is used, laptop is being
+n03642806	laptop computer	
+n04311004	steel arch bridge	
+n03485407	hand-held computer	
+n03485407	hand-held microcomputer	
+n01843383	toucan	toucan is found
+n07753113	fig	fig is grown, fig is used, fig is pollinated, fig is given, fig is said, fig is cultivated, fig is called
+n01749939	green mamba	
+n03832673	notebook	notebook is devoted, notebook is written, notebook is filled, notebook is dated, notebook is used, notebook is preserved, notebook is kept, notebook is required, notebook is shown, notebook is made
+n03832673	notebook computer	
+n04270147	spatula	spatula is used, spatula is placed, spatula is inserted, spatula is removed, spatula is introduced, spatula is held, spatula is heated, spatula is withdrawn, spatula is passed, spatula is applied
+n02100877	Irish setter	
+n02100877	red setter	
+n03937543	pill bottle	
+n03482405	hamper	hamper is come
+n02823750	beer glass	
+n02488291	langur	langur is found
+n03014705	chest	chest is made, chest is flattened, chest is filled, chest is contracted, chest is diminished, chest is covered, chest is opened, chest is enlarged, chest is expanded, chest is increased
+n04557648	water bottle	
+n02101556	clumber	
+n02101556	clumber spaniel	
+n03787032	mortarboard	
+n03544143	hourglass	hourglass is running, hourglass is turned
+n09288635	geyser	geyser is girt
+n01582220	magpie	magpie is found, magpie is regarded, magpie is seen
+n01592084	chickadee	
+n02787622	banjo	banjo is used, banjo is played, banjo is tuned, banjo is made
+n02834397	bib	bib is placed
+n02011460	bittern	
+n03141823	crutch	crutch is floating, crutch is advanced, crutch is placed, crutch is moved, crutch is made, crutch is gone, crutch is used, crutch is removed
+n12985857	coral fungus	
+n01871265	tusker	
+n03877845	palace	palace is finished, palace is said, palace is called, palace is built, palace is surrounded, palace is situated, palace is filled, palace is occupied, palace is described, palace is besieged
+n01824575	coucal	
+n02276258	admiral	admiral is going, admiral is working, admiral is called, admiral is obscured, admiral is appointed, admiral is said, admiral is waiting, admiral is represented, admiral is coming, admiral is supposed
+n02442845	mink	mink is found
+n03942813	ping-pong ball	
+n04429376	throne	throne is filled, throne is established, throne is occupied, throne is erected, throne is called, throne is placed, throne is fixed, throne is founded, throne is surrounded, throne is set
+n04507155	umbrella	umbrella is covered, umbrella is made, umbrella is held, umbrella is seen, umbrella is called, umbrella is carried, umbrella is divided, umbrella is used, umbrella is raised, umbrella is opened
+n01616318	vulture	vulture is seen, vulture is associated, vulture is represented, vulture is supposed, vulture is flying, vulture is directed, vulture is called, vulture is found, vulture is said, vulture is devouring
+n03250847	drumstick	drumstick is used
+n04120489	running shoe	
+n02326432	hare	hare is started, hare is seen, hare is said, hare is caught, hare is called, hare is hunted, hare is running, hare is madness, hare is killed, hare is found
+n07565083	menu	menu is shown, menu is displayed, menu is limited, menu is varied, menu is selected, menu is given, menu is used, menu is offered, menu is served, menu is presented
+n02099712	Labrador retriever	
+n02979186	cassette player	
+n01687978	agama	
+n02112018	Pomeranian	
+n02124075	Egyptian cat	
+n03388183	fountain pen	
+n02111500	Great Pyrenees	
+n06794110	street sign	
+n04041544	radio	radio is used, radio is turned, radio is heard, radio is concerned, radio is tuned, radio is doing, radio is playing, radio is becoming, radio is going, radio is being
+n04041544	wireless	wireless is going, wireless is playing, wireless is working, wireless is becoming, wireless is used, wireless is turned, wireless is being
+n01945685	slug	slug is placed, slug is inserted, slug is made, slug is cast, slug is used, slug is ejected, slug is defined, slug is formed, slug is being, slug is found
+n04254120	soap dispenser	
+n03584254	iPod	iPod is connected, iPod is plugged, iPod is attached, iPod is set, iPod is designed, iPod is linked
+n03992509	potter  s wheel	
+n11939491	daisy	daisy is made, daisy is seen
+n02174001	rhinoceros beetle	
+n02109525	Saint Bernard	
+n02109525	St Bernard	
+n02794156	barometer	barometer is read, barometer is falling, barometer is carried, barometer is placed, barometer is rising, barometer is taken, barometer is used, barometer is made, barometer is constructed, barometer is shown
+n04208210	shovel	shovel is wielded, shovel is placed, shovel is shown, shovel is used, shovel is moved, shovel is working, shovel is made, shovel is kept, shovel is operated, shovel is employed
+n02095889	Sealyham terrier	
+n02095889	Sealyham	
+n03866082	overskirt	
+n02487347	macaque	
+n03196217	digital clock	
+n07684084	French loaf	
+n03476991	hair spray	
+n03590841	jack-o  -lantern	
+n03450230	gown	gown is removed, gown is trimmed, gown is cut, gown is used, gown is hung, gown is made, gown is given, gown is thrown, gown is worn, gown is put
+n02099601	golden retriever	
+n03180011	desktop computer	
+n03259280	Dutch oven	
+n02526121	eel	eel is placed, eel is found, eel is taken, eel is caught, eel is called, eel is said, eel is known, eel is born, eel is used, eel is considered
+n02643566	lionfish	
+n13054560	bolete	
+n01751748	sea snake	
+n04111531	rotisserie	
+n02089973	English foxhound	
+n02085782	Japanese spaniel	
+NA	dog	dog is fed, dog is seen, dog is turned, dog is kept, dog is killed, dog is said, dog is called, dog is barking, dog is found, dog is used
+NA	butterfly	butterfly is entangled, butterfly is crushed, butterfly is seen, butterfly is produced, butterfly is shown, butterfly is said, butterfly is born, butterfly is found, butterfly is known, butterfly is called
+NA	airplane	airplane is used, airplane is being, airplane is designed, airplane is equipped, airplane is traveling, airplane is flying, airplane is flown, airplane is shown, airplane is moving, airplane is headed
+NA	bird	bird is flying, bird is said, bird is killed, bird is seen, bird is supposed, bird is known, bird is called, bird is found, bird is taken, bird is singing

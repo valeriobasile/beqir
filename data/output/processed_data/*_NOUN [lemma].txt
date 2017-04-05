@@ -1,0 +1,1864 @@
+n02268443	dragonfly	darner dragonfly, emerald dragonfly, adult dragonfly, zone dragonfly, skimmer dragonfly, hawker dragonfly
+n02268443	darning needle	stout darning needle, steel darning needle
+n02268443	devil  s darning needle	
+n02268443	sewing needle	steel sewing needle, hand sewing needle
+n02268443	snake feeder	
+n02268443	snake doctor	
+n02268443	mosquito hawk	
+n02268443	skeeter hawk	
+n03977966	police van	
+n03977966	police wagon	
+n03977966	paddy wagon	police paddy wagon
+n03977966	patrol wagon	police patrol wagon
+n03977966	wagon	lumber wagon, band wagon, chuck wagon, milk wagon, tank wagon, delivery wagon, station wagon, farm wagon, spring wagon, patrol wagon
+n03977966	black Maria	
+n02747177	ashcan	
+n02747177	trash can	corner trash can, household trash can, kitchen trash can, steel trash can, city trash can, aluminum trash can, tin trash can, Macintosh trash can, bathroom trash can, wire trash can
+n02747177	garbage can	family garbage can, gallon garbage can, kitchen garbage can, tin garbage can, aluminum garbage can, household garbage can, city garbage can, steel garbage can, wire garbage can, iron garbage can
+n02747177	wastebin	
+n02747177	ash bin	
+n02747177	ash-bin	
+n02747177	ashbin	
+n02747177	dustbin	iron dustbin, household dustbin
+n02747177	trash barrel	
+n02747177	trash bin	kitchen trash bin, wire trash bin
+n02814533	beach wagon	
+n02814533	station wagon	Volvo station wagon, Ford station wagon, Pontiac station wagon, family station wagon, Mercury station wagon, Chevrolet station wagon, Plymouth station wagon, Chevy station wagon, jeep station wagon, Rambler station wagon
+n02814533	wagon	lumber wagon, band wagon, chuck wagon, milk wagon, tank wagon, delivery wagon, station wagon, farm wagon, spring wagon, patrol wagon
+n02814533	estate car	Volvo estate car, Peugeot estate car, family estate car, Ford estate car
+n02814533	beach waggon	
+n02814533	station waggon	
+n02814533	waggon	railway waggon, stage waggon, ammunition waggon, horse waggon, spring waggon, travelling waggon, baggage waggon, ox waggon, farm waggon, ambulance waggon
+n04467665	trailer truck	tractor trailer truck, wheel trailer truck
+n04467665	tractor trailer	wheel tractor trailer
+n04467665	trucking rig	
+n04467665	rig	head rig, test rig, drill rig, livery rig, drilling rig, jury rig, spray rig, oil rig, sloop rig, cutter rig
+n04467665	articulated lorry	
+n04467665	semi	iron semi, centrum semi, interest semi, others semi, feet semi, something semi, term semi, Shell semi, part semi, time semi
+n01984695	spiny lobster	Florida spiny lobster, California spiny lobster, Bermuda spiny lobster
+n01984695	langouste	
+n01984695	rock lobster	Zealand rock lobster, coast rock lobster, Cape rock lobster
+n01984695	crawfish	river crawfish, pound crawfish, Cape crawfish, sea crawfish, Louisiana crawfish, pounds crawfish
+n01984695	crayfish	cave crayfish, sea crayfish, water crayfish, baby crayfish, mother crayfish, Murray crayfish, River crayfish, river crayfish, dwarf crayfish, dozen crayfish
+n01984695	sea crawfish	
+n02125311	cougar	Texas cougar, baby cougar, mother cougar, Florida cougar, pet cougar, mountain cougar
+n02125311	puma	mountain puma, Surrey puma, stone puma, word puma, baby puma, Florida puma, mother puma
+n02125311	catamount	
+n02125311	mountain lion	mother mountain lion, California mountain lion, baby mountain lion
+n02125311	painter	house painter, sign painter, landscape painter, scene painter, master painter, court painter, fresco painter, figure painter, portrait painter, history painter
+n02125311	panther	mountain panther, imitation panther, hunting panther, water panther, coward panther, word panther, mother panther, baby panther, Florida panther, name panther
+n02125311	Felis concolor	Panther Felis concolor, panther Felis concolor, cougar Felis concolor, puma Felis concolor, Cougar Felis concolor, Puma Felis concolor, Lion Felis concolor, lion Felis concolor
+n04335435	streetcar	women streetcar, Electric streetcar, city streetcar, City streetcar, York streetcar, Philadelphia streetcar, Charles streetcar, Chicago streetcar, Crow streetcar, Avenue streetcar
+n04335435	tram	penny tram, Gun tram, Bar tram, steam tram, horse tram, cable tram, London tram, Electric tram, iron tram
+n04335435	tramcar	Shore tramcar, ward tramcar, Glasgow tramcar, horse tramcar, Dublin tramcar, steam tramcar
+n04335435	trolley	tea trolley, Street trolley, luggage trolley, copper trolley, motor trolley, Electric trolley, city trolley, Avenue trolley, crane trolley, railway trolley
+n04335435	trolley car	Francisco trolley car, crosstown trolley car, Electric trolley car, Brooklyn trolley car, Avenue trolley car, Street trolley car
+n02894605	breakwater	Delaware breakwater, granite breakwater, Plymouth breakwater, mound breakwater, Alderney breakwater, stone breakwater, harbor breakwater, Cherbourg breakwater, offshore breakwater, Portland breakwater
+n02894605	groin	timber groin, pedicle groin, brick groin, rock groin, offer groin, stone groin
+n02894605	groyne	stone groyne, rock groyne, timber groyne
+n02894605	mole	hydatiform mole, hydatidiform mole, kcal mole, hydatid mole, pound mole, gram mole, phase mole, g mole, stone mole, water mole
+n02894605	bulwark	lee bulwark, seaward bulwark, living bulwark, stone bulwark, paper bulwark, frontier bulwark, weather bulwark, mountain bulwark, Netherland bulwark, iron bulwark
+n02894605	seawall	Galveston seawall, masonry seawall, Beach seawall, Park seawall, stone seawall, rock seawall, log seawall, harbor seawall, granite seawall, type seawall
+n02894605	jetty	oil jetty, iron jetty, rock jetty, stone jetty, landing jetty, timber jetty, coaling jetty, boat jetty, customs jetty, hair jetty
+n03065424	coil	induction coil, cooling coil, field coil, resistance coil, wire coil, heating coil, search coil, voice coil, spark coil, armature coil
+n03065424	spiral	Shell spiral, iron spiral, plane spiral, Cornu spiral, platinum spiral, Ekman spiral, inflation spiral, copper spiral, wire spiral, price spiral
+n03065424	volute	suction volute, angle volute, figure volute, corner volute, casing volute, pump volute, discharge volute, E volute, stage volute
+n03065424	whorl	hair whorl, spindle whorl, Spindle whorl, stamen whorl, bone whorl, branch whorl, clay whorl, body whorl, leaf whorl, stone whorl
+n03065424	helix	magnetizing helix, alpha helix, Hedera helix, H. helix, tooth helix, copper helix, wire helix, DNA helix, compound helix, sheath helix
+n02966193	carousel	kitten carousel, park carousel, baggage carousel, luggage carousel, toy carousel, sample carousel, slide carousel, Kodak carousel, Park carousel, Dentzel carousel
+n02966193	carrousel	luggage carrousel, baggage carrousel
+n02966193	merry-go-round	
+n02966193	roundabout	regions roundabout, villages roundabout, steam roundabout, region roundabout, country roundabout, traffic roundabout, miles roundabout, linen roundabout, cloth roundabout, people roundabout
+n02966193	whirligig	paper whirligig, penny whirligig
+n02788148	bannister	iron bannister, stairway bannister, stone bannister, stair bannister, mahogany bannister, porch bannister, oak bannister, wood bannister, staircase bannister, marble bannister
+n02788148	banister	staircase banister, porch banister, marble banister, stone banister, stair banister, oak banister, stairway banister, iron banister, walnut banister, mahogany banister
+n02788148	balustrade	roof balustrade, granite balustrade, terrace balustrade, silver balustrade, brass balustrade, stone balustrade, mahogany balustrade, iron balustrade, marble balustrade, oak balustrade
+n02788148	balusters	walnut balusters, wood balusters, marble balusters, stair balusters, stone balusters, bar balusters, mahogany balusters, iron balusters, oak balusters, staircase balusters
+n02788148	handrail	oak handrail, mahogany handrail, iron handrail, wood handrail, stair handrail, rope handrail, brass handrail, stone handrail, walnut handrail, steel handrail
+n03000247	chain mail	silver chain mail, iron chain mail
+n03000247	ring mail	
+n03000247	mail	night mail, railway mail, chain mail, air mail, fan mail, return mail, voice mail, morning mail, States mail, class mail
+n03000247	chain armor	
+n03000247	chain armour	steel chain armour
+n03000247	ring armor	
+n03000247	ring armour	
+n04553703	washbasin	silver washbasin, canvas washbasin, tin washbasin, copper washbasin, enamel washbasin, china washbasin, marble washbasin, corner washbasin, bathroom washbasin, stone washbasin
+n04553703	handbasin	wash handbasin
+n04553703	washbowl	china washbowl, tin washbowl, iron washbowl, bathroom washbowl, silver washbowl, enamel washbowl
+n04553703	lavabo	marble lavabo
+n04553703	wash-hand basin	
+n02415577	bighorn	Mountain bighorn, desert bighorn, Sierra bighorn, Audubon bighorn, Desert bighorn, Nevada bighorn, mountain bighorn, Nelson bighorn, California bighorn, Badlands bighorn
+n02415577	bighorn sheep	Wyoming bighorn sheep, Desert bighorn sheep, Audubon bighorn sheep, Nelson bighorn sheep, California bighorn sheep, desert bighorn sheep, Mountain bighorn sheep, Nevada bighorn sheep, mountain bighorn sheep
+n02415577	cimarron	word cimarron, term cimarron
+n02415577	Rocky Mountain bighorn	
+n02415577	Rocky Mountain sheep	
+n02415577	Ovis canadensis	sheep Ovis canadensis, Sheep Ovis canadensis
+n02071294	killer whale	pygmy killer whale, bull killer whale, baby killer whale
+n02071294	killer	time killer, pain killer, weed killer, color killer, insect killer, baby killer, man killer, child killer, germ killer, lady killer
+n02071294	orca	Orca orca, baby orca, O. orca, Orcinus orca
+n02071294	grampus	
+n02071294	sea wolf	
+n02071294	Orcinus orca	Whale Orcinus orca, whale Orcinus orca
+n02769748	backpack	canvas backpack, leather backpack, frame backpack, nylon backpack, school backpack, rocket backpack, support backpack, baby backpack, jet backpack, weekend backpack
+n02769748	back pack	
+n02769748	knapsack	rubber knapsack, regulation knapsack, skin knapsack, leather knapsack, sheepskin knapsack, canvas knapsack, army knapsack, trapdoor knapsack, hospital knapsack, cloth knapsack
+n02769748	packsack	canvas packsack
+n02769748	rucksack	leather rucksack, Army rucksack, canvas rucksack, Bergen rucksack, mountain rucksack, nylon rucksack, army rucksack, frame rucksack, pound rucksack, khaki rucksack
+n02769748	haversack	respirator haversack, canvas haversack, leather haversack, cloth haversack, linen haversack, army haversack, Army haversack, mask haversack, cotton haversack
+n02536864	coho	Oregon coho, Lakes coho, salmon coho, Pacific coho, Juvenile coho, hatchery coho, River coho, Michigan coho, adult coho, baby coho
+n02536864	cohoe	
+n02536864	coho salmon	adult coho salmon, Lakes coho salmon, salmon coho salmon, Pacific coho salmon, baby coho salmon, Juvenile coho salmon, Michigan coho salmon, hatchery coho salmon, River coho salmon
+n02536864	blue jack	
+n02536864	silver salmon	
+n02536864	Oncorhynchus kisutch	salmon Oncorhynchus kisutch, Salmon Oncorhynchus kisutch
+n03691459	loudspeaker	type loudspeaker, radiator loudspeaker, monitor loudspeaker, monitoring loudspeaker, frequency loudspeaker, quality loudspeaker, coil loudspeaker, cone loudspeaker, radio loudspeaker, horn loudspeaker
+n03691459	speaker	woman speaker, Mr. speaker, student speaker, radio speaker, dinner speaker, living speaker, platform speaker, campaign speaker, stump speaker, guest speaker
+n03691459	speaker unit	
+n03691459	loudspeaker system	camp loudspeaker system, address loudspeaker system
+n03691459	speaker system	way speaker system, stereo speaker system, theater speaker system, house speaker system, channel speaker system
+n02992529	cellular telephone	Digital cellular telephone, analog cellular telephone, U.S. cellular telephone, Motorola cellular telephone, GSM cellular telephone
+n02992529	cellular phone	car cellular phone, analog cellular phone, GSM cellular phone, Digital cellular phone, pocket cellular phone, Motorola cellular phone, U.S. cellular phone
+n02992529	cellphone	GSM cellphone
+n02992529	cell	B cell, prison cell, unit cell, germ cell, blood cell, egg cell, nerve cell, host cell, T cell, living cell
+n02992529	mobile phone	analog mobile phone, U.S. mobile phone, UK mobile phone, Advanced mobile phone, Motorola mobile phone, Ericsson mobile phone, Cellular mobile phone, CDMA mobile phone, GSM mobile phone, generation mobile phone
+n01644900	tailed frog	
+n01644900	bell toad	
+n01644900	ribbed toad	
+n01644900	tailed toad	
+n01644900	Ascaphus trui	
+n02018207	American coot	
+n02018207	marsh hen	
+n02018207	mud hen	
+n02018207	water hen	
+n02018207	Fulica americana	COOT Fulica americana, Coot Fulica americana
+n02395406	hog	bacon hog, wart hog, Berkshire hog, market hog, ground hog, Hampshire hog, hedge hog, river hog, road hog, water hog
+n02395406	pig	molten pig, prize pig, roast pig, baby pig, Guinea pig, bush pig, bacon pig, tons pig, charcoal pig, guinea pig
+n02395406	grunter	
+n02395406	squealer	
+n02395406	Sus scrofa	pig Sus scrofa, Pig Sus scrofa, Artiodactyla Sus scrofa, Suidae Sus scrofa, species Sus scrofa, Boar Sus scrofa, pigs Sus scrofa, boar Sus scrofa
+n02509815	lesser panda	
+n02509815	red panda	
+n02509815	panda	WWF panda, Giant panda, mother panda, word panda, toy panda, police panda, M panda, baby panda
+n02509815	bear cat	
+n02509815	cat bear	
+n02509815	Ailurus fulgens	panda Ailurus fulgens
+n04081281	restaurant	fish restaurant, seafood restaurant, London restaurant, station restaurant, food restaurant, Paris restaurant, York restaurant, family restaurant, garden restaurant, hotel restaurant
+n04081281	eating house	Harvey eating house, railroad eating house
+n04081281	eating place	favourite eating place, family eating place, roadside eating place
+n04081281	eatery	highway eatery, basement eatery, seafood eatery, York eatery, roadside eatery, Forbes eatery, food eatery, neighborhood eatery, budget eatery, family eatery
+n03047690	clog	measure clog, iron clog, waltz clog, filters clog, way clog, nobody clog, words clog, time clog, particles clog, Yule clog
+n03047690	geta	
+n03047690	patten	iron patten
+n03047690	sabot	son sabot, word sabot
+n03877472	pajama	plaid pajama, satin pajama, hospital pajama, drawstring pajama, bear pajama, flannel pajama, silk pajama, kurta pajama, cotton pajama, beach pajama
+n03877472	pyjama	cotton pyjama, kurta pyjama, flannel pyjama, silk pyjama
+n03877472	pj  s	
+n03877472	jammies	flannel jammies, silk jammies
+n02808440	bathtub	marble bathtub, hotel bathtub, rubber bathtub, iron bathtub, baby bathtub, copper bathtub, enamel bathtub, family bathtub, zinc bathtub, tin bathtub
+n02808440	bathing tub	copper bathing tub
+n02808440	bath	water bath, oil bath, vapour bath, ice bath, steam bath, vapor bath, sand bath, shower bath, air bath, morning bath
+n02808440	tub	wash tub, laundry tub, washing tub, morning tub, iron tub, tin tub, bathing tub, meal tub, bath tub, mash tub
+n04033995	quilt	cotton quilt, bed quilt, satin quilt, patch quilt, eiderdown quilt, calico quilt, silk quilt, feather quilt, work quilt, patchwork quilt
+n04033995	comforter	feather comforter, satin comforter, woolen comforter, wool comforter, silk comforter, village comforter, woollen comforter, kind comforter, cotton comforter, word comforter
+n04033995	comfort	minister comfort, family comfort, God comfort, Lord comfort, staff comfort, material comfort, passenger comfort, bodily comfort, home comfort, creature comfort
+n04033995	puff	air puff, lottery puff, knowledge puff, newspaper puff, cream puff, puff puff, gas puff, cheeks puff, powder puff, engines puff
+n03032252	cinema	Hollywood cinema, Kong cinema, air cinema, art cinema, world cinema, narrative cinema, II cinema, London cinema, Odeon cinema, Weimar cinema
+n03032252	movie theater	Berlin movie theater, neighborhood movie theater, York movie theater, Square movie theater, Jersey movie theater, City movie theater, Paramount movie theater, Chicago movie theater, Palace movie theater, air movie theater
+n03032252	movie theatre	neighborhood movie theatre
+n03032252	movie house	Chicago movie house, art movie house, Angeles movie house, Street movie house, revival movie house, neighborhood movie house, village movie house, Square movie house, town movie house, York movie house
+n03032252	picture palace	motion picture palace
+n03110669	cornet	brass cornet, cream cornet, field cornet, solo cornet, veld cornet, bass cornet, paper cornet, Bb cornet, silver cornet, Eb cornet
+n03110669	horn	bugle horn, drinking horn, powder horn, saddle horn, hunting horn, ventral horn, fog horn, tin horn, air horn, silver horn
+n03110669	trumpet	shell trumpet, tin trumpet, ear trumpet, brass trumpet, speaking trumpet, penny trumpet, bass trumpet, silver trumpet, hearing trumpet, war trumpet
+n03110669	trump	silver trump, word trump, judgment trump, war trump, resurrection trump, awakening trump, bullfrogs trump, master trump, dread trump, jubilee trump
+n02165456	ladybug	
+n02165456	ladybeetle	
+n02165456	lady beetle	Vedalia lady beetle
+n02165456	ladybird	squash ladybird, spot ladybird, Vedalia ladybird, adult ladybird
+n02165456	ladybird beetle	
+n03461385	grocery store	chain grocery store, family grocery store, corner grocery store, convenience grocery store, neighborhood grocery store, combination grocery store, town grocery store, village grocery store, service grocery store, country grocery store
+n03461385	grocery	paper grocery, combination grocery, corner grocery, family grocery, country grocery, service grocery, neighborhood grocery, village grocery, Chain grocery, chain grocery
+n03461385	food market	health food market, U.S. food market, cat food market, baby food market, world food market, breakfast food market, convenience food market, London food market, dog food market, snack food market
+n03461385	market	export market, capital market, world market, stock market, labour market, home market, London market, money market, labor market, exchange market
+n03485794	handkerchief	muslin handkerchief, cotton handkerchief, pocket handkerchief, lace handkerchief, bandana handkerchief, bandanna handkerchief, cambric handkerchief, Madras handkerchief, silk handkerchief, linen handkerchief
+n03485794	hankie	linen hankie, cotton hankie, paper hankie, pocket hankie, silk hankie, lace hankie
+n03485794	hanky	paper hanky, pocket hanky, lace hanky, cotton hanky, linen hanky, nothing hanky, silk hanky
+n03485794	hankey	
+n01695060	Komodo dragon	
+n01695060	Komodo lizard	
+n01695060	dragon lizard	
+n01695060	giant lizard	
+n01695060	Varanus komodoensis	dragon Varanus komodoensis
+n09428293	seashore	Florida seashore, salt seashore, Maine seashore, Jersey seashore, England seashore, summer seashore, Aviv seashore, Massachusetts seashore, California seashore, Island seashore
+n09428293	coast	China coast, sea coast, Sea coast, northeast coast, California coast, England coast, W. coast, Guinea coast, Gulf coast, Pacific coast
+n09428293	seacoast	Georgia seacoast, Pacific seacoast, Massachusetts seacoast, Carolina seacoast, England seacoast, California seacoast, Hampshire seacoast, Jersey seacoast, Maine seacoast, Arctic seacoast
+n09428293	sea-coast	
+n01985128	crayfish	cave crayfish, sea crayfish, water crayfish, baby crayfish, mother crayfish, Murray crayfish, River crayfish, river crayfish, dwarf crayfish, dozen crayfish
+n01985128	crawfish	river crawfish, pound crawfish, Cape crawfish, sea crawfish, Louisiana crawfish, pounds crawfish
+n01985128	crawdad	
+n01985128	crawdaddy	
+n02814860	beacon	marker beacon, range beacon, corner beacon, Worcestershire beacon, Herefordshire beacon, radar beacon, airport beacon, warning beacon, radio beacon, stone beacon
+n02814860	lighthouse	Head lighthouse, Point lighthouse, stone lighthouse, Rock lighthouse, Boston lighthouse, Island lighthouse, iron lighthouse, Hook lighthouse, pile lighthouse, Eddystone lighthouse
+n02814860	beacon light	airport beacon light, marker beacon light
+n02814860	pharos	word pharos
+n02066245	grey whale	California grey whale
+n02066245	gray whale	baby gray whale, mother gray whale, California gray whale, Pacific gray whale
+n02066245	devilfish	monster devilfish
+n02066245	Eschrichtius gibbosus	
+n02066245	Eschrichtius robustus	Whale Eschrichtius robustus, whale Eschrichtius robustus
+n02687172	aircraft carrier	class aircraft carrier, ton aircraft carrier, S. aircraft carrier, attack aircraft carrier, States aircraft carrier, escort aircraft carrier, U.S. aircraft carrier, enemy aircraft carrier, fleet aircraft carrier, Navy aircraft carrier
+n02687172	carrier	insurance carrier, contract carrier, mail carrier, letter carrier, ball carrier, minority carrier, air carrier, motor carrier, water carrier, aircraft carrier
+n02687172	flattop	baby flattop, enemy flattop
+n02687172	attack aircraft carrier	
+n02443114	polecat	steppe polecat, Cape polecat
+n02443114	fitch	
+n02443114	foulmart	
+n02443114	foumart	
+n02443114	Mustela putorius	
+n03425413	gas pump	
+n03425413	gasoline pump	
+n03425413	petrol pump	Shell petrol pump
+n03425413	island dispenser	
+n03666591	lighter	cigarette lighter, body lighter, liquids lighter, shade lighter, heart lighter, gas lighter, times lighter, something lighter, shades lighter, pounds lighter
+n03666591	light	incident light, evening light, morning light, traffic light, violet light, burden light, beacon light, candle light, Electric light, day light
+n03666591	igniter	powder igniter, magneto igniter, tension igniter, spark igniter, tube igniter, torch igniter, gas igniter, flame igniter, Electric igniter, fuse igniter
+n03666591	ignitor	spark ignitor
+n04389033	tank	storage tank, supply tank, steel tank, oil tank, surge tank, fuel tank, gas tank, settling tank, gasoline tank, water tank
+n04389033	army tank	
+n04389033	armored combat vehicle	
+n04389033	armoured combat vehicle	
+n07248320	book jacket	
+n07248320	dust cover	rubber dust cover, paper dust cover
+n07248320	dust jacket	paper dust jacket, book dust jacket
+n07248320	dust wrapper	
+n02930766	cab	motor cab, taxi cab, truck cab, hackney cab, London cab, engine cab, Hansom cab, angle cab, horse cab, hansom cab
+n02930766	hack	power hack, park hack, men hack, way hack, Street hack, mail hack, time hack, years hack, newspaper hack, party hack
+n02930766	taxi	water taxi, air taxi, airport taxi, Air taxi, service taxi, ride taxi, London taxi, bush taxi, Paris taxi, York taxi
+n02930766	taxicab	Paris taxicab, city taxicab, Renault taxicab, Boston taxicab, Chicago taxicab, City taxicab, Ford taxicab, York taxicab, Checker taxicab, London taxicab
+n02641379	gar	es gar, man gar, hat gar, wind gar, wad gar, Alligator gar, war gar, alligator gar, wedding gar
+n02641379	garfish	sea garfish
+n02641379	garpike	
+n02641379	billfish	
+n02641379	Lepisosteus osseus	gar Lepisosteus osseus
+n03841143	odometer	vehicle odometer, Trip odometer, automobile odometer, bicycle odometer, trip odometer, mileage odometer, car odometer
+n03841143	hodometer	
+n03841143	mileometer	
+n03841143	milometer	
+n04347754	submarine	missile submarine, enemy submarine, H.M. submarine, U.S. submarine, attack submarine, States submarine, class submarine, S. submarine, Navy submarine, midget submarine
+n04347754	pigboat	
+n04347754	sub	Shell sub, time sub, Leaves sub, jam sub, things sub, grounds sub, Pakistan sub, I. sub, case sub, clay sub
+n04347754	U-boat	
+n03494278	harmonica	toy harmonica, Glass harmonica, blues harmonica, silver harmonica, Hohner harmonica, De harmonica, Colluricincla harmonica, Trias harmonica, mouth harmonica, glass harmonica
+n03494278	mouth organ	
+n03494278	harp	minstrel harp, Jews harp, telegraph harp, pedal harp, mouth harp, frame harp, aeolian harp, Welch harp, string harp
+n03494278	mouth harp	
+n02114855	coyote	bayo coyote, mother coyote, fasting coyote, dog coyote, El coyote, word coyote, mountain coyote, baby coyote, man coyote, desert coyote
+n02114855	prairie wolf	
+n02114855	brush wolf	
+n02114855	Canis latrans	coyotes Canis latrans, coyote Canis latrans, Coyote Canis latrans, Canidae Canis latrans
+n04604644	worm fence	Virginia worm fence
+n04604644	snake fence	Virginia snake fence
+n04604644	snake-rail fence	
+n04604644	Virginia fence	
+n07615774	ice lolly	
+n07615774	lolly	ice lolly, iced lolly
+n07615774	lollipop	fentanyl lollipop, ice lollipop, cherry lollipop, ship lollipop, grape lollipop, chocolate lollipop, word lollipop
+n07615774	popsicle	grape popsicle, cherry popsicle, lime popsicle, ice popsicle, juice popsicle
+n12057211	yellow lady  s slipper	
+n12057211	yellow lady-slipper	
+n12057211	Cypripedium calceolus	
+n12057211	Cypripedium parviflorum	
+n03188531	diaper	diamond diaper, cotton diaper, mosaic diaper, baby diaper, linen diaper, rubber diaper, paper diaper, word diaper, cloth diaper, damask diaper
+n03188531	nappy	cotton nappy, bit nappy, terry nappy, hair nappy, cloth nappy
+n03188531	napkin	cotton napkin, cocktail napkin, damask napkin, dinner napkin, linen napkin, paper napkin, silver napkin, silk napkin, table napkin, cloth napkin
+n02655020	puffer	sharpnose puffer, Pink puffer, tiger puffer, SF6 puffer
+n02655020	pufferfish	
+n02655020	blowfish	
+n02655020	globefish	
+n01882714	koala	baby koala, mother koala, word koala, toy koala
+n01882714	koala bear	toy koala bear, baby koala bear
+n01882714	kangaroo bear	
+n01882714	native bear	
+n01882714	Phascolarctos cinereus	koala Phascolarctos cinereus, Koala Phascolarctos cinereus
+n01955084	chiton	Chrysochromulina chiton, silk chiton, word chiton, woollen chiton, Pacific chiton, linen chiton, woolen chiton, gauze chiton
+n01955084	coat-of-mail shell	
+n01955084	sea cradle	
+n01955084	polyplacophore	
+n01496331	electric ray	
+n01496331	crampfish	
+n01496331	numbfish	
+n01496331	torpedo	homing torpedo, Motor torpedo, automobile torpedo, bow torpedo, motor torpedo, spar torpedo, fish torpedo, enemy torpedo, night torpedo, Whitehead torpedo
+n04482393	tricycle	Dion tricycle, Rides tricycle, carrier tricycle, Pedals tricycle, wheel tricycle, steam tricycle, rides tricycle, delivery tricycle, tandem tricycle, motor tricycle
+n04482393	trike	s trike
+n04482393	velocipede	steam velocipede, railroad velocipede, Michaux velocipede, wheel velocipede, water velocipede
+n02408429	water buffalo	baby water buffalo, family water buffalo, dwarf water buffalo
+n02408429	water ox	
+n02408429	Asiatic buffalo	
+n02408429	Bubalus bubalis	Buffalo Bubalus bubalis, buffalo Bubalus bubalis
+n04599235	wool	steel wool, Merino wool, Cotton wool, mineral wool, Berlin wool, glass wool, merino wool, clothing wool, cotton wool, carpet wool
+n04599235	woolen	pair woolen, plaid woolen, England woolen, winter woolen, dozen woolen, weight woolen, pioneer woolen, pairs woolen, quality woolen, homespun woolen
+n04599235	woollen	home woollen, pairs woollen, pair woollen, homespun woollen, time woollen, return woollen, Leeds woollen, divers woollen, manufacture woollen, England woollen
+n03895866	passenger car	Ford passenger car, steel passenger car, Chevrolet passenger car, U.S. passenger car, class passenger car, railway passenger car, railroad passenger car, steam passenger car, rail passenger car, wheel passenger car
+n03895866	coach	mail coach, hackney coach, passenger coach, family coach, stage coach, head coach, day coach, football coach, state coach, mourning coach
+n03895866	carriage	gun carriage, horseless carriage, land carriage, railway carriage, wheel carriage, state carriage, baby carriage, travelling carriage, steam carriage, water carriage
+n01753488	horned viper	desert horned viper
+n01753488	cerastes	Crotalus cerastes, Cerastes cerastes, C. cerastes, cerastes cerastes
+n01753488	sand viper	
+n01753488	horned asp	
+n01753488	Cerastes cornutus	
+n02510455	giant panda	baby giant panda
+n02510455	panda	WWF panda, Giant panda, mother panda, word panda, toy panda, police panda, M panda, baby panda
+n02510455	panda bear	
+n02510455	coon bear	
+n02510455	Ailuropoda melanoleuca	panda Ailuropoda melanoleuca
+n02977058	cash machine	bank cash machine, ATM cash machine
+n02977058	cash dispenser	bank cash dispenser
+n02977058	automated teller machine	
+n02977058	automatic teller machine	
+n02977058	automated teller	bank automated teller
+n02977058	automatic teller	bank automatic teller
+n02977058	ATM	bank ATM, Grant ATM, AAL ATM, ATM ATM, Wireless ATM, grant ATM, ISDN ATM, 1 ATM, AH ATM, Mbps ATM
+n03457902	greenhouse	window greenhouse, glass greenhouse, pit greenhouse, spring greenhouse, span greenhouse, school greenhouse, summer greenhouse, evergreen greenhouse, winter greenhouse, home greenhouse
+n03457902	nursery	church nursery, plant nursery, care nursery, tree nursery, forest nursery, night nursery, state nursery, day nursery, home nursery, hospital nursery
+n03457902	glasshouse	century glasshouse, London glasshouse, winter glasshouse, span glasshouse
+n03017168	chime	clock chime, silver chime, village chime, evening chime, midnight chime, bell chime, vesper chime, door chime, matin chime, bells chime
+n03017168	bell	door bell, warning bell, dinner bell, glass bell, silver bell, alarm bell, marriage bell, church bell, telephone bell, chapel bell
+n03017168	gong	fire gong, alarm gong, dinner gong, silver gong, temple gong, gamelan gong, luncheon gong, brass gong, iron gong, breakfast gong
+n03954731	plane	meridian plane, slip plane, perspective plane, reference plane, ground plane, image plane, transverse plane, datum plane, fault plane, picture plane
+n03954731	carpenter  s plane	
+n03954731	woodworking plane	
+n02115641	dingo	dog dingo, Canis dingo, Cams dingo, C. dingo, devil dingo, Cants dingo
+n02115641	warrigal	
+n02115641	warragal	
+n02115641	Canis dingo	
+n01981276	king crab	Sea king crab, Alaska king crab, Kodiak king crab
+n01981276	Alaska crab	
+n01981276	Alaskan king crab	
+n01981276	Alaska king crab	
+n01981276	Paralithodes camtschatica	
+n02114367	timber wolf	
+n02114367	grey wolf	
+n02114367	gray wolf	Royale gray wolf
+n02114367	Canis lupus	wolf Canis lupus, wolves Canis lupus, WOLF Canis lupus, species Canis lupus, latrans Canis lupus, Coyote Canis lupus, name Canis lupus, Wolf Canis lupus
+n01484850	great white shark	
+n01484850	white shark	
+n01484850	man-eater	
+n01484850	man-eating shark	
+n01484850	Carcharodon carcharias	shark Carcharodon carcharias
+n03089624	confectionery	corner confectionery, sugar confectionery, medicine confectionery, flour confectionery, cream confectionery, Chocolate confectionery, Christmas confectionery, term confectionery, Sugar confectionery, chocolate confectionery
+n03089624	confectionary	sugar confectionary, flour confectionary, chocolate confectionary
+n03089624	candy store	family candy store, penny candy store, neighborhood candy store, York candy store, Brooklyn candy store, Bronx candy store, corner candy store
+n02398521	hippopotamus	dwarf hippopotamus, word hippopotamus, river hippopotamus, pygmy hippopotamus, bull hippopotamus, part hippopotamus, monster hippopotamus, mother hippopotamus, living hippopotamus, baby hippopotamus
+n02398521	hippo	cow hippo, bull hippo, lady hippo, Fra hippo, pygmy hippo, dwarf hippo, dozen hippo, baby hippo, river hippo, mother hippo
+n02398521	river horse	
+n02398521	Hippopotamus amphibius	Hippopotamus Hippopotamus amphibius
+n02116738	African hunting dog	
+n02116738	hyena dog	
+n02116738	Cape hunting dog	
+n02116738	Lycaon pictus	dogs Lycaon pictus, Dog Lycaon pictus, dog Lycaon pictus
+n09399592	promontory	Cape promontory, island promontory, chalk promontory, mountain promontory, northeast promontory, granite promontory, inland promontory, limestone promontory, rock promontory, Sunium promontory
+n09399592	headland	grass headland, jutting headland, Morro headland, northeast headland, chalk headland, river headland, mountain headland, limestone headland, rock headland, granite headland
+n09399592	head	velocity head, cylinder head, family head, piston head, household head, fountain head, village head, department head, iron head, mast head
+n09399592	foreland	mountain foreland, glacier foreland, Alpine foreland, Antler foreland, Wyoming foreland, Mountain foreland, plateau foreland, cuspate foreland, river foreland, Mountains foreland
+n02892201	brass	wood brass, breathing brass, hoofs brass, plate brass, sheet brass, brow brass, spring brass, cartridge brass, molten brass, cast brass
+n02892201	memorial tablet	stone memorial tablet, war memorial tablet, marble memorial tablet
+n02892201	plaque	brass plaque, marble plaque, silver plaque, memorial plaque, stone plaque, ivory plaque, copper plaque, Ivory plaque, wall plaque, gold plaque
+n03792782	mountain bike	suspension mountain bike, Trek mountain bike, production mountain bike
+n03792782	all-terrain bike	
+n03792782	off-roader	
+n02871525	bookshop	Bristol bookshop, country bookshop, London bookshop, school bookshop, Street bookshop, Paris bookshop, Boston bookshop, hand bookshop, York bookshop, Avenue bookshop
+n02871525	bookstore	corner bookstore, school bookstore, paperback bookstore, York bookstore, university bookstore, college bookstore, University bookstore, Boston bookstore, neighborhood bookstore, campus bookstore
+n02871525	bookstall	street bookstall, Street bookstall, airport bookstall, London bookstall, Smith bookstall, station bookstall, Paris bookstall, Cross bookstall, railway bookstall
+n02895154	breastplate	steel breastplate, gold breastplate, copper breastplate, bone breastplate, brass breastplate, silver breastplate, iron breastplate, linen breastplate, tin breastplate, leather breastplate
+n02895154	aegis	UN aegis, university aegis, Government aegis, government aegis, U.N. aegis, Congress aegis, U.S. aegis, party aegis, Nations aegis, state aegis
+n02895154	egis	
+n04367480	swab	wool swab, Throat swab, toothpick swab, cotton swab, gauze swab, NIH swab, throat swab, alcohol swab, Cotton swab, cloth swab
+n04367480	swob	
+n04367480	mop	rag mop, wool mop, dish mop, dust mop, oil mop, thrum mop, cloth mop, floor mop, cotton mop, string mop
+n03903868	pedestal	marble pedestal, silver pedestal, granite pedestal, control pedestal, brick pedestal, bearing pedestal, iron pedestal, stone pedestal, mahogany pedestal, brass pedestal
+n03903868	plinth	brick plinth, ground plinth, marble plinth, Stone plinth, masonry plinth, Norman plinth, granite plinth, stone plinth, wood plinth, limestone plinth
+n03903868	footstall	
+n03216828	dock	ferry dock, boat dock, town dock, loading dock, India dock, floating dock, London dock, Portsmouth dock, shipping dock, graving dock
+n03216828	dockage	boat dockage, grain dockage
+n03216828	docking facility	
+n09246464	cliff	ice cliff, rock cliff, mountain cliff, Dover cliff, sandstone cliff, granite cliff, chalk cliff, sea cliff, inland cliff, limestone cliff
+n09246464	drop	heat drop, voltage drop, pin drop, oil drop, resistance drop, IR drop, temperature drop, pressure drop, water drop, matter drop
+n09246464	drop-off	
+n02776631	bakery	bread bakery, cracker bakery, corner bakery, village bakery, cake bakery, steam bakery, biscuit bakery, sugar bakery, field bakery, neighborhood bakery
+n02776631	bakeshop	York bakeshop
+n02776631	bakehouse	village bakehouse, stone bakehouse
+n02279972	monarch	Norman monarch, brother monarch, fame monarch, Hebrew monarch, Stuart monarch, patriot monarch, O monarch, Tudor monarch, Bourbon monarch, Frank monarch
+n02279972	monarch butterfly	
+n02279972	milkweed butterfly	
+n02279972	Danaus plexippus	Monarch Danaus plexippus, butterfly Danaus plexippus
+n04372370	switch	limit switch, ignition switch, power switch, line switch, selector switch, control switch, pressure switch, master switch, knife switch, oil switch
+n04372370	electric switch	
+n04372370	electrical switch	master electrical switch
+n04487081	trolleybus	
+n04487081	trolley coach	
+n04487081	trackless trolley	
+n02219486	ant	queen ant, fire ant, wood ant, protest ant, carpenter ant, army ant, import ant, serv ant
+n02219486	emmet	
+n02219486	pismire	
+n04023962	punching bag	leather punching bag
+n04023962	punch bag	
+n04023962	punching ball	
+n04023962	punchball	
+n02129165	lion	cave lion, Sea lion, mil lion, Mountain lion, Right lion, stone lion, word lion, mountain lion, sea lion
+n02129165	king of beasts	
+n02129165	Panthera leo	lions Panthera leo, lion Panthera leo, Lion Panthera leo
+n04037443	racer	fleet racer, automobile racer, capital racer, auto racer, foot racer, drag racer, motorcycle racer, bicycle racer, horse racer, road racer
+n04037443	race car	Indianapolis race car, toy race car, drag race car, midget race car, Cup race car, model race car, formula race car, Ford race car, champion race car, Prix race car
+n04037443	racing car	midget racing car, road racing car, model racing car, Ford racing car, Benz racing car, sports racing car, Indianapolis racing car, Prix racing car, toy racing car, Mercedes racing car
+n04461696	tow truck	police tow truck, city tow truck, AAA tow truck
+n04461696	tow car	
+n04461696	wrecker	house wrecker, building wrecker, master wrecker, auto wrecker, bank wrecker, party wrecker, railway wrecker, train wrecker, railroad wrecker, home wrecker
+n03041632	cleaver	Meat cleaver, fiber cleaver, iron cleaver, kitchen cleaver, vegetable cleaver, enamel cleaver, meat cleaver, diamond cleaver, steel cleaver
+n03041632	meat cleaver	
+n03041632	chopper	ticket chopper, kitchen chopper, field chopper, beam chopper, tissue chopper, meat chopper, food chopper, transistor chopper, cotton chopper, wood chopper
+n03594734	jean	cotton jean, Bon jean, Grand jean, Petit jean, Jean jean, St. jean, Kentucky jean, De jean, Val jean
+n03594734	blue jean	
+n03594734	denim	khaki denim, weight denim, stretch denim, indigo denim, Cotton denim, prison denim, Art denim, designer denim, cotton denim, word denim
+n02783161	ballpoint	Cross ballpoint, dozen ballpoint, Parker ballpoint
+n02783161	ballpoint pen	Cross ballpoint pen, Parker ballpoint pen
+n02783161	ballpen	
+n02783161	Biro	S. Biro, L. Biro, J. Biro, Adam Biro, Lajos Biro, A. Biro, Val Biro, Mr. Biro, Bokar Biro, Jozsef Biro
+n02009912	American egret	
+n02009912	great white heron	
+n02009912	Egretta albus	
+n02817516	bearskin	
+n02817516	busby	fur busby
+n02817516	shako	fur shako, infantry shako, dress shako, pattern shako, U shako, leather shako, bearskin shako, Albert shako, cloth shako
+n02835271	bicycle-built-for-two	
+n02835271	tandem bicycle	
+n02835271	tandem	mules tandem, quo tandem, crossbar tandem, number tandem, compound tandem, horses tandem, quis tandem, toll tandem, Testes tandem, Hie tandem
+n03424325	gasmask	
+n03424325	respirator	box respirator, Drinker respirator, charcoal respirator, dust respirator, chest respirator, tank respirator, filter respirator, air respirator, cartridge respirator, pressure respirator
+n03424325	gas helmet	
+n02841315	binoculars	Prism binoculars, vision binoculars, power binoculars, Zeiss binoculars, angle binoculars, night binoculars, Navy binoculars, prism binoculars, field binoculars, Lomb binoculars
+n02841315	field glasses	power field glasses, Zeiss field glasses, army field glasses
+n02841315	opera glasses	
+n02114712	red wolf	Texas red wolf
+n02114712	maned wolf	
+n02114712	Canis rufus	wolf Canis rufus
+n02114712	Canis niger	
+n04356056	sunglasses	mirror sunglasses, Polaroid sunglasses, designer sunglasses, Ban sunglasses, aviator sunglasses, prescription sunglasses, pair sunglasses, Grant sunglasses, reflector sunglasses, quality sunglasses
+n04356056	dark glasses	designer dark glasses, prescription dark glasses, trademark dark glasses
+n04356056	shades	color shades, evening shades, forest shades, lamp shades, paper shades, myrtle shades, violet shades, glass shades, window shades, silk shades
+n13133613	ear	Middle ear, corn ear, hearing ear, Royal ear, cauliflower ear, Y ear, ravish&#39;d ear, mouse ear, tin ear, diamond ear
+n13133613	spike	flower spike, steel spike, voltage spike, silver spike, railroad spike, iron spike, population spike, screw spike, marlin spike, compound spike
+n13133613	capitulum	dictum capitulum, sunflower capitulum, stapes capitulum, ad capitulum, word capitulum, basis capitulum
+n04554684	washer	bottle washer, thrust washer, window washer, steel washer, spring washer, air washer, leather washer, rubber washer, lock washer, clothes washer
+n04554684	automatic washer	Bendix automatic washer
+n04554684	washing machine	dish washing machine, patent washing machine, power washing machine, clothes washing machine, wringer washing machine, Electric washing machine, bottle washing machine, home washing machine, Power washing machine, family washing machine
+n03929660	pick	men pick, tooth pick, man pick, ice pick, birds pick, people pick, women pick, hand pick, children pick, others pick
+n03929660	plectrum	wire plectrum, ivory plectrum, guitar plectrum, quill plectrum, bone plectrum, leather plectrum, horn plectrum
+n03929660	plectron	
+n04116512	rubber eraser	India rubber eraser
+n04116512	rubber	gum rubber, india rubber, crepe rubber, foam rubber, sheet rubber, India rubber, plantation rubber, Para rubber, silicone rubber, latex rubber
+n04116512	pencil eraser	rubber pencil eraser
+n07754684	jackfruit	
+n07754684	jak	podobnie jak
+n07754684	jack	telephone jack, output jack, union jack, screw jack, line jack, jumping jack, spring jack, phone jack, trunk jack, man jack
+n04357314	sunscreen	childhood sunscreen, UVA sunscreen, UVB sunscreen, strength sunscreen, SPF sunscreen, PABA sunscreen, factor sunscreen, UV sunscreen, spectrum sunscreen, protection sunscreen
+n04357314	sunblock	factor sunblock, spectrum sunblock, strength sunblock, SPF sunblock
+n04357314	sun blocker	
+n02445715	skunk	mama skunk, lady skunk, baby skunk, word skunk, cartoon skunk, mother skunk, hydrophobia skunk
+n02445715	polecat	steppe polecat, Cape polecat
+n02445715	wood pussy	
+n02110341	dalmatian	
+n02110341	coach dog	
+n02110341	carriage dog	
+n02134084	ice bear	
+n02134084	polar bear	Arctic polar bear, mother polar bear, baby polar bear
+n02134084	Ursus Maritimus	
+n02134084	Thalarctos maritimus	
+n01983481	American lobster	
+n01983481	Northern lobster	
+n01983481	Maine lobster	
+n01983481	Homarus americanus	lobsters Homarus americanus, lobster Homarus americanus, Lobster Homarus americanus
+n02120505	grey fox	
+n02120505	gray fox	
+n02120505	Urocyon cinereoargenteus	Fox Urocyon cinereoargenteus, fox Urocyon cinereoargenteus
+n02128925	jaguar	El jaguar, mother jaguar, word jaguar, living jaguar, stone jaguar, baby jaguar, name jaguar, J jaguar, part jaguar
+n02128925	panther	mountain panther, imitation panther, hunting panther, water panther, coward panther, word panther, mother panther, baby panther, Florida panther, name panther
+n02128925	Panthera onca	Jaguar Panthera onca
+n02128925	Felis onca	
+n02892767	brassiere	word brassiere, silk brassiere, maternity brassiere, uplift brassiere, satin brassiere, skin brassiere, cotton brassiere, lace brassiere, nursing brassiere, cup brassiere
+n02892767	bra	ham bra, training bra, Alham bra, Maidenform bra, sports bra, nursing bra, support bra, lace bra, cotton bra
+n02892767	bandeau	diamond bandeau, velvet bandeau, silk bandeau, ribbon bandeau, son bandeau, satin bandeau, matching bandeau, silver bandeau
+n03249569	drum	kettle drum, oil drum, brake drum, steel drum, ear drum, steam drum, war drum, bass drum, snare drum, mud drum
+n03249569	membranophone	
+n03249569	tympan	
+n12768682	buckeye	California buckeye, Ohio buckeye, Texas buckeye, dwarf buckeye
+n12768682	horse chestnut	
+n12768682	conker	
+n01614925	bald eagle	adult bald eagle, winter bald eagle
+n01614925	American eagle	
+n01614925	Haliaeetus leucocephalus	EAGLE Haliaeetus leucocephalus, Eagle Haliaeetus leucocephalus, eagle Haliaeetus leucocephalus
+n04443257	tobacco shop	corner tobacco shop
+n04443257	tobacconist shop	
+n04443257	tobacconist	York tobacconist, Dublin tobacconist, London tobacconist, Street tobacconist, corner tobacconist, village tobacconist
+n04086273	revolver	caliber revolver, action revolver, service revolver, calibre revolver, navy revolver, Colt revolver, smoking revolver, pocket revolver, Wesson revolver, army revolver
+n04086273	six-gun	
+n04086273	six-shooter	
+n02480495	orangutan	adult orangutan, name orangutan, mother orangutan, word orangutan, baby orangutan, Borneo orangutan
+n02480495	orang	L&#39; orang, word orang, baby orang, Kalau orang, name orang, Angola orang, Ada orang, mother orang, term orang
+n02480495	orangutang	
+n02480495	Pongo pygmaeus	Orangutan Pongo pygmaeus
+n02672831	accordion	toy accordion, Hohner accordion, keyboard accordion, bass accordion, steel accordion, row accordion, button accordion, paper accordion, piano accordion, hand accordion
+n02672831	piano accordion	
+n02672831	squeeze box	
+n02669723	academic gown	
+n02669723	academic robe	
+n02669723	judge  s robe	
+n01682714	American chameleon	
+n01682714	anole	grass anole, Carolina anole, knight anole, Green anole
+n01682714	Anolis carolinensis	lizard Anolis carolinensis, lizards Anolis carolinensis
+n02111129	Leonberg	
+n02492035	capuchin	World capuchin, weeper capuchin
+n02492035	ringtail	River ringtail
+n02492035	Cebus capucinus	monkey Cebus capucinus
+n15075141	toilet tissue	Place toilet tissue, Andrex toilet tissue
+n15075141	toilet paper	rolls toilet paper, Place toilet paper, emergency toilet paper, brand toilet paper, Scott toilet paper, roll toilet paper, quality toilet paper, use toilet paper, ration toilet paper
+n15075141	bathroom tissue	
+n02325366	wood rabbit	
+n02325366	cottontail	mountain cottontail, baby cottontail, Mountain cottontail, desert cottontail, mother cottontail, England cottontail, Audubon cottontail, Arizona cottontail
+n02325366	cottontail rabbit	desert cottontail rabbit, England cottontail rabbit
+n02027492	red-backed sandpiper	
+n02027492	dunlin	
+n02027492	Erolia alpina	
+n03400231	frying pan	iron frying pan, tin frying pan, aluminum frying pan, copper frying pan, castiron frying pan, size frying pan, Electric frying pan, Place frying pan, steel frying pan
+n03400231	frypan	iron frypan
+n03400231	skillet	aluminum skillet, iron skillet, medium skillet, brass skillet, ovenproof skillet, castiron skillet, smoking skillet, copper skillet, tin skillet, Place skillet
+n04548362	wallet	pocket wallet, buckskin wallet, linen wallet, cloth wallet, pigskin wallet, skin wallet, morocco wallet, canvas wallet, leather wallet, saddle wallet
+n04548362	billfold	leather billfold, alligator billfold
+n04548362	notecase	leather notecase
+n04548362	pocketbook	faith pocketbook, beer pocketbook, straw pocketbook, silk pocketbook, leather pocketbook, alligator pocketbook, consumer pocketbook, morocco pocketbook, size pocketbook, family pocketbook
+n03857828	oscilloscope	trace oscilloscope, cathoderay oscilloscope, sweep oscilloscope, monitor oscilloscope, channel oscilloscope, beam oscilloscope, Tektronix oscilloscope, display oscilloscope, storage oscilloscope, ray oscilloscope
+n03857828	scope	business scope, widening scope, project scope, job scope, tele scope, market scope, radar scope, world scope, PPI scope
+n03857828	cathode-ray oscilloscope	
+n03857828	CRO	Surrey CRO, trace CRO, letters CRO, Devon CRO, storage CRO, Croydon CRO, CRO CRO, CR1 CRO, beam CRO, Essex CRO
+n03160309	dam	masonry dam, coffer dam, diversion dam, power dam, rubber dam, stone dam, gravity dam, mill dam, arch dam, earth dam
+n03160309	dike	stone dike, granite dike, diabase dike, greenstone dike, sea dike, porphyry dike, basalt dike, pegmatite dike, ring dike, trap dike
+n03160309	dyke	dolerite dyke, turf dyke, basalt dyke, diabase dyke, stone dyke, trap dyke, granite dyke, greenstone dyke, sea dyke, march dyke
+n02168699	long-horned beetle	
+n02168699	longicorn	
+n02168699	longicorn beetle	
+n12620546	hip	plaster hip, hip hip, mustard hip, feet hip, enemies hip, rubber hip, traction hip, Thomas hip, enemy hip
+n12620546	rose hip	
+n12620546	rosehip	
+n01558993	robin	wood robin, Wake robin, sea robin, cock robin, Round robin, wake robin, baby robin, mother robin, father robin, ground robin
+n01558993	American robin	
+n01558993	Turdus migratorius	robin Turdus migratorius, ROBIN Turdus migratorius, Robin Turdus migratorius
+n01728572	thunder snake	
+n01728572	worm snake	
+n01728572	Carphophis amoenus	
+n01797886	ruffed grouse	Canada ruffed grouse, dozen ruffed grouse, cock ruffed grouse, Oregon ruffed grouse
+n01797886	partridge	mother partridge, Virginia partridge, birch partridge, snow partridge, hen partridge, cock partridge, roast partridge, rock partridge, spruce partridge, mountain partridge
+n01797886	Bonasa umbellus	grouse Bonasa umbellus, GROUSE Bonasa umbellus, Grouse Bonasa umbellus
+n07697537	hotdog	
+n07697537	hot dog	Chicago hot dog, beef hot dog, York hot dog, term hot dog, chicken hot dog, corner hot dog, roadside hot dog, pushcart hot dog, rubber hot dog, Island hot dog
+n07697537	red hot	tongs red hot, charcoal red hot, iron red hot, platinum red hot, tube red hot, stones red hot, stove red hot, poker red hot, wire red hot, time red hot
+n06874185	traffic light	intersection traffic light, amber traffic light, Avenue traffic light, corner traffic light, cycle traffic light, Street traffic light
+n06874185	traffic signal	road traffic signal
+n06874185	stoplight	corner stoplight, traffic stoplight
+n02128757	snow leopard	baby snow leopard
+n02128757	ounce	Troy ounce, 1J ounce, half ounce, troy ounce, V2 ounce, fluid ounce, H ounce, J ounce, gold ounce, quarter ounce
+n02128757	Panthera uncia	leopard Panthera uncia
+n01819313	sulphur-crested cockatoo	
+n01819313	Kakatoe galerita	
+n01819313	Cacatua galerita	Cockatoo Cacatua galerita
+n02114548	white wolf	
+n02114548	Arctic wolf	
+n02114548	Canis lupus tundrarum	
+n02486261	patas	sin patas, Erythrocebus patas, patas patas, E. patas, las patas, Las patas, tres patas, con patas
+n02486261	hussar monkey	
+n02486261	Erythrocebus patas	
+n01873310	platypus	bill platypus, Paralithodes platypus, mother platypus, P. platypus, duckbilled platypus, Licania platypus, Zacco platypus, E. platypus, baby platypus, duckbill platypus
+n01873310	duckbill	
+n01873310	duckbilled platypus	
+n01873310	duck-billed platypus	
+n01873310	Ornithorhynchus anatinus	platypus Ornithorhynchus anatinus
+n02231487	walking stick	hickory walking stick, iron walking stick, light walking stick, ivory walking stick, stout walking stick, ebony walking stick, crabtree walking stick, ash walking stick, bamboo walking stick, malacca walking stick
+n02231487	walkingstick	ebony walkingstick
+n02231487	stick insect	water stick insect
+n01770081	harvestman	Cave harvestman
+n01770081	daddy longlegs	
+n01770081	Phalangium opilio	
+n03884397	panpipe	
+n03884397	pandean pipe	
+n03884397	syrinx	word syrinx, cord syrinx
+n02797295	barrow	stone barrow, wheel barrow, Age barrow, bowl barrow, drill barrow, hand barrow, cream barrow, iron barrow, Round barrow
+n02797295	garden cart	
+n02797295	lawn cart	
+n02797295	wheelbarrow	steel wheelbarrow, wheel wheelbarrow, metal wheelbarrow, iron wheelbarrow, toy wheelbarrow, family wheelbarrow, garden wheelbarrow, tin wheelbarrow
+n02132136	brown bear	California brown bear, mother brown bear, Kodiak brown bear, Alaska brown bear
+n02132136	bruin	brother bruin, mother bruin
+n02132136	Ursus arctos	species Ursus arctos, bears Ursus arctos, Bear Ursus arctos, bear Ursus arctos
+n04229816	ski mask	wool ski mask, woolen ski mask
+n02133161	American black bear	
+n02133161	black bear	spring black bear, Florida black bear, baby black bear, pound black bear, mother black bear, Louisiana black bear
+n02133161	Ursus americanus	bear Ursus americanus, BEAR Ursus americanus, Bear Ursus americanus
+n02133161	Euarctos americanus	
+n02948072	candle	bedroom candle, rush candle, tallow candle, Christmas candle, spermaceti candle, wax candle, farthing candle, foot candle, Paschal candle, sperm candle
+n02948072	taper	Morse taper, ends taper, farthing taper, wax taper, sides taper, leaves taper, Sharpe taper, midnight taper, evening taper, fingers taper
+n02948072	wax light	
+n03838899	oboe	solo oboe, clarinet oboe, word oboe, century oboe, tenor oboe, bass oboe, Mozart oboe, system oboe, flute oboe
+n03838899	hautboy	
+n03838899	hautbois	les hautbois
+n02860847	bobsled	man bobsled, Olympic bobsled, U.S. bobsled
+n02860847	bobsleigh	
+n02860847	bob	heads bob, iron bob, boy bob, head bob, balance bob, Plumb bob, brass bob, gravity bob, cut bob, pendulum bob
+n03271574	electric fan	
+n03271574	blower	soot blower, powder blower, whistle blower, jet blower, fan blower, steam blower, chip blower, air blower, glass blower, pressure blower
+n01872401	echidna	baby echidna
+n01872401	spiny anteater	
+n01872401	anteater	Giant anteater, pygmy anteater, Cape anteater, baby anteater
+n04200800	shoe shop	prison shoe shop, Bata shoe shop
+n04200800	shoe-shop	
+n04200800	shoe store	Boston shoe store, York shoe store, chain shoe store, Miller shoe store, McAn shoe store, family shoe store, neighborhood shoe store, discount shoe store, specialty shoe store, Florsheim shoe store
+n01798484	prairie chicken	Wisconsin prairie chicken, Attwater prairie chicken
+n01798484	prairie grouse	
+n01798484	prairie fowl	
+n04004767	printer	state printer, computer printer, master printer, job printer, journeyman printer, matrix printer, government printer, calico printer, line printer, London printer
+n02481823	chimpanzee	adult chimpanzee, mother chimpanzee, Zoo chimpanzee, pygmy chimpanzee, pet chimpanzee, Gombe chimpanzee, lady chimpanzee, dwarf chimpanzee, baby chimpanzee, living chimpanzee
+n02481823	chimp	pygmy chimp, S chimp, mother chimp, bonobo chimp, space chimp, baby chimp, zoo chimp
+n02481823	Pan troglodytes	Chimpanzee Pan troglodytes, chimpanzees Pan troglodytes, species Pan troglodytes, chimpanzee Pan troglodytes
+n02497673	Madagascar cat	
+n02497673	ring-tailed lemur	
+n02497673	Lemur catta	lemur Lemur catta
+n04118538	rugby ball	
+n01910747	jellyfish	box jellyfish, hydrozoan jellyfish, water jellyfish, Moon jellyfish, mane jellyfish, Box jellyfish, compass jellyfish, comb jellyfish, moon jellyfish, baby jellyfish
+n04039381	racket	prostitution racket, numbers racket, smuggling racket, drug racket, tennis racket, squash racket, policy racket, gambling racket, protection racket, extortion racket
+n04039381	racquet	Prince racquet, steel racquet, badminton racquet, squash racquet, aluminum racquet, tennis racquet, Tennis racquet, wood racquet, Wilson racquet
+n03218198	dogsled	winter dogsled, Iditarod dogsled
+n03218198	dog sled	
+n03218198	dog sleigh	
+n03337140	file	batch file, source file, input file, master file, output file, disk file, card file, data file, text file, database file
+n03337140	file cabinet	metal file cabinet, card file cabinet, oak file cabinet, office file cabinet, steel file cabinet, drawer file cabinet
+n03337140	filing cabinet	mahogany filing cabinet, card filing cabinet, drawer filing cabinet, metal filing cabinet, office filing cabinet, steel filing cabinet, size filing cabinet, fourdrawer filing cabinet, oak filing cabinet, cardboard filing cabinet
+n02085936	Maltese dog	
+n02085936	Maltese terrier	
+n02085936	Maltese	II Maltese, Corrado Maltese, C. Maltese, enamel Maltese, diamond Maltese, Casino Maltese, Anthony Maltese, Michael Maltese, Malta Maltese, M Maltese
+n03483316	hand blower	
+n03483316	blow dryer	hair blow dryer
+n03483316	blow drier	
+n03483316	hair dryer	hand hair dryer, Electric hair dryer, travel hair dryer, W hair dryer
+n03483316	hair drier	
+n02396427	wild boar	baby wild boar
+n02396427	boar	champion boar, prize boar, China boar, White boar, forest boar, roast boar, herd boar, mountain boar, breeding boar, Berkshire boar
+n02396427	Sus scrofa	pig Sus scrofa, Pig Sus scrofa, Artiodactyla Sus scrofa, Suidae Sus scrofa, species Sus scrofa, Boar Sus scrofa, pigs Sus scrofa, boar Sus scrofa
+n01729322	hognose snake	
+n01729322	puff adder	
+n01729322	sand viper	
+n02106662	German shepherd	family German shepherd
+n02106662	German shepherd dog	
+n02106662	German police dog	
+n02106662	alsatian	
+n04264628	space bar	keyboard space bar, press space bar, typewriter space bar, Press space bar
+n03991062	pot	clay pot, coffee pot, melting pot, tin pot, copper pot, brass pot, flower pot, iron pot, chamber pot, earthenware pot
+n03991062	flowerpot	china flowerpot, earthenware flowerpot, Clay flowerpot, medium flowerpot, clay flowerpot
+n04493381	tub	wash tub, laundry tub, washing tub, morning tub, iron tub, tin tub, bathing tub, meal tub, bath tub, mash tub
+n04493381	vat	Sam vat, storage vat, plating vat, cheese vat, wine vat, brewing vat, fermentation vat, lime vat, indigo vat, steeping vat
+n03899768	patio	marble patio, hotel patio, stone patio, dining patio, glass patio, brick patio, El patio, backyard patio, garden patio, kitchen patio
+n03899768	terrace	river terrace, level terrace, castle terrace, gravel terrace, garden terrace, stone terrace, hotel terrace, brick terrace, cafe terrace, roof terrace
+n03658185	letter opener	brass letter opener, silver letter opener, steel letter opener, ivory letter opener
+n03658185	paper knife	ivory paper knife, silver paper knife, Sees paper knife, bone paper knife
+n03658185	paperknife	ivory paperknife, silver paperknife
+n03770439	miniskirt	leather miniskirt, suede miniskirt, lace miniskirt, vinyl miniskirt, satin miniskirt, plaid miniskirt, silver miniskirt, spandex miniskirt, velvet miniskirt, denim miniskirt
+n03770439	mini	leather mini, word mini, TV mini, J mini, television mini, quo mini, ad mini, Jo mini, mini mini
+n03982430	pool table	Brunswick pool table, size pool table, slate pool table, bumper pool table, regulation pool table
+n03982430	billiard table	pocket billiard table, capital billiard table, size billiard table, mahogany billiard table
+n03982430	snooker table	size snooker table
+n04428191	thresher	Case thresher, harvester thresher, bean thresher, wheat thresher, power thresher, flow thresher, rice thresher, grain thresher, pedal thresher, steam thresher
+n04428191	thrasher	Brown thrasher, sage thrasher, grain thrasher, steam thrasher, California thrasher, Sage thrasher, bill thrasher
+n04428191	threshing machine	power threshing machine, patent threshing machine, grain threshing machine, steam threshing machine, Case threshing machine
+n03459775	grille	iron grille, air grille, outlet grille, speaker grille, steel grille, return grille, window grille, brass grille, wire grille, radiator grille
+n03459775	radiator grille	
+n04252225	snowplow	city snowplow, railroad snowplow, town snowplow, county snowplow
+n04252225	snowplough	
+n07716358	zucchini	pounds zucchini, medium zucchini, Cook zucchini, baby zucchini, Slice zucchini, pound zucchini, cups zucchini, Place zucchini, Cut zucchini, cup zucchini
+n07716358	courgette	medium courgette
+n03791053	motor scooter	Cushman motor scooter, Vespa motor scooter, Honda motor scooter
+n03791053	scooter	Motor scooter, wheel scooter, motor scooter, skate scooter, gym scooter, snow scooter, Lambretta scooter, water scooter, Honda scooter, Vespa scooter
+n04258138	solar dish	
+n04258138	solar collector	type solar collector, plate solar collector, tube solar collector, air solar collector, temperature solar collector, water solar collector
+n04258138	solar furnace	
+n04099969	rocking chair	leather rocking chair, wicker rocking chair, hickory rocking chair, oak rocking chair, walnut rocking chair, Windsor rocking chair, porch rocking chair, mahogany rocking chair, bentwood rocking chair, cane rocking chair
+n04099969	rocker	kitchen rocker, oak rocker, wicker rocker, Boston rocker, platform rocker, porch rocker, steel rocker, willow rocker, valve rocker, patent rocker
+n01756291	sidewinder	Desert sidewinder, desert sidewinder
+n01756291	horned rattlesnake	
+n01756291	Crotalus cerastes	
+n13052670	hen-of-the-woods	
+n13052670	hen of the woods	
+n13052670	Polyporus frondosus	
+n13052670	Grifola frondosa	
+n02093428	American Staffordshire terrier	
+n02093428	Staffordshire terrier	American Staffordshire terrier
+n02093428	American pit bull terrier	
+n02093428	pit bull terrier	
+n02356798	fox squirrel	Michigan fox squirrel, Peninsula fox squirrel, Delmarva fox squirrel
+n02356798	eastern fox squirrel	
+n02356798	Sciurus niger	Squirrel Sciurus niger
+n02120079	Arctic fox	fox Arctic fox
+n02120079	white fox	Arctic white fox
+n02120079	Alopex lagopus	fox Alopex lagopus, foxes Alopex lagopus, Fox Alopex lagopus
+n03109150	corkscrew	combination corkscrew, steel corkscrew, stone corkscrew, lever corkscrew, patent corkscrew, pocket corkscrew, iron corkscrew
+n03109150	bottle screw	
+n03930630	pickup	hum pickup, phonograph pickup, pressure pickup, camera pickup, Ford pickup, Chevy pickup, garbage pickup, noise pickup, television pickup, vibration pickup
+n03930630	pickup truck	farm pickup truck, ton pickup truck, Chevrolet pickup truck, Dodge pickup truck, Ford pickup truck, family pickup truck, drive pickup truck, Chevy pickup truck, GMC pickup truck, Datsun pickup truck
+n01632777	axolotl	
+n01632777	mud puppy	
+n01632777	Ambystoma mexicanum	salamander Ambystoma mexicanum
+n03710721	maillot	son maillot
+n03710721	tank suit	
+n02437312	Arabian camel	
+n02437312	dromedary	fleet dromedary, term dromedary, word dromedary
+n02437312	Camelus dromedarius	camel Camelus dromedarius
+n03967562	plow	gang plow, steam plow, shovel plow, steel plow, subsoil plow, soil plow, moldboard plow, disk plow, snow plow, iron plow
+n03967562	plough	mole plough, swing plough, iron plough, steam plough, drill plough, horse plough, snow plough, wheel plough, men plough, subsoil plough
+n03916031	perfume	musk perfume, choice perfume, summer perfume, intoxicating perfume, soap perfume, flowers perfume, sweets perfume, violet perfume, grape perfume, waste perfume
+n03916031	essence	vanilla essence, son essence, word essence, beef essence, material essence, inmost essence, life essence, class essence, coffee essence, living essence
+n03095699	container ship	U.S. container ship, cargo container ship
+n03095699	containership	
+n03095699	container vessel	
+n01930112	nematode	bulb nematode, lesion nematode, root nematode, rootknot nematode, knot nematode, soil nematode, beet nematode, citrus nematode, stem nematode, cyst nematode
+n01930112	nematode worm	
+n01930112	roundworm	cat roundworm, nematode roundworm, dog roundworm, pig roundworm, pork roundworm
+n02704792	amphibian	Guard amphibian, adult amphibian, monoplane amphibian, engineer amphibian, Seabee amphibian, Grumman amphibian, Catalina amphibian, word amphibian, Navy amphibian, breathing amphibian
+n02704792	amphibious vehicle	
+n02412080	ram	water ram, Merino ram, merino ram, press ram, B ram, Leicester ram, rebel ram, iron ram, steam ram, mountain ram
+n02412080	tup	auld tup, Teviotdale tup, Leicester tup, tar tup, hammer tup
+n03950228	pitcher	glass pitcher, stone pitcher, milk pitcher, baseball pitcher, cream pitcher, star pitcher, silver pitcher, earthenware pitcher, relief pitcher, water pitcher
+n03950228	ewer	glass ewer, bedroom ewer, brass ewer, water ewer, stone ewer, copper ewer, wine ewer, silver ewer, cream ewer, china ewer
+n03532672	hook	crochet hook, brass hook, steel hook, wire hook, switch hook, iron hook, strabismus hook, fish hook, crane hook, boat hook
+n03532672	claw	bear claw, steel claw, hind claw, lobster claw, poison claw, tiger claw, thumb claw, cat claw, crab claw, iron claw
+n03345487	fire engine	hand fire engine, steam fire engine, village fire engine, motor fire engine, Steam fire engine, toy fire engine, town fire engine, London fire engine, automobile fire engine, city fire engine
+n03345487	fire truck	airport fire truck, ladder fire truck, LaFrance fire truck, motor fire truck, city fire truck, France fire truck, toy fire truck, town fire truck, Ford fire truck, volunteer fire truck
+n01665541	leatherback turtle	
+n01665541	leatherback	Pacific leatherback
+n01665541	leathery turtle	
+n01665541	Dermochelys coriacea	Turtle Dermochelys coriacea, turtle Dermochelys coriacea, turtles Dermochelys coriacea
+n02837789	bikini	cotton bikini, satin bikini, string bikini, silk bikini, print bikini, dot bikini, lace bikini, thong bikini, nylon bikini, leather bikini
+n02837789	two-piece	
+n03873416	paddle	side paddle, steering paddle, skin paddle, iron paddle, dog paddle, steam paddle, children paddle, canoe paddle, bow paddle, men paddle
+n03873416	boat paddle	
+n03394916	French horn	chair French horn, bass French horn
+n03394916	horn	bugle horn, drinking horn, powder horn, saddle horn, hunting horn, ventral horn, fog horn, tin horn, air horn, silver horn
+n03496892	harvester	cotton harvester, combine harvester, cane harvester, corn harvester, beet harvester, Marsh harvester, forage harvester, grain harvester, potato harvester, tomato harvester
+n03496892	reaper	woman reaper, head reaper, patent reaper, Hussey reaper, delivery reaper, man reaper, McCormick reaper, rake reaper, grain reaper, Highland reaper
+n10148035	groom	head groom, bride groom, training groom, pad groom, stud groom, base groom, negro groom, trusty groom, time groom
+n10148035	bridegroom	spectre bridegroom, peasant bridegroom, bonny bridegroom, bonnie bridegroom, boy bridegroom, robber bridegroom, village bridegroom, bachelor bridegroom, Royal bridegroom, soldier bridegroom
+n01622779	great grey owl	
+n01622779	great gray owl	
+n01622779	Strix nebulosa	Owl Strix nebulosa
+n02966687	carpenter  s kit	
+n02966687	tool kit	repair tool kit, pocket tool kit, household tool kit, management tool kit, home tool kit, stone tool kit, interface tool kit, emergency tool kit, development tool kit, software tool kit
+n01817953	African grey	
+n01817953	African gray	
+n01817953	Psittacus erithacus	
+n03492542	hard disc	Winchester hard disc, computer hard disc, megabyte hard disc, MB hard disc
+n03492542	hard disk	megabyte hard disk, MB hard disk, SCSI hard disk, Mb hard disk, computer hard disk, 10MB hard disk, server hard disk, capacity hard disk, Winchester hard disk, 20MB hard disk
+n03492542	fixed disk	Current fixed disk, MB fixed disk, capacity fixed disk
+n02277742	ringlet	mountain ringlet, stray ringlet
+n02277742	ringlet butterfly	mountain ringlet butterfly
+n02226429	grasshopper	lubber grasshopper, term grasshopper, Colorado grasshopper, Kansas grasshopper, Carolina grasshopper, baby grasshopper, Mountain grasshopper, marsh grasshopper, meadow grasshopper, mother grasshopper
+n02226429	hopper	leaf hopper, mash hopper, coal hopper, steel hopper, seed hopper, feeding hopper, ash hopper, track hopper, storage hopper, feed hopper
+n04141975	scale	Fahrenheit scale, salary scale, log scale, world scale, time scale, wage scale, centigrade scale, temperature scale, rating scale, mass scale
+n04141975	weighing machine	spring weighing machine, patent weighing machine, penny weighing machine, slot weighing machine, platform weighing machine
+n03673027	liner	ocean liner, Star liner, cylinder liner, steel liner, O. liner, cargo liner, air liner, passenger liner, cruise liner, luxury liner
+n03673027	ocean liner	Elizabeth ocean liner, Mary ocean liner, ton ocean liner, passenger ocean liner, 1930s ocean liner, luxury ocean liner
+n04509417	unicycle	
+n04509417	monocycle	
+n03447721	gong	fire gong, alarm gong, dinner gong, silver gong, temple gong, gamelan gong, luncheon gong, brass gong, iron gong, breakfast gong
+n03447721	tam-tam	
+n03888257	parachute	nylon parachute, silk parachute, pilot parachute, type parachute, reserve parachute, paper parachute, enemy parachute, drogue parachute, pack parachute, emergency parachute
+n03888257	chute	mail chute, clothes chute, ore chute, laundry chute, La chute, discharge chute, pilot chute, coal chute, feed chute, loading chute
+n03692522	loupe	magnification loupe, power loupe, 10X loupe, eye loupe, hand loupe, x loupe, head loupe, Guade loupe, magnifying loupe, Guada loupe
+n03692522	jeweler  s loupe	
+n04350905	suit	Chancery suit, business suit, divorce suit, libel suit, foreclosure suit, law suit, bathing suit, tweed suit, Sunday suit, dress suit
+n04350905	suit of clothes	
+n09468604	valley	Jordan valley, Mohawk valley, Connecticut valley, River valley, rift valley, Rhone valley, Mississippi valley, river valley, Ohio valley, mountain valley
+n09468604	vale	Mas vale, clay vale, Meri vale, blossom&#39;d vale, Mary vale, level vale, Maria vale, mountain vale, Men vale, upland vale
+n03325584	feather boa	
+n03325584	boa	sand boa, rubber boa, feather boa, Gil boa, fur boa, Stomias boa, vegetable boa, tree boa, Gam boa, water boa
+n02939185	caldron	copper caldron, smoking caldron, soup caldron, bubbling caldron, silver caldron, seething caldron, iron caldron, brass caldron, boiling caldron, steaming caldron
+n02939185	cauldron	boiling cauldron, bubbling cauldron, silver cauldron, iron cauldron, copper cauldron, brass cauldron, Gundestrup cauldron, steaming cauldron, smoking cauldron, seething cauldron
+n01693334	green lizard	
+n01693334	Lacerta viridis	lizard Lacerta viridis
+n01532829	house finch	
+n01532829	linnet	cock linnet, mountain linnet, woodland linnet, California linnet, hen linnet
+n01532829	Carpodacus mexicanus	Finch Carpodacus mexicanus, FINCH Carpodacus mexicanus
+n03131574	crib	log crib, timber crib, iron crib, baby crib, Christmas crib, wood crib, Timber crib, tool crib, corn crib, intake crib
+n03131574	cot	cos cot, log cot, dove cot, army cot, sin cot, hospital cot, canvas cot, camp cot, iron cot, finger cot
+n07718747	artichoke	cans artichoke, Globe artichoke, Jerusalem artichoke, garden artichoke, Cook artichoke, word artichoke, name artichoke, sunflower artichoke, globe artichoke, cup artichoke
+n07718747	globe artichoke	
+n07753275	pineapple	Place pineapple, canned pineapple, slice pineapple, cups pineapple, Dole pineapple, Cut pineapple, Drain pineapple, tablespoons pineapple, slices pineapple, cup pineapple
+n07753275	ananas	bromelia ananas, E. ananas, pineapple ananas, l&#39; ananas, L&#39; ananas, Bromelia ananas, Erwinia ananas
+n01697457	African crocodile	
+n01697457	Nile crocodile	
+n01697457	Crocodylus niloticus	crocodile Crocodylus niloticus
+n02129604	tiger	jungle tiger, Bengal tiger, cave tiger, baby tiger, tooth tiger, O tiger, paper tiger, Isabella tiger, water tiger, mother tiger
+n02129604	Panthera tigris	species Panthera tigris, Tiger Panthera tigris, tiger Panthera tigris
+n03085013	computer keyboard	desktop computer keyboard
+n03085013	keypad	number keypad, calculator keypad, tone keypad, phone keypad, Numeric keypad, control keypad, function keypad, cursor keypad, telephone keypad, hex keypad
+n07718472	cucumber	slices cucumber, snake cucumber, cup cucumber, Sea cucumber, sea cucumber, pickling cucumber, star cucumber, garden cucumber, medium cucumber, Peel cucumber
+n07718472	cuke	
+n07693725	bagel	morning bagel, pumpernickel bagel, seed bagel, onion bagel, sesame bagel, raisin bagel, wheat bagel, water bagel, cheese bagel, word bagel
+n07693725	beigel	
+n02727426	apiary	home apiary, state apiary, house apiary, model apiary
+n02727426	bee house	
+n03908618	pencil box	
+n03908618	pencil case	gold pencil case, silver pencil case
+n03854065	organ	end organ, pipe organ, mouth organ, house organ, church organ, enamel organ, target organ, barrel organ, party organ, sense organ
+n03854065	pipe organ	Estey pipe organ, Wurlitzer pipe organ, theater pipe organ, church pipe organ, dollar pipe organ, Moller pipe organ, Kimball pipe organ, Skinner pipe organ, theatre pipe organ, Austin pipe organ
+n02457408	three-toed sloth	
+n02457408	ai	Carlo ai, base ai, diphthongs ai, e ai, diphthong ai, coefficients ai, Martino ai, angle ai, J ai
+n02457408	Bradypus tridactylus	
+n03028079	church	state church, mother church, Episcopal church, cathedral church, village church, abbey church, country church, stone church, parish church, Methodist church
+n03028079	church building	Science church building, country church building, Methodist church building, mission church building, frame church building, union church building, Episcopal church building, log church building, brick church building, stone church building
+n03594945	jeep	ambulance jeep, MP jeep, army jeep, Army jeep, police jeep, radio jeep, government jeep, command jeep, patrol jeep, drive jeep
+n03594945	landrover	police landrover, army landrover
+n04346328	stupa	Borobudur stupa, Sanchi stupa, Dhamek stupa, Dharmarajika stupa, stone stupa, Bharhut stupa, word stupa, Amaravati stupa, Jain stupa, brick stupa
+n04346328	tope	stone tope, poly tope, Amaravati tope, Asoka tope, tree tope, Manikyala tope, Amravati tope, word tope, mountain tope, Sanchi tope
+n03935335	piggy bank	clay piggy bank, family piggy bank, china piggy bank, glass piggy bank
+n03935335	penny bank	
+n03733281	maze	stylus maze, finger maze, arm maze, T maze, pencil maze, water maze, Court maze, Y maze, alley maze, Porteus maze
+n03733281	labyrinth	carotid labyrinth, tender labyrinth, ear labyrinth, stone labyrinth, forest labyrinth, island labyrinth, word labyrinth, living labyrinth, ending labyrinth, mountain labyrinth
+n02256656	cicada	desert cicada, jade cicada, bladder cicada, year cicada, genus cicada, summer cicada, evening cicada, autumn cicada
+n02256656	cicala	La cicala
+n04371430	swimming trunks	nylon swimming trunks
+n04371430	bathing trunks	plaid bathing trunks
+n02951585	can opener	giant can opener, wall can opener, hand can opener, Electric can opener, electric can opener, manual can opener, combination can opener, simple can opener, type can opener, beer can opener
+n02951585	tin opener	
+n02317335	starfish	Pacific starfish, basket starfish, thoms starfish, adult starfish, sunflower starfish, thorns starfish, Basket starfish, Thorns starfish, cushion starfish, baby starfish
+n02317335	sea star	thorns sea star, ochre sea star
+n02028035	redshank	
+n02028035	Tringa totanus	Redshank Tringa totanus, REDSHANK Tringa totanus
+n02909870	bucket	slop bucket, canvas bucket, ice bucket, pump bucket, water bucket, grab bucket, iron bucket, leather bucket, tin bucket, fire bucket
+n02909870	pail	iron pail, garbage pail, slop pail, lunch pail, ice pail, dinner pail, tin pail, water pail, milk pail, milking pail
+n02927161	butcher shop	town butcher shop, family butcher shop, specialty butcher shop, corner butcher shop, village butcher shop, neighborhood butcher shop
+n02927161	meat market	Smithfield meat market, city meat market, Chicago meat market, neighborhood meat market, night meat market, London meat market, world meat market, corner meat market
+n02422699	impala	baby impala
+n02422699	Aepyceros melampus	impala Aepyceros melampus, Impala Aepyceros melampus
+n04536866	violin	Beethoven violin, solo violin, Stradivari violin, 2nd violin, bass violin, Cremona violin, Guarnerius violin, string violin, tenor violin, Amati violin
+n04536866	fiddle	men fiddle, spike fiddle, bass fiddle, iron fiddle, ain fiddle, string fiddle, toy fiddle, bull fiddle, Cremona fiddle, bit fiddle
+n01775062	wolf spider	mother wolf spider
+n01775062	hunting spider	
+n03207743	dishrag	
+n03207743	dishcloth	cotton dishcloth
+n03983396	pop bottle	soda pop bottle, glass pop bottle
+n03983396	soda bottle	glass soda bottle, club soda bottle
+n03240683	drilling platform	oil drilling platform, Sea drilling platform, Oil drilling platform, offshore drilling platform
+n03240683	offshore rig	
+n01755581	diamondback	Florida diamondback, Texas diamondback
+n01755581	diamondback rattlesnake	
+n01755581	Crotalus adamanteus	rattlesnake Crotalus adamanteus
+n04404412	television	CBS television, U.S. television, colour television, pay television, network television, circuit television, home television, cable television, color television, Cable television
+n04404412	television system	subscription television system, Cable television system, circuit television system, community television system, RCA television system, projection television system, colour television system, definition television system, color television system, cable television system
+n01968897	chambered nautilus	
+n01968897	pearly nautilus	
+n01968897	nautilus	living nautilus, paper nautilus, Paper nautilus, genus nautilus
+n03776460	mobile home	doublewide mobile home, unit mobile home, model mobile home, Winnebago mobile home, state mobile home, term mobile home, luxury mobile home, bedroom mobile home, California mobile home, Florida mobile home
+n03776460	manufactured home	
+n04552348	warplane	enemy warplane, U.S. warplane
+n04552348	military plane	States military plane, U.S. military plane
+n02013706	limpkin	
+n02013706	Aramus pictus	
+n02883205	bow tie	paisley bow tie, butterfly bow tie, dot bow tie, leather bow tie, satin bow tie, plaid bow tie, silk bow tie, velvet bow tie, trademark bow tie, string bow tie
+n02883205	bow-tie	
+n02883205	bowtie	silk bowtie, string bowtie, dot bowtie
+n03670208	limousine	Cadillac limousine, Royce limousine, Packard limousine, airport limousine, passenger limousine, Mercedes limousine, Lincoln limousine, Daimler limousine, House limousine, stretch limousine
+n03670208	limo	company limo, studio limo, airport limo, Mercedes limo, hotel limo, silver limo, Lincoln limo, stretch limo, Airport limo, Cadillac limo
+n02807133	bathing cap	rubber bathing cap
+n02807133	swimming cap	rubber swimming cap
+n03347037	fire screen	tapestry fire screen, glass fire screen, brass fire screen
+n03347037	fireguard	chocolate fireguard, wire fireguard, nursery fireguard, brass fireguard
+n03947888	pirate	Dunkirk pirate, sea pirate, rebel pirate, gentleman pirate, woman pirate, word pirate, Norman pirate, river pirate, land pirate, arch pirate
+n03947888	pirate ship	
+n02869837	bonnet	straw bonnet, poke bonnet, crape bonnet, Leghorn bonnet, silk bonnet, lace bonnet, velvet bonnet, satin bonnet, war bonnet, Highland bonnet
+n02869837	poke bonnet	straw poke bonnet
+n04141076	sax	Baritone sax, baritone sax, tenor sax, Tenor sax, Alto sax, jazz sax, soprano sax, melody sax, alto sax, bass sax
+n04141076	saxophone	soprano saxophone, solo saxophone, Bass saxophone, baritone saxophone, alto saxophone, tenor saxophone, melody saxophone, Alto saxophone, jazz saxophone, bass saxophone
+n01735189	garter snake	baby garter snake, Francisco garter snake, Plains garter snake, plains garter snake
+n01735189	grass snake	
+n02236044	mantis	leaf mantis, S. mantis, Praying mantis, Squilla mantis, Carolina mantis, baby mantis, word mantis, flower mantis, A mantis, praying mantis
+n02236044	mantid	Carolina mantid
+n03595614	jersey	woollen jersey, New jersey, woolen jersey, flannel jersey, football jersey, turtleneck jersey, cotton jersey, wool jersey, silk jersey, rayon jersey
+n03595614	T-shirt	
+n03595614	tee shirt	Mouse tee shirt, silk tee shirt, sleeve tee shirt, cotton tee shirt
+n03417042	garbage truck	city garbage truck
+n03417042	dustcart	
+n04008634	projectile	rifle projectile, bone projectile, pound projectile, stone projectile, rocket projectile, velocity projectile, steel projectile, artillery projectile, incident projectile, iron projectile
+n04008634	missile	II missile, U.S. missile, rocket missile, velocity missile, cruise missile, Cruise missile, air missile, MX missile, surface missile, enemy missile
+n04192698	shield	heat shield, silver shield, hide shield, iron shield, nipple shield, head shield, face shield, God shield, radiation shield, tax shield
+n04192698	buckler	steel buckler, silver buckler, swash buckler, leather buckler, buckler buckler, Glasgow buckler, hide buckler, iron buckler
+n03372029	flute	breathing flute, piccolo flute, solo flute, bass flute, transverse flute, bone flute, silver flute, oaten flute, nose flute, Boehm flute
+n03372029	transverse flute	
+n01694178	African chameleon	
+n01694178	Chamaeleo chamaeleon	
+n02795169	barrel	beer barrel, pump barrel, gun barrel, flour barrel, water barrel, pork barrel, rifle barrel, core barrel, cylinder barrel, rain barrel
+n02795169	cask	wine cask, cider cask, sugar cask, water cask, beer cask, gallon cask, rum cask, quarter cask, harness cask, brandy cask
+n02825657	bell cote	
+n02825657	bell cot	
+n02025239	ruddy turnstone	
+n02025239	Arenaria interpres	turnstone Arenaria interpres, Turnstone Arenaria interpres, Turnstones Arenaria interpres, TURNSTONE Arenaria interpres
+n02051845	pelican	baby pelican, frigate pelican, Brown pelican, White pelican, mother pelican, wood pelican, stone pelican, rendering pelican
+n02110627	affenpinscher	
+n02110627	monkey pinscher	
+n02110627	monkey dog	
+n03697007	lumbermill	
+n03697007	sawmill	band sawmill, hardwood sawmill, Company sawmill, capacity sawmill, government sawmill, pioneer sawmill, fir sawmill, steam sawmill, Co. sawmill, power sawmill
+n02500267	indri	Indri indri
+n02500267	indris	
+n02500267	Indri indri	
+n02500267	Indri brevicaudatus	
+n02123394	Persian cat	
+n02917067	bullet train	Shinkansen bullet train
+n02917067	bullet	musket bullet, silver bullet, shrapnel bullet, gun bullet, pistol bullet, iron bullet, revolver bullet, stray bullet, rifle bullet, chance bullet
+n03814639	neck brace	
+n09332890	lakeside	summer lakeside, luxury lakeside, Age lakeside
+n09332890	lakeshore	Michigan lakeshore, Chicago lakeshore, Ontario lakeshore
+n03124170	cowboy hat	leather cowboy hat, Stetson cowboy hat, trademark cowboy hat, Texas cowboy hat, gallon cowboy hat, suede cowboy hat, straw cowboy hat
+n03124170	ten-gallon hat	
+n01877812	wallaby	scrub wallaby, tammar wallaby, hare wallaby, Island wallaby, baby wallaby, rock wallaby, Parma wallaby, Tammar wallaby, parma wallaby, Rock wallaby
+n01877812	brush kangaroo	
+n02840245	binder	corn binder, grain binder, book binder, ring binder, flannel binder, resin binder, soil binder, twine binder, clay binder, leaf binder
+n02840245	ring-binder	
+n03710193	mailbox	Exchange mailbox, office mailbox, voice mailbox, system mailbox, school mailbox, corner mailbox, Server mailbox, user mailbox, tin mailbox, Internet mailbox
+n03710193	letter box	hotel letter box, Office letter box, office letter box, brass letter box, street letter box
+n01630670	common newt	
+n01630670	Triturus vulgaris	
+n01748264	Indian cobra	
+n01748264	Naja naja	Cobra Naja naja, cobra Naja naja
+n02109961	Eskimo dog	
+n02109961	husky	voices husky, trifle husky, tones husky, time husky, dozen husky, something husky, bit husky, quarters husky, voice husky, throat husky
+n03868863	oxygen mask	flow oxygen mask, rubber oxygen mask, type oxygen mask, emergency oxygen mask
+n03970156	plunger	solenoid plunger, rubber plunger, pump plunger, screw plunger, syringe plunger, valve plunger, steel plunger, spring plunger, glass plunger, iron plunger
+n03970156	plumber  s helper	
+n03207941	dishwasher	home dishwasher, Electric dishwasher, combination dishwasher, restaurant dishwasher, head dishwasher, machine dishwasher, GE dishwasher, Automatic dishwasher, hotel dishwasher, night dishwasher
+n03207941	dish washer	
+n03207941	dishwashing machine	
+n04517823	vacuum	type vacuum, steam vacuum, condenser vacuum, pump vacuum, triode vacuum, mercury vacuum, leadership vacuum, glass vacuum, power vacuum, inches vacuum
+n04517823	vacuum cleaner	household vacuum cleaner, Electric vacuum cleaner, Electrolux vacuum cleaner, type vacuum cleaner, shop vacuum cleaner, Eureka vacuum cleaner, home vacuum cleaner, hand vacuum cleaner, model vacuum cleaner, Hoover vacuum cleaner
+n02111277	Newfoundland	England Newfoundland, French Newfoundland, Island Newfoundland, sailors Newfoundland, Brunswick Newfoundland, North Newfoundland, English Newfoundland, Canada Newfoundland, Reid Newfoundland, Royal Newfoundland
+n02111277	Newfoundland dog	
+n04074963	remote control	function remote control, button remote control, Radio remote control, television remote control, handheld remote control, VCR remote control, Electric remote control, radio remote control, TV remote control, voltage remote control
+n04074963	remote	parts remote, regions remote, countries remote, points remote, places remote, place remote, things remote, areas remote, districts remote, something remote
+n01641577	bullfrog	De bullfrog
+n01641577	Rana catesbeiana	bullfrog Rana catesbeiana, bullfrogs Rana catesbeiana, Bullfrog Rana catesbeiana, frog Rana catesbeiana
+n07873807	pizza	sausage pizza, medium pizza, cheese pizza, dish pizza, pepperoni pizza, gourmet pizza, vegetable pizza, pan pizza, order pizza, onion pizza
+n07873807	pizza pie	
+n02123045	tabby	water tabby, word tabby, household tabby, ginger tabby, cotton tabby, mackerel tabby, linen tabby, compound tabby, fireside tabby, silk tabby
+n02123045	tabby cat	
+n03720891	maraca	
+n02097298	Scotch terrier	
+n02097298	Scottish terrier	
+n02097298	Scottie	time Scottie, star Scottie, way Scottie, detective Scottie, friend Scottie, pet Scottie, daughter Scottie
+n01531178	goldfinch	Arkansas goldfinch, cock goldfinch, hen goldfinch, Eastern goldfinch
+n01531178	Carduelis carduelis	GOLDFINCH Carduelis carduelis, Goldfinch Carduelis carduelis
+n02233338	cockroach	field cockroach, household cockroach, word cockroach, house cockroach, kitchen cockroach, Madeira cockroach, wood cockroach, Madagascar cockroach, desert cockroach, Surinam cockroach
+n02233338	roach	hair roach, p roach, wood roach, pound roach, river roach, feeding roach, winter roach, cane roach, cock roach, dozen roach
+n01729977	green snake	
+n01729977	grass snake	
+n02992211	cello	string cello, solo cello, Tor cello, Amati cello, Monti cello, pizzicato cello, violin cello, Mar cello, opening cello, Bach cello
+n02992211	violoncello	solo violoncello, violin violoncello, con violoncello, e violoncello, Amati violoncello
+n02102318	cocker spaniel	family cocker spaniel
+n02102318	English cocker spaniel	
+n02102318	cocker	family cocker, alter cocker, Blenheim cocker, roan cocker, part cocker
+n02113712	miniature poodle	
+n02870880	bookcase	oak bookcase, walnut bookcase, combination bookcase, glass bookcase, family bookcase, dwarf bookcase, bureau bookcase, library bookcase, Chippendale bookcase, mahogany bookcase
+n01744401	rock python	
+n01744401	rock snake	
+n01744401	Python sebae	
+n04044716	radio telescope	dish radio telescope, meter radio telescope, VLA radio telescope, University radio telescope, Bank radio telescope, transit radio telescope, Parkes radio telescope, diameter radio telescope, Arecibo radio telescope, ft radio telescope
+n04044716	radio reflector	
+n03637318	lampshade	cloth lampshade, skin lampshade, glass lampshade, silk lampshade, Tiffany lampshade, fabric lampshade, satin lampshade, wire lampshade, paper lampshade, parchment lampshade
+n03637318	lamp shade	Tiffany lamp shade, glass lamp shade, silk lamp shade, paper lamp shade, parchment lamp shade
+n03743016	megalith	stone megalith, word megalith
+n03743016	megalithic structure	
+n02169497	leaf beetle	rice leaf beetle, bean leaf beetle, cottonwood leaf beetle, Bean leaf beetle, willow leaf beetle, cereal leaf beetle, milkweed leaf beetle, Elm leaf beetle, elm leaf beetle
+n02169497	chrysomelid	
+n01601694	water ouzel	
+n01601694	dipper	cream dipper, water dipper, glass dipper, milk dipper, iron dipper, gourd dipper, Chapin dipper, tin dipper, shovel dipper, yard dipper
+n03062245	cocktail shaker	glass cocktail shaker, silver cocktail shaker
+n03788195	mosque	Cordova mosque, century mosque, cathedral mosque, brick mosque, Babri mosque, stone mosque, village mosque, marble mosque, Aqsa mosque, Friday mosque
+n02119022	red fox	Virginia red fox, Nevada red fox, plains red fox
+n02119022	Vulpes vulpes	fox Vulpes vulpes, Foxes Vulpes vulpes, Fox Vulpes vulpes, foxes Vulpes vulpes
+n02281787	lycaenid	
+n02281787	lycaenid butterfly	
+n03902125	pay-phone	
+n03902125	pay-station	
+n01860187	black swan	
+n01860187	Cygnus atratus	Swan Cygnus atratus
+n01978287	Dungeness crab	Coast Dungeness crab, California Dungeness crab
+n01978287	Cancer magister	crab Cancer magister
+n02417914	ibex	mountain ibex, walia ibex, C. ibex, Sind ibex, Capra ibex, buck ibex, Walia ibex
+n02417914	Capra ibex	Ibex Capra ibex
+n02606052	rock beauty	
+n02606052	Holocanthus tricolor	
+n02092002	Scottish deerhound	
+n02092002	deerhound	Highland deerhound
+n02804414	bassinet	hospital bassinet, baby bassinet, wicker bassinet
+n04019541	puck	air puck, ice puck, bouncing puck, digitizer puck, hockey puck, Hockey puck, rubber puck, tablet puck, digitizing puck, puck puck
+n04019541	hockey puck	ice hockey puck, air hockey puck
+n04523525	vault	brick vault, rib vault, barrel vault, deposit vault, bank vault, groin vault, burial vault, family vault, stone vault, pole vault
+n02437616	llama	pet llama, te llama, La llama, sin llama, word llama, Se llama, silver llama, baby llama, con llama, se llama
+n01986214	hermit crab	land hermit crab
+n03920288	Petri dish	glass Petri dish, Falcon Petri dish, Glass Petri dish, culture Petri dish, polystyrene Petri dish, cm Petri dish
+n04070727	refrigerator	absorption refrigerator, household refrigerator, home refrigerator, kerosene refrigerator, gas refrigerator, Electrolux refrigerator, kitchen refrigerator, ice refrigerator, dilution refrigerator, Electric refrigerator
+n04070727	icebox	saloon icebox, chocolate icebox, household icebox, oak icebox, family icebox, home icebox, kitchen icebox
+n03803284	muzzle	velvet muzzle, wire muzzle, pistol muzzle, gun muzzle, musket muzzle, rifle muzzle, Armstrong muzzle, revolver muzzle, iron muzzle, Enfield muzzle
+n04065272	recreational vehicle	
+n04065272	RV	spectrum RV, Clayman RV, Lucas RV, Talmage RV, Heatley RV, E RV, Randall RV, Short RV, Lloyd RV, valve RV
+n04065272	R.V.	Dr. R.V., Lancashire R.V., SHRI R.V., Dr R.V., English R.V., Shri R.V., Middlesex R.V., Mr. R.V., 1 R.V., Professor R.V.
+n02017213	European gallinule	
+n02017213	Porphyrio porphyrio	
+n02110958	pug	clay pug, pet pug, nose pug, stone pug, toy pug, time pug, tiger pug, china pug, airing pug
+n02110958	pug-dog	
+n03759954	microphone	ribbon microphone, velocity microphone, condenser microphone, radio microphone, carbon microphone, throat microphone, capacitor microphone, hand microphone, coil microphone, contact microphone
+n03759954	mike	condenser mike, hand mike, throat mike, boom mike, radio mike, carbon mike, ribbon mike, filter mike, shotgun mike, spike mike
+n09256479	coral reef	barrier coral reef, Florida coral reef, Sea coral reef, Keys coral reef, Island coral reef, water coral reef, offshore coral reef, living coral reef, Pacific coral reef, term coral reef
+n02692877	airship	Wellman airship, passenger airship, Parseval airship, Army airship, Navy airship, type airship, Zeppelin airship, enemy airship, army airship, model airship
+n02692877	dirigible	model dirigible, Zeppelin dirigible, States dirigible, Hindenburg dirigible, army dirigible, passenger dirigible, type dirigible, balloon dirigible, Army dirigible, Navy dirigible
+n02165105	tiger beetle	Dunes tiger beetle, beach tiger beetle
+n03775546	mixing bowl	rubber mixing bowl, glass mixing bowl, kitchen mixing bowl, steel mixing bowl, heatproof mixing bowl, metal mixing bowl, cup mixing bowl, size mixing bowl, silver mixing bowl, medium mixing bowl
+n01978455	rock crab	
+n01978455	Cancer irroratus	crab Cancer irroratus
+n03874599	padlock	horse padlock, jingling padlock, silver padlock, iron padlock, letter padlock, steel padlock, patent padlock, brass padlock, combination padlock, Yale padlock
+n04515003	upright	sword upright, Stem upright, men upright, tube upright, patient upright, heart upright, body upright, man upright, head upright, bolt upright
+n04515003	upright piano	mahogany upright piano
+n04049303	rain barrel	
+n04243546	slot	rotor slot, cam slot, screw slot, coin slot, stator slot, mail slot, time slot, parking slot, T slot, expansion slot
+n04243546	one-armed bandit	
+n02640242	sturgeon	spoonbill sturgeon, salt sturgeon, River sturgeon, Sea sturgeon, Lake sturgeon, lake sturgeon, fish sturgeon, sea sturgeon, river sturgeon, rock sturgeon
+n01669191	box turtle	Florida box turtle, Carolina box turtle, Coast box turtle
+n01669191	box tortoise	
+n04311174	steel drum	gallon steel drum
+n04591157	Windsor tie	
+n01677366	common iguana	
+n01677366	iguana	desert iguana, ground iguana, land iguana, baby iguana, sea iguana, Iguana iguana, Land iguana, tree iguana, mud iguana, rock iguana
+n01677366	Iguana iguana	iguana Iguana iguana, lizard Iguana iguana, Iguana Iguana iguana
+n04152593	screen	silk screen, television screen, glass screen, computer screen, TV screen, radar screen, wire screen, display screen, stone screen, rood screen
+n04152593	CRT screen	color CRT screen, computer CRT screen, resolution CRT screen
+n02799071	baseball	Series baseball, night baseball, college baseball, league baseball, school baseball, League baseball, Varsity baseball, varsity baseball, summer baseball, Sunday baseball
+n02087046	toy terrier	
+n03661043	library	state library, school library, reference library, city library, College library, lending library, law library, University library, county library, college library
+n04254680	soccer ball	leather soccer ball, regulation soccer ball
+n03721384	marimba	bass marimba, diamond marimba, solo marimba, gourd marimba, steel marimba
+n03721384	xylophone	Alto xylophone, X xylophone, bottle xylophone, log xylophone, bass xylophone, Bass xylophone, trough xylophone, bar xylophone, toy xylophone, alto xylophone
+n04344873	studio couch	
+n04344873	day bed	
+n11879895	rapeseed	glucosinolate rapeseed, GM rapeseed, spring rapeseed, oil rapeseed, winter rapeseed, acid rapeseed
+n03649909	lawn mower	family lawn mower, Power lawn mower, gasoline lawn mower, push lawn mower, type lawn mower, power lawn mower, motor lawn mower, toy lawn mower, gas lawn mower, hand lawn mower
+n03649909	mower	power mower, grass mower, bar mower, tractor mower, reel mower, motor mower, hay mower, push mower, lawn mower, hand mower
+n02105641	Old English sheepdog	
+n02105641	bobtail	
+n02259212	leafhopper	cane leafhopper, rice leafhopper, Beet leafhopper, clover leafhopper, beet leafhopper, potato leafhopper, grape leafhopper, apple leafhopper, sugarcane leafhopper, corn leafhopper
+n02877765	bottlecap	
+n03733131	maypole	village maypole
+n02128385	leopard	mother leopard, imitation leopard, camel leopard, snow leopard, Snow leopard, hunting leopard, name leopard, wood leopard, baby leopard, sea leopard
+n02128385	Panthera pardus	leopard Panthera pardus, Leopard Panthera pardus
+n04370456	sweatshirt	cotton sweatshirt, Mouse sweatshirt, University sweatshirt, College sweatshirt, UCLA sweatshirt, Harvard sweatshirt, State sweatshirt, Yale sweatshirt, college sweatshirt, school sweatshirt
+n02483362	gibbon	Kloss gibbon, hoolock gibbon, baby gibbon, Hoolock gibbon, Warner gibbon, Butt gibbon
+n02483362	Hylobates lar	Gibbon Hylobates lar
+n02134418	sloth bear	
+n02134418	Melursus ursinus	bear Melursus ursinus
+n02134418	Ursus ursinus	
+n02130308	cheetah	hunting cheetah, name cheetah, mother cheetah, pet cheetah, king cheetah, baby cheetah
+n02130308	chetah	
+n02130308	Acinonyx jubatus	Cheetah Acinonyx jubatus, cheetah Acinonyx jubatus
+n03976467	Polaroid camera	Land Polaroid camera, color Polaroid camera
+n03976467	Polaroid Land camera	
+n02056570	king penguin	
+n02056570	Aptenodytes patagonica	Penguin Aptenodytes patagonica
+n02091467	Norwegian elkhound	
+n02091467	elkhound	
+n04591713	wine bottle	glass wine bottle, quart wine bottle
+n07836838	chocolate sauce	cup chocolate sauce, tablespoons chocolate sauce, cream chocolate sauce
+n07836838	chocolate syrup	Bosco chocolate syrup, cup chocolate syrup, tablespoons chocolate syrup, bread chocolate syrup, teaspoons chocolate syrup
+n03602883	joystick	PC joystick, position joystick, computer joystick, feedback joystick, analog joystick, Pro joystick, game joystick, control joystick, J joystick, Atari joystick
+n03208938	disk brake	caliper disk brake
+n03208938	disc brake	caliper disc brake, wheel disc brake
+n03498962	hatchet	copper hatchet, enamel hatchet, silver hatchet, brass hatchet, fist hatchet, Stone hatchet, iron hatchet, war hatchet, steel hatchet, stone hatchet
+n02127052	lynx	F. lynx, Platystrophia lynx, names lynx, Felis lynx, Lynx lynx, Canada lynx, name lynx, mountain lynx, bay lynx, Bay lynx
+n02127052	catamount	
+n02666196	abacus	term abacus, dust abacus, Norman abacus, bead abacus, Index abacus, hand abacus, Sarnath abacus, word abacus, line abacus, square abacus
+n03534580	hoopskirt	
+n03534580	crinoline	cage crinoline, silk crinoline, lace crinoline, tulle crinoline, horsehair crinoline, satin crinoline, velvet crinoline
+n02328150	Angora	English Angora, Henry Angora, Julius Angora, American Angora, White Angora, prize Angora, Texas Angora, National Angora, French Angora, Upper Angora
+n02328150	Angora rabbit	
+n01773157	black and gold garden spider	
+n01773157	Argiope aurantia	spider Argiope aurantia
+n02006656	spoonbill	
+n02113978	Mexican hairless	
+n01776313	tick	wood tick, dog tick, fever tick, sheep tick, Colorado tick, watch tick, straw tick, clock tick, host tick, cattle tick
+n02123597	Siamese cat	point Siamese cat
+n02123597	Siamese	Ancient Siamese, Free Siamese, part Siamese, point Siamese, Bangkok Siamese, Point Siamese, things Siamese, Royal Siamese, dozen Siamese, way Siamese
+n02749479	assault rifle	7.62mm assault rifle, Galil assault rifle, M16 assault rifle, FAL assault rifle, AKM assault rifle, AK47 assault rifle, Kalashnikov assault rifle, G3 assault rifle, AK assault rifle, FN assault rifle
+n02749479	assault gun	III assault gun
+n04409515	tennis ball	rubber tennis ball, Table tennis ball, lawn tennis ball, regulation tennis ball, table tennis ball
+n01855032	red-breasted merganser	
+n01855032	Mergus serrator	MERGANSER Mergus serrator, Merganser Mergus serrator
+n02096585	Boston bull	
+n02096585	Boston terrier	
+n03355925	flagpole	field flagpole, campus flagpole, camp flagpole, House flagpole, village flagpole, school flagpole, steel flagpole, courthouse flagpole, foot flagpole, iron flagpole
+n03355925	flagstaff	temple flagstaff, government flagstaff, garrison flagstaff, iron flagstaff, Sumter flagstaff, Battery flagstaff, steel flagstaff, fort flagstaff
+n04146614	school bus	Chowchilla school bus, County school bus, passenger school bus, morning school bus, nursery school bus, Chevrolet school bus, Sunday school bus, county school bus, Ford school bus, Jersey school bus
+n03529860	home theater	
+n03529860	home theatre	
+n04033901	quill	goose quill, turkey quill, duck quill, feather quill, writing quill, oaten quill, ivory quill, crow quill, wing quill, swan quill
+n04033901	quill pen	goose quill pen, crow quill pen, feather quill pen
+n07614500	ice cream	strawberry ice cream, vanilla ice cream, Vanilla ice cream, coffee ice cream, fruit ice cream, Chocolate ice cream, pistachio ice cream, chocolate ice cream, nut ice cream, brick ice cream
+n07614500	icecream	vanilla icecream, strawberry icecream, chocolate icecream
+n01914609	sea anemone	host sea anemone
+n01914609	anemone	Sea anemone, word anemone, host anemone, mountain anemone, wood anemone, Wood anemone, sea anemone, meadow anemone, Canada anemone, garden anemone
+n07871810	meat loaf	beef meat loaf, turkey meat loaf
+n07871810	meatloaf	turkey meatloaf
+n09421951	sandbar	Mississippi sandbar, River sandbar, level sandbar, barrier sandbar, island sandbar, river sandbar, offshore sandbar
+n09421951	sand bar	River sand bar, offshore sand bar, river sand bar
+n03018349	china cabinet	walnut china cabinet, mahogany china cabinet, oak china cabinet, glass china cabinet, room china cabinet, corner china cabinet
+n03018349	china closet	mahogany china closet, corner china closet, room china closet
+n04238763	slide rule	Fuller slide rule, log slide rule, duplex slide rule, Barth slide rule, stadia slide rule, pocket slide rule, engineering slide rule, ivory slide rule, trusty slide rule
+n04238763	slipstick	
+n01944390	snail	garden snail, mud snail, shell snail, person snail, water snail, sea snail, tree snail, quarter snail, pond snail, land snail
+n02206856	bee	honey bee, spelling bee, might bee, hive bee, carpenter bee, worker bee, mother bee, will bee, can bee, queen bee
+n01728920	ringneck snake	
+n01728920	ring-necked snake	
+n01728920	ring snake	
+n03887697	paper towel	kitchen paper towel, Materials paper towel, absorbent paper towel, paper paper towel, Place paper towel, water paper towel
+n02091134	whippet	
+n02321529	sea cucumber	California sea cucumber
+n02321529	holothurian	feeding holothurian
+n09472597	volcano	Paricutin volcano, Kilauea volcano, water volcano, island volcano, shield volcano, Mayon volcano, word volcano, mud volcano, smoking volcano, Katmai volcano
+n02086910	papillon	
+n01950731	sea slug	
+n01950731	nudibranch	dancer nudibranch
+n07584110	consomme	vegetable consomme, cup consomme, fish consomme, canned consomme, beef consomme, turtle consomme, cups consomme, Chicken consomme, cans consomme, chicken consomme
+n02504013	Indian elephant	
+n02504013	Elephas maximus	elephant Elephas maximus, Elephant Elephas maximus
+n02058221	albatross	Royal albatross, Amsterdam albatross, Island albatross, Wandering albatross, baby albatross, Laysan albatross, Pacific albatross, Galapagos albatross, word albatross
+n02058221	mollymawk	
+n02106030	collie	prize collie, family collie, Shetland collie, farm collie, part collie, show collie, Border collie, mongrel collie, dozen collie, border collie
+n03924679	photocopier	school photocopier, paper photocopier, Kodak photocopier, Xerox photocopier, library photocopier, Canon photocopier, office photocopier, colour photocopier, quality photocopier, color photocopier
+n09835506	ballplayer	star ballplayer, sandlot ballplayer, Fame ballplayer, school ballplayer, helluva ballplayer, league ballplayer, League ballplayer, college ballplayer, journeyman ballplayer, rookie ballplayer
+n09835506	baseball player	school baseball player, Fame baseball player, League baseball player, college baseball player, U.S. baseball player, varsity baseball player, semipro baseball player, champion baseball player, league baseball player, star baseball player
+n01692333	Gila monster	
+n01692333	Heloderma suspectum	monster Heloderma suspectum, lizard Heloderma suspectum
+n02804610	bassoon	bass bassoon, horn bassoon, clarinet bassoon, system bassoon, Heckel bassoon, tenor bassoon, contra bassoon, Contra bassoon, sausage bassoon
+n03535780	horizontal bar	
+n03535780	high bar	
+n02117135	hyena	hunting hyena, Brown hyena, cave hyena, mother hyena, Cape hyena, baby hyena
+n02117135	hyaena	Cape hyaena, cave hyaena, H. hyaena, Brown hyaena, Hyaena hyaena
+n04542943	waffle iron	Electric waffle iron
+n04550184	wardrobe	theatre wardrobe, stage wardrobe, oak wardrobe, spring wardrobe, winter wardrobe, walnut wardrobe, summer wardrobe, travel wardrobe, mahogany wardrobe, family wardrobe
+n04550184	closet	linen closet, water closet, storage closet, clothes closet, coat closet, china closet, hall closet, Water closet, bedroom closet, medicine closet
+n04550184	press	world press, York press, hand press, newspaper press, party press, London press, opposition press, wine press, filter press, drill press
+n03297495	espresso maker	
+n02281406	sulphur butterfly	
+n02281406	sulfur butterfly	
+n02493793	spider monkey	baby spider monkey
+n02493793	Ateles geoffroyi	monkey Ateles geoffroyi
+n03467068	guillotine	La guillotine, firewood guillotine, toy guillotine, model guillotine, tonsil guillotine, Paris guillotine, travelling guillotine, man guillotine, hand guillotine, word guillotine
+n01833805	hummingbird	hermit hummingbird, calliope hummingbird, Lucifer hummingbird, baby hummingbird, Allen hummingbird, mother hummingbird, Anna hummingbird, emerald hummingbird, vervain hummingbird, bee hummingbird
+n02490219	marmoset	pygmy marmoset, World marmoset, lion marmoset, ear marmoset
+n02493509	titi	infant titi
+n02493509	titi monkey	
+n02137549	mongoose	Water mongoose, house mongoose, Marsh mongoose, dwarf mongoose, pet mongoose, water mongoose, Slender mongoose, Dwarf mongoose, baby mongoose, marsh mongoose
+n02391049	zebra	Equus zebra, Burchell zebra, Mountain zebra, mountain zebra, plains zebra, P. zebra, E. zebra, C. zebra, A. zebra, baby zebra
+n03742115	medicine chest	bathroom medicine chest, pocket medicine chest, family medicine chest, household medicine chest, home medicine chest
+n03742115	medicine cabinet	household medicine cabinet, home medicine cabinet, bathroom medicine cabinet, disorders medicine cabinet, family medicine cabinet
+n02113624	toy poodle	
+n03929855	pickelhaube	
+n02002556	white stork	
+n02002556	Ciconia ciconia	Stork Ciconia ciconia, stork Ciconia ciconia, STORK Ciconia ciconia, Storks Ciconia ciconia
+n03016953	chiffonier	oak chiffonier, mahogany chiffonier, walnut chiffonier
+n03016953	commode	night commode, XV commode, tres commode, marquetry commode, lacquer commode, marqueterie commode, mahogany commode, fort commode, place commode, bedside commode
+n03599486	jinrikisha	word jinrikisha
+n03599486	ricksha	bicycle ricksha
+n03599486	rickshaw	auto rickshaw, motor rickshaw, cycle rickshaw, Shanghai rickshaw, bicycle rickshaw, tricycle rickshaw, pedal rickshaw, motorcycle rickshaw, scooter rickshaw, Peking rickshaw
+n01514668	cock	turkey cock, game cock, dunghill cock, brass cock, jungle cock, bantam cock, injection cock, drain cock, stop cock, fighting cock
+n01742172	boa constrictor	pet boa constrictor, baby boa constrictor, foot boa constrictor
+n01742172	Constrictor constrictor	
+n03995372	power drill	Decker power drill, hand power drill
+n02494079	squirrel monkey	World squirrel monkey
+n02494079	Saimiri sciureus	monkey Saimiri sciureus, monkeys Saimiri sciureus
+n01770393	scorpion	sea scorpion, mother scorpion, whip scorpion, ear scorpion, field scorpion, rock scorpion, Sea scorpion, desert scorpion, Water scorpion, water scorpion
+n02097474	Tibetan terrier	
+n02097474	chrysanthemum dog	
+n10565667	scuba diver	
+n03709823	mailbag	canvas mailbag, leather mailbag, U.S. mailbag
+n03709823	postbag	
+n07590611	hot pot	vegetable hot pot, Lancashire hot pot
+n07590611	hotpot	vegetable hotpot, Lancashire hotpot, lamb hotpot
+n02110063	malamute	
+n02110063	malemute	
+n02110063	Alaskan malamute	
+n03201208	dining table	pedestal dining table, hotel dining table, cherry dining table, oak dining table, walnut dining table, extension dining table, family dining table, mahogany dining table, glass dining table, Chippendale dining table
+n03201208	board	circuit board, council board, state board, draft board, district board, planning board, bulletin board, control board, county board, school board
+n02107908	Appenzeller	G. Appenzeller, I. Appenzeller, Benedictus Appenzeller, Dr. Appenzeller, H. Appenzeller, Alice Appenzeller, Mr. Appenzeller, Henry Appenzeller, References Appenzeller, O. Appenzeller
+n03187595	dial telephone	
+n03187595	dial phone	
+n02483708	siamang	
+n02483708	Hylobates syndactylus	
+n02483708	Symphalangus syndactylus	
+n03840681	ocarina	clay ocarina
+n03840681	sweet potato	medium sweet potato, plant sweet potato, cup sweet potato, cups sweet potato, adult sweet potato, potato sweet potato, staple sweet potato
+n01667114	mud turtle	Mississippi mud turtle, Florida mud turtle, Illinois mud turtle
+n01774384	black widow	
+n01774384	Latrodectus mactans	spider Latrodectus mactans
+n03075370	combination lock	dial combination lock
+n04418357	theater curtain	
+n04418357	theatre curtain	
+n01664065	loggerhead	Clemente loggerhead, baby loggerhead, iron loggerhead, Island loggerhead, Pacific loggerhead
+n01664065	loggerhead turtle	
+n01664065	Caretta caretta	Cheloniidae Caretta caretta, Turtle Caretta caretta, turtle Caretta caretta
+n03825788	nipple	breast nipple, rubber nipple, steel nipple, grease nipple, outlet nipple, bottle nipple, iron nipple, hose nipple, glass nipple, pipe nipple
+n02708093	analog clock	
+n07753592	banana	U.S. banana, world banana, cup banana, Michel banana, word banana, medium banana, dwarf banana, export banana, Company banana, Jamaica banana
+n02113799	standard poodle	
+n02342885	hamster	mother hamster, control hamster, V79 hamster, pet hamster, adult hamster, Chinese hamster, SV40 hamster, Baby hamster, baby hamster, dwarf hamster
+n02486410	baboon	baby baboon, chacma baboon, hamadryas baboon, nose baboon, mother baboon, Anubis baboon, Cape baboon, name baboon, Guinea baboon, Chacma baboon
+n03793489	mouse	pocket mouse, wood mouse, meadow mouse, field mouse, country mouse, deer mouse, church mouse, house mouse, harvest mouse, city mouse
+n03793489	computer mouse	
+n03782006	monitor	computer monitor, video monitor, heart monitor, neutron monitor, color monitor, television monitor, kind monitor, TV monitor, pressure monitor, display monitor
+n02107312	miniature pinscher	
+n02504458	African elephant	bull African elephant, baby African elephant, elephant African elephant
+n02504458	Loxodonta africana	Elephant Loxodonta africana, elephants Loxodonta africana, elephant Loxodonta africana
+n02859443	boathouse	university boathouse, Lake boathouse, family boathouse, University boathouse, Club boathouse, College boathouse, stone boathouse, college boathouse, Park boathouse, Guard boathouse
+n02105162	malinois	
+n03045698	cloak	velvet cloak, camlet cloak, travelling cloak, woollen cloak, opera cloak, Geneva cloak, silk cloak, cloth cloak, mourning cloak, fur cloak
+n06785654	crossword puzzle	Guide crossword puzzle, Sunday crossword puzzle, Tribune crossword puzzle, morning crossword puzzle, newspaper crossword puzzle, Times crossword puzzle, Telegraph crossword puzzle
+n06785654	crossword	Work crossword, Tribune crossword, Times crossword, Telegraph crossword, Post crossword, morning crossword, newspaper crossword, prize crossword, Sunday crossword, work crossword
+n02447366	badger	stink badger, mother badger, dog badger, ferret badger, sow badger, rock badger, honey badger, baby badger, boar badger, father badger
+n02815834	beaker	c.c. beaker, brimming beaker, titration beaker, ml beaker, litre beaker, liter beaker, precipitation beaker, silver beaker, form beaker, glass beaker
+n03676483	lipstick	color lipstick, Rose lipstick, Factor lipstick, cherry lipstick, use lipstick, peach lipstick, Revlon lipstick, Arden lipstick, plum lipstick, violet lipstick
+n03676483	lip rouge	
+n07730033	cardoon	
+n04162706	seat belt	state seat belt, automobile seat belt, lap seat belt, car seat belt, vehicle seat belt, safety seat belt, passenger seat belt, type seat belt, auto seat belt, Automobile seat belt
+n04162706	seatbelt	passenger seatbelt, fasten seatbelt, car seatbelt, automobile seatbelt, lap seatbelt
+n03998194	prayer rug	Ghiordes prayer rug, silk prayer rug
+n03998194	prayer mat	
+n02091831	Saluki	Bhima Saluki, Ridgeback Saluki
+n02091831	gazelle hound	
+n02105855	Shetland sheepdog	
+n02105855	Shetland sheep dog	
+n02105855	Shetland	Shetland Shetland, North Shetland, South Shetland, American Shetland, East Shetland, Orkney Shetland, bay Shetland, New Shetland, West Shetland, S. Shetland
+n02364673	guinea pig	baby guinea pig, castrate guinea pig, class guinea pig, test guinea pig, germfree guinea pig, control guinea pig, mother guinea pig, hyperimmune guinea pig, gram guinea pig, roast guinea pig
+n02364673	Cavia cobaya	
+n03223299	doormat	coir doormat, rubber doormat, league doormat, office doormat, Guermantes doormat, hemp doormat
+n03223299	welcome mat	rubber welcome mat
+n04548280	wall clock	Regulator wall clock, mahogany wall clock, kitchen wall clock, office wall clock, room wall clock, Thomas wall clock, pendulum wall clock
+n02489166	proboscis monkey	
+n02489166	Nasalis larvatus	monkey Nasalis larvatus
+n02002724	black stork	
+n02002724	Ciconia nigra	Stork Ciconia nigra, stork Ciconia nigra
+n02444819	otter	Sea otter, river otter, dog otter, mother otter, baby otter, sea otter, G otter, land otter, River otter, Land otter
+n02119789	kit fox	desert kit fox, Joaquin kit fox
+n02119789	Vulpes macrotis	fox Vulpes macrotis
+n01629819	European fire salamander	
+n01629819	Salamandra salamandra	von Salamandra salamandra
+n02113023	Pembroke	Colonel Pembroke, Mr. Pembroke, Lady Pembroke, Mrs. Pembroke, Miss Pembroke, Mr Pembroke, Cape Pembroke, Earl Pembroke, Lord Pembroke, lady Pembroke
+n02113023	Pembroke Welsh corgi	
+n02782093	balloon	observation balloon, rubber balloon, toy balloon, hydrogen balloon, air balloon, fire balloon, glass balloon, trial balloon, kite balloon, pilot balloon
+n12998815	agaric	milk agaric, honey agaric, fly agaric, Fly agaric
+n02077923	sea lion	Galapagos sea lion, mother sea lion, baby sea lion, bull sea lion, California sea lion, Steller sea lion, Zealand sea lion, Miguel sea lion
+n07745940	strawberry	Chili strawberry, wood strawberry, Wilson strawberry, Virginia strawberry, cup strawberry, mountain strawberry, word strawberry, garden strawberry, Wood strawberry, field strawberry
+n03680355	Loafer	Penny Loafer, Mr. Loafer
+n01795545	black grouse	
+n02091032	Italian greyhound	
+n04380533	table lamp	Tiffany table lamp, kerosene table lamp, side table lamp, brass table lamp, night table lamp, end table lamp, bedside table lamp, glass table lamp, bed table lamp
+n02346627	porcupine	mother porcupine, sea porcupine, vegetable porcupine, word porcupine, Cape porcupine, tree porcupine, World porcupine, baby porcupine, Canada porcupine
+n02346627	hedgehog	vegetable hedgehog, Canada hedgehog, baby hedgehog, gene hedgehog, iron hedgehog, steel hedgehog, sea hedgehog, desert hedgehog, oak hedgehog, mother hedgehog
+n02093647	Bedlington terrier	
+n02101388	Brittany spaniel	
+n03000684	chain saw	power chain saw, Stihl chain saw, gasoline chain saw, McCulloch chain saw
+n03000684	chainsaw	Texas chainsaw, Stihl chainsaw
+n03874293	paddlewheel	side paddlewheel, iron paddlewheel
+n03874293	paddle wheel	side paddle wheel, brass paddle wheel, feathering paddle wheel
+n03690938	lotion	opium lotion, alum lotion, mercury lotion, skin lotion, eye lotion, zinc lotion, calamine lotion, hand lotion, carbolic lotion, spirit lotion
+n01784675	centipede	garden centipede, name centipede, sea centipede, desert centipede, Garden centipede, house centipede, iron centipede, word centipede, House centipede, monster centipede
+n02100735	English setter	
+n03706229	magnetic compass	aircraft magnetic compass
+n04399382	teddy	Steiff teddy, mohair teddy, baby teddy, lace teddy, plush teddy, toy teddy, childhood teddy, silk teddy, satin teddy, chocolate teddy
+n04399382	teddy bear	Steiff teddy bear, childhood teddy bear, mohair teddy bear, toy teddy bear, plush teddy bear
+n02105412	kelpie	water kelpie
+n01688243	frilled lizard	
+n01688243	Chlamydosaurus kingi	
+n04328186	stopwatch	
+n04328186	stop watch	
+n02102177	Welsh springer spaniel	
+n02480855	gorilla	Mountain gorilla, Troglodytes gorilla, Gorilla gorilla, mountain gorilla, mother gorilla, T. gorilla, gorilla gorilla, G. gorilla, lowland gorilla, baby gorilla
+n02480855	Gorilla gorilla	troglodytes Gorilla gorilla, Gorilla Gorilla gorilla, gorillas Gorilla gorilla, species Gorilla gorilla, gorilla Gorilla gorilla
+n04235860	sleeping bag	nylon sleeping bag, skin sleeping bag, sheepskin sleeping bag, reindeer sleeping bag, canvas sleeping bag, wool sleeping bag, sheet sleeping bag, eiderdown sleeping bag, light sleeping bag, fur sleeping bag
+n01924916	flatworm	Zealand flatworm, planarian flatworm, acoel flatworm, trematode flatworm, turbellarian flatworm, triclad flatworm
+n01924916	platyhelminth	
+n13040303	stinkhorn	
+n13040303	carrion fungus	
+n02280649	cabbage butterfly	
+n03445777	golf ball	silver golf ball, practice golf ball, regulation golf ball, stray golf ball
+n02093754	Border terrier	
+n02099267	flat-coated retriever	
+n02105505	komondor	
+n02085620	Chihuahua	Northwestern Chihuahua, Chihuahua Chihuahua, Western Chihuahua, Coahuila Chihuahua, Southwestern Chihuahua, Mexican Chihuahua, Ciudad Chihuahua, Chiapas Chihuahua, Southern Chihuahua, Ferrocarril Chihuahua
+n02090379	redbone	
+n02092339	Weimaraner	Vizsla Weimaraner
+n02138441	meerkat	
+n02138441	mierkat	
+n02088364	beagle	part beagle, dachshund beagle, family beagle, Kerry beagle
+n02363005	beaver	trap beaver, mountain beaver, Mountain beaver, exchange beaver, spring beaver, dozen beaver, coat beaver, ram beaver, sea beaver, winter beaver
+n02676566	acoustic guitar	string acoustic guitar, Martin acoustic guitar, Gibson acoustic guitar
+n04417672	thatch	nipa thatch, grass thatch, palmetto thatch, palm thatch, pandanus thatch, house thatch, straw thatch, cottage thatch, roof thatch, leaf thatch
+n04417672	thatched roof	grass thatched roof, straw thatched roof
+n03538406	horse cart	
+n03538406	horse-cart	
+n02095314	wire-haired fox terrier	
+n02104029	kuvasz	
+n03785016	moped	father moped, man moped, Stevie moped, men moped, Major moped, Honda moped, Linton moped, 50cc moped, Tom moped
+n02088094	Afghan hound	
+n02088094	Afghan	rebel Afghan, Sher Afghan, Shah Afghan, Second Afghan, Rohilla Afghan, Lodi Afghan, name Afghan, Khan Afghan, Ariana Afghan, Royal Afghan
+n03794056	mousetrap	spring mousetrap, wire mousetrap, sprung mousetrap
+n04285008	sports car	Ferrari sports car, luxury sports car, production sports car, M.G. sports car, Mercedes sports car, Triumph sports car, Jaguar sports car, MG sports car, vintage sports car, model sports car
+n04285008	sport car	
+n02098413	Lhasa	Lhasa Lhasa, name Lhasa, Tibet Lhasa, Holy Lhasa, Radio Lhasa, capital Lhasa, New Lhasa, Tibetan Lhasa, time Lhasa, von Lhasa
+n02098413	Lhasa apso	
+n02107574	Greater Swiss Mountain dog	
+n01698640	American alligator	
+n01698640	Alligator mississipiensis	
+n03888605	parallel bars	
+n03888605	bars	bus bars, candy bars, iron bars, commutator bars, grate bars, cross bars, transverse bars, steel bars, prison bars, sand bars
+n04505470	typewriter keyboard	QWERTY typewriter keyboard, Dvorak typewriter keyboard
+n02107683	Bernese mountain dog	
+n02264363	lacewing	Green lacewing
+n02264363	lacewing fly	
+n04266014	space shuttle	Challenger space shuttle, States space shuttle, prototype space shuttle, generation space shuttle, NASA space shuttle, U.S. space shuttle, Hermes space shuttle, Discovery space shuttle, Atlantis space shuttle, Columbia space shuttle
+n02099849	Chesapeake Bay retriever	
+n03134739	croquet ball	
+n02090622	borzoi	
+n02090622	Russian wolfhound	
+n02100236	German short-haired pointer	
+n02667093	abaya	
+n01537544	indigo bunting	
+n01537544	indigo finch	
+n01537544	indigo bird	
+n01537544	Passerina cyanea	BUNTING Passerina cyanea, Bunting Passerina cyanea
+n01773797	garden spider	
+n01773797	Aranea diademata	
+n04286575	spotlight	news spotlight, media spotlight, arc spotlight, Fresnel spotlight, night spotlight, publicity spotlight, baby spotlight, world spotlight, reflector spotlight, lens spotlight
+n04286575	spot	danger spot, leaf spot, desert spot, beauty spot, grease spot, plague spot, cathode spot, trouble spot, garden spot, level spot
+n01632458	spotted salamander	
+n01632458	Ambystoma maculatum	salamander Ambystoma maculatum, Salamander Ambystoma maculatum, salamanders Ambystoma maculatum
+n02492660	howler monkey	
+n02492660	howler	Black howler, calamity howler, adult howler, schoolboy howler, World howler, baby howler
+n04275548	spider web	
+n04275548	spider  s web	
+n01494475	hammerhead	baby hammerhead, iron hammerhead
+n01494475	hammerhead shark	
+n01980166	fiddler crab	sand fiddler crab
+n02441942	weasel	mother weasel, water weasel, York weasel, mountain weasel, baby weasel, snow weasel, winter weasel, Arctic weasel, sucking weasel, dwarf weasel
+n02108915	French bulldog	
+n02690373	airliner	Douglas airliner, TWA airliner, Al airliner, passenger airliner, Viscount airliner, jet airliner, Concorde airliner, luxury airliner, turboprop airliner, Lufthansa airliner
+n02108422	bull mastiff	
+n02009229	little blue heron	
+n02009229	Egretta caerulea	Heron Egretta caerulea
+n01739381	vine snake	
+n02111889	Samoyed	Yurak Samoyed, Bernard Samoyed
+n02111889	Samoyede	
+n02865351	bolo tie	silver bolo tie
+n02865351	bolo	silver bolo, leather bolo
+n02865351	bola tie	
+n02865351	bola	para bola, stone bola, word bola, Barilius bola, con bola, La bola, B. bola
+n02106382	Bouvier des Flandres	
+n02106382	Bouviers des Flandres	
+n02089867	Walker hound	
+n02089867	Walker foxhound	
+n02088466	bloodhound	Cuba bloodhound, police bloodhound, part bloodhound, Orange bloodhound, Manilla bloodhound
+n02088466	sleuthhound	
+n02086079	Pekinese	prize Pekinese
+n02086079	Pekingese	prize Pekingese, Papillon Pekingese, 1500 Pekingese
+n02086079	Peke	John Peke
+n02113186	Cardigan	Lords Cardigan, 1 Cardigan, Mount Cardigan, Jack Cardigan, Mr. Cardigan, South Cardigan, Earl Cardigan, Brecon Cardigan, Lord Cardigan, Lady Cardigan
+n02113186	Cardigan Welsh corgi	
+n03126707	crane	tower crane, iron crane, jib crane, bridge crane, derrick crane, steam crane, gantry crane, truck crane, sandhill crane, travelling crane
+n04525038	velvet	cotton velvet, Manchester velvet, cut velvet, violet velvet, plush velvet, pile velvet, Genoa velvet, Lyons velvet, silk velvet, Utrecht velvet
+n02802426	basketball	head basketball, star basketball, varsity basketball, class basketball, school basketball, championship basketball, state basketball, University basketball, Varsity basketball, college basketball
+n01443537	goldfish	baby goldfish, comet goldfish, feeder goldfish, pet goldfish, dozen goldfish, fantail goldfish, Farm goldfish, class goldfish, prize goldfish, family goldfish
+n01443537	Carassius auratus	carp Carassius auratus, fish Carassius auratus
+n02108089	boxer	London boxer, boy boxer, negro boxer, capital boxer, shadow boxer, Gloves boxer, heavyweight boxer, champion boxer, weight boxer, middleweight boxer
+n02093256	Staffordshire bullterrier	
+n02093256	Staffordshire bull terrier	
+n02096437	Dandie Dinmont	Terrier Dandie Dinmont
+n02096437	Dandie Dinmont terrier	
+n02172182	dung beetle	
+n03617480	kimono	satin kimono, cotton kimono, winter kimono, crepe kimono, wedding kimono, summer kimono, flannel kimono, bath kimono, silk kimono, night kimono
+n04584207	wig	bob wig, bag wig, Lud wig, tie wig, cauliflower wig, Ramillies wig, horsehair wig, scratch wig, campaign wig, pigtail wig
+n02101006	Gordon setter	
+n03781244	monastery	cathedral monastery, mother monastery, Jetavana monastery, Norman monastery, island monastery, Nalanda monastery, century monastery, Zen monastery, mountain monastery, Trinity monastery
+n02087394	Rhodesian ridgeback	
+n01518878	ostrich	mother ostrich, baby ostrich, fleet ostrich, hen ostrich, heads ostrich, head ostrich, imitation ostrich, time ostrich, cock ostrich, dozen ostrich
+n01518878	Struthio camelus	Ostrich Struthio camelus, ostrich Struthio camelus
+n04265275	space heater	propane space heater, oil space heater, gas space heater, kerosene space heater, Electric space heater
+n02112706	Brabancon griffon	
+n02443484	black-footed ferret	
+n02443484	ferret	police ferret, tax ferret, others ferret, pet ferret, eyes ferret, time ferret, baby ferret, comet ferret, silk ferret, dog ferret
+n02443484	Mustela nigripes	ferret Mustela nigripes
+n03729826	matchstick	cup matchstick
+n02091635	otterhound	
+n02091635	otter hound	
+n02094114	Norfolk terrier	
+n02389026	sorrel	garden sorrel, wood sorrel, Field sorrel, horse sorrel, sheep sorrel, herb sorrel, chestnut sorrel, mountain sorrel, Wood sorrel, field sorrel
+n02086646	Blenheim spaniel	
+n02777292	balance beam	
+n02777292	beam	laser beam, cantilever beam, electron beam, steel beam, incident beam, ion beam, balance beam, feet beam, floor beam, reference beam
+n02090721	Irish wolfhound	
+n02167151	ground beetle	violet ground beetle
+n02167151	carabid beetle	
+n02097209	standard schnauzer	
+n02916936	bulletproof vest	
+n03272562	electric locomotive	diesel electric locomotive
+n03452741	grand piano	Bechstein grand piano, Knabe grand piano, baby grand piano, Hamlin grand piano, Broadwood grand piano, Chickering grand piano, state grand piano, concert grand piano, Steinway grand piano, parlor grand piano
+n03452741	grand	County grand, county grand, thing grand, something grand, baby grand, tres grand, nothing grand, time grand, concert grand, son grand
+n03770679	minivan	drive minivan, Plymouth minivan, Toyota minivan, Chrysler minivan, Voyager minivan, Dodge minivan, Ford minivan, MPV minivan, passenger minivan, family minivan
+n03042490	cliff dwelling	Verde cliff dwelling, House cliff dwelling
+n04239074	sliding door	glass sliding door, iron sliding door, power sliding door, metal sliding door, patio sliding door, paper sliding door, rear sliding door, aluminum sliding door, steel sliding door, side sliding door
+n02088238	basset	pet basset
+n02088238	basset hound	pet basset hound
+n02823428	beer bottle	ginger beer bottle, root beer bottle, amber beer bottle, quart beer bottle, glass beer bottle
+n01773549	barn spider	
+n01773549	Araneus cavaticus	
+n02093991	Irish terrier	
+n02488702	colobus	
+n02488702	colobus monkey	
+n02086240	Shih-Tzu	
+n03404251	fur coat	livery fur coat, velvet fur coat, winter fur coat, lamb fur coat, fox fur coat, seal fur coat, mink fur coat, imitation fur coat, rabbit fur coat, dollar fur coat
+n07860988	dough	flour dough, cookie dough, biscuit dough, pie dough, yeast dough, pizza dough, Place dough, play dough, bread dough, pastry dough
+n03761084	microwave	MHz microwave, channel microwave, resolution microwave, W microwave, noise microwave, power microwave, state microwave, band microwave, frequency microwave, incident microwave
+n03761084	microwave oven	home microwave oven, consumer microwave oven, household microwave oven, Litton microwave oven, kitchen microwave oven, W microwave oven, countertop microwave oven
+n03775071	mitten	wool mitten, cotton mitten, woolen mitten, hair mitten, leather mitten, woollen mitten, buckskin mitten, lace mitten, fur mitten, silk mitten
+n02105251	briard	
+n03657121	lens cap	Camera lens cap, camera lens cap
+n03657121	lens cover	camera lens cover
+n02100583	vizsla	
+n02100583	Hungarian pointer	
+n04131690	saltshaker	glass saltshaker
+n04131690	salt shaker	glass salt shaker, kitchen salt shaker
+n02105056	groenendael	
+n02484975	guenon	forest guenon
+n02484975	guenon monkey	
+n04310018	steam locomotive	vintage steam locomotive, type steam locomotive, model steam locomotive, Pacific steam locomotive, railway steam locomotive, gauge steam locomotive, reciprocating steam locomotive, Baldwin steam locomotive, Railway steam locomotive, passenger steam locomotive
+n02095570	Lakeland terrier	
+n02112350	keeshond	
+n02793495	barn	dairy barn, cow barn, log barn, livery barn, frame barn, horse barn, hay barn, stone barn, tobacco barn, car barn
+n03777754	modem	baud modem, cable modem, telephone modem, Hayes modem, data modem, Kbps modem, fax modem, bps modem, word modem, computer modem
+n04590129	window shade	bedroom window shade, roller window shade, paper window shade
+n02097130	giant schnauzer	
+n04136333	sarong	towel sarong, check sarong, cloth sarong, batik sarong, kain sarong, Celebes sarong, silk sarong, print sarong, cotton sarong, plaid sarong
+n07583066	guacamole	cups guacamole, cup guacamole, tablespoons guacamole
+n02454379	armadillo	name armadillo, Spaniards armadillo, Texas armadillo, gene armadillo, word armadillo, Nileus armadillo, baby armadillo
+n03376595	folding chair	aluminum folding chair, metal folding chair, sidewalk folding chair, steel folding chair, canvas folding chair, iron folding chair
+n02879718	bow	men bow, lee bow, saddle bow, cross bow, nations bow, violin bow, people bow, silver bow, weather bow, ribbon bow
+n01990800	isopod	beach isopod, land isopod, Socorro isopod, water isopod, desert isopod, cave isopod
+n02074367	dugong	charm dugong, mother dugong, baby dugong, Sea dugong
+n02074367	Dugong dugon	
+n04251144	snorkel	rent snorkel, intake snorkel, rubber snorkel, afternoon snorkel, morning snorkel, people snorkel, rents snorkel, air snorkel
+n02108551	Tibetan mastiff	
+n03763968	military uniform	dress military uniform, States military uniform, khaki military uniform, U.S. military uniform
+n04277352	spindle	machine spindle, drill spindle, work spindle, lathe spindle, valve spindle, muscle spindle, iron spindle, maturation spindle, wheel spindle, steel spindle
+n02096177	cairn	Glen cairn, memorial cairn, snow cairn, summit cairn, ring cairn, burial cairn, stone cairn, rock cairn, boundary cairn, Pit cairn
+n02096177	cairn terrier	
+n03843555	oil filter	type oil filter, automobile oil filter, Cuno oil filter, lubricating oil filter, flow oil filter, lube oil filter, fuel oil filter, engine oil filter, transmission oil filter, Fuel oil filter
+n04355933	sunglass	
+n04485082	tripod	silver tripod, mahogany tripod, leg tripod, steel tripod, glass tripod, extension tripod, iron tripod, compass tripod, brass tripod, camera tripod
+n04273569	speedboat	Wood speedboat, foot speedboat, Craft speedboat, mahogany speedboat, Riva speedboat, family speedboat, cigarette speedboat
+n04332243	strainer	wire strainer, cloth strainer, gauze strainer, hair strainer, suction strainer, linen strainer, fuel strainer, tea strainer, oil strainer, muslin strainer
+n01740131	night snake	
+n01740131	Hypsiglena torquata	
+n02107142	Doberman	1600 Doberman, Louis Doberman, killer Doberman, part Doberman
+n02107142	Doberman pinscher	
+n03127747	crash helmet	motorcycle crash helmet
+n02088632	bluetick	
+n02106166	Border collie	part Border collie
+n02094258	Norwich terrier	
+n02110806	basenji	
+n07760859	custard apple	
+n02097047	miniature schnauzer	
+n03710637	maillot	son maillot
+n01685808	whiptail	
+n01685808	whiptail lizard	
+n02980441	castle	Warwick castle, Windsor castle, Berkeley castle, Dover castle, Ludlow castle, Pontefract castle, Norman castle, Edinburgh castle, Dublin castle, stone castle
+n02981792	catamaran	sailing catamaran, cruising catamaran, foot catamaran, passenger catamaran, steel catamaran, luxury catamaran, racing catamaran, speed catamaran, Tornado catamaran, power catamaran
+n03133878	Crock Pot	
+n04040759	radiator	oil radiator, iron radiator, tube radiator, body radiator, heat radiator, automobile radiator, steam radiator, type radiator, car radiator, water radiator
+n03933933	pier	bridge pier, masonry pier, stone pier, brick pier, compound pier, center pier, chain pier, iron pier, landing pier, pivot pier
+n03476684	hair slide	
+n04069434	reflex camera	twinlens reflex camera, lens reflex camera, mirror reflex camera, 35mm reflex camera, plate reflex camera, mm reflex camera, singlelens reflex camera
+n03871628	packet	Liverpool packet, sailing packet, data packet, steam packet, film packet, wave packet, canal packet, mail packet, paper packet, pay packet
+n03958227	plastic bag	closure plastic bag, seal plastic bag, duty plastic bag, polyethylene plastic bag, gauge plastic bag, size plastic bag, supermarket plastic bag, lock plastic bag, weight plastic bag, gallon plastic bag
+n02108000	EntleBucher	
+n02109047	Great Dane	Schnauzer Great Dane, harlequin Great Dane, Harlequin Great Dane, part Great Dane
+n04118776	rule	iron rule, evidence rule, slide rule, law rule, majority rule, decision rule, home rule, phase rule, mob rule, selection rule
+n04118776	ruler	home ruler, world ruler, woman ruler, Almighty ruler, O ruler, time ruler, model ruler, Supreme ruler, puppet ruler, Norman ruler
+n04371774	swing	pendulum swing, golf swing, grid swing, voltage swing, arms swing, arm swing, return swing, door swing, doors swing, porch swing
+n01440764	tench	F tench
+n01440764	Tinca tinca	
+n03961711	plate rack	
+n03100240	convertible	Cadillac convertible, notes convertible, terms convertible, securities convertible, Ford convertible, bonds convertible, paper convertible, currency convertible, times convertible, cent convertible
+n04153751	screw	set screw, thumb screw, feed screw, iron screw, clamp screw, micrometer screw, adjustment screw, machine screw, adjusting screw, wood screw
+n02906734	broom	bonny broom, feather broom, whisk broom, hearth broom, birch broom, iron broom, twig broom, corn broom, hair broom, push broom
+n02951358	canoe	canvas canoe, dugout canoe, sailing canoe, birch canoe, skin canoe, log canoe, outrigger canoe, stone canoe, war canoe, bark canoe
+n07715103	cauliflower	cups cauliflower, cup cauliflower, summer cauliflower, winter cauliflower, cabbage cauliflower, Cook cauliflower, medium cauliflower, Place cauliflower, prize cauliflower, head cauliflower
+n02102040	English springer	
+n02102040	English springer spaniel	
+n03445924	golfcart	
+n03445924	golf cart	
+n02104365	schipperke	
+n03976657	pole	S pole, totem pole, unit pole, N pole, telegraph pole, flag pole, magnet pole, liberty pole, telephone pole, ridge pole
+n04589890	window screen	wire window screen, bedroom window screen, copper window screen, kitchen window screen, nylon window screen, mesh window screen, aluminum window screen
+n03944341	pinwheel	July pinwheel, fireworks pinwheel, paper pinwheel, toy pinwheel
+n03063689	coffeepot	brass coffeepot, earthenware coffeepot, china coffeepot, copper coffeepot, tin coffeepot, drip coffeepot, silver coffeepot, enamel coffeepot, aluminum coffeepot, glass coffeepot
+n04228054	ski	snow ski, Mountain ski, water ski, crosscountry ski, country ski, Colorado ski, slalom ski, winter ski, La ski, jet ski
+n04562935	water tower	town water tower, stone water tower, steel water tower, city water tower, railroad water tower, brick water tower, village water tower, gallon water tower
+n01644373	tree frog	Barking tree frog, Pacific tree frog, Barrens tree frog, barking tree frog, Anderson tree frog, barrens tree frog, Arizona tree frog, California tree frog, canyon tree frog, Gray tree frog
+n01644373	tree-frog	
+n04392985	tape player	cassette tape player, stereo tape player, track tape player, video tape player, cartridge tape player, car tape player, Walkman tape player
+n04456115	torch	blow torch, propane torch, gasoline torch, plasma torch, hand torch, gas torch, acetylene torch, pocket torch, pine torch, cutting torch
+n04259630	sombrero	El sombrero, velvet sombrero, con sombrero, Texas sombrero, sin sombrero, word sombrero, straw sombrero, cowboy sombrero, Stetson sombrero, hat sombrero
+n02098286	West Highland white terrier	
+n04606251	wreck	sea wreck, car wreck, freight wreck, railway wreck, pirate wreck, plane wreck, auto wreck, ship wreck, train wreck, railroad wreck
+n04147183	schooner	trading schooner, prairie schooner, fishing schooner, steam schooner, S. schooner, States schooner, prize schooner, pilot schooner, privateer schooner, topsail schooner
+n04423845	thimble	silver thimble, steel thimble, paper thimble, iron thimble, alundum thimble, copper thimble, ivory thimble, brass thimble, extraction thimble, gold thimble
+n02514041	barracouta	
+n02514041	snoek	
+n02037110	oystercatcher	
+n02037110	oyster catcher	
+n04252077	snowmobile	Ford snowmobile, Cat snowmobile, winter snowmobile
+n02978881	cassette	grid cassette, film cassette, Video cassette, stereo cassette, radio cassette, expression cassette, tape cassette, video cassette, videotape cassette, VHS cassette
+n07695742	pretzel	word pretzel, beer pretzel, cup pretzel, rubber pretzel, cups pretzel
+n07717556	butternut squash	cup butternut squash, cups butternut squash, pound butternut squash, pounds butternut squash
+n02112137	chow	Hang chow, chow chow, laboratory chow, noon chow, dog chow, lab chow, monkey chow, evening chow, rat chow, chicken chow
+n02112137	chow chow	shepherd chow chow
+n01675722	banded gecko	Texas banded gecko
+n01734418	king snake	mountain king snake, Florida king snake, California king snake
+n01734418	kingsnake	California kingsnake, prairie kingsnake, mountain kingsnake, Florida kingsnake
+n02096051	Airedale	part Airedale, Terriers Airedale, Upper Airedale, Lord Airedale, family Airedale, Baron Airedale, champion Airedale
+n02096051	Airedale terrier	
+n04330267	stove	cook stove, oil stove, iron stove, kerosene stove, coal stove, gas stove, Franklin stove, kitchen stove, charcoal stove, wood stove
+n02190166	fly	salmon fly, house fly, dragon fly, men fly, birds fly, fruit fly, bottle fly, bird fly, arrows fly, sparks fly
+n03633091	ladle	punch ladle, iron ladle, soup ladle, hand ladle, tin ladle, steel ladle, copper ladle, casting ladle, silver ladle, brass ladle
+n03773504	missile	II missile, U.S. missile, rocket missile, velocity missile, cruise missile, Cruise missile, air missile, MX missile, surface missile, enemy missile
+n07920052	espresso	cup espresso, ground espresso, instant espresso, L&#39; espresso, chocolate espresso, cafe espresso, caffe espresso, home espresso, morning espresso, era espresso
+n01608432	kite	Everglade kite, enemy kite, felon kite, lazar kite, dragon kite, box kite, carrion kite, paper kite, Mississippi kite, silk kite
+n03891251	park bench	city park bench, iron park bench
+n02177972	weevil	leaf weevil, boll weevil, bean weevil, grain weevil, vine weevil, rice weevil, root weevil, potato weevil, alfalfa weevil, pine weevil
+n04435653	tile roof	mission tile roof, barrel tile roof, clay tile roof
+n13037406	gyromitra	
+n03623198	knee pad	
+n02115913	dhole	
+n02115913	Cuon alpinus	dog Cuon alpinus
+n03908714	pencil sharpener	Electric pencil sharpener, pocket pencil sharpener
+n04026417	purse	coin purse, silk purse, family purse, subscription purse, stock purse, charity purse, change purse, leather purse, velvet purse, bead purse
+n04476259	tray	brass tray, iron tray, supper tray, tea tray, tin tray, silver tray, breakfast tray, ash tray, impression tray, food tray
+n03291819	envelope	modulation envelope, glass envelope, failure envelope, pay envelope, paper envelope, return envelope, manila envelope, building envelope, reply envelope, cell envelope
+n01774750	tarantula	name tarantula, adult tarantula, term tarantula, desert tarantula, word tarantula, rubber tarantula, Lycosa tarantula
+n03447447	gondola	word gondola, steel gondola, London gondola, passenger gondola, state gondola, fleet gondola, engine gondola, silver gondola, railroad gondola, balloon gondola
+n04325704	stole	hand stole, Prometheus stole, men stole, man stole, tears stole, smile stole, night stole, Indians stole, disciples stole, light stole
+n01580077	jay	San jay, pinyon jay, Mountain jay, Oregon jay, pinon jay, scrub jay, Canada jay, California jay, John jay, Florida jay
+n07697313	cheeseburger	Bacon cheeseburger, food cheeseburger, chili cheeseburger, bacon cheeseburger, pound cheeseburger, deluxe cheeseburger
+n03290653	entertainment center	home entertainment center, oak entertainment center, wood entertainment center, family entertainment center
+n06596364	comic book	U.S. comic book, Duck comic book, horror comic book, Marvel comic book, Archie comic book, Mouse comic book, crime comic book, Batman comic book, Disney comic book, adventure comic book
+n03388043	fountain	water fountain, stone fountain, soda fountain, Trevi fountain, alabaster fountain, marble fountain, healing fountain, drinking fountain, village fountain, living fountain
+n03530642	honeycomb	Aluminum honeycomb, titanium honeycomb, paper honeycomb, aluminium honeycomb, pounds honeycomb, Nomex honeycomb, Paper honeycomb, steel honeycomb, aluminum honeycomb, wax honeycomb
+n03956157	planetarium	Moscow planetarium, projection planetarium, VI planetarium, home planetarium, Spitz planetarium, model planetarium, city planetarium, school planetarium, Zeiss planetarium, Hayden planetarium
+n04204347	shopping cart	toy shopping cart, store shopping cart, custom shopping cart, grocery shopping cart, wire shopping cart, supermarket shopping cart
+n04522168	vase	Portland vase, marble vase, flower vase, alabaster vase, china vase, porphyry vase, stone vase, Francois vase, glass vase, silver vase
+n07714990	broccoli	pound broccoli, cauliflower broccoli, pounds broccoli, Cape broccoli, Cook broccoli, bunch broccoli, cups broccoli, head broccoli, Place broccoli, cup broccoli
+n01514859	hen	V hen, mother hen, sitting hen, setting hen, prairie hen, turkey hen, W hen, guinea hen, heath hen
+n02808304	bath towel	cloth bath towel, terry bath towel, Place bath towel, place bath towel, cotton bath towel, hotel bath towel
+n03777568	Model T	1909 Model T, Wonderful Model T, family Model T, 1925 Model T, Fabulous Model T, 1926 Model T, Ford Model T, 1914 Model T, First Model T, millionth Model T
+n03868242	oxcart	River oxcart
+n04209133	shower cap	hotel shower cap, paper shower cap
+n04366367	suspension bridge	span suspension bridge, Menai suspension bridge, Brooklyn suspension bridge, cable suspension bridge, railway suspension bridge, iron suspension bridge, steel suspension bridge, wire suspension bridge, chain suspension bridge, railroad suspension bridge
+n02607072	anemone fish	
+n02974003	car wheel	iron car wheel, freight car wheel, passenger car wheel, railway car wheel, railroad car wheel, motor car wheel
+n03662601	lifeboat	motor lifeboat, Walmer lifeboat, Deal lifeboat, steel lifeboat, Ramsgate lifeboat, steam lifeboat, Guard lifeboat, rubber lifeboat, power lifeboat, Margate lifeboat
+n03769881	minibus	tourist minibus, community minibus, hotel minibus, airport minibus, VW minibus, car minibus, passenger minibus, Toyota minibus, Volkswagen minibus, school minibus
+n07875152	potpie	Chicken potpie, turkey potpie, beef potpie, Turkey potpie, pigeon potpie, chicken potpie
+n04133789	sandal	grass sandal, straw sandal, leather sandal, toe sandal, satin sandal, ground sandal, hide sandal, strings sandal, rubber sandal, bastard sandal
+n03393912	freight car	gondola freight car, railroad freight car, steel freight car, Rail freight car, railway freight car, box freight car, Railroad freight car, rail freight car
+n02229544	cricket	tree cricket, field cricket, Indies cricket, Harrow cricket, house cricket, club cricket, mole cricket, county cricket, school cricket, village cricket
+n02730930	apron	rubber apron, gingham apron, silk apron, kitchen apron, muslin apron, linen apron, check apron, cotton apron, leather apron, baize apron
+n04336792	stretcher	box stretcher, ambulance stretcher, pulse stretcher, cross stretcher, hospital stretcher, glove stretcher, line stretcher, wire stretcher, canvas stretcher, camp stretcher
+n07747607	orange	feet orange, legs orange, acridine orange, mandarin orange, osage orange, methyl orange, cup orange, Seville orange, China orange, Valencia orange
+n02999410	chain	watch chain, mountain chain, polymer chain, food chain, gold chain, silver chain, polypeptide chain, carbon chain, side chain, iron chain
+n03026506	Christmas stocking	
+n04525305	vending machine	gum vending machine, Cola vending machine, food vending machine, cigarette vending machine, milk vending machine, coffee vending machine, drink vending machine, candy vending machine, newspaper vending machine, ticket vending machine
+n02012849	crane	tower crane, iron crane, jib crane, bridge crane, derrick crane, steam crane, gantry crane, truck crane, sandhill crane, travelling crane
+n03443371	goblet	water goblet, brimming goblet, wine goblet, drinking goblet, festival goblet, iron goblet, silver goblet, champagne goblet, glass goblet, gold goblet
+n02089078	black-and-tan coonhound	
+n03379051	football helmet	leather football helmet
+n03598930	jigsaw puzzle	family jigsaw puzzle, piece jigsaw puzzle
+n04613696	yurt	Kyrgyz yurt, word yurt, family yurt
+n03627232	knot	root knot, bow knot, bowline knot, reef knot, slip knot, sword knot, marriage knot, mountain knot, pine knot, love knot
+n01689811	alligator lizard	Texas alligator lizard
+n03179701	desk	reference desk, circulation desk, control desk, reception desk, information desk, mahogany desk, school desk, copy desk, office desk, city desk
+n07716906	spaghetti squash	medium spaghetti squash
+n02106550	Rottweiler	1800 Rottweiler, \u00ae Rottweiler, retriever Rottweiler, Hektor Rottweiler, American Rottweiler, pet Rottweiler, Dog Rottweiler
+n02110185	Siberian husky	
+n04009552	projector	film projector, picture projector, Slide projector, filmstrip projector, strip projector, cinema projector, movie projector, ceiling projector, slide projector, Livens projector
+n04179913	sewing machine	Gibbs sewing machine, Singer sewing machine, treadle sewing machine, Wilson sewing machine, Howe sewing machine, family sewing machine, McKay sewing machine, hand sewing machine, power sewing machine, home sewing machine
+n04209239	shower curtain	cloth shower curtain, fabric shower curtain, nylon shower curtain, vinyl shower curtain, bathroom shower curtain
+n04532670	viaduct	railway viaduct, street viaduct, timber viaduct, steel viaduct, iron viaduct, railroad viaduct, brick viaduct, Avenue viaduct, stone viaduct, Street viaduct
+n02094433	Yorkshire terrier	toy Yorkshire terrier
+n03127925	crate	bushel crate, apple crate, basket crate, wicker crate, milk crate, fruit crate, breeding crate, egg crate, packing crate, shipping crate
+n07711569	mashed potato	cups mashed potato, grams mashed potato, garlic mashed potato, instant mashed potato, Instant mashed potato, cup mashed potato, creamy mashed potato, tablespoons mashed potato
+n03837869	obelisk	word obelisk, Luxor obelisk, companion obelisk, Washington obelisk, stone obelisk, granite obelisk, Paris obelisk, marble obelisk, York obelisk, London obelisk
+n04532106	vestment	material vestment, linen vestment, satin vestment, velvet vestment, woollen vestment, silk vestment, church vestment, cloth vestment, flannel vestment
+n03444034	go-kart	
+n03980874	poncho	rubber poncho, wool poncho, army poncho, vicuna poncho, cotton poncho, rain poncho, woolen poncho, woollen poncho, blanket poncho, cloth poncho
+n01855672	goose	mother goose, roast goose, Soland goose, Barnacle goose, upland goose, snow goose, Canada goose, lag goose, Christmas goose, bean goose
+n02699494	altar	family altar, fire altar, church altar, word altar, side altar, stone altar, marble altar, marriage altar, household altar, incense altar
+n02950826	cannon	brass cannon, rifle cannon, field cannon, pound cannon, stone cannon, toy cannon, iron cannon, rebel cannon, siege cannon, Krupp cannon
+n03796401	moving van	orange moving van, Mayflower moving van, Allied moving van
+n04090263	rifle	Springfield rifle, Winchester rifle, magazine rifle, Kentucky rifle, Henry rifle, Minie rifle, Enfield rifle, trusty rifle, assault rifle, air rifle
+n07880968	burrito	chicken burrito, Chicken burrito, cheese burrito, beef burrito, veggie burrito, Beef burrito, bean burrito, El burrito, breakfast burrito, Bean burrito
+n04458633	totem pole	Coast totem pole, status totem pole, seniority totem pole, family totem pole, model totem pole, university totem pole, output totem pole, cedar totem pole, office totem pole, TTL totem pole
+n07613480	trifle	man trifle, world trifle, others trifle, material trifle, coffee trifle, men trifle, People trifle, raspberry trifle, sherry trifle, account trifle
+n07831146	carbonara	pasta carbonara, fettuccine carbonara, spaghetti carbonara
+n01560419	bulbul	
+n02102973	Irish water spaniel	
+n03220513	dome	Capitol dome, brick dome, pleasure dome, copper dome, iron dome, granite dome, cathedral dome, salt dome, steam dome, glass dome
+n03527444	holster	revolver holster, flintlock holster, leather holster, belt holster, gun holster, hip holster, saddle holster, ankle holster, pistol holster, shoulder holster
+n03630383	lab coat	cotton lab coat
+n03630383	laboratory coat	
+n03717622	manhole cover	steel manhole cover, iron manhole cover
+n02843684	birdhouse	
+n03384352	forklift	warehouse forklift, U.S. forklift, terrain forklift, capacity forklift
+n04447861	toilet seat	paper toilet seat, oak toilet seat
+n07734744	mushroom	horse mushroom, garden mushroom, honey mushroom, field mushroom, ring mushroom, meadow mushroom, straw mushroom, button mushroom, cup mushroom, shiitake mushroom
+n04487394	trombone	valve trombone, alto trombone, Bass trombone, slide trombone, tenor trombone, bass trombone, tailgate trombone, solo trombone, G trombone, jazz trombone
+n07802026	hay	salt hay, Timothy hay, oat hay, marsh hay, grass hay, legume hay, timothy hay, meadow hay, alfalfa hay, clover hay
+n09193705	alp	word alp
+n06359193	web site	Microsoft web site, Press web site, company web site, Center web site, companion web site, library web site, Wrox web site, Publishing web site, Internet web site, USA web site
+n06359193	website	Osprey website, IRS website, Library website, companion website, Office website, USA website, House website, Press website, Internet website, Ashgate website
+n06359193	internet site	
+n06359193	site	construction site, town site, dam site, camp site, injection site, Web site, web site, village site, building site, school site
+n03804744	nail	toe nail, brass nail, shoe nail, finger nail, iron nail, wire nail, copper nail, cut nail, door nail, thumb nail
+n07717410	acorn squash	medium acorn squash
+n07720875	bell pepper	medium bell pepper, Cut bell pepper, Place bell pepper, Vi bell pepper, V2 bell pepper, Green bell pepper, cup bell pepper
+n09229709	bubble	level bubble, Mississippi bubble, water bubble, soap bubble, cauldron bubble, hydrogen bubble, glass bubble, gas bubble, Sea bubble, air bubble
+n04067472	reel	senses reel, tape reel, Virginia reel, brain reel, Highland reel, news reel, hose reel, cotton reel, supply reel, head reel
+n04398044	teapot	metal teapot, family teapot, copper teapot, silver teapot, brass teapot, earthenware teapot, delft teapot, enamel teapot, china teapot, tin teapot
+n04483307	trimaran	foot trimaran
+n04486054	triumphal arch	Renaissance triumphal arch, stone triumphal arch, marble triumphal arch
+n02791270	barbershop	neighborhood barbershop, basement barbershop, town barbershop, corner barbershop, chair barbershop, village barbershop, hotel barbershop, House barbershop, Hotel barbershop, prison barbershop
+n04154565	screwdriver	flathead screwdriver, size screwdriver, ratchet screwdriver, steel screwdriver, head screwdriver, blade screwdriver, handle screwdriver, power screwdriver, type screwdriver, Phillips screwdriver
+n04462240	toyshop	London toyshop
+n04596742	wok	steel wok, Reheat wok, Place wok, Mi wok, iron wok, K wok, wok wok
+n02097658	silky terrier	
+n02097658	Sydney silky	
+n07742313	Granny Smith	2 Granny Smith, pound Granny Smith, pounds Granny Smith, Delicious Granny Smith, cups Granny Smith, medium Granny Smith
+n07930864	cup	Va cup, tin cup, china cup, Vi cup, wine cup, V2 cup, silver cup, paper cup, coffee cup, drinking cup
+n02701002	ambulance	police ambulance, field ambulance, hospital ambulance, horse ambulance, emergency ambulance, volunteer ambulance, army ambulance, Cross ambulance, motor ambulance, air ambulance
+n03344393	fireboat	city fireboat
+n04479046	trench coat	khaki trench coat, wool trench coat, navy trench coat, army trench coat, suede trench coat, leather trench coat, gabardine trench coat
+n04204238	shopping basket	supermarket shopping basket, family shopping basket, wire shopping basket, straw shopping basket, wicker shopping basket
+n02102480	Sussex spaniel	
+n04592741	wing	side wing, youth wing, kitchen wing, airplane wing, air wing, E wing, service wing, aircraft wing, bastard wing, Right wing
+n04254777	sock	stump sock, linen sock, leather sock, wind sock, woollen sock, wool sock, woolen sock, cotton sock, silk sock, yarn sock
+n04465501	tractor	farm tractor, plow tractor, gasoline tractor, garden tractor, steam tractor, wheel tractor, crawler tractor, caterpillar tractor, Fordson tractor, machine tractor
+n03197337	digital watch	quartz digital watch, Casio digital watch
+n03125729	cradle	iron cradle, mountain cradle, baby cradle, wicker cradle, heat cradle, family cradle, bed cradle, basket cradle, grain cradle, wire cradle
+n04127249	safety pin	gold safety pin, silver safety pin, steel safety pin, brass safety pin
+n07892512	red wine	blood red wine, bottle red wine, Virginia red wine, tablespoons red wine, teaspoons red wine, California red wine, cups red wine, Bordeaux red wine, tbsp red wine, cup red wine
+n02988304	CD player	dash CD player, home CD player, Photo CD player, music CD player, Audio CD player, photo CD player, Philips CD player, Sony CD player, consumer CD player, car CD player
+n02093859	Kerry blue terrier	
+n02096294	Australian terrier	
+n04579145	whiskey jug	
+n07579787	plate	steel plate, iron plate, base plate, glass plate, brass plate, silver plate, zinc plate, tin plate, cover plate, copper plate
+n02268853	damselfly	adult damselfly
+n04317175	stethoscope	toy stethoscope, head stethoscope, tube stethoscope, Place stethoscope, Doppler stethoscope, Bowles stethoscope, bell stethoscope, esophageal stethoscope, ultrasound stethoscope, diaphragm stethoscope
+n02423022	gazelle	buck gazelle, Grant gazelle, baby gazelle, mountain gazelle, O gazelle, Thomson gazelle, Dorcas gazelle, fleet gazelle, dorcas gazelle, desert gazelle
+n02319095	sea urchin	stage sea urchin, pencil sea urchin
+n04326547	stone wall	feet stone wall, rubble stone wall, dwarf stone wall, England stone wall, granite stone wall, boundary stone wall, field stone wall
+n04597913	wooden spoon	spoons wooden spoon, knife wooden spoon, cup wooden spoon, pan wooden spoon, bowl wooden spoon, saucepan wooden spoon
+n01806143	peacock	NBC peacock, roast peacock, spread peacock, Java peacock, Japan peacock, glass peacock, Congo peacock, word peacock, china peacock, Fletcher peacock
+n02963159	cardigan	cashmere cardigan, wool cardigan, Isle cardigan, cotton cardigan, mohair cardigan, woolen cardigan, woollen cardigan, silk cardigan, angora cardigan, navy cardigan
+n04355338	sundial	granite sundial, living sundial, brass sundial, marble sundial, wall sundial, copper sundial, stone sundial, garden sundial, pocket sundial, century sundial
+n03272010	electric guitar	string electric guitar, body electric guitar, Paul electric guitar, Gibson electric guitar, Fender electric guitar
+n07714571	head cabbage	medium head cabbage
+n02791124	barber chair	
+n03733805	measuring cup	tin measuring cup, plastic measuring cup, household measuring cup, metal measuring cup, liquid measuring cup, glass measuring cup, spoons measuring cup, kitchen measuring cup, pint measuring cup, cup measuring cup
+n03814906	necklace	glass necklace, gold necklace, diamond necklace, pearl necklace, emerald necklace, amber necklace, jade necklace, bead necklace, silver necklace, shell necklace
+n13044778	earthstar	
+n02361337	marmot	prairie marmot, mountain marmot, steppe marmot, Island marmot, Bobak marmot, Quebec marmot, Maryland marmot
+n03314780	face powder	Coty face powder
+n04376876	syringe	ml syringe, fountain syringe, tuberculin syringe, ear syringe, bulb syringe, Pravaz syringe, rubber syringe, condensing syringe, glass syringe, enema syringe
+n02033041	dowitcher	
+n04442312	toaster	W toaster, slice toaster, bread toaster, Electric toaster, cheese toaster, breakfast toaster, wire toaster, gas toaster, kitchen toaster, sandwich toaster
+n03388549	four-poster	
+n04201297	shoji	glass shoji, paper shoji
+n03255030	dumbbell	shoulders dumbbell, glass dumbbell, bench dumbbell, weight dumbbell, pound dumbbell, arm dumbbell, iron dumbbell
+n03495258	harp	minstrel harp, Jews harp, telegraph harp, pedal harp, mouth harp, frame harp, aeolian harp, Welch harp, string harp
+n01534433	junco	Carolina junco, Oregon junco, volcano junco
+n01534433	snowbird	
+n01843065	jacamar	
+n03584829	iron	charcoal iron, railroad iron, serum iron, cast iron, pig iron, angle iron, plate iron, sheet iron, molten iron, bar iron
+n03584829	smoothing iron	
+n04560804	water jug	clay water jug, enamel water jug, copper water jug, glass water jug, gallon water jug, earthenware water jug, stone water jug
+n12267677	acorn	ground acorn, M acorn, California acorn, Oak acorn, medium acorn, word acorn, parent acorn, rubber acorn, cup acorn, oak acorn
+n01491361	tiger shark	Sand tiger shark, sand tiger shark
+n01491361	Galeocerdo cuvieri	shark Galeocerdo cuvieri
+n01818515	macaw	Amazon macaw, M macaw, hyacinth macaw
+n02790996	barbell	silver barbell, Place barbell, weight barbell, lb. barbell, steel barbell, iron barbell, shoulders barbell, grip barbell, incline barbell, pound barbell
+n03891332	parking meter	
+n07932039	eggnog	Christmas eggnog, rum eggnog, holiday eggnog, cup eggnog, Mommy eggnog, dairy eggnog, cups eggnog
+n01829413	hornbill	Ground hornbill, ground hornbill, hen hornbill, trumpeter hornbill, Rhinoceros hornbill, Grey hornbill
+n02091244	Ibizan hound	
+n02091244	Ibizan Podenco	
+n04612504	yawl	Stephens yawl, canoe yawl, gaff yawl, foot yawl, cat yawl, Norway yawl, Concordia yawl
+n01768244	trilobite	name trilobite, Cambrian trilobite, Ordovician trilobite, stone trilobite
+n02965783	car mirror	
+n07749582	lemon	teaspoons lemon, water lemon, cup lemon, slice lemon, T. lemon, Vi lemon, California lemon, V2 lemon, tablespoons lemon, teaspoon lemon
+n01820546	lorikeet	Rainbow lorikeet, rainbow lorikeet
+n02098105	soft-coated wheaten terrier	
+n02971356	carton	shipping carton, milk carton, juice carton, cream carton, paperboard carton, paper carton, cigarette carton, grocery carton, cardboard carton, egg carton
+n04579432	whistle	train whistle, bullets whistle, police whistle, tin whistle, silver whistle, steam whistle, penny whistle, factory whistle, railway whistle, winds whistle
+n01704323	triceratops	baby triceratops
+n07768694	pomegranate	tablespoons pomegranate, word pomegranate, dwarf pomegranate, stone pomegranate, cup pomegranate, ivory pomegranate, cups pomegranate
+n01883070	wombat	Phascolomys wombat, baby wombat, Whangaroa wombat
+n02397096	warthog	baby warthog, mother warthog
+n03788365	mosquito net	gauze mosquito net, muslin mosquito net, cotton mosquito net, nylon mosquito net
+n03792972	mountain tent	
+n04125021	safe	home safe, office safe, life safe, world safe, man safe, means safe, country safe, art safe, iron safe, things safe
+n01498041	stingray	diamond stingray
+n01828970	bee eater	
+n01943899	conch	queen conch, king conch, crown conch, marble conch, war conch, Queen conch, sea conch, horse conch, ear conch, silver conch
+n02410509	bison	Bos bison, B. bison, bull bison, wood bison, Plains bison, cow bison, mountain bison, plains bison, Bison bison, bison bison
+n02910353	buckle	brass buckle, belt buckle, silver buckle, turn buckle, knees buckle, gold buckle, diamond buckle, shoe buckle, iron buckle, steel buckle
+n01631663	eft	J eft, L eft, labor eft, II eft, f eft, Elle eft, T eft, ft eft, pot eft
+n02123159	tiger cat	
+n03930313	picket fence	cedar picket fence, iron picket fence, steel picket fence, wood picket fence
+n03930313	paling	stars paling, iron paling, cheek paling, wood paling, park paling, face paling, garden paling, oak paling, cheeks paling, lath paling
+n12144580	corn	field corn, plant corn, bread corn, winter corn, seed corn, guinea corn, ear corn, spring corn, Guinea corn, ground corn
+n01917289	brain coral	
+n04005630	prison	city prison, town prison, Fleet prison, Newgate prison, model prison, convict prison, Libby prison, state prison, county prison, Andersonville prison
+n04005630	prison house	
+n03146219	cuirass	brass cuirass, steel cuirass, bombazine cuirass, wire cuirass, silver cuirass, iron cuirass, leather cuirass, plaster cuirass, linen cuirass, metal cuirass
+n04296562	stage	world stage, output stage, transition stage, landing stage, egg stage, center stage, development stage, London stage, planning stage, design stage
+n01737021	water snake	Florida water snake, Concho water snake, Erie water snake, diamondback water snake
+n01807496	partridge	mother partridge, Virginia partridge, birch partridge, snow partridge, hen partridge, cock partridge, roast partridge, rock partridge, spruce partridge, mountain partridge
+n02786058	Band Aid	
+n04141327	scabbard	iron scabbard, rifle scabbard, leather scabbard, saddle scabbard, ivory scabbard, bayonet scabbard, sword scabbard, velvet scabbard, steel scabbard, knife scabbard
+n04263257	soup bowl	lacquer soup bowl, cream soup bowl
+n03481172	hammer	trip hammer, claw hammer, hand hammer, water hammer, drop hammer, sledge hammer, iron hammer, stone hammer, tilt hammer, steam hammer
+n02018795	bustard	Stanley bustard, Norfolk bustard, Houbara bustard, Kori bustard, cock bustard, turkey bustard, hen bustard, roast bustard, houbara bustard
+n04540053	volleyball	balloon volleyball, water volleyball, women volleyball, power volleyball, school volleyball, varsity volleyball, sand volleyball, beach volleyball, regulation volleyball, Beach volleyball
+n03724870	mask	oxygen mask, iron mask, death mask, gas mask, life mask, shadow mask, gauze mask, face mask, velvet mask, ski mask
+n03938244	pillow	midnight pillow, feather pillow, rubber pillow, satin pillow, air pillow, lace pillow, stone pillow, sofa pillow, straw pillow, silk pillow
+n04501370	turnstile	iron turnstile, ticket turnstile, electron turnstile, exit turnstile, entry turnstile, security turnstile, subway turnstile, entrance turnstile
+n01806567	quail	man quail, desert quail, mountain quail, mother quail, spirit quail, valley quail, Gambel quail, California quail, heart quail, hearts quail
+n03063599	coffee mug	tin coffee mug, travel coffee mug, china coffee mug
+n03124043	cowboy boot	
+n02007558	flamingo	baby flamingo, Lesser flamingo, cock flamingo, James flamingo, plaster flamingo, lawn flamingo
+n03478589	half track	
+n03786901	mortar	trench mortar, agate mortar, clay mortar, cement mortar, steel mortar, lime mortar, iron mortar, mud mortar, stone mortar, glass mortar
+n04149813	scoreboard	Field scoreboard, stadium scoreboard, field scoreboard, D scoreboard, cricket scoreboard, football scoreboard, Stadium scoreboard, basketball scoreboard, baseball scoreboard, sports scoreboard
+n01530575	brambling	
+n01530575	Fringilla montifringilla	Brambling Fringilla montifringilla
+n02099429	curly-coated retriever	
+n03764736	milk can	steel milk can, tin milk can, skim milk can, Skim milk can, quality milk can, breast milk can, soybean milk can, gallon milk can, coconut milk can, goat milk can
+n03876231	paintbrush	paints paintbrush, household paintbrush, hair paintbrush, liner paintbrush, glue paintbrush, Use paintbrush, medium paintbrush, paint paintbrush, desert paintbrush, paper paintbrush
+n01667778	terrapin	river terrapin, pond terrapin, back terrapin, Carolina terrapin, water terrapin, land terrapin, diamondback terrapin, Maryland terrapin, Malaclemys terrapin, box terrapin
+n01847000	drake	word drake, musk drake, wood drake, shell drake, eider drake, fire drake, Rouen drake, mandarin drake, mallard drake, Aylesbury drake
+n03000134	chainlink fence	
+n01796340	ptarmigan	mountain ptarmigan, cock ptarmigan, hen ptarmigan, Arctic ptarmigan, Svalbard ptarmigan, willow ptarmigan, winter ptarmigan, Rock ptarmigan, rock ptarmigan, mother ptarmigan
+n02422106	hartebeest	Cape hartebeest, bull hartebeest, bastard hartebeest, Tora hartebeest
+n02403003	ox	work ox, Durham ox, Devon ox, victim ox, Hereford ox, word ox, F ox, line ox, prize ox, musk ox
+n03642806	laptop	Apple laptop, PowerBook laptop, Macintosh laptop, color laptop, PC laptop, Zenith laptop, IBM laptop, Toshiba laptop, Compaq laptop, U.S. laptop
+n03642806	laptop computer	Apple laptop computer, IBM laptop computer, Toshiba laptop computer, PowerBook laptop computer, Dell laptop computer, Macintosh laptop computer
+n04311004	steel arch bridge	
+n03485407	hand-held computer	
+n03485407	hand-held microcomputer	
+n01843383	toucan	Toco toucan, toco toucan, mountain toucan
+n07753113	fig	V. fig, I. fig, X. fig, A. fig, specimen fig, Smyrna fig, section fig, diagram fig, text fig
+n01749939	green mamba	
+n03832673	notebook	laboratory notebook, pocket notebook, leather notebook, school notebook, looseleaf notebook, spelling notebook, ring notebook, field notebook, manuscript notebook, class notebook
+n03832673	notebook computer	
+n04270147	spatula	rubber spatula, copper spatula, wax spatula, glass spatula, iron spatula, metal spatula, steel spatula, bone spatula, horn spatula, platinum spatula
+n02100877	Irish setter	champion Irish setter
+n02100877	red setter	
+n03937543	pill bottle	glass pill bottle, prescription pill bottle
+n03482405	hamper	picnic hamper, luncheon hamper, lunch hamper, Christmas hamper, conditions hamper, clothes hamper, wicker hamper, laundry hamper, way hamper, linen hamper
+n02823750	beer glass	
+n02488291	langur	Island langur, Hanuman langur, mother langur, Nilgiri langur, Douc langur
+n03014705	chest	iron chest, community chest, oak chest, medicine chest, treasure chest, tool chest, steam chest, valve chest, ice chest, war chest
+n04557648	water bottle	gourd water bottle, canvas water bottle, rubber water bottle, tin water bottle, mineral water bottle, Nansen water bottle, soda water bottle, glass water bottle, basketry water bottle, wicker water bottle
+n02101556	clumber	
+n02101556	clumber spaniel	
+n03787032	mortarboard	graduation mortarboard
+n03544143	hourglass	sand hourglass
+n09288635	geyser	bathroom geyser, water geyser, gift geyser, model geyser, Iceland geyser, fountain geyser, term geyser, word geyser, gas geyser, mud geyser
+n01582220	magpie	baby magpie
+n01592084	chickadee	Carolina chickadee, Mountain chickadee, mountain chickadee
+n02787622	banjo	gourd banjo, tenor banjo, box banjo, mountain banjo, negro banjo, string banjo, plectrum banjo, minstrel banjo, Willard banjo, bluegrass banjo
+n02834397	bib	paper bib, rubber bib, Sunday bib, cloth bib, hose bib, lace bib, baby bib, apron bib, linen bib
+n02011460	bittern	tiger bittern, Sun bittern, sun bittern
+n03141823	crutch	aluminum crutch, ivory crutch, forearm crutch, ebony crutch, iron crutch, boom crutch, mother crutch, rubber crutch, translation crutch, steel crutch
+n12985857	coral fungus	
+n01871265	tusker	circle tusker
+n03877845	palace	Barberini palace, summer palace, winter palace, Medici palace, Lambeth palace, Pitti palace, Colonna palace, Royal palace, country palace, government palace
+n01824575	coucal	pheasant coucal
+n02276258	admiral	time admiral, pirate admiral, Vienne admiral, year admiral, lord admiral, fleet admiral, Vice admiral, vice admiral
+n02442845	mink	hos mink, imitation mink, trap mink, sea mink, platinum mink, mutation mink, China mink, mother mink, ranch mink, vison mink
+n03942813	ping-pong ball	
+n04429376	throne	lion throne, dragon throne, mountain throne, ebon throne, Delhi throne, peacock throne, Almighty throne, Bourbon throne, judgment throne, ivory throne
+n04507155	umbrella	family umbrella, air umbrella, state umbrella, price umbrella, cotton umbrella, beach umbrella, gingham umbrella, silk umbrella, security umbrella, paper umbrella
+n01616318	vulture	California vulture, carrion vulture, aura vulture, Turkey vulture, scavenger vulture, turkey vulture, king vulture, griffon vulture, culture vulture, gallinazo vulture
+n03250847	drumstick	chicken drumstick, Chicken drumstick, turkey drumstick, bass drumstick
+n04120489	running shoe	Nike running shoe
+n02326432	hare	others hare, mountain hare, writers hare, persons hare, Arctic hare, people hare, March hare, sea hare, men hare
+n07565083	menu	Help menu, View menu, Edit menu, dinner menu, shortcut menu, Window menu, Options menu, Tools menu, Control menu, Start menu
+n02099712	Labrador retriever	chocolate Labrador retriever, spaniel Labrador retriever
+n02979186	cassette player	Walkman cassette player, Sony cassette player, radio cassette player, tape cassette player, Video cassette player, stereo cassette player, FM cassette player, video cassette player, car cassette player, pocket cassette player
+n01687978	agama	guru agama, term agama, rock agama, word agama, religion agama, tree agama, A. agama, Agama agama
+n02112018	Pomeranian	prize Pomeranian, Toy Pomeranian, West Pomeranian, toy Pomeranian, Pekingese Pomeranian
+n02124075	Egyptian cat	
+n03388183	fountain pen	rubber fountain pen, Waterman fountain pen, Technical fountain pen, Parker fountain pen, Sheaffer fountain pen, quality fountain pen, Swan fountain pen, ink fountain pen, filling fountain pen, Blanc fountain pen
+n02111500	Great Pyrenees	Dane Great Pyrenees
+n06794110	street sign	corner street sign
+n04041544	radio	transistor radio, Moscow radio, car radio, FM radio, network radio, police radio, wave radio, frequency radio, aircraft radio, AM radio
+n04041544	wireless	time wireless, Moscow wireless, field wireless, distance wireless, government wireless, power wireless, beam wireless, Government wireless, wave wireless, enemy wireless
+n01945685	slug	caliber slug, linotype slug, copper slug, rifle slug, iron slug, garden slug, tuning slug, Sea slug, field slug, sea slug
+n04254120	soap dispenser	
+n03584254	iPod	Pogue iPod, Video iPod, Apple iPod, U2 iPod, Windows iPod, generation iPod, video iPod, GB iPod, mini iPod, iPod iPod
+n03992509	potter  s wheel	
+n11939491	daisy	April daisy, Michaelmas daisy, mountain daisy, Shasta daisy, Easter daisy, oxeye daisy, Paris daisy, meadow daisy, field daisy, River daisy
+n02174001	rhinoceros beetle	palm rhinoceros beetle, coconut rhinoceros beetle
+n02109525	Saint Bernard	century Saint Bernard, B.D. Saint Bernard, Mont Saint Bernard, Petit Saint Bernard, Grand Saint Bernard, Great Saint Bernard, Melanges Saint Bernard, Quai Saint Bernard, Mount Saint Bernard, Little Saint Bernard
+n02109525	St Bernard	Quai St Bernard, Grand St Bernard, Little St Bernard, monk St Bernard, Mont St Bernard, Petit St Bernard, Great St Bernard, Mt St Bernard, Stanton St Bernard, Mount St Bernard
+n02794156	barometer	business barometer, wheel barometer, siphon barometer, mountain barometer, mercury barometer, water barometer, glass barometer, syphon barometer, inches barometer, cistern barometer
+n04208210	shovel	coal shovel, fire shovel, hand shovel, iron shovel, steam shovel, power shovel, snow shovel, Steam shovel, tractor shovel, scoop shovel
+n02095889	Sealyham terrier	
+n02095889	Sealyham	American Sealyham, Terrier Sealyham
+n03866082	overskirt	gauze overskirt, chiffon overskirt, velvet overskirt, silk overskirt, satin overskirt, tulle overskirt, lace overskirt
+n02487347	macaque	Bonnet macaque, bonnet macaque, Java macaque, rock macaque, pigtail macaque, toque macaque, baby macaque, rhesus macaque, Celebes macaque, Moor macaque
+n03196217	digital clock	
+n07684084	French loaf	
+n03476991	hair spray	aerosol hair spray
+n03590841	jack-o  -lantern	
+n03450230	gown	night gown, satin gown, cotton gown, evening gown, velvet gown, morning gown, muslin gown, wedding gown, silk gown, stuff gown
+n02099601	golden retriever	family golden retriever
+n03180011	desktop computer	office desktop computer, PC desktop computer, IBM desktop computer, Dell desktop computer, Macintosh desktop computer, home desktop computer
+n03259280	Dutch oven	tin Dutch oven, aluminum Dutch oven, iron Dutch oven
+n02526121	eel	sand eel, water eel, river eel, Surinam eel, salt eel, Conger eel, vinegar eel, Moray eel, sea eel, Electric eel
+n02643566	lionfish	dwarf lionfish
+n13054560	bolete	king bolete
+n01751748	sea snake	
+n04111531	rotisserie	barbecue rotisserie, La rotisserie, chicken rotisserie, features rotisserie
+n02089973	English foxhound	
+n02085782	Japanese spaniel	
+NA	dog	family dog, bull dog, police dog, house dog, bird dog, prairie dog, sheep dog, hunting dog, watch dog, Newfoundland dog
+NA	butterfly	tip butterfly, swallowtail butterfly, brimstone butterfly, monarch butterfly, cabbage butterfly, Monarch butterfly, parent butterfly, milkweed butterfly, peacock butterfly, lady butterfly
+NA	airplane	passenger airplane, transport airplane, model airplane, jet airplane, paper airplane, Wright airplane, fighter airplane, enemy airplane, research airplane, toy airplane
+NA	bird	mother bird, water bird, sea bird, parent bird, breeding bird, land bird, cock bird, game bird, hen bird, night bird

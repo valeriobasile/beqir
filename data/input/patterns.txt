@@ -3,3 +3,5 @@
 [lemma] is *_VERB
 [lemma] was *_VERB
 *_NOUN [lemma]
+* [lemma]
+[lemma] *
