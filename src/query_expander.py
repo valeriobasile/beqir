@@ -197,7 +197,7 @@ if __name__ == '__main__':
     patterns_path = "../data/input/patterns.txt"
     processed_data_folder = "../data/output/processed_data/"
     filtered_data_folder = "../data/output/filtered_data/"
-    #expand_query(synsets_path, patterns_path)
+    expand_query(synsets_path, patterns_path)
     expansions_data = process_expansions(patterns_path, processed_data_folder)
     filter_expansions(expansions_data, filtered_data_folder)
     calculate_statistics("../data/output/filtered_data/all_expansions.txt")
