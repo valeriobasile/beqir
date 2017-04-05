@@ -1,0 +1,1864 @@
+n02268443	dragonfly	
+n02268443	darning needle	
+n02268443	devil  s darning needle	
+n02268443	sewing needle	
+n02268443	snake feeder	
+n02268443	snake doctor	
+n02268443	mosquito hawk	
+n02268443	skeeter hawk	
+n03977966	police van	
+n03977966	police wagon	
+n03977966	paddy wagon	
+n03977966	patrol wagon	
+n03977966	wagon	wagon in the yard, wagon in the road, wagon in the country, wagon in the morning, wagon in the place, wagon in the train, wagon in the street, wagon in the rear
+n03977966	black Maria	
+n02747177	ashcan	
+n02747177	trash can	trash can in the kitchen, trash can in the garage, trash can in the bathroom, trash can in the alley
+n02747177	garbage can	garbage can in the garage, garbage can in the kitchen, garbage can in the back, garbage can in the alley
+n02747177	wastebin	
+n02747177	ash bin	
+n02747177	ash-bin	
+n02747177	ashbin	
+n02747177	dustbin	
+n02747177	trash barrel	
+n02747177	trash bin	
+n02814533	beach wagon	
+n02814533	station wagon	station wagon in the garage, station wagon in the parking, station wagon in the driveway, station wagon in the drive
+n02814533	wagon	wagon in the yard, wagon in the road, wagon in the country, wagon in the morning, wagon in the place, wagon in the train, wagon in the street, wagon in the rear
+n02814533	estate car	
+n02814533	beach waggon	
+n02814533	station waggon	
+n02814533	waggon	waggon in the distance, waggon in the afternoon, waggon in the street, waggon in the yard, waggon in the highway, waggon in the road
+n04467665	trailer truck	
+n04467665	tractor trailer	
+n04467665	trucking rig	
+n04467665	rig	rig in the North, rig in the area, rig in the chimney, rig in the bowsprit, rig in the water, rig in the Gulf, rig in the hope
+n04467665	articulated lorry	
+n04467665	semi	semi in the suburbs
+n01984695	spiny lobster	
+n01984695	langouste	
+n01984695	rock lobster	
+n01984695	crawfish	crawfish in the water
+n01984695	crayfish	crayfish in the streams, crayfish in the water, crayfish in the river, crayfish in the brook, crayfish in the creek, crayfish in the stream
+n01984695	sea crawfish	
+n02125311	cougar	cougar in the wild
+n02125311	puma	
+n02125311	catamount	
+n02125311	mountain lion	mountain lion in the wild
+n02125311	painter	painter in the city, painter in the service, painter in the country, painter in the time, painter in the town, painter in the kingdom, painter in the manner, painter in the reign
+n02125311	panther	panther in the dark, panther in the woods, panther in the chase, panther in the wild, panther in the forest, panther in the night, panther in the wilderness, panther in the act, panther in the jungle
+n02125311	Felis concolor	
+n04335435	streetcar	streetcar in the late, streetcar in the city, streetcar in the morning
+n04335435	tram	tram in the morning, tram in the city, tram in the direction
+n04335435	tramcar	
+n04335435	trolley	trolley in the corridor, trolley in the morning, trolley in the direction, trolley in the supermarket
+n04335435	trolley car	
+n02894605	breakwater	breakwater in the bay, breakwater in the Andamans, breakwater in the lake, breakwater in the Delaware, breakwater in the harbor, breakwater in the harbour
+n02894605	groin	
+n02894605	groyne	
+n02894605	mole	mole in the darkness, mole in the earth, mole in the shape, mole in the dark, mole in the harbour, mole in the case, mole in the ground, mole in the sea
+n02894605	bulwark	bulwark in the East, bulwark in the east, bulwark in the soul, bulwark in the defense, bulwark in the midst, bulwark in the way, bulwark in the course, bulwark in the struggle, bulwark in the fight
+n02894605	seawall	
+n02894605	jetty	jetty in the foreground, jetty in the river, jetty in the port, jetty in the harbour, jetty in the harbor, jetty in the dead
+n03065424	coil	coil in the opposite, coil in the furnace, coil in the plate, coil in the field, coil in the armature, coil in the bottom, coil in the circuit, coil in the direction, coil in the magnetic
+n03065424	spiral	spiral in the arms, spiral in the manner, spiral in the opposite, spiral in the upper, spiral in the cost
+n03065424	volute	
+n03065424	whorl	whorl in the adult
+n03065424	helix	helix in the presence, helix in the direction, helix in the line, helix in the case, helix in the region, helix in the opposite, helix in the protein
+n02966193	carousel	carousel in the park, carousel in the country
+n02966193	carrousel	
+n02966193	merry-go-round	
+n02966193	roundabout	
+n02966193	whirligig	
+n02788148	bannister	
+n02788148	banister	banister in the hallway, banister in the hall
+n02788148	balustrade	balustrade in the background, balustrade in the foreground, balustrade in the Hero, balustrade in the gallery, balustrade in the hall
+n02788148	balusters	
+n02788148	handrail	
+n03000247	chain mail	
+n03000247	ring mail	
+n03000247	mail	mail in the coupon, mail in the early, mail in the city, mail in the post, mail in the morning, mail in the box, mail in the manner
+n03000247	chain armor	
+n03000247	chain armour	
+n03000247	ring armor	
+n03000247	ring armour	
+n04553703	washbasin	washbasin in the room, washbasin in the bathroom
+n04553703	handbasin	
+n04553703	washbowl	washbowl in the bathroom
+n04553703	lavabo	lavabo in the sacristy
+n04553703	wash-hand basin	
+n02415577	bighorn	
+n02415577	bighorn sheep	bighorn sheep in the mountains, bighorn sheep in the area
+n02415577	cimarron	
+n02415577	Rocky Mountain bighorn	
+n02415577	Rocky Mountain sheep	
+n02415577	Ovis canadensis	
+n02071294	killer whale	
+n02071294	killer	killer in the story, killer in the country, killer in the West, killer in the U.S., killer in the history, killer in the ballant, killer in the nation, killer in the house
+n02071294	orca	
+n02071294	grampus	
+n02071294	sea wolf	
+n02071294	Orcinus orca	
+n02769748	backpack	backpack in the closet, backpack in the trunk, backpack in the back, backpack in the mountains, backpack in the hall, backpack in the car, backpack in the front
+n02769748	back pack	
+n02769748	knapsack	knapsack in the future, knapsack in the Union, knapsack in the back
+n02769748	packsack	
+n02769748	rucksack	rucksack in the back
+n02769748	haversack	
+n02536864	coho	
+n02536864	cohoe	
+n02536864	coho salmon	
+n02536864	blue jack	
+n02536864	silver salmon	
+n02536864	Oncorhynchus kisutch	
+n03691459	loudspeaker	loudspeaker in the control, loudspeaker in the present, loudspeaker in the room, loudspeaker in the hall, loudspeaker in the ceiling, loudspeaker in the street, loudspeaker in the wall, loudspeaker in the studio
+n03691459	speaker	speaker in the house, speaker in the first, speaker in the House, speaker in the parliament, speaker in the pulpit, speaker in the room, speaker in the poem, speaker in the chair, speaker in the debate, speaker in the dialogue
+n03691459	speaker unit	
+n03691459	loudspeaker system	
+n03691459	speaker system	
+n02992529	cellular telephone	
+n02992529	cellular phone	cellular phone in the car
+n02992529	cellphone	
+n02992529	cell	cell in the human, cell in the prison, cell in the brain, cell in the table, cell in the Tower, cell in the convent, cell in the body, cell in the direction
+n02992529	mobile phone	mobile phone in the car
+n01644900	tailed frog	
+n01644900	bell toad	
+n01644900	ribbed toad	
+n01644900	tailed toad	
+n01644900	Ascaphus trui	
+n02018207	American coot	
+n02018207	marsh hen	
+n02018207	mud hen	
+n02018207	water hen	
+n02018207	Fulica americana	
+n02395406	hog	hog in the mire, hog in the pen, hog in the sty, hog in the woods, hog in the structure, hog in the house, hog in the marble, hog in the Hebrides
+n02395406	pig	pig in the poke, pig in the sty, pig in the parlor, pig in the right, pig in the usual, pig in the pen, pig in the stye
+n02395406	grunter	
+n02395406	squealer	
+n02395406	Sus scrofa	
+n02509815	lesser panda	
+n02509815	red panda	
+n02509815	panda	panda in the wild
+n02509815	bear cat	
+n02509815	cat bear	
+n02509815	Ailurus fulgens	
+n04081281	restaurant	restaurant in the Palais, restaurant in the Rue, restaurant in the heart, restaurant in the city, restaurant in the basement, restaurant in the Bois, restaurant in the town, restaurant in the rue, restaurant in the neighborhood
+n04081281	eating house	
+n04081281	eating place	eating place in the city, eating place in the town
+n04081281	eatery	eatery in the city, eatery in the heart
+n03047690	clog	clog in the machinery, clog in the machine, clog in the way, clog in the wheel, clog in the wheels
+n03047690	geta	
+n03047690	patten	
+n03047690	sabot	
+n03877472	pajama	
+n03877472	pyjama	
+n03877472	pj  s	
+n03877472	jammies	
+n02808440	bathtub	bathtub in the house, bathtub in the home, bathtub in the statehouse, bathtub in the State, bathtub in the White, bathtub in the bathroom, bathtub in the kitchen, bathtub in the whole
+n02808440	bathing tub	
+n02808440	bath	bath in the evening, bath in the clear, bath in the sea, bath in the lake, bath in the stream, bath in the river, bath in the Ganges, bath in the morning, bath in the house
+n02808440	tub	tub in the morning, tub in the back, tub in the yard, tub in the kitchen, tub in the house, tub in the bathroom, tub in the cellar
+n04033995	quilt	quilt in the shade, quilt in the whole, quilt in the frames, quilt in the big, quilt in the back, quilt in the wintertime, quilt in the wagon, quilt in the frame
+n04033995	comforter	comforter in the dark, comforter in the most, comforter in the Jesuit, comforter in the hour, comforter in the time
+n04033995	comfort	comfort in the midst, comfort in the assurance, comfort in the thought, comfort in the realm, comfort in the reflection, comfort in the fact, comfort in the hour, comfort in the knowledge, comfort in the belief
+n04033995	puff	puff in the papers, puff in the street
+n03032252	cinema	cinema in the country, cinema in the city, cinema in the late, cinema in the 1930s, cinema in the town, cinema in the afternoon, cinema in the early, cinema in the evening
+n03032252	movie theater	movie theater in the basement, movie theater in the city, movie theater in the area, movie theater in the town, movie theater in the country
+n03032252	movie theatre	
+n03032252	movie house	movie house in the country, movie house in the neighborhood, movie house in the city, movie house in the town
+n03032252	picture palace	
+n03110669	cornet	cornet in the royal, cornet in the Blues, cornet in the 18th, cornet in the band, cornet in the 10th, cornet in the 4th, cornet in the regiment, cornet in the army, cornet in the rear
+n03110669	horn	horn in the year, horn in the dust, horn in the distance, horn in the forehead, horn in the orchestra, horn in the morning
+n03110669	trumpet	trumpet in the land, trumpet in the last, trumpet in the face, trumpet in the field, trumpet in the most, trumpet in the bloody, trumpet in the hall, trumpet in the new, trumpet in the ears
+n03110669	trump	trump in the game, trump in the hands, trump in the hand, trump in the pack
+n02165456	ladybug	
+n02165456	ladybeetle	
+n02165456	lady beetle	
+n02165456	ladybird	
+n02165456	ladybird beetle	
+n03461385	grocery store	grocery store in the next, grocery store in the front, grocery store in the town, grocery store in the basement, grocery store in the city, grocery store in the country, grocery store in the village, grocery store in the neighborhood
+n03461385	grocery	grocery in the village, grocery in the neighborhood, grocery in the town, grocery in the city
+n03461385	food market	food market in the UK
+n03461385	market	market in the West, market in the country, market in the early, market in the town, market in the late, market in the city
+n03485794	handkerchief	handkerchief in the pocket, handkerchief in the hand, handkerchief in the water, handkerchief in the breast, handkerchief in the right, handkerchief in the basket, handkerchief in the blood
+n03485794	hankie	
+n03485794	hanky	hanky in the pocket
+n03485794	hankey	
+n01695060	Komodo dragon	
+n01695060	Komodo lizard	
+n01695060	dragon lizard	
+n01695060	giant lizard	
+n01695060	Varanus komodoensis	
+n09428293	seashore	seashore in the early, seashore in the summer, seashore in the evening, seashore in the vicinity, seashore in the morning
+n09428293	coast	coast in the spring, coast in the winter, coast in the neighbourhood, coast in the year, coast in the summer, coast in the early, coast in the direction, coast in the vicinity
+n09428293	seacoast	seacoast in the south, seacoast in the vicinity, seacoast in the east
+n09428293	sea-coast	
+n01985128	crayfish	crayfish in the streams, crayfish in the water, crayfish in the river, crayfish in the brook, crayfish in the creek, crayfish in the stream
+n01985128	crawfish	crawfish in the water
+n01985128	crawdad	
+n01985128	crawdaddy	
+n02814860	beacon	beacon in the storm, beacon in the night, beacon in the dark, beacon in the time, beacon in the midst, beacon in the midnight, beacon in the darkness, beacon in the sky, beacon in the distance
+n02814860	lighthouse	lighthouse in the night, lighthouse in the midst, lighthouse in the dark, lighthouse in the sea, lighthouse in the very, lighthouse in the distance
+n02814860	beacon light	beacon light in the darkness, beacon light in the stern
+n02814860	pharos	
+n02066245	grey whale	
+n02066245	gray whale	
+n02066245	devilfish	
+n02066245	Eschrichtius gibbosus	
+n02066245	Eschrichtius robustus	
+n02687172	aircraft carrier	aircraft carrier in the South, aircraft carrier in the Indian, aircraft carrier in the Pacific, aircraft carrier in the Gulf, aircraft carrier in the Bay, aircraft carrier in the U.S., aircraft carrier in the Atlantic, aircraft carrier in the Mediterranean
+n02687172	carrier	carrier in the course, carrier in the transportation, carrier in the navigation, carrier in the case, carrier in the country, carrier in the Pacific
+n02687172	flattop	
+n02687172	attack aircraft carrier	
+n02443114	polecat	
+n02443114	fitch	
+n02443114	foulmart	
+n02443114	foumart	
+n02443114	Mustela putorius	
+n03425413	gas pump	
+n03425413	gasoline pump	
+n03425413	petrol pump	
+n03425413	island dispenser	
+n03666591	lighter	lighter in the colour, lighter in the balance, lighter in the female, lighter in the scale, lighter in the course, lighter in the water
+n03666591	light	light in the darkness, light in the morning, light in the midst, light in the room, light in the Lord, light in the sky, light in the dark, light in the window
+n03666591	igniter	
+n03666591	ignitor	
+n04389033	tank	tank in the attic, tank in the upper, tank in the garden, tank in the roof, tank in the basement
+n04389033	army tank	
+n04389033	armored combat vehicle	
+n04389033	armoured combat vehicle	
+n07248320	book jacket	
+n07248320	dust cover	
+n07248320	dust jacket	
+n07248320	dust wrapper	
+n02930766	cab	cab in the morning, cab in the rain, cab in the station, cab in the Rue, cab in the city, cab in the street, cab in the Strand, cab in the first, cab in the streets
+n02930766	hack	hack in the early, hack in the city, hack in the country, hack in the days, hack in the direction, hack in the morning
+n02930766	taxi	taxi in the town, taxi in the city, taxi in the square, taxi in the rain, taxi in the morning, taxi in the direction, taxi in the streets, taxi in the Rue, taxi in the street
+n02930766	taxicab	taxicab in the city
+n02641379	gar	
+n02641379	garfish	
+n02641379	garpike	
+n02641379	billfish	
+n02641379	Lepisosteus osseus	
+n03841143	odometer	odometer in the car
+n03841143	hodometer	
+n03841143	mileometer	
+n03841143	milometer	
+n04347754	submarine	submarine in the vicinity, submarine in the Atlantic, submarine in the Mediterranean, submarine in the North, submarine in the Pacific, submarine in the area, submarine in the Channel, submarine in the English
+n04347754	pigboat	
+n04347754	sub	sub in the area
+n04347754	U-boat	
+n03494278	harmonica	harmonica in the key
+n03494278	mouth organ	
+n03494278	harp	harp in the Highlands, harp in the orchestra, harp in the hands, harp in the presence, harp in the window, harp in the wind, harp in the room
+n03494278	mouth harp	
+n02114855	coyote	coyote in the desert, coyote in the distance, coyote in the Roadrunner, coyote in the night, coyote in the hills, coyote in the Yellowstone
+n02114855	prairie wolf	
+n02114855	brush wolf	
+n02114855	Canis latrans	
+n04604644	worm fence	
+n04604644	snake fence	
+n04604644	snake-rail fence	
+n04604644	Virginia fence	
+n07615774	ice lolly	
+n07615774	lolly	
+n07615774	lollipop	
+n07615774	popsicle	
+n12057211	yellow lady  s slipper	
+n12057211	yellow lady-slipper	
+n12057211	Cypripedium calceolus	
+n12057211	Cypripedium parviflorum	
+n03188531	diaper	diaper in the trash, diaper in the toilet, diaper in the pail, diaper in the morning, diaper in the ring
+n03188531	nappy	
+n03188531	napkin	napkin in the Sun, napkin in the lap, napkin in the left, napkin in the water, napkin in the shape
+n02655020	puffer	
+n02655020	pufferfish	
+n02655020	blowfish	
+n02655020	globefish	
+n01882714	koala	
+n01882714	koala bear	
+n01882714	kangaroo bear	
+n01882714	native bear	
+n01882714	Phascolarctos cinereus	
+n01955084	chiton	
+n01955084	coat-of-mail shell	
+n01955084	sea cradle	
+n01955084	polyplacophore	
+n01496331	electric ray	
+n01496331	crampfish	
+n01496331	numbfish	
+n01496331	torpedo	torpedo in the channel, torpedo in the tube, torpedo in the stern, torpedo in the North, torpedo in the waters, torpedo in the Thames, torpedo in the water, torpedo in the Yazoo
+n04482393	tricycle	tricycle in the driveway, tricycle in the street, tricycle in the garden, tricycle in the front, tricycle in the yard
+n04482393	trike	
+n04482393	velocipede	
+n02408429	water buffalo	water buffalo in the rice, water buffalo in the fields
+n02408429	water ox	
+n02408429	Asiatic buffalo	
+n02408429	Bubalus bubalis	
+n04599235	wool	wool in the fleece, wool in the country, wool in the grease, wool in the manufacture, wool in the kingdom, wool in the bottom
+n04599235	woolen	
+n04599235	woollen	
+n03895866	passenger car	passenger car in the antagonist
+n03895866	coach	coach in the morning, coach in the dark, coach in the evening, coach in the streets, coach in the street, coach in the country, coach in the night
+n03895866	carriage	carriage in the price, carriage in the most, carriage in the morning, carriage in the town, carriage in the street, carriage in the streets, carriage in the train, carriage in the court
+n01753488	horned viper	
+n01753488	cerastes	
+n01753488	sand viper	
+n01753488	horned asp	
+n01753488	Cerastes cornutus	
+n02510455	giant panda	giant panda in the wild
+n02510455	panda	panda in the wild
+n02510455	panda bear	
+n02510455	coon bear	
+n02510455	Ailuropoda melanoleuca	
+n02977058	cash machine	
+n02977058	cash dispenser	
+n02977058	automated teller machine	
+n02977058	automatic teller machine	
+n02977058	automated teller	
+n02977058	automatic teller	
+n02977058	ATM	ATM in the WAN, ATM in the network, ATM in the LAN, ATM in the lobby, ATM in the backbone, ATM in the core
+n03457902	greenhouse	greenhouse in the summer, greenhouse in the fall, greenhouse in the rear, greenhouse in the autumn, greenhouse in the winter, greenhouse in the early, greenhouse in the garden, greenhouse in the spring
+n03457902	nursery	nursery in the county, nursery in the dark, nursery in the kingdom, nursery in the country, nursery in the spring, nursery in the tumult, nursery in the morning
+n03457902	glasshouse	
+n03017168	chime	chime in the hall, chime in the wind, chime in the distance, chime in the better
+n03017168	bell	bell in the morning, bell in the belfry, bell in the distance, bell in the church, bell in the tower, bell in the house, bell in the night, bell in the city, bell in the steeple
+n03017168	gong	gong in the corridor, gong in the village, gong in the engine, gong in the hope, gong in the hall, gong in the distance, gong in the ship, gong in the temple
+n03954731	plane	plane in the crystal, plane in the sky, plane in the direction, plane in the point, plane in the line
+n03954731	carpenter  s plane	
+n03954731	woodworking plane	
+n02115641	dingo	
+n02115641	warrigal	
+n02115641	warragal	
+n02115641	Canis dingo	
+n01981276	king crab	
+n01981276	Alaska crab	
+n01981276	Alaskan king crab	
+n01981276	Alaska king crab	
+n01981276	Paralithodes camtschatica	
+n02114367	timber wolf	timber wolf in the Rocky
+n02114367	grey wolf	
+n02114367	gray wolf	
+n02114367	Canis lupus	
+n01484850	great white shark	
+n01484850	white shark	
+n01484850	man-eater	
+n01484850	man-eating shark	
+n01484850	Carcharodon carcharias	
+n03089624	confectionery	
+n03089624	confectionary	
+n03089624	candy store	candy store in the Bronx, candy store in the neighborhood
+n02398521	hippopotamus	hippopotamus in the Zoological, hippopotamus in the water, hippopotamus in the river, hippopotamus in the Nile
+n02398521	hippo	hippo in the river, hippo in the water
+n02398521	river horse	
+n02398521	Hippopotamus amphibius	
+n02116738	African hunting dog	
+n02116738	hyena dog	
+n02116738	Cape hunting dog	
+n02116738	Lycaon pictus	
+n09399592	promontory	promontory in the neighborhood, promontory in the province, promontory in the Highlands, promontory in the sea, promontory in the distance, promontory in the neighbourhood, promontory in the south, promontory in the midst
+n09399592	headland	headland in the distance, headland in the sea, headland in the bay, headland in the province, headland in the west, headland in the north, headland in the extreme, headland in the south
+n09399592	head	head in the direction, head in the door, head in the sand, head in the clouds, head in the day
+n09399592	foreland	
+n02892201	brass	brass in the shape, brass in the church, brass in the wall, brass in the temple, brass in the chancel, brass in the yellow, brass in the open
+n02892201	memorial tablet	memorial tablet in the chapel, memorial tablet in the Church, memorial tablet in the church
+n02892201	plaque	plaque in the Louvre, plaque in the wall, plaque in the aorta, plaque in the British, plaque in the church, plaque in the entrance, plaque in the arteries, plaque in the lobby
+n03792782	mountain bike	
+n03792782	all-terrain bike	
+n03792782	off-roader	
+n02871525	bookshop	bookshop in the Strand, bookshop in the Charing, bookshop in the whole, bookshop in the town, bookshop in the High, bookshop in the country, bookshop in the Rue, bookshop in the rue, bookshop in the city
+n02871525	bookstore	bookstore in the town, bookstore in the lower, bookstore in the entire, bookstore in the Piazza, bookstore in the city, bookstore in the state, bookstore in the country, bookstore in the village
+n02871525	bookstall	bookstall in the market, bookstall in the City
+n02895154	breastplate	breastplate in the border
+n02895154	aegis	
+n02895154	egis	
+n04367480	swab	swab in the mouth, swab in the culture, swab in the tube
+n04367480	swob	
+n04367480	mop	mop in the pail, mop in the sink, mop in the bucket
+n03903868	pedestal	pedestal in the garden, pedestal in the Temple, pedestal in the midst, pedestal in the temple, pedestal in the hall
+n03903868	plinth	plinth in the midst
+n03903868	footstall	
+n03216828	dock	dock in the port, dock in the harbor, dock in the East, dock in the city, dock in the harbour, dock in the kingdom, dock in the morning
+n03216828	dockage	
+n03216828	docking facility	
+n09246464	cliff	cliff in the background, cliff in the direction, cliff in the island, cliff in the whole, cliff in the foreground, cliff in the rear, cliff in the dark, cliff in the old, cliff in the neighbourhood
+n09246464	drop	drop in the temperature, drop in the ocean, drop in the line, drop in the armature, drop in the rate, drop in the number, drop in the cup, drop in the value, drop in the bucket, drop in the price
+n09246464	drop-off	
+n02776631	bakery	bakery in the village, bakery in the rear, bakery in the basement, bakery in the Rue, bakery in the town, bakery in the city, bakery in the morning
+n02776631	bakeshop	
+n02776631	bakehouse	
+n02279972	monarch	monarch in the midst, monarch in the following, monarch in the transaction, monarch in the universe, monarch in the year, monarch in the most, monarch in the person, monarch in the war, monarch in the habit
+n02279972	monarch butterfly	
+n02279972	milkweed butterfly	
+n02279972	Danaus plexippus	
+n04372370	switch	switch in the cockpit, switch in the circuit, switch in the position, switch in the main, switch in the control, switch in the off, switch in the car, switch in the primary
+n04372370	electric switch	
+n04372370	electrical switch	
+n04487081	trolleybus	
+n04487081	trolley coach	
+n04487081	trackless trolley	
+n02219486	ant	ant in the colony, ant in the presence, ant in the ant, ant in the grass, ant in the water, ant in the whole, ant in the fable
+n02219486	emmet	
+n02219486	pismire	pismire in the mole
+n04023962	punching bag	punching bag in the basement, punching bag in the gym, punching bag in the garage
+n04023962	punch bag	
+n04023962	punching ball	
+n04023962	punchball	
+n02129165	lion	lion in the path, lion in the Tower, lion in the fable, lion in the midst, lion in the forest, lion in the streets, lion in the toils, lion in the way, lion in the desert, lion in the field
+n02129165	king of beasts	
+n02129165	Panthera leo	
+n04037443	racer	racer in the wrong, racer in the field, racer in the country, racer in the Tragedy
+n04037443	race car	race car in the Indianapolis
+n04037443	racing car	
+n04461696	tow truck	
+n04461696	tow car	
+n04461696	wrecker	
+n03041632	cleaver	cleaver in the kitchen
+n03041632	meat cleaver	
+n03041632	chopper	chopper in the woods, chopper in the area, chopper in the palm, chopper in the distance
+n03594734	jean	
+n03594734	blue jean	
+n03594734	denim	
+n02783161	ballpoint	
+n02783161	ballpoint pen	
+n02783161	ballpen	
+n02783161	Biro	
+n02009912	American egret	
+n02009912	great white heron	
+n02009912	Egretta albus	
+n02817516	bearskin	
+n02817516	busby	
+n02817516	shako	
+n02835271	bicycle-built-for-two	
+n02835271	tandem bicycle	
+n02835271	tandem	tandem in the country
+n03424325	gasmask	
+n03424325	respirator	respirator in the first, respirator in the hospital, respirator in the example, respirator in the intensive
+n03424325	gas helmet	
+n02841315	binoculars	binoculars in the case, binoculars in the direction, binoculars in the glove, binoculars in the car, binoculars in the hope
+n02841315	field glasses	field glasses in the direction
+n02841315	opera glasses	
+n02114712	red wolf	
+n02114712	maned wolf	
+n02114712	Canis rufus	
+n02114712	Canis niger	
+n04356056	sunglasses	sunglasses in the pocket, sunglasses in the house, sunglasses in the dark, sunglasses in the glove, sunglasses in the car
+n04356056	dark glasses	dark glasses in the sun
+n04356056	shades	shades in the character, shades in the color, shades in the picture, shades in the Elysian, shades in the colour, shades in the society, shades in the human, shades in the Athenian, shades in the verdure
+n13133613	ear	ear in the morning, ear in the course, ear in the direction, ear in the manner, ear in the midst, ear in the first
+n13133613	spike	spike in the ground, spike in the end, spike in the last, spike in the butt, spike in the great
+n13133613	capitulum	
+n04554684	washer	washer in the basement, washer in the faucet, washer in the laundry, washer in the bathroom, washer in the kitchen, washer in the coke, washer in the bottom
+n04554684	automatic washer	
+n04554684	washing machine	washing machine in the apartment, washing machine in the laundry, washing machine in the kitchen, washing machine in the cellar, washing machine in the garage, washing machine in the bathroom, washing machine in the house, washing machine in the home, washing machine in the basement
+n03929660	pick	pick in the draft, pick in the hands, pick in the ground, pick in the fields, pick in the first, pick in the mountains, pick in the morning, pick in the right, pick in the NBA
+n03929660	plectrum	plectrum in the right
+n03929660	plectron	
+n04116512	rubber eraser	
+n04116512	rubber	rubber in the presence, rubber in the country, rubber in the East, rubber in the Amazon, rubber in the manufacture, rubber in the latex
+n04116512	pencil eraser	
+n07754684	jackfruit	
+n07754684	jak	
+n07754684	jack	jack in the pulpit, jack in the back, jack in the field, jack in the place, jack in the box, jack in the usual, jack in the chimney, jack in the wall
+n04357314	sunscreen	sunscreen in the summer, sunscreen in the morning
+n04357314	sunblock	
+n04357314	sun blocker	
+n02445715	skunk	skunk in the road, skunk in the woods, skunk in the house, skunk in the woodpile, skunk in the White
+n02445715	polecat	
+n02445715	wood pussy	
+n02110341	dalmatian	
+n02110341	coach dog	
+n02110341	carriage dog	
+n02134084	ice bear	
+n02134084	polar bear	polar bear in the wild, polar bear in the snow, polar bear in the area, polar bear in the Arctic, polar bear in the zoo
+n02134084	Ursus Maritimus	
+n02134084	Thalarctos maritimus	
+n01983481	American lobster	
+n01983481	Northern lobster	
+n01983481	Maine lobster	
+n01983481	Homarus americanus	
+n02120505	grey fox	
+n02120505	gray fox	
+n02120505	Urocyon cinereoargenteus	
+n02128925	jaguar	jaguar in the wild, jaguar in the forest, jaguar in the jungle
+n02128925	panther	panther in the dark, panther in the woods, panther in the chase, panther in the wild, panther in the forest, panther in the night, panther in the wilderness, panther in the act, panther in the jungle
+n02128925	Panthera onca	
+n02128925	Felis onca	
+n02892767	brassiere	brassiere in the presence
+n02892767	bra	bra in the back, bra in the front
+n02892767	bandeau	
+n03249569	drum	drum in the woods, drum in the streets, drum in the desolate, drum in the house, drum in the temple, drum in the garrison, drum in the orchestra
+n03249569	membranophone	
+n03249569	tympan	
+n12768682	buckeye	buckeye in the pocket
+n12768682	horse chestnut	
+n12768682	conker	
+n01614925	bald eagle	
+n01614925	American eagle	
+n01614925	Haliaeetus leucocephalus	
+n04443257	tobacco shop	
+n04443257	tobacconist shop	
+n04443257	tobacconist	tobacconist in the Ziegfeld
+n04086273	revolver	revolver in the holster, revolver in the drawer, revolver in the hands, revolver in the direction, revolver in the pocket, revolver in the right, revolver in the belt, revolver in the hand
+n04086273	six-gun	
+n04086273	six-shooter	
+n02480495	orangutan	orangutan in the zoo
+n02480495	orang	orang in the Eastern
+n02480495	orangutang	
+n02480495	Pongo pygmaeus	
+n02672831	accordion	accordion in the usual
+n02672831	piano accordion	
+n02672831	squeeze box	
+n02669723	academic gown	
+n02669723	academic robe	
+n02669723	judge  s robe	
+n01682714	American chameleon	
+n01682714	anole	
+n01682714	Anolis carolinensis	
+n02111129	Leonberg	
+n02492035	capuchin	
+n02492035	ringtail	
+n02492035	Cebus capucinus	
+n15075141	toilet tissue	
+n15075141	toilet paper	toilet paper in the bowl, toilet paper in the bathrooms, toilet paper in the trees, toilet paper in the ladies, toilet paper in the house, toilet paper in the bathroom, toilet paper in the toilet, toilet paper in the outhouse
+n15075141	bathroom tissue	
+n02325366	wood rabbit	
+n02325366	cottontail	
+n02325366	cottontail rabbit	
+n02027492	red-backed sandpiper	
+n02027492	dunlin	
+n02027492	Erolia alpina	
+n03400231	frying pan	frying pan in the sink, frying pan in the kitchen
+n03400231	frypan	
+n03400231	skillet	skillet in the oven, skillet in the sink, skillet in the kitchen
+n04548362	wallet	wallet in the pocket, wallet in the hip, wallet in the breast, wallet in the drawer, wallet in the car, wallet in the inside, wallet in the street, wallet in the back
+n04548362	billfold	
+n04548362	notecase	
+n04548362	pocketbook	pocketbook in the front, pocketbook in the street
+n03857828	oscilloscope	
+n03857828	scope	scope in the choice, scope in the Scriptures, scope in the matter, scope in the new, scope in the field, scope in the various, scope in the nature, scope in the future
+n03857828	cathode-ray oscilloscope	
+n03857828	CRO	
+n03160309	dam	dam in the river, dam in the office, dam in the upper, dam in the creek, dam in the district, dam in the vicinity, dam in the stream
+n03160309	dike	dike in the vicinity, dike in the north, dike in the hill
+n03160309	dyke	
+n02168699	long-horned beetle	
+n02168699	longicorn	
+n02168699	longicorn beetle	
+n12620546	hip	hip in the elderly, hip in the adult, hip in the manner, hip in the most, hip in the position, hip in the newborn, hip in the first, hip in the direction, hip in the older
+n12620546	rose hip	
+n12620546	rosehip	
+n01558993	robin	robin in the distance, robin in the morning, robin in the apple, robin in the spring, robin in the garden, robin in the tree, robin in the hedge, robin in the nest, robin in the grass, robin in the snow
+n01558993	American robin	
+n01558993	Turdus migratorius	
+n01728572	thunder snake	
+n01728572	worm snake	
+n01728572	Carphophis amoenus	
+n01797886	ruffed grouse	ruffed grouse in the woods
+n01797886	partridge	partridge in the mountain, partridge in the puttock, partridge in the corn, partridge in the South, partridge in the pear, partridge in the woods, partridge in the valley, partridge in the Great, partridge in the mountains
+n01797886	Bonasa umbellus	
+n07697537	hotdog	
+n07697537	hot dog	hot dog in the park
+n07697537	red hot	red hot in the sun, red hot in the Fire, red hot in the coals, red hot in the furnace, red hot in the fire, red hot in the flame
+n06874185	traffic light	traffic light in the town, traffic light in the city
+n06874185	traffic signal	
+n06874185	stoplight	stoplight in the town
+n02128757	snow leopard	
+n02128757	ounce	ounce in the pound, ounce in the market, ounce in the London, ounce in the morning, ounce in the balance, ounce in the course, ounce in the twenty, ounce in the weight
+n02128757	Panthera uncia	
+n01819313	sulphur-crested cockatoo	
+n01819313	Kakatoe galerita	
+n01819313	Cacatua galerita	
+n02114548	white wolf	
+n02114548	Arctic wolf	
+n02114548	Canis lupus tundrarum	
+n02486261	patas	
+n02486261	hussar monkey	
+n02486261	Erythrocebus patas	
+n01873310	platypus	platypus in the wild
+n01873310	duckbill	
+n01873310	duckbilled platypus	
+n01873310	duck-billed platypus	
+n01873310	Ornithorhynchus anatinus	
+n02231487	walking stick	walking stick in the ground
+n02231487	walkingstick	
+n02231487	stick insect	
+n01770081	harvestman	
+n01770081	daddy longlegs	
+n01770081	Phalangium opilio	
+n03884397	panpipe	
+n03884397	pandean pipe	
+n03884397	syrinx	syrinx in the cervical, syrinx in the spinal
+n02797295	barrow	barrow in the midst, barrow in the street, barrow in the streets, barrow in the parish, barrow in the county, barrow in the market, barrow in the neighbourhood
+n02797295	garden cart	
+n02797295	lawn cart	
+n02797295	wheelbarrow	wheelbarrow in the land, wheelbarrow in the foreground, wheelbarrow in the garden, wheelbarrow in the road, wheelbarrow in the pelting, wheelbarrow in the shed
+n02132136	brown bear	
+n02132136	bruin	
+n02132136	Ursus arctos	
+n04229816	ski mask	
+n02133161	American black bear	
+n02133161	black bear	black bear in the spruce, black bear in the wild, black bear in the woods
+n02133161	Ursus americanus	
+n02133161	Euarctos americanus	
+n02948072	candle	candle in the hand, candle in the dark, candle in the house, candle in the window, candle in the room, candle in the wind, candle in the lantern, candle in the night
+n02948072	taper	taper in the midst, taper in the hand, taper in the hands, taper in the bower, taper in the socket, taper in the far, taper in the church
+n02948072	wax light	
+n03838899	oboe	oboe in the second, oboe in the band, oboe in the first, oboe in the orchestra
+n03838899	hautboy	hautboy in the dish
+n03838899	hautbois	
+n02860847	bobsled	
+n02860847	bobsleigh	
+n02860847	bob	bob in the water, bob in the direction, bob in the pound, bob in the waves, bob in the sea, bob in the wind, bob in the current, bob in the harbor
+n03271574	electric fan	electric fan in the ceiling, electric fan in the room
+n03271574	blower	blower in the basement, blower in the roof, blower in the furnace
+n01872401	echidna	
+n01872401	spiny anteater	
+n01872401	anteater	
+n04200800	shoe shop	
+n04200800	shoe-shop	
+n04200800	shoe store	shoe store in the city, shoe store in the mall
+n01798484	prairie chicken	
+n01798484	prairie grouse	
+n01798484	prairie fowl	
+n04004767	printer	printer in the kingdom, printer in the office, printer in the city, printer in the town, printer in the days, printer in the Canongate, printer in the colony, printer in the place, printer in the reign
+n02481823	chimpanzee	chimpanzee in the zoo, chimpanzee in the London, chimpanzee in the forests, chimpanzee in the wild, chimpanzee in the Mahale
+n02481823	chimp	
+n02481823	Pan troglodytes	
+n02497673	Madagascar cat	
+n02497673	ring-tailed lemur	
+n02497673	Lemur catta	
+n04118538	rugby ball	
+n01910747	jellyfish	jellyfish in the water, jellyfish in the ocean, jellyfish in the sea
+n04039381	racket	racket in the streets, racket in the room, racket in the hall, racket in the house, racket in the still, racket in the act, racket in the street
+n04039381	racquet	racquet in the hand
+n03218198	dogsled	
+n03218198	dog sled	dog sled in the winter
+n03218198	dog sleigh	
+n03337140	file	file in the library, file in the Office, file in the court, file in the State, file in the Department, file in the War, file in the office, file in the archives, file in the clerk
+n03337140	file cabinet	file cabinet in the back, file cabinet in the office, file cabinet in the basement
+n03337140	filing cabinet	filing cabinet in the back, filing cabinet in the room, filing cabinet in the office, filing cabinet in the study, filing cabinet in the basement
+n02085936	Maltese dog	
+n02085936	Maltese terrier	
+n02085936	Maltese	
+n03483316	hand blower	
+n03483316	blow dryer	
+n03483316	blow drier	
+n03483316	hair dryer	hair dryer in the bathroom
+n03483316	hair drier	
+n02396427	wild boar	wild boar in the hills, wild boar in the mountains, wild boar in the forests, wild boar in the woods, wild boar in the valley, wild boar in the jungle, wild boar in the wood, wild boar in the forest, wild boar in the neighbouring
+n02396427	boar	boar in the first, boar in the forest, boar in the fable, boar in the neighbouring, boar in the forests, boar in the mountains, boar in the midst, boar in the valley, boar in the woods, boar in the wood
+n02396427	Sus scrofa	
+n01729322	hognose snake	
+n01729322	puff adder	
+n01729322	sand viper	
+n02106662	German shepherd	
+n02106662	German shepherd dog	
+n02106662	German police dog	
+n02106662	alsatian	
+n04264628	space bar	
+n03991062	pot	pot in the kitchen, pot in the window, pot in the parlour, pot in the following
+n03991062	flowerpot	flowerpot in the window
+n04493381	tub	tub in the morning, tub in the back, tub in the yard, tub in the kitchen, tub in the house, tub in the bathroom, tub in the cellar
+n04493381	vat	vat in the image, vat in the basement, vat in the cellar
+n03899768	patio	patio in the back, patio in the old, patio in the shade, patio in the backyard, patio in the summer, patio in the Spanish, patio in the rear
+n03899768	terrace	terrace in the sun, terrace in the evening, terrace in the sunshine, terrace in the front, terrace in the moonlight, terrace in the garden, terrace in the gardens, terrace in the rear
+n03658185	letter opener	letter opener in the shape
+n03658185	paper knife	
+n03658185	paperknife	
+n03770439	miniskirt	
+n03770439	mini	
+n03982430	pool table	pool table in the bar, pool table in the living, pool table in the rear, pool table in the basement, pool table in the back, pool table in the game
+n03982430	billiard table	billiard table in the White, billiard table in the house, billiard table in the hall
+n03982430	snooker table	
+n04428191	thresher	thresher in the barn
+n04428191	thrasher	
+n04428191	threshing machine	
+n03459775	grille	grille in the top, grille in the front, grille in the door, grille in the wall, grille in the gate, grille in the ceiling, grille in the old, grille in the Ladies, grille in the floor, grille in the convent
+n03459775	radiator grille	
+n04252225	snowplow	
+n04252225	snowplough	
+n07716358	zucchini	
+n07716358	courgette	
+n03791053	motor scooter	
+n03791053	scooter	
+n04258138	solar dish	
+n04258138	solar collector	
+n04258138	solar furnace	solar furnace in the Pyrenees
+n04099969	rocking chair	rocking chair in the kitchen, rocking chair in the sitting, rocking chair in the room, rocking chair in the back, rocking chair in the parlor, rocking chair in the living, rocking chair in the house, rocking chair in the front
+n04099969	rocker	rocker in the back, rocker in the room, rocker in the parlor, rocker in the kitchen, rocker in the nursery, rocker in the sitting, rocker in the front, rocker in the living
+n01756291	sidewinder	
+n01756291	horned rattlesnake	
+n01756291	Crotalus cerastes	
+n13052670	hen-of-the-woods	
+n13052670	hen of the woods	
+n13052670	Polyporus frondosus	
+n13052670	Grifola frondosa	
+n02093428	American Staffordshire terrier	
+n02093428	Staffordshire terrier	
+n02093428	American pit bull terrier	
+n02093428	pit bull terrier	
+n02356798	fox squirrel	
+n02356798	eastern fox squirrel	
+n02356798	Sciurus niger	
+n02120079	Arctic fox	
+n02120079	white fox	
+n02120079	Alopex lagopus	
+n03109150	corkscrew	corkscrew in the house, corkscrew in the kitchen, corkscrew in the hands, corkscrew in the drawer, corkscrew in the cork
+n03109150	bottle screw	
+n03930630	pickup	pickup in the growth, pickup in the rate, pickup in the parking, pickup in the first, pickup in the driveway, pickup in the economy, pickup in the yard, pickup in the next, pickup in the morning
+n03930630	pickup truck	pickup truck in the parking, pickup truck in the yard, pickup truck in the driveway
+n01632777	axolotl	
+n01632777	mud puppy	
+n01632777	Ambystoma mexicanum	
+n03710721	maillot	
+n03710721	tank suit	
+n02437312	Arabian camel	
+n02437312	dromedary	dromedary in the desert
+n02437312	Camelus dromedarius	
+n03967562	plow	plow in the field, plow in the fields, plow in the furrow, plow in the ground, plow in the fall, plow in the hands, plow in the spring
+n03967562	plough	plough in the field, plough in the ground, plough in the hands, plough in the demesne, plough in the fields, plough in the furrow, plough in the seed, plough in the spring
+n03916031	perfume	perfume in the empty, perfume in the room, perfume in the darkness, perfume in the mention, perfume in the wilderness, perfume in the garden, perfume in the flower, perfume in the flowers
+n03916031	essence	essence in the sense, essence in the most, essence in the Godhead, essence in the soul, essence in the universe, essence in the Father, essence in the case
+n03095699	container ship	
+n03095699	containership	
+n03095699	container vessel	
+n01930112	nematode	nematode in the soil
+n01930112	nematode worm	
+n01930112	roundworm	
+n02704792	amphibian	
+n02704792	amphibious vehicle	
+n02412080	ram	ram in the midst, ram in the place, ram in the thicket, ram in the flock, ram in the first, ram in the cylinder, ram in the fury, ram in the act
+n02412080	tup	
+n03950228	pitcher	pitcher in the well, pitcher in the American, pitcher in the history, pitcher in the league, pitcher in the National, pitcher in the major, pitcher in the game, pitcher in the midst
+n03950228	ewer	ewer in the British, ewer in the shape
+n03532672	hook	hook in the ceiling, hook in the nose, hook in the nostrils, hook in the end, hook in the wing, hook in the water, hook in the following, hook in the wall
+n03532672	claw	claw in the male, claw in the shape
+n03345487	fire engine	fire engine in the city
+n03345487	fire truck	
+n01665541	leatherback turtle	
+n01665541	leatherback	
+n01665541	leathery turtle	
+n01665541	Dermochelys coriacea	
+n02837789	bikini	
+n02837789	two-piece	
+n03873416	paddle	paddle in the social, paddle in the stern, paddle in the cold, paddle in the water, paddle in the pond, paddle in the lake, paddle in the canoe, paddle in the brook
+n03873416	boat paddle	
+n03394916	French horn	French horn in the orchestra, French horn in the band, French horn in the school
+n03394916	horn	horn in the year, horn in the dust, horn in the distance, horn in the forehead, horn in the orchestra, horn in the morning
+n03496892	harvester	harvester in the field
+n03496892	reaper	reaper in the shed, reaper in the fields, reaper in the field, reaper in the harvest
+n10148035	groom	groom in the stables, groom in the house, groom in the royal, groom in the midst, groom in the King, groom in the employ, groom in the livery, groom in the service, groom in the stable
+n10148035	bridegroom	bridegroom in the marriage, bridegroom in the nuptial, bridegroom in the market, bridegroom in the presence, bridegroom in the act, bridegroom in the morning, bridegroom in the dungeon, bridegroom in the wedding, bridegroom in the first
+n01622779	great grey owl	
+n01622779	great gray owl	
+n01622779	Strix nebulosa	
+n02966687	carpenter  s kit	
+n02966687	tool kit	
+n01817953	African grey	
+n01817953	African gray	
+n01817953	Psittacus erithacus	
+n03492542	hard disc	
+n03492542	hard disk	hard disk in the event, hard disk in the computer, hard disk in the system, hard disk in the directory
+n03492542	fixed disk	
+n02277742	ringlet	ringlet in the dust
+n02277742	ringlet butterfly	
+n02226429	grasshopper	grasshopper in the field, grasshopper in the current, grasshopper in the grass, grasshopper in the heat, grasshopper in the fable
+n02226429	hopper	hopper in the front, hopper in the bottom, hopper in the upper, hopper in the top, hopper in the little, hopper in the roof
+n04141975	scale	scale in the first, scale in the case, scale in the field, scale in the following, scale in the manufacture, scale in the production, scale in the laboratory
+n04141975	weighing machine	
+n03673027	liner	liner in the North, liner in the Pacific, liner in the harbour, liner in the harbor, liner in the early, liner in the Atlantic, liner in the Mediterranean
+n03673027	ocean liner	
+n04509417	unicycle	
+n04509417	monocycle	
+n03447721	gong	gong in the corridor, gong in the village, gong in the engine, gong in the hope, gong in the hall, gong in the distance, gong in the ship, gong in the temple
+n03447721	tam-tam	
+n03888257	parachute	parachute in the event, parachute in the tail, parachute in the water
+n03888257	chute	chute in the floor, chute in the back, chute in the Devil, chute in the hall, chute in the kitchen, chute in the basement, chute in the wall, chute in the hallway
+n03692522	loupe	
+n03692522	jeweler  s loupe	
+n04350905	suit	suit in the federal, suit in the Supreme, suit in the courts, suit in the ecclesiastical, suit in the court, suit in the name, suit in the Court, suit in the District, suit in the spiritual
+n04350905	suit of clothes	
+n09468604	valley	valley in the heart, valley in the mountains, valley in the vicinity, valley in the north, valley in the land, valley in the midst, valley in the south, valley in the direction
+n09468604	vale	vale in the park, vale in the Indian, vale in the midst, vale in the north, vale in the land, vale in the quiet, vale in the solitary, vale in the Scottish
+n03325584	feather boa	
+n03325584	boa	
+n02939185	caldron	caldron in the water
+n02939185	cauldron	cauldron in the kitchen
+n01693334	green lizard	
+n01693334	Lacerta viridis	
+n01532829	house finch	
+n01532829	linnet	linnet in the bush, linnet in the Spring, linnet in the rocky
+n01532829	Carpodacus mexicanus	
+n03131574	crib	crib in the next, crib in the spring, crib in the church, crib in the bedroom, crib in the nursery, crib in the room, crib in the barn
+n03131574	cot	cot in the hospital, cot in the room, cot in the little, cot in the kitchen, cot in the living, cot in the back, cot in the office
+n07718747	artichoke	
+n07718747	globe artichoke	
+n07753275	pineapple	pineapple in the bottom
+n07753275	ananas	
+n01697457	African crocodile	
+n01697457	Nile crocodile	
+n01697457	Crocodylus niloticus	
+n02129604	tiger	tiger in the jungle, tiger in the act, tiger in the neighbourhood, tiger in the cage, tiger in the forest, tiger in the East, tiger in the jungles, tiger in the town, tiger in the night
+n02129604	Panthera tigris	
+n03085013	computer keyboard	
+n03085013	keypad	
+n07718472	cucumber	cucumber in the hands
+n07718472	cuke	
+n07693725	bagel	bagel in the toaster, bagel in the morning
+n07693725	beigel	
+n02727426	apiary	
+n02727426	bee house	
+n03908618	pencil box	
+n03908618	pencil case	
+n03854065	organ	organ in the body, organ in the Church, organ in the animal, organ in the chapel, organ in the church, organ in the human, organ in the brain
+n03854065	pipe organ	pipe organ in the chapel, pipe organ in the country, pipe organ in the church
+n02457408	three-toed sloth	
+n02457408	ai	ai in the case, ai in the first
+n02457408	Bradypus tridactylus	
+n03028079	church	church in the afternoon, church in the village, church in the city, church in the morning, church in the time, church in the wilderness, church in the town
+n03028079	church building	church building in the county, church building in the Middle, church building in the state, church building in the town, church building in the city, church building in the country, church building in the village, church building in the North
+n03594945	jeep	jeep in the morning, jeep in the courtyard, jeep in the distance, jeep in the village, jeep in the lead, jeep in the parking, jeep in the garage, jeep in the direction, jeep in the shade
+n03594945	landrover	
+n04346328	stupa	stupa in the apse
+n04346328	tope	
+n03935335	piggy bank	
+n03935335	penny bank	
+n03733281	maze	maze in the first, maze in the dark, maze in the usual, maze in the garden, maze in the shape, maze in the gardens
+n03733281	labyrinth	labyrinth in the floor, labyrinth in the ear, labyrinth in the vestibule, labyrinth in the very, labyrinth in the inner, labyrinth in the rhesus, labyrinth in the mire
+n02256656	cicada	
+n02256656	cicala	
+n04371430	swimming trunks	
+n04371430	bathing trunks	
+n02951585	can opener	can opener in the kitchen
+n02951585	tin opener	
+n02317335	starfish	starfish in the sea, starfish in the ocean, starfish in the foreground
+n02317335	sea star	
+n02028035	redshank	
+n02028035	Tringa totanus	
+n02909870	bucket	bucket in the water, bucket in the shaft, bucket in the back, bucket in the depth, bucket in the direction, bucket in the kitchen, bucket in the well
+n02909870	pail	pail in the well, pail in the back, pail in the kitchen, pail in the sink, pail in the morning, pail in the water
+n02927161	butcher shop	butcher shop in the city, butcher shop in the town
+n02927161	meat market	meat market in the town, meat market in the city, meat market in the village
+n02422699	impala	
+n02422699	Aepyceros melampus	
+n04536866	violin	violin in the band, violin in the first, violin in the case, violin in the opera, violin in the hands, violin in the streets, violin in the school, violin in the orchestra
+n04536866	fiddle	fiddle in the orchestra, fiddle in the house, fiddle in the turning, fiddle in the pirate, fiddle in the concert, fiddle in the stone, fiddle in the hands, fiddle in the kitchen
+n01775062	wolf spider	
+n01775062	hunting spider	
+n03207743	dishrag	dishrag in the sink
+n03207743	dishcloth	dishcloth in the sink
+n03983396	pop bottle	
+n03983396	soda bottle	
+n03240683	drilling platform	drilling platform in the North, drilling platform in the Santa, drilling platform in the Gulf
+n03240683	offshore rig	
+n01755581	diamondback	
+n01755581	diamondback rattlesnake	
+n01755581	Crotalus adamanteus	
+n04404412	television	television in the evening, television in the 1950s, television in the living, television in the late, television in the classroom, television in the home, television in the courtroom, television in the early
+n04404412	television system	television system in the country
+n01968897	chambered nautilus	
+n01968897	pearly nautilus	
+n01968897	nautilus	
+n03776460	mobile home	mobile home in the park
+n03776460	manufactured home	
+n04552348	warplane	
+n04552348	military plane	
+n02013706	limpkin	
+n02013706	Aramus pictus	
+n02883205	bow tie	bow tie in the mirror
+n02883205	bow-tie	
+n02883205	bowtie	
+n03670208	limousine	limousine in the driveway, limousine in the parking
+n03670208	limo	limo in the driveway, limo in the potholed
+n02807133	bathing cap	
+n02807133	swimming cap	
+n03347037	fire screen	
+n03347037	fireguard	
+n03947888	pirate	pirate in the service, pirate in the Indian, pirate in the West, pirate in the days, pirate in the Pacific, pirate in the Mediterranean, pirate in the Channel, pirate in the Gulf
+n03947888	pirate ship	
+n02869837	bonnet	bonnet in the room, bonnet in the summer, bonnet in the hall, bonnet in the street, bonnet in the house, bonnet in the pew, bonnet in the midst
+n02869837	poke bonnet	
+n04141076	sax	sax in the band
+n04141076	saxophone	saxophone in the band, saxophone in the orchestra, saxophone in the jazz, saxophone in the school, saxophone in the high, saxophone in the marching
+n01735189	garter snake	
+n01735189	grass snake	
+n02236044	mantis	
+n02236044	mantid	
+n03595614	jersey	jersey in the Tour
+n03595614	T-shirt	
+n03595614	tee shirt	
+n03417042	garbage truck	
+n03417042	dustcart	
+n04008634	projectile	projectile in the field, projectile in the barrel, projectile in the absence, projectile in the bore, projectile in the target, projectile in the direction, projectile in the gun, projectile in the laboratory
+n04008634	missile	missile in the Soviet, missile in the desired, missile in the direction, missile in the U.S., missile in the hands, missile in the shape
+n04192698	shield	shield in the left, shield in the midst, shield in the field, shield in the pursuit, shield in the day, shield in the presence
+n04192698	buckler	buckler in the left
+n03372029	flute	flute in the next, flute in the distance, flute in the hands, flute in the highest, flute in the orchestra, flute in the Peabody, flute in the ears, flute in the woods, flute in the hand
+n03372029	transverse flute	
+n01694178	African chameleon	
+n01694178	Chamaeleo chamaeleon	
+n02795169	barrel	barrel in the back, barrel in the fire, barrel in the cellar, barrel in the five, barrel in the kitchen, barrel in the shade
+n02795169	cask	cask in the cellar, cask in the hold, cask in the wine
+n02825657	bell cote	
+n02825657	bell cot	
+n02025239	ruddy turnstone	
+n02025239	Arenaria interpres	
+n02051845	pelican	pelican in the desert, pelican in the wilderness
+n02110627	affenpinscher	
+n02110627	monkey pinscher	
+n02110627	monkey dog	
+n03697007	lumbermill	
+n03697007	sawmill	sawmill in the woods, sawmill in the country, sawmill in the township, sawmill in the mountains, sawmill in the town, sawmill in the vicinity, sawmill in the county, sawmill in the neighborhood, sawmill in the village
+n02500267	indri	
+n02500267	indris	
+n02500267	Indri indri	
+n02500267	Indri brevicaudatus	
+n02123394	Persian cat	
+n02917067	bullet train	
+n02917067	bullet	bullet in the head, bullet in the leg, bullet in the left, bullet in the back, bullet in the chest, bullet in the shoulder, bullet in the neck, bullet in the brain, bullet in the thigh
+n03814639	neck brace	
+n09332890	lakeside	
+n09332890	lakeshore	
+n03124170	cowboy hat	
+n03124170	ten-gallon hat	
+n01877812	wallaby	
+n01877812	brush kangaroo	
+n02840245	binder	binder in the preparation, binder in the construction, binder in the field, binder in the order, binder in the paint, binder in the mixture, binder in the manufacture, binder in the surface
+n02840245	ring-binder	
+n03710193	mailbox	mailbox in the front, mailbox in the lobby, mailbox in the office, mailbox in the main, mailbox in the morning, mailbox in the hall, mailbox in the post, mailbox in the vestibule, mailbox in the next
+n03710193	letter box	letter box in the front, letter box in the hall
+n01630670	common newt	
+n01630670	Triturus vulgaris	
+n01748264	Indian cobra	
+n01748264	Naja naja	
+n02109961	Eskimo dog	
+n02109961	husky	husky in the darkness, husky in the throat
+n03868863	oxygen mask	
+n03970156	plunger	plunger in the solenoid, plunger in the injector, plunger in the syringe, plunger in the barrel, plunger in the pump, plunger in the fuel, plunger in the cylinder
+n03970156	plumber  s helper	
+n03207941	dishwasher	dishwasher in the house, dishwasher in the kitchen, dishwasher in the restaurant, dishwasher in the cafeteria, dishwasher in the morning
+n03207941	dish washer	
+n03207941	dishwashing machine	
+n04517823	vacuum	vacuum in the receiver, vacuum in the mouth, vacuum in the system, vacuum in the condenser, vacuum in the upper, vacuum in the cylinder, vacuum in the pipe, vacuum in the chamber, vacuum in the tube
+n04517823	vacuum cleaner	vacuum cleaner in the hall, vacuum cleaner in the next, vacuum cleaner in the living
+n02111277	Newfoundland	Newfoundland in the early, Newfoundland in the name, Newfoundland in the month, Newfoundland in the spring, Newfoundland in the Labrador, Newfoundland in the year, Newfoundland in the summer, Newfoundland in the winter
+n02111277	Newfoundland dog	
+n04074963	remote control	
+n04074963	remote	remote in the country, remote in the future, remote in the extreme, remote in the history, remote in the utmost, remote in the interior, remote in the right, remote in the past, remote in the distance, remote in the scale
+n01641577	bullfrog	bullfrog in the pool
+n01641577	Rana catesbeiana	
+n07873807	pizza	pizza in the freezer, pizza in the evening, pizza in the kitchen, pizza in the oven, pizza in the city, pizza in the refrigerator, pizza in the fridge, pizza in the microwave
+n07873807	pizza pie	
+n02123045	tabby	
+n02123045	tabby cat	
+n03720891	maraca	
+n02097298	Scotch terrier	
+n02097298	Scottish terrier	
+n02097298	Scottie	
+n01531178	goldfinch	goldfinch in the garden
+n01531178	Carduelis carduelis	
+n02233338	cockroach	cockroach in the soup, cockroach in the kitchen, cockroach in the spaghetti
+n02233338	roach	roach in the ashtray, roach in the dark
+n01729977	green snake	
+n01729977	grass snake	
+n02992211	cello	cello in the second, cello in the orchestra, cello in the school, cello in the first
+n02992211	violoncello	violoncello in the orchestra
+n02102318	cocker spaniel	
+n02102318	English cocker spaniel	
+n02102318	cocker	
+n02113712	miniature poodle	
+n02870880	bookcase	bookcase in the library, bookcase in the parlor, bookcase in the back, bookcase in the hall, bookcase in the dining, bookcase in the study, bookcase in the living, bookcase in the room
+n01744401	rock python	
+n01744401	rock snake	
+n01744401	Python sebae	
+n04044716	radio telescope	
+n04044716	radio reflector	
+n03637318	lampshade	
+n03637318	lamp shade	
+n03743016	megalith	
+n03743016	megalithic structure	
+n02169497	leaf beetle	
+n02169497	chrysomelid	
+n01601694	water ouzel	
+n01601694	dipper	dipper in the pail, dipper in the bucket, dipper in the sky, dipper in the water
+n03062245	cocktail shaker	
+n03788195	mosque	mosque in the city, mosque in the village, mosque in the citadel, mosque in the town, mosque in the place, mosque in the market
+n02119022	red fox	
+n02119022	Vulpes vulpes	
+n02281787	lycaenid	
+n02281787	lycaenid butterfly	
+n03902125	pay-phone	
+n03902125	pay-station	
+n01860187	black swan	
+n01860187	Cygnus atratus	
+n01978287	Dungeness crab	
+n01978287	Cancer magister	
+n02417914	ibex	ibex in the Alps, ibex in the mountains
+n02417914	Capra ibex	
+n02606052	rock beauty	
+n02606052	Holocanthus tricolor	
+n02092002	Scottish deerhound	
+n02092002	deerhound	
+n02804414	bassinet	bassinet in the nursery, bassinet in the living, bassinet in the back
+n04019541	puck	puck in the net, puck in the offensive, puck in the neutral, puck in the corners, puck in the face, puck in the attacking
+n04019541	hockey puck	
+n04523525	vault	vault in the chapel, vault in the churchyard, vault in the cemetery, vault in the basement, vault in the side, vault in the parish, vault in the church, vault in the chancel
+n02437616	llama	llama in the Andes
+n01986214	hermit crab	
+n03920288	Petri dish	
+n04070727	refrigerator	refrigerator in the dark, refrigerator in the basement, refrigerator in the house, refrigerator in the pantry, refrigerator in the kitchen, refrigerator in the room, refrigerator in the home, refrigerator in the back
+n04070727	icebox	icebox in the pantry, icebox in the kitchen, icebox in the winter, icebox in the back
+n03803284	muzzle	muzzle in the snow, muzzle in the water, muzzle in the mouth, muzzle in the direction, muzzle in the palm, muzzle in the man, muzzle in the face
+n04065272	recreational vehicle	
+n04065272	RV	RV in the driveway
+n04065272	R.V.	
+n02017213	European gallinule	
+n02017213	Porphyrio porphyrio	
+n02110958	pug	
+n02110958	pug-dog	
+n03759954	microphone	microphone in the room, microphone in the telephone, microphone in the studio, microphone in the control, microphone in the broadcasting, microphone in the sound
+n03759954	mike	
+n09256479	coral reef	coral reef in the Gulf, coral reef in the South, coral reef in the Caribbean, coral reef in the Indian, coral reef in the Pacific, coral reef in the Red, coral reef in the central, coral reef in the continental
+n02692877	airship	airship in the sky
+n02692877	dirigible	dirigible in the sky
+n02165105	tiger beetle	
+n03775546	mixing bowl	mixing bowl in the freezer, mixing bowl in the kitchen
+n01978455	rock crab	
+n01978455	Cancer irroratus	
+n03874599	padlock	padlock in the hasp, padlock in the valley, padlock in the bottom, padlock in the lower
+n04515003	upright	upright in the sand, upright in the water, upright in the bed, upright in the earth, upright in the chair, upright in the ground, upright in the saddle
+n04515003	upright piano	upright piano in the dining, upright piano in the far, upright piano in the living, upright piano in the front, upright piano in the parlor
+n04049303	rain barrel	
+n04243546	slot	slot in the door, slot in the bottom, slot in the upper, slot in the head, slot in the wall, slot in the top, slot in the end, slot in the side, slot in the front, slot in the table
+n04243546	one-armed bandit	
+n02640242	sturgeon	sturgeon in the Hudson, sturgeon in the lake, sturgeon in the Great, sturgeon in the spring, sturgeon in the rivers, sturgeon in the Columbia, sturgeon in the Black, sturgeon in the lower, sturgeon in the Delaware, sturgeon in the river
+n01669191	box turtle	
+n01669191	box tortoise	
+n04311174	steel drum	
+n04591157	Windsor tie	
+n01677366	common iguana	
+n01677366	iguana	
+n01677366	Iguana iguana	
+n04152593	screen	screen in the hall, screen in the front, screen in the room, screen in the background, screen in the church, screen in the usual
+n04152593	CRT screen	
+n02799071	baseball	baseball in the streets, baseball in the park, baseball in the early, baseball in the summer, baseball in the major, baseball in the spring, baseball in the vacant, baseball in the street, baseball in the afternoon
+n02087046	toy terrier	
+n03661043	library	library in the town, library in the city, library in the school, library in the kingdom, library in the state, library in the house, library in the British, library in the country
+n04254680	soccer ball	soccer ball in the street
+n03721384	marimba	
+n03721384	xylophone	
+n04344873	studio couch	studio couch in the living
+n04344873	day bed	day bed in the living
+n11879895	rapeseed	
+n03649909	lawn mower	lawn mower in the distance, lawn mower in the garage
+n03649909	mower	mower in the distance, mower in the dew, mower in the field, mower in the shed, mower in the garage, mower in the next, mower in the adjacent, mower in the summer, mower in the yard
+n02105641	Old English sheepdog	
+n02105641	bobtail	
+n02259212	leafhopper	
+n02877765	bottlecap	
+n03733131	maypole	maypole in the Strand
+n02128385	leopard	leopard in the vision, leopard in the night, leopard in the jungle, leopard in the forest, leopard in the garden, leopard in the house, leopard in the vicinity, leopard in the bush, leopard in the act
+n02128385	Panthera pardus	
+n04370456	sweatshirt	
+n02483362	gibbon	gibbon in the Malay
+n02483362	Hylobates lar	
+n02134418	sloth bear	
+n02134418	Melursus ursinus	
+n02134418	Ursus ursinus	
+n02130308	cheetah	cheetah in the Serengeti, cheetah in the wild
+n02130308	chetah	
+n02130308	Acinonyx jubatus	
+n03976467	Polaroid camera	
+n03976467	Polaroid Land camera	
+n02056570	king penguin	
+n02056570	Aptenodytes patagonica	
+n02091467	Norwegian elkhound	
+n02091467	elkhound	
+n04591713	wine bottle	
+n07836838	chocolate sauce	
+n07836838	chocolate syrup	
+n03602883	joystick	joystick in the direction
+n03208938	disk brake	
+n03208938	disc brake	
+n03498962	hatchet	hatchet in the face, hatchet in the cause, hatchet in the hand, hatchet in the path, hatchet in the head, hatchet in the murderer, hatchet in the hands
+n02127052	lynx	
+n02127052	catamount	
+n02666196	abacus	abacus in the Corinthian, abacus in the Doric
+n03534580	hoopskirt	
+n03534580	crinoline	
+n02328150	Angora	Angora in the heart
+n02328150	Angora rabbit	
+n01773157	black and gold garden spider	
+n01773157	Argiope aurantia	
+n02006656	spoonbill	
+n02113978	Mexican hairless	
+n01776313	tick	tick in the appropriate, tick in the silence, tick in the percussion, tick in the box, tick in the course, tick in the margin, tick in the column
+n02123597	Siamese cat	
+n02123597	Siamese	
+n02749479	assault rifle	
+n02749479	assault gun	
+n04409515	tennis ball	tennis ball in the back
+n01855032	red-breasted merganser	
+n01855032	Mergus serrator	
+n02096585	Boston bull	
+n02096585	Boston terrier	
+n03355925	flagpole	flagpole in the garden, flagpole in the yard, flagpole in the front, flagpole in the plaza, flagpole in the courtyard, flagpole in the square
+n03355925	flagstaff	flagstaff in the garden, flagstaff in the yard, flagstaff in the ground, flagstaff in the fort, flagstaff in the by
+n04146614	school bus	school bus in the mornings, school bus in the afternoon, school bus in the morning
+n03529860	home theater	
+n03529860	home theatre	
+n04033901	quill	quill in the cork, quill in the right, quill in the inkpot, quill in the inkstand, quill in the hand, quill in the ink, quill in the inkwell
+n04033901	quill pen	quill pen in the hand, quill pen in the ink
+n07614500	ice cream	ice cream in the freezer, ice cream in the summer, ice cream in the refrigerator, ice cream in the home
+n07614500	icecream	
+n01914609	sea anemone	
+n01914609	anemone	
+n07871810	meat loaf	meat loaf in the oven
+n07871810	meatloaf	meatloaf in the oven
+n09421951	sandbar	sandbar in the harbor, sandbar in the river, sandbar in the mouth, sandbar in the Rio, sandbar in the Mississippi, sandbar in the Missouri
+n09421951	sand bar	sand bar in the river, sand bar in the Mississippi
+n03018349	china cabinet	china cabinet in the dining
+n03018349	china closet	china closet in the dining
+n04238763	slide rule	
+n04238763	slipstick	
+n01944390	snail	snail in the bottle, snail in the shell, snail in the garden, snail in the aquarium, snail in the ginger, snail in the water
+n02206856	bee	bee in the construction, bee in the land, bee in the act, bee in the midst, bee in the translucent, bee in the flower, bee in the hive, bee in the bonnet
+n01728920	ringneck snake	
+n01728920	ring-necked snake	
+n01728920	ring snake	
+n03887697	paper towel	paper towel in the trash, paper towel in the microwave, paper towel in the bottom, paper towel in the wastebasket, paper towel in the garbage, paper towel in the waste
+n02091134	whippet	
+n02321529	sea cucumber	
+n02321529	holothurian	
+n09472597	volcano	volcano in the interior, volcano in the moon, volcano in the midst, volcano in the Island, volcano in the neighbourhood, volcano in the island, volcano in the vicinity
+n02086910	papillon	
+n01950731	sea slug	
+n01950731	nudibranch	
+n07584110	consomme	
+n02504013	Indian elephant	
+n02504013	Elephas maximus	
+n02058221	albatross	
+n02058221	mollymawk	
+n02106030	collie	
+n03924679	photocopier	photocopier in the library, photocopier in the office
+n09835506	ballplayer	ballplayer in the major, ballplayer in the family, ballplayer in the league, ballplayer in the game, ballplayer in the history
+n09835506	baseball player	baseball player in the Negro, baseball player in the history, baseball player in the major, baseball player in the National, baseball player in the country, baseball player in the American
+n01692333	Gila monster	
+n01692333	Heloderma suspectum	
+n02804610	bassoon	bassoon in the orchestra, bassoon in the second, bassoon in the first
+n03535780	horizontal bar	horizontal bar in the gymnasium, horizontal bar in the upper
+n03535780	high bar	
+n02117135	hyena	hyena in the distance
+n02117135	hyaena	
+n04542943	waffle iron	
+n04550184	wardrobe	wardrobe in the bedroom, wardrobe in the evening, wardrobe in the room, wardrobe in the west, wardrobe in the Tower, wardrobe in the last, wardrobe in the hall, wardrobe in the hands
+n04550184	closet	closet in the out, closet in the eagle, closet in the back, closet in the house, closet in the kitchen, closet in the wall, closet in the hall, closet in the room
+n04550184	press	press in the following, press in the hands, press in the early, press in the city, press in the country, press in the course, press in the year
+n03297495	espresso maker	
+n02281406	sulphur butterfly	
+n02281406	sulfur butterfly	
+n02493793	spider monkey	
+n02493793	Ateles geoffroyi	
+n03467068	guillotine	guillotine in the days, guillotine in the French, guillotine in the Place, guillotine in the background, guillotine in the Reign, guillotine in the first, guillotine in the twilight, guillotine in the public
+n01833805	hummingbird	
+n02490219	marmoset	
+n02493509	titi	
+n02493509	titi monkey	
+n02137549	mongoose	mongoose in the garden, mongoose in the left, mongoose in the West
+n02391049	zebra	zebra in the zoo
+n03742115	medicine chest	medicine chest in the bathroom
+n03742115	medicine cabinet	medicine cabinet in the bathroom
+n02113624	toy poodle	
+n03929855	pickelhaube	
+n02002556	white stork	
+n02002556	Ciconia ciconia	
+n03016953	chiffonier	chiffonier in the parlour
+n03016953	commode	commode in the room, commode in the bedroom, commode in the Wallace, commode in the bathroom
+n03599486	jinrikisha	
+n03599486	ricksha	
+n03599486	rickshaw	
+n01514668	cock	cock in the tube, cock in the side, cock in the bottom, cock in the pipe, cock in the lower, cock in the top, cock in the pit, cock in the yard, cock in the fable
+n01742172	boa constrictor	boa constrictor in the act
+n01742172	Constrictor constrictor	
+n03995372	power drill	
+n02494079	squirrel monkey	
+n02494079	Saimiri sciureus	
+n01770393	scorpion	scorpion in the sky
+n02097474	Tibetan terrier	
+n02097474	chrysanthemum dog	
+n10565667	scuba diver	
+n03709823	mailbag	
+n03709823	postbag	
+n07590611	hot pot	
+n07590611	hotpot	
+n02110063	malamute	
+n02110063	malemute	
+n02110063	Alaskan malamute	
+n03201208	dining table	dining table in the kitchen, dining table in the living, dining table in the dining, dining table in the alcove, dining table in the house, dining table in the main, dining table in the next
+n03201208	board	board in the house, board in the night, board in the morning, board in the floor, board in the country, board in the afternoon, board in the evening, board in the first
+n02107908	Appenzeller	
+n03187595	dial telephone	
+n03187595	dial phone	
+n02483708	siamang	
+n02483708	Hylobates syndactylus	
+n02483708	Symphalangus syndactylus	
+n03840681	ocarina	
+n03840681	sweet potato	sweet potato in the Pacific, sweet potato in the upper
+n01667114	mud turtle	
+n01774384	black widow	
+n01774384	Latrodectus mactans	
+n03075370	combination lock	
+n04418357	theater curtain	
+n04418357	theatre curtain	
+n01664065	loggerhead	loggerhead in the stern
+n01664065	loggerhead turtle	
+n01664065	Caretta caretta	
+n03825788	nipple	nipple in the mouth, nipple in the baby, nipple in the act, nipple in the fifth, nipple in the male, nipple in the female, nipple in the infant
+n02708093	analog clock	
+n07753592	banana	banana in the pail, banana in the fire, banana in the blender, banana in the Philippines, banana in the gardens, banana in the dish
+n02113799	standard poodle	
+n02342885	hamster	hamster in the cage
+n02486410	baboon	
+n03793489	mouse	mouse in the room, mouse in the fable, mouse in the claws, mouse in the wall, mouse in the trap, mouse in the wainscot, mouse in the grass
+n03793489	computer mouse	
+n03782006	monitor	monitor in the breast, monitor in the first, monitor in the studio, monitor in the case, monitor in the control, monitor in the military, monitor in the school, monitor in the human
+n02107312	miniature pinscher	
+n02504458	African elephant	
+n02504458	Loxodonta africana	
+n02859443	boathouse	
+n02105162	malinois	
+n03045698	cloak	cloak in the blood, cloak in the passage, cloak in the midst, cloak in the morning, cloak in the heavening, cloak in the hands, cloak in the hall, cloak in the open, cloak in the mud
+n06785654	crossword puzzle	crossword puzzle in the newspaper, crossword puzzle in the daily, crossword puzzle in the morning, crossword puzzle in the New, crossword puzzle in the Sunday, crossword puzzle in the paper
+n06785654	crossword	crossword in the paper, crossword in the newspaper
+n02447366	badger	badger in the stable
+n02815834	beaker	beaker in the ice, beaker in the hood, beaker in the water, beaker in the laboratory, beaker in the halls
+n03676483	lipstick	lipstick in the morning, lipstick in the rear, lipstick in the car, lipstick in the bathroom, lipstick in the rearview, lipstick in the ladies, lipstick in the mirror
+n03676483	lip rouge	
+n07730033	cardoon	
+n04162706	seat belt	seat belt in the car, seat belt in the front, seat belt in the back
+n04162706	seatbelt	seatbelt in the car
+n03998194	prayer rug	
+n03998194	prayer mat	
+n02091831	Saluki	
+n02091831	gazelle hound	
+n02105855	Shetland sheepdog	
+n02105855	Shetland sheep dog	
+n02105855	Shetland	Shetland in the early, Shetland in the late, Shetland in the north
+n02364673	guinea pig	guinea pig in the laboratory
+n02364673	Cavia cobaya	
+n03223299	doormat	
+n03223299	welcome mat	
+n04548280	wall clock	wall clock in the lobby, wall clock in the kitchen, wall clock in the hall, wall clock in the room, wall clock in the shape, wall clock in the living
+n02489166	proboscis monkey	
+n02489166	Nasalis larvatus	
+n02002724	black stork	
+n02002724	Ciconia nigra	
+n02444819	otter	otter in the eastern, otter in the waters, otter in the wild, otter in the vicinity, otter in the water, otter in the river, otter in the Inny
+n02119789	kit fox	
+n02119789	Vulpes macrotis	
+n01629819	European fire salamander	
+n01629819	Salamandra salamandra	
+n02113023	Pembroke	Pembroke in the Thames, Pembroke in the south
+n02113023	Pembroke Welsh corgi	
+n02782093	balloon	balloon in the sky, balloon in the shape, balloon in the esophagus, balloon in the stomach, balloon in the opposite, balloon in the atmosphere
+n12998815	agaric	agaric in the holt
+n02077923	sea lion	
+n07745940	strawberry	strawberry in the woods
+n03680355	Loafer	
+n01795545	black grouse	
+n02091032	Italian greyhound	
+n04380533	table lamp	table lamp in the living
+n02346627	porcupine	porcupine in the woods
+n02346627	hedgehog	hedgehog in the cellar, hedgehog in the developing, hedgehog in the garden
+n02093647	Bedlington terrier	
+n02101388	Brittany spaniel	
+n03000684	chain saw	chain saw in the distance
+n03000684	chainsaw	
+n03874293	paddlewheel	
+n03874293	paddle wheel	paddle wheel in the stern, paddle wheel in the water
+n03690938	lotion	lotion in the bathroom, lotion in the treatment, lotion in the strength, lotion in the proportion, lotion in the morning, lotion in the palm
+n01784675	centipede	
+n02100735	English setter	
+n03706229	magnetic compass	
+n04399382	teddy	
+n04399382	teddy bear	
+n02105412	kelpie	
+n01688243	frilled lizard	
+n01688243	Chlamydosaurus kingi	
+n04328186	stopwatch	
+n04328186	stop watch	
+n02102177	Welsh springer spaniel	
+n02480855	gorilla	gorilla in the room, gorilla in the jungle, gorilla in the forest, gorilla in the wild, gorilla in the zoo, gorilla in the closet, gorilla in the Congo
+n02480855	Gorilla gorilla	
+n04235860	sleeping bag	sleeping bag in the morning, sleeping bag in the tent, sleeping bag in the car, sleeping bag in the trunk, sleeping bag in the living, sleeping bag in the dark, sleeping bag in the back
+n01924916	flatworm	
+n01924916	platyhelminth	
+n13040303	stinkhorn	
+n13040303	carrion fungus	
+n02280649	cabbage butterfly	
+n03445777	golf ball	golf ball in the hole, golf ball in the rough
+n02093754	Border terrier	
+n02099267	flat-coated retriever	
+n02105505	komondor	
+n02085620	Chihuahua	Chihuahua in the early, Chihuahua in the Eighteenth, Chihuahua in the north
+n02090379	redbone	
+n02092339	Weimaraner	
+n02138441	meerkat	
+n02138441	mierkat	
+n02088364	beagle	
+n02363005	beaver	beaver in the winter, beaver in the water, beaver in the mountains, beaver in the country, beaver in the Granic, beaver in the streams, beaver in the forest, beaver in the Rocky, beaver in the manufacture
+n02676566	acoustic guitar	
+n04417672	thatch	thatch in the roofs, thatch in the roof, thatch in the native, thatch in the intervals, thatch in the country
+n04417672	thatched roof	
+n03538406	horse cart	
+n03538406	horse-cart	
+n02095314	wire-haired fox terrier	
+n02104029	kuvasz	
+n03785016	moped	moped in the Emperor, moped in the house, moped in the striking
+n02088094	Afghan hound	
+n02088094	Afghan	
+n03794056	mousetrap	mousetrap in the kitchen
+n04285008	sports car	sports car in the driveway, sports car in the garage, sports car in the parking
+n04285008	sport car	
+n02098413	Lhasa	Lhasa in the early, Lhasa in the spring, Lhasa in the first, Lhasa in the year, Lhasa in the seventh, Lhasa in the late, Lhasa in the autumn, Lhasa in the summer
+n02098413	Lhasa apso	
+n02107574	Greater Swiss Mountain dog	
+n01698640	American alligator	
+n01698640	Alligator mississipiensis	
+n03888605	parallel bars	parallel bars in the gymnasium
+n03888605	bars	bars in the top, bars in the first, bars in the upper, bars in the windows, bars in the river, bars in the window, bars in the bottom, bars in the way
+n04505470	typewriter keyboard	
+n02107683	Bernese mountain dog	
+n02264363	lacewing	
+n02264363	lacewing fly	
+n04266014	space shuttle	
+n02099849	Chesapeake Bay retriever	
+n03134739	croquet ball	
+n02090622	borzoi	
+n02090622	Russian wolfhound	
+n02100236	German short-haired pointer	
+n02667093	abaya	
+n01537544	indigo bunting	
+n01537544	indigo finch	
+n01537544	indigo bird	
+n01537544	Passerina cyanea	
+n01773797	garden spider	
+n01773797	Aranea diademata	
+n04286575	spotlight	spotlight in the dark, spotlight in the early, spotlight in the late, spotlight in the first, spotlight in the direction, spotlight in the ceiling
+n04286575	spot	spot in the midst, spot in the neighbourhood, spot in the garden, spot in the universe, spot in the whole, spot in the forest
+n01632458	spotted salamander	
+n01632458	Ambystoma maculatum	
+n02492660	howler monkey	
+n02492660	howler	
+n04275548	spider web	
+n04275548	spider  s web	
+n01494475	hammerhead	
+n01494475	hammerhead shark	
+n01980166	fiddler crab	
+n02441942	weasel	weasel in the fable
+n02108915	French bulldog	
+n02690373	airliner	airliner in the Persian, airliner in the sky
+n02108422	bull mastiff	
+n02009229	little blue heron	
+n02009229	Egretta caerulea	
+n01739381	vine snake	
+n02111889	Samoyed	
+n02111889	Samoyede	
+n02865351	bolo tie	
+n02865351	bolo	
+n02865351	bola tie	
+n02865351	bola	
+n02106382	Bouvier des Flandres	
+n02106382	Bouviers des Flandres	
+n02089867	Walker hound	
+n02089867	Walker foxhound	
+n02088466	bloodhound	bloodhound in the stable
+n02088466	sleuthhound	
+n02086079	Pekinese	
+n02086079	Pekingese	
+n02086079	Peke	
+n02113186	Cardigan	
+n02113186	Cardigan Welsh corgi	
+n03126707	crane	crane in the port, crane in the chimney, crane in the fable, crane in the sky, crane in the background, crane in the fireplace
+n04525038	velvet	velvet in the streets, velvet in the night, velvet in the sun, velvet in the dark, velvet in the winter, velvet in the French
+n02802426	basketball	basketball in the gymnasium, basketball in the early, basketball in the park, basketball in the school, basketball in the gym, basketball in the winter, basketball in the NBA, basketball in the driveway, basketball in the high
+n01443537	goldfish	goldfish in the garden, goldfish in the pool, goldfish in the basin, goldfish in the little, goldfish in the fountain, goldfish in the room, goldfish in the pond, goldfish in the bowl, goldfish in the aquarium, goldfish in the water
+n01443537	Carassius auratus	
+n02108089	boxer	boxer in the ring, boxer in the army, boxer in the history, boxer in the Navy, boxer in the use, boxer in the early, boxer in the school, boxer in the course
+n02093256	Staffordshire bullterrier	
+n02093256	Staffordshire bull terrier	
+n02096437	Dandie Dinmont	
+n02096437	Dandie Dinmont terrier	
+n02172182	dung beetle	
+n03617480	kimono	
+n04584207	wig	wig in the process, wig in the window, wig in the mirror, wig in the style, wig in the House, wig in the glass, wig in the first
+n02101006	Gordon setter	
+n03781244	monastery	monastery in the neighbourhood, monastery in the isle, monastery in the place, monastery in the town, monastery in the mountains, monastery in the diocese, monastery in the city, monastery in the year, monastery in the island
+n02087394	Rhodesian ridgeback	
+n01518878	ostrich	ostrich in the sand, ostrich in the desert, ostrich in the flowering, ostrich in the wilderness
+n01518878	Struthio camelus	
+n04265275	space heater	space heater in the living
+n02112706	Brabancon griffon	
+n02443484	black-footed ferret	
+n02443484	ferret	ferret in the shape, ferret in the house
+n02443484	Mustela nigripes	
+n03729826	matchstick	
+n02091635	otterhound	
+n02091635	otter hound	
+n02094114	Norfolk terrier	
+n02389026	sorrel	sorrel in the morning
+n02086646	Blenheim spaniel	
+n02777292	balance beam	
+n02777292	beam	beam in the ceiling, beam in the house, beam in the direction, beam in the barn, beam in the roof, beam in the plane, beam in the eye
+n02090721	Irish wolfhound	
+n02167151	ground beetle	
+n02167151	carabid beetle	
+n02097209	standard schnauzer	
+n02916936	bulletproof vest	
+n03272562	electric locomotive	
+n03452741	grand piano	grand piano in the living, grand piano in the parlor, grand piano in the recess, grand piano in the music, grand piano in the salon, grand piano in the drawing, grand piano in the room
+n03452741	grand	grand in the extreme, grand in the conception, grand in the elements, grand in the idea, grand in the highest, grand in the human, grand in the calm, grand in the distance, grand in the pride, grand in the way
+n03770679	minivan	minivan in the parking, minivan in the driveway, minivan in the garage
+n03042490	cliff dwelling	cliff dwelling in the Southwest
+n04239074	sliding door	sliding door in the front, sliding door in the bottom, sliding door in the side, sliding door in the bulkhead, sliding door in the rear, sliding door in the wall, sliding door in the back
+n02088238	basset	
+n02088238	basset hound	
+n02823428	beer bottle	
+n01773549	barn spider	
+n01773549	Araneus cavaticus	
+n02093991	Irish terrier	
+n02488702	colobus	
+n02488702	colobus monkey	
+n02086240	Shih-Tzu	
+n03404251	fur coat	fur coat in the hall, fur coat in the closet
+n07860988	dough	dough in the oven, dough in the usual, dough in the trough, dough in the bowl, dough in the hands, dough in the pan, dough in the refrigerator
+n03761084	microwave	microwave in the kitchen
+n03761084	microwave oven	microwave oven in the kitchen
+n03775071	mitten	mitten in the snow
+n02105251	briard	
+n03657121	lens cap	
+n03657121	lens cover	
+n02100583	vizsla	
+n02100583	Hungarian pointer	
+n04131690	saltshaker	
+n04131690	salt shaker	
+n02105056	groenendael	
+n02484975	guenon	
+n02484975	guenon monkey	
+n04310018	steam locomotive	
+n02095570	Lakeland terrier	
+n02112350	keeshond	
+n02793495	barn	barn in the county, barn in the country, barn in the village, barn in the neighborhood, barn in the field, barn in the morning, barn in the neighbourhood, barn in the rear
+n03777754	modem	modem in the computer, modem in the sense, modem in the list, modem in the Modem
+n04590129	window shade	
+n02097130	giant schnauzer	
+n04136333	sarong	
+n07583066	guacamole	
+n02454379	armadillo	
+n03376595	folding chair	folding chair in the back, folding chair in the shade, folding chair in the front
+n02879718	bow	bow in the cloud, bow in the heavens, bow in the sky, bow in the house, bow in the direction, bow in the clouds, bow in the left
+n01990800	isopod	
+n02074367	dugong	
+n02074367	Dugong dugon	
+n04251144	snorkel	snorkel in the clear
+n02108551	Tibetan mastiff	
+n03763968	military uniform	
+n04277352	spindle	spindle in the first, spindle in the egg, spindle in the headstock, spindle in the usual
+n02096177	cairn	cairn in the parish
+n02096177	cairn terrier	
+n03843555	oil filter	
+n04355933	sunglass	
+n04485082	tripod	tripod in the midst, tripod in the temple, tripod in the back
+n04273569	speedboat	
+n04332243	strainer	strainer in the bottom, strainer in the sink, strainer in the suction, strainer in the water, strainer in the oil
+n01740131	night snake	
+n01740131	Hypsiglena torquata	
+n02107142	Doberman	
+n02107142	Doberman pinscher	
+n03127747	crash helmet	
+n02088632	bluetick	
+n02106166	Border collie	
+n02094258	Norwich terrier	
+n02110806	basenji	
+n07760859	custard apple	
+n02097047	miniature schnauzer	
+n03710637	maillot	
+n01685808	whiptail	
+n01685808	whiptail lizard	
+n02980441	castle	castle in the year, castle in the county, castle in the neighbourhood, castle in the country, castle in the midst, castle in the distance, castle in the night, castle in the north
+n02981792	catamaran	
+n03133878	Crock Pot	
+n04040759	radiator	radiator in the front, radiator in the hallway, radiator in the room, radiator in the living, radiator in the bathroom, radiator in the hall, radiator in the system
+n03933933	pier	pier in the harbor, pier in the nave, pier in the open, pier in the North, pier in the direction, pier in the river
+n03476684	hair slide	
+n04069434	reflex camera	
+n03871628	packet	packet in the evening, packet in the morning, packet in the left, packet in the mouth, packet in the bosom, packet in the service, packet in the presence, packet in the hands
+n03958227	plastic bag	plastic bag in the closet, plastic bag in the crisper, plastic bag in the freezer, plastic bag in the fridge, plastic bag in the trash, plastic bag in the vegetable, plastic bag in the back, plastic bag in the bottom, plastic bag in the refrigerator
+n02108000	EntleBucher	
+n02109047	Great Dane	
+n04118776	rule	rule in the South, rule in the case, rule in the country, rule in the East, rule in the church, rule in the Church, rule in the name, rule in the law
+n04118776	ruler	ruler in the East, ruler in the Church, ruler in the person, ruler in the house, ruler in the Gospel, ruler in the kingdom, ruler in the city, ruler in the church, ruler in the land
+n04371774	swing	swing in the breeze, swing in the hammock, swing in the opposite, swing in the pendulum, swing in the wind, swing in the garden, swing in the direction
+n01440764	tench	
+n01440764	Tinca tinca	
+n03961711	plate rack	
+n03100240	convertible	convertible in the future, convertible in the parking, convertible in the driveway, convertible in the market, convertible in the sense, convertible in the garage, convertible in the body, convertible in the near, convertible in the international
+n04153751	screw	screw in the handle, screw in the direction, screw in the nut, screw in the top, screw in the end
+n02906734	broom	broom in the hands, broom in the closet, broom in the hall, broom in the chimney, broom in the streets, broom in the house
+n02951358	canoe	canoe in the lake, canoe in the distance, canoe in the direction, canoe in the creek, canoe in the morning, canoe in the water, canoe in the river, canoe in the most
+n07715103	cauliflower	
+n02102040	English springer	
+n02102040	English springer spaniel	
+n03445924	golfcart	
+n03445924	golf cart	
+n02104365	schipperke	
+n03976657	pole	pole in the direction, pole in the Strand, pole in the market, pole in the ground, pole in the opposite
+n04589890	window screen	
+n03944341	pinwheel	
+n03063689	coffeepot	coffeepot in the kitchen
+n04228054	ski	ski in the mountains, ski in the afternoon, ski in the direction, ski in the Alps, ski in the summer, ski in the morning, ski in the snow, ski in the winter
+n04562935	water tower	water tower in the distance, water tower in the background
+n01644373	tree frog	
+n01644373	tree-frog	
+n04392985	tape player	tape player in the car
+n04456115	torch	torch in the hands, torch in the right, torch in the night, torch in the darkness, torch in the left, torch in the bark, torch in the hand, torch in the water
+n04259630	sombrero	
+n02098286	West Highland white terrier	
+n04606251	wreck	wreck in the midst, wreck in the West, wreck in the first, wreck in the sea, wreck in the morning, wreck in the harbour, wreck in the ocean, wreck in the possession
+n04147183	schooner	schooner in the shallows, schooner in the service, schooner in the river, schooner in the distance, schooner in the harbor, schooner in the harbour, schooner in the very, schooner in the dark, schooner in the offing, schooner in the bay
+n04423845	thimble	thimble in the Soxhlet, thimble in the end, thimble in the eye
+n02514041	barracouta	
+n02514041	snoek	
+n02037110	oystercatcher	
+n02037110	oyster catcher	
+n04252077	snowmobile	snowmobile in the winter
+n02978881	cassette	cassette in the car, cassette in the recorder, cassette in the dark, cassette in the VCR, cassette in the Bucky, cassette in the machine, cassette in the player, cassette in the tape, cassette in the darkroom
+n07695742	pretzel	
+n07717556	butternut squash	
+n02112137	chow	chow in the morning, chow in the mess, chow in the province
+n02112137	chow chow	
+n01675722	banded gecko	
+n01734418	king snake	
+n01734418	kingsnake	
+n02096051	Airedale	
+n02096051	Airedale terrier	
+n04330267	stove	stove in the kitchen, stove in the cabin, stove in the dining, stove in the back, stove in the living, stove in the room
+n02190166	fly	fly in the utmost, fly in the open, fly in the midst, fly in the ointment, fly in the night, fly in the dark, fly in the direction, fly in the face
+n03633091	ladle	ladle in the punch, ladle in the kitchen, ladle in the pot, ladle in the water, ladle in the hot, ladle in the soup
+n03773504	missile	missile in the Soviet, missile in the desired, missile in the direction, missile in the U.S., missile in the hands, missile in the shape
+n07920052	espresso	espresso in the morning
+n01608432	kite	kite in the street, kite in the wind, kite in the shape, kite in the sky, kite in the direction, kite in the midst, kite in the park, kite in the rain
+n03891251	park bench	park bench in the rain, park bench in the shade, park bench in the sun
+n02177972	weevil	weevil in the southern, weevil in the South, weevil in the early, weevil in the field, weevil in the cotton
+n04435653	tile roof	
+n13037406	gyromitra	
+n03623198	knee pad	
+n02115913	dhole	
+n02115913	Cuon alpinus	
+n03908714	pencil sharpener	pencil sharpener in the shape
+n04026417	purse	purse in the highway, purse in the hand, purse in the hands, purse in the right, purse in the pocket, purse in the course, purse in the service, purse in the street
+n04476259	tray	tray in the sky, tray in the kitchen, tray in the mouth, tray in the hall, tray in the bottom
+n03291819	envelope	envelope in the box, envelope in the presence, envelope in the safe, envelope in the pocket, envelope in the mail, envelope in the ballot, envelope in the left
+n01774750	tarantula	
+n03447447	gondola	gondola in the canals, gondola in the decay, gondola in the front, gondola in the foreground
+n04325704	stole	stole in the darkness, stole in the direction, stole in the night, stole in the room, stole in the first, stole in the dark
+n01580077	jay	jay in the peacock, jay in the wood, jay in the act, jay in the nest, jay in the fable, jay in the woods, jay in the tree, jay in the whole
+n07697313	cheeseburger	
+n03290653	entertainment center	entertainment center in the living
+n06596364	comic book	
+n03388043	fountain	fountain in the desert, fountain in the market, fountain in the court, fountain in the Piazza, fountain in the midst, fountain in the courtyard, fountain in the garden
+n03530642	honeycomb	honeycomb in the hive, honeycomb in the hollow, honeycomb in the bear, honeycomb in the mouth
+n03956157	planetarium	planetarium in the Western
+n04204347	shopping cart	
+n04522168	vase	vase in the Museum, vase in the shape, vase in the Louvre, vase in the collection, vase in the British
+n07714990	broccoli	
+n01514859	hen	hen in the forehead, hen in the flock, hen in the fable, hen in the nest, hen in the barnyard, hen in the yard, hen in the act, hen in the year, hen in the midst, hen in the coop
+n02808304	bath towel	
+n03777568	Model T	Model T in the early
+n03868242	oxcart	
+n04209133	shower cap	
+n04366367	suspension bridge	suspension bridge in the country, suspension bridge in the clouds, suspension bridge in the U.S.
+n02607072	anemone fish	
+n02974003	car wheel	
+n03662601	lifeboat	lifeboat in the North, lifeboat in the water
+n03769881	minibus	
+n07875152	potpie	potpie in the oven
+n04133789	sandal	sandal in the finest, sandal in the mud, sandal in the process
+n03393912	freight car	
+n02229544	cricket	cricket in the ground, cricket in the summer, cricket in the orchard, cricket in the grass, cricket in the field, cricket in the sun, cricket in the park, cricket in the afternoon, cricket in the garden
+n02730930	apron	apron in the back, apron in the Mercato, apron in the morning, apron in the doorway, apron in the place, apron in the kitchen, apron in the front
+n04336792	stretcher	stretcher in the course, stretcher in the back, stretcher in the rigging, stretcher in the ambulance, stretcher in the bows, stretcher in the hall, stretcher in the hospital
+n07747607	orange	orange in the throat, orange in the morning, orange in the autumn, orange in the sun, orange in the male, orange in the west, orange in the fall
+n02999410	chain	chain in the north, chain in the country, chain in the direction, chain in the molecule, chain in the house
+n03026506	Christmas stocking	
+n04525305	vending machine	vending machine in the lobby, vending machine in the hall, vending machine in the basement, vending machine in the corridor, vending machine in the cafeteria
+n02012849	crane	crane in the port, crane in the chimney, crane in the fable, crane in the sky, crane in the background, crane in the fireplace
+n03443371	goblet	goblet in the palace, goblet in the name, goblet in the shape, goblet in the hand, goblet in the hands, goblet in the note
+n02089078	black-and-tan coonhound	
+n03379051	football helmet	
+n03598930	jigsaw puzzle	
+n04613696	yurt	
+n03627232	knot	knot in the cord, knot in the wood, knot in the rope, knot in the string, knot in the thread, knot in the line, knot in the end
+n01689811	alligator lizard	
+n03179701	desk	desk in the office, desk in the study, desk in the morning, desk in the library, desk in the room, desk in the lobby, desk in the Senate
+n07716906	spaghetti squash	
+n02106550	Rottweiler	
+n02110185	Siberian husky	
+n04009552	projector	projector in the classroom, projector in the schemes, projector in the art, projector in the room, projector in the theater, projector in the back, projector in the school
+n04179913	sewing machine	sewing machine in the house, sewing machine in the living, sewing machine in the room, sewing machine in the home, sewing machine in the Hebrides, sewing machine in the back, sewing machine in the dining
+n04209239	shower curtain	shower curtain in the bathroom
+n04532670	viaduct	viaduct in the background
+n02094433	Yorkshire terrier	
+n03127925	crate	crate in the back, crate in the car, crate in the shade, crate in the direction, crate in the basement, crate in the baggage, crate in the kitchen
+n07711569	mashed potato	
+n03837869	obelisk	obelisk in the Place, obelisk in the square, obelisk in the Piazza, obelisk in the great, obelisk in the British, obelisk in the Circus
+n04532106	vestment	vestment in the communion
+n03444034	go-kart	
+n03980874	poncho	poncho in the rain, poncho in the shade
+n01855672	goose	goose in the morning, goose in the foggy, goose in the market, goose in the Bohemian, goose in the wide, goose in the agonies, goose in the fable
+n02699494	altar	altar in the Temple, altar in the midst, altar in the Church, altar in the temple, altar in the chapel, altar in the church, altar in the cathedral
+n02950826	cannon	cannon in the hands, cannon in the fort, cannon in the place, cannon in the field, cannon in the distance, cannon in the rear, cannon in the batteries, cannon in the face, cannon in the streets, cannon in the direction
+n03796401	moving van	moving van in the driveway
+n04090263	rifle	rifle in the crook, rifle in the hands, rifle in the direction, rifle in the hollow, rifle in the place
+n07880968	burrito	burrito in the microwave
+n04458633	totem pole	
+n07613480	trifle	trifle in the comparison, trifle in the eyes, trifle in the following, trifle in the most, trifle in the stupendous, trifle in the presence, trifle in the way, trifle in the long
+n07831146	carbonara	
+n01560419	bulbul	
+n02102973	Irish water spaniel	
+n03220513	dome	dome in the shape, dome in the roof, dome in the distance, dome in the ceiling, dome in the midst
+n03527444	holster	holster in the back, holster in the small
+n03630383	lab coat	
+n03630383	laboratory coat	
+n03717622	manhole cover	manhole cover in the street
+n02843684	birdhouse	
+n03384352	forklift	forklift in the warehouse
+n04447861	toilet seat	toilet seat in the bathroom
+n07734744	mushroom	mushroom in the night, mushroom in the dark, mushroom in the sky, mushroom in the years, mushroom in the woods, mushroom in the forest
+n04487394	trombone	trombone in the orchestra, trombone in the first, trombone in the high, trombone in the school, trombone in the marching, trombone in the band, trombone in the brass
+n07802026	hay	hay in the loft, hay in the winter, hay in the stable, hay in the meadows, hay in the fields, hay in the stack, hay in the mow, hay in the meadow, hay in the field, hay in the barn
+n09193705	alp	
+n06359193	web site	web site in the future
+n06359193	website	website in the UK, website in the future, website in the past, website in the U.S., website in the first
+n06359193	internet site	
+n06359193	site	site in the town, site in the body, site in the neighbourhood, site in the city, site in the vicinity, site in the country
+n03804744	nail	nail in the end, nail in the coffin, nail in the foot, nail in the door, nail in the floor, nail in the ceiling, nail in the wall
+n07717410	acorn squash	
+n07720875	bell pepper	
+n09229709	bubble	bubble in the water, bubble in the spirit, bubble in the glass, bubble in the tube, bubble in the level
+n04067472	reel	reel in the streets, reel in the line, reel in the slack, reel in the fish, reel in the Nottingham, reel in the saddle, reel in the tank
+n04398044	teapot	teapot in the kitchen, teapot in the cupboard, teapot in the shape
+n04483307	trimaran	
+n04486054	triumphal arch	triumphal arch in the skies, triumphal arch in the Forum, triumphal arch in the Place, triumphal arch in the background, triumphal arch in the Roman
+n02791270	barbershop	barbershop in the city, barbershop in the basement
+n04154565	screwdriver	screwdriver in the slot, screwdriver in the screw, screwdriver in the hole
+n04462240	toyshop	
+n04596742	wok	
+n02097658	silky terrier	
+n02097658	Sydney silky	
+n07742313	Granny Smith	
+n07930864	cup	cup in the sacrament, cup in the Lord, cup in the Eucharist, cup in the eucharist, cup in the hand, cup in the communion
+n02701002	ambulance	ambulance in the morning, ambulance in the street, ambulance in the first, ambulance in the city, ambulance in the driveway, ambulance in the yard, ambulance in the distance, ambulance in the war, ambulance in the rear
+n03344393	fireboat	
+n04479046	trench coat	trench coat in the car
+n04204238	shopping basket	
+n02102480	Sussex spaniel	
+n04592741	wing	wing in the direction, wing in the morning, wing in the Congress, wing in the manner, wing in the party, wing in the battle, wing in the rear
+n04254777	sock	sock in the eye, sock in the teeth, sock in the kisser, sock in the mouth, sock in the nose, sock in the face, sock in the jaw, sock in the puss
+n04465501	tractor	tractor in the barn, tractor in the distance, tractor in the village, tractor in the fields, tractor in the early, tractor in the field
+n03197337	digital watch	
+n03125729	cradle	cradle in the snowy, cradle in the manger, cradle in the East, cradle in the heart, cradle in the nursery, cradle in the mountains, cradle in the pleasures, cradle in the room
+n04127249	safety pin	safety pin in the esophagus
+n07892512	red wine	red wine in the house, red wine in the cellar, red wine in the glasses, red wine in the evening, red wine in the kitchen, red wine in the bottom
+n02988304	CD player	CD player in the living, CD player in the car, CD player in the kitchen
+n02093859	Kerry blue terrier	
+n02096294	Australian terrier	
+n04579145	whiskey jug	
+n07579787	plate	plate in the usual, plate in the first, plate in the direction, plate in the camera, plate in the dark
+n02268853	damselfly	
+n04317175	stethoscope	stethoscope in the second, stethoscope in the evaluation, stethoscope in the pocket, stethoscope in the diagnosis, stethoscope in the left, stethoscope in the early
+n02423022	gazelle	gazelle in the eyes, gazelle in the desert, gazelle in the distance, gazelle in the Serengeti
+n02319095	sea urchin	
+n04326547	stone wall	stone wall in the garden, stone wall in the path, stone wall in the yard, stone wall in the foreground, stone wall in the way, stone wall in the rear, stone wall in the front, stone wall in the background
+n04597913	wooden spoon	
+n01806143	peacock	peacock in the garden, peacock in the jungle, peacock in the rack, peacock in the sun, peacock in the proide
+n02963159	cardigan	
+n04355338	sundial	sundial in the garden, sundial in the shade, sundial in the churchyard, sundial in the front, sundial in the courtyard
+n03272010	electric guitar	
+n07714571	head cabbage	
+n02791124	barber chair	
+n03733805	measuring cup	measuring cup in the microwave
+n03814906	necklace	necklace in the name, necklace in the first, necklace in the shape, necklace in the window, necklace in the safe
+n13044778	earthstar	
+n02361337	marmot	marmot in the state
+n03314780	face powder	
+n04376876	syringe	syringe in the right, syringe in the usual, syringe in the tan, syringe in the left, syringe in the treatment, syringe in the hand, syringe in the hands
+n02033041	dowitcher	
+n04442312	toaster	toaster in the kitchen
+n03388549	four-poster	
+n04201297	shoji	
+n03255030	dumbbell	dumbbell in the hand, dumbbell in the right
+n03495258	harp	harp in the Highlands, harp in the orchestra, harp in the hands, harp in the presence, harp in the window, harp in the wind, harp in the room
+n01534433	junco	
+n01534433	snowbird	
+n01843065	jacamar	
+n03584829	iron	iron in the state, iron in the water, iron in the body, iron in the ore, iron in the blood, iron in the fire, iron in the liver
+n03584829	smoothing iron	
+n04560804	water jug	
+n12267677	acorn	acorn in the earth, acorn in the ground, acorn in the depths, acorn in the cup, acorn in the oak, acorn in the soil, acorn in the morning, acorn in the garden, acorn in the forest
+n01491361	tiger shark	
+n01491361	Galeocerdo cuvieri	
+n01818515	macaw	
+n02790996	barbell	
+n03891332	parking meter	
+n07932039	eggnog	
+n01829413	hornbill	
+n02091244	Ibizan hound	
+n02091244	Ibizan Podenco	
+n04612504	yawl	yawl in the midst
+n01768244	trilobite	
+n02965783	car mirror	
+n07749582	lemon	lemon in the house, lemon in the water, lemon in the glass, lemon in the mouth, lemon in the garden, lemon in the tea
+n01820546	lorikeet	
+n02098105	soft-coated wheaten terrier	
+n02971356	carton	carton in the kitchen, carton in the basement, carton in the freezer, carton in the refrigerator, carton in the trash, carton in the back, carton in the garbage
+n04579432	whistle	whistle in the night, whistle in the garden, whistle in the street, whistle in the morning, whistle in the dark, whistle in the wind, whistle in the distance, whistle in the cage
+n01704323	triceratops	
+n07768694	pomegranate	pomegranate in the hand, pomegranate in the garden
+n01883070	wombat	
+n02397096	warthog	
+n03788365	mosquito net	
+n03792972	mountain tent	
+n04125021	safe	safe in the hands, safe in the custody, safe in the arms, safe in the keeping, safe in the city, safe in the midst, safe in the house, safe in the harbour, safe in the knowledge, safe in the possession
+n01498041	stingray	
+n01828970	bee eater	
+n01943899	conch	conch in the lower, conch in the left, conch in the upper, conch in the right
+n02410509	bison	bison in the crack, bison in the park, bison in the forests, bison in the country, bison in the stall, bison in the north, bison in the west, bison in the cave
+n02910353	buckle	buckle in the boat, buckle in the front, buckle in the shape, buckle in the back, buckle in the direction, buckle in the harness
+n01631663	eft	
+n02123159	tiger cat	
+n03930313	picket fence	picket fence in the front
+n03930313	paling	paling in the face, paling in the eastern, paling in the east, paling in the dark, paling in the light, paling in the sky, paling in the morning, paling in the dawn, paling in the west, paling in the sun
+n12144580	corn	corn in the fields, corn in the straw, corn in the country, corn in the market, corn in the ear, corn in the field, corn in the earth, corn in the home
+n01917289	brain coral	
+n04005630	prison	prison in the Tower, prison in the country, prison in the city, prison in the castle, prison in the town, prison in the year, prison in the Castle
+n04005630	prison house	
+n03146219	cuirass	
+n04296562	stage	
+n01737021	water snake	
+n01807496	partridge	partridge in the mountain, partridge in the puttock, partridge in the corn, partridge in the South, partridge in the pear, partridge in the woods, partridge in the valley, partridge in the Great, partridge in the mountains
+n02786058	Band Aid	
+n04141327	scabbard	scabbard in the most
+n04263257	soup bowl	
+n03481172	hammer	hammer in the forge, hammer in the Horologe, hammer in the hands, hammer in the hand, hammer in the right
+n02018795	bustard	
+n04540053	volleyball	volleyball in the sand, volleyball in the gym, volleyball in the winter, volleyball in the pool
+n03724870	mask	mask in the room, mask in the park, mask in the hall, mask in the least, mask in the house, mask in the presence
+n03938244	pillow	pillow in the hinder, pillow in the night, pillow in the morning, pillow in the house, pillow in the dark, pillow in the wigwam, pillow in the evening, pillow in the days, pillow in the tenderness
+n04501370	turnstile	turnstile in the subway, turnstile in the King
+n01806567	quail	quail in the presence, quail in the least, quail in the face, quail in the grass, quail in the corn, quail in the vicinity, quail in the fields, quail in the brush
+n03063599	coffee mug	coffee mug in the sink
+n03124043	cowboy boot	
+n02007558	flamingo	
+n03478589	half track	
+n03786901	mortar	mortar in the joints, mortar in the proportion, mortar in the concrete, mortar in the construction, mortar in the interstices, mortar in the usual, mortar in the wall, mortar in the interior, mortar in the joint
+n04149813	scoreboard	scoreboard in the background
+n01530575	brambling	
+n01530575	Fringilla montifringilla	
+n02099429	curly-coated retriever	
+n03764736	milk can	
+n03876231	paintbrush	paintbrush in the water, paintbrush in the can
+n01667778	terrapin	
+n01847000	drake	
+n03000134	chainlink fence	
+n01796340	ptarmigan	ptarmigan in the snow
+n02422106	hartebeest	
+n02403003	ox	ox in the furrow, ox in the yoke, ox in the exercise, ox in the fable, ox in the county, ox in the shambles, ox in the plough, ox in the place, ox in the stall
+n03642806	laptop	laptop in the back, laptop in the room, laptop in the car, laptop in the trunk, laptop in the living, laptop in the office, laptop in the field
+n03642806	laptop computer	
+n04311004	steel arch bridge	
+n03485407	hand-held computer	
+n03485407	hand-held microcomputer	
+n01843383	toucan	
+n07753113	fig	
+n01749939	green mamba	
+n03832673	notebook	notebook in the course, notebook in the order, notebook in the pocket, notebook in the British, notebook in the possession, notebook in the following
+n03832673	notebook computer	
+n04270147	spatula	spatula in the right
+n02100877	Irish setter	
+n02100877	red setter	
+n03937543	pill bottle	
+n03482405	hamper	hamper in the bathroom, hamper in the back, hamper in the laundry, hamper in the morning, hamper in the closet, hamper in the bedroom, hamper in the refectory, hamper in the cellar
+n02823750	beer glass	
+n02488291	langur	
+n03014705	chest	chest in the house, chest in the region, chest in the custody, chest in the church, chest in the attic, chest in the vestry, chest in the hall
+n04557648	water bottle	water bottle in the bottom, water bottle in the bed
+n02101556	clumber	
+n02101556	clumber spaniel	
+n03787032	mortarboard	
+n03544143	hourglass	
+n09288635	geyser	geyser in the bathroom, geyser in the Park, geyser in the Yellowstone, geyser in the woods, geyser in the mouth, geyser in the park
+n01582220	magpie	magpie in the street, magpie in the sky
+n01592084	chickadee	
+n02787622	banjo	
+n02834397	bib	
+n02011460	bittern	bittern in the distance
+n03141823	crutch	crutch in the axilla, crutch in the shape
+n12985857	coral fungus	
+n01871265	tusker	
+n03877845	palace	palace in the Strand, palace in the midst, palace in the town, palace in the city, palace in the Via, palace in the suburbs, palace in the country
+n01824575	coucal	
+n02276258	admiral	admiral in the French, admiral in the New, admiral in the Mediterranean, admiral in the West, admiral in the British, admiral in the service, admiral in the English, admiral in the navy, admiral in the Russian
+n02442845	mink	mink in the closet, mink in the wild
+n03942813	ping-pong ball	
+n04429376	throne	throne in the person, throne in the midst, throne in the heavens, throne in the event, throne in the heart, throne in the House, throne in the year
+n04507155	umbrella	umbrella in the hall, umbrella in the rain, umbrella in the face, umbrella in the mud, umbrella in the stand, umbrella in the house, umbrella in the streets
+n01616318	vulture	vulture in the sky, vulture in the mountains
+n03250847	drumstick	
+n04120489	running shoe	
+n02326432	hare	hare in the long, hare in the government, hare in the common, hare in the fable, hare in the ground, hare in the field, hare in the moon, hare in the woods, hare in the administration, hare in the snow
+n07565083	menu	menu in the window, menu in the menu, menu in the restaurant, menu in the Program, menu in the upper, menu in the main, menu in the Finder, menu in the Menu, menu in the dining
+n02099712	Labrador retriever	
+n02979186	cassette player	cassette player in the car
+n01687978	agama	
+n02112018	Pomeranian	
+n02124075	Egyptian cat	
+n03388183	fountain pen	fountain pen in the pocket
+n02111500	Great Pyrenees	
+n06794110	street sign	
+n04041544	radio	radio in the kitchen, radio in the early, radio in the room, radio in the classroom, radio in the car, radio in the home, radio in the house, radio in the living, radio in the public
+n04041544	wireless	wireless in the home, wireless in the next, wireless in the early, wireless in the house, wireless in the kitchen, wireless in the first, wireless in the evening
+n01945685	slug	slug in the shoulder, slug in the chest, slug in the head, slug in the back, slug in the guts, slug in the stomach, slug in the leg, slug in the belly, slug in the thigh
+n04254120	soap dispenser	
+n03584254	iPod	iPod in the car, iPod in the Source
+n03992509	potter  s wheel	
+n11939491	daisy	daisy in the meadow, daisy in the dell, daisy in the field, daisy in the grass, daisy in the morning
+n02174001	rhinoceros beetle	
+n02109525	Saint Bernard	Saint Bernard in the twelfth
+n02109525	St Bernard	St Bernard in the twelfth
+n02794156	barometer	barometer in the hall, barometer in the laboratory, barometer in the cabin, barometer in the room, barometer in the snow, barometer in the parlor, barometer in the writer
+n04208210	shovel	shovel in the ground, shovel in the sand, shovel in the earth, shovel in the chimney, shovel in the gravel, shovel in the hands, shovel in the dirt, shovel in the fire, shovel in the coal
+n02095889	Sealyham terrier	
+n02095889	Sealyham	
+n03866082	overskirt	
+n02487347	macaque	
+n03196217	digital clock	digital clock in the dashboard
+n07684084	French loaf	
+n03476991	hair spray	
+n03590841	jack-o  -lantern	
+n03450230	gown	gown in the garden, gown in the morning, gown in the evening, gown in the back, gown in the pulpit, gown in the streets, gown in the vestry
+n02099601	golden retriever	
+n03180011	desktop computer	
+n03259280	Dutch oven	
+n02526121	eel	eel in the hand, eel in the well, eel in the water, eel in the pond, eel in the mud, eel in the river, eel in the fundamental
+n02643566	lionfish	
+n13054560	bolete	
+n01751748	sea snake	
+n04111531	rotisserie	
+n02089973	English foxhound	
+n02085782	Japanese spaniel	
+NA	dog	dog in the fight, dog in the house, dog in the pack, dog in the street, dog in the fable, dog in the foreground, dog in the manger, dog in the yard
+NA	butterfly	butterfly in the sun, butterfly in the sunshine, butterfly in the caterpillar, butterfly in the meadow, butterfly in the chrysalis, butterfly in the garden, butterfly in the spring
+NA	airplane	airplane in the war, airplane in the direction, airplane in the event, airplane in the sky, airplane in the distance, airplane in the hands
+NA	bird	bird in the sky, bird in the woods, bird in the cage, bird in the tree, bird in the nest, bird in the hand, bird in the bush

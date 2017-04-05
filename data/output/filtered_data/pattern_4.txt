@@ -1,0 +1,1864 @@
+n02268443	dragonfly	
+n02268443	darning needle	
+n02268443	devil  s darning needle	
+n02268443	sewing needle	
+n02268443	snake feeder	
+n02268443	snake doctor	
+n02268443	mosquito hawk	
+n02268443	skeeter hawk	
+n03977966	police van	
+n03977966	police wagon	
+n03977966	paddy wagon	
+n03977966	patrol wagon	
+n03977966	wagon	wagon was drawn, wagon was going, wagon was standing, wagon was loaded, wagon was driven
+n03977966	black Maria	
+n02747177	ashcan	
+n02747177	trash can	
+n02747177	garbage can	
+n02747177	wastebin	
+n02747177	ash bin	
+n02747177	ash-bin	
+n02747177	ashbin	
+n02747177	dustbin	
+n02747177	trash barrel	
+n02747177	trash bin	
+n02814533	beach wagon	
+n02814533	station wagon	
+n02814533	wagon	wagon was drawn, wagon was going, wagon was standing, wagon was loaded, wagon was driven
+n02814533	estate car	
+n02814533	beach waggon	
+n02814533	station waggon	
+n02814533	waggon	waggon was overturned, waggon was upset, waggon was loaded, waggon was covered, waggon was standing, waggon was broken, waggon was drawn, waggon was passing
+n04467665	trailer truck	
+n04467665	tractor trailer	
+n04467665	trucking rig	
+n04467665	rig	rig was moved, rig was changed, rig was developed, rig was altered, rig was designed
+n04467665	articulated lorry	
+n04467665	semi	
+n01984695	spiny lobster	
+n01984695	langouste	
+n01984695	rock lobster	
+n01984695	crawfish	
+n01984695	crayfish	
+n01984695	sea crawfish	
+n02125311	cougar	cougar was killed, cougar was treed, cougar was shot
+n02125311	puma	puma was cramped, puma was resting
+n02125311	catamount	
+n02125311	mountain lion	
+n02125311	painter	painter was working, painter was born, painter was called, painter was sent, painter was employed, painter was astonished, painter was engaged, painter was cast, painter was desired, painter was obliged
+n02125311	panther	panther was killed, panther was lying, panther was let, panther was gone, panther was shot, panther was heard
+n02125311	Felis concolor	
+n04335435	streetcar	streetcar was approaching, streetcar was moving, streetcar was crowded, streetcar was coming, streetcar was introduced, streetcar was stopped, streetcar was passing, streetcar was going
+n04335435	tram	tram was packed, tram was approaching, tram was waiting, tram was heard, tram was coming, tram was crowded, tram was passing, tram was going, tram was running
+n04335435	tramcar	
+n04335435	trolley	trolley was wheeled, trolley was coming, trolley was waiting, trolley was going, trolley was pushed, trolley was running
+n04335435	trolley car	
+n02894605	breakwater	breakwater was formed, breakwater was commenced, breakwater was constructed, breakwater was carried, breakwater was completed, breakwater was extended, breakwater was begun, breakwater was erected
+n02894605	groin	groin was throbbing, groin was constructed
+n02894605	groyne	groyne was constructed
+n02894605	mole	mole was formed, mole was completed, mole was carried, mole was expelled, mole was constructed, mole was obtained, mole was commenced
+n02894605	bulwark	bulwark was erected, bulwark was needed, bulwark was razed, bulwark was destroyed, bulwark was gone, bulwark was raised, bulwark was removed
+n02894605	seawall	seawall was completed, seawall was constructed
+n02894605	jetty	jetty was deserted, jetty was completed, jetty was erected, jetty was crowded, jetty was constructed, jetty was extended
+n03065424	coil	coil was turned, coil was connected, coil was determined, coil was wound, coil was measured, coil was moved
+n03065424	spiral	spiral was formed, spiral was reduced, spiral was cut, spiral was heated, spiral was connected
+n03065424	volute	
+n03065424	whorl	
+n03065424	helix	helix was wound, helix was formed, helix was removed, helix was covered, helix was observed, helix was constructed
+n02966193	carousel	carousel was turning
+n02966193	carrousel	
+n02966193	merry-go-round	
+n02966193	roundabout	
+n02966193	whirligig	
+n02788148	bannister	
+n02788148	banister	banister was broken
+n02788148	balustrade	balustrade was erected, balustrade was added, balustrade was covered, balustrade was broken, balustrade was carved, balustrade was replaced
+n02788148	balusters	
+n02788148	handrail	
+n03000247	chain mail	
+n03000247	ring mail	
+n03000247	mail	mail was opened, mail was carried, mail was established, mail was delivered, mail was taken, mail was received, mail was sent, mail was robbed
+n03000247	chain armor	
+n03000247	chain armour	
+n03000247	ring armor	
+n03000247	ring armour	
+n04553703	washbasin	
+n04553703	handbasin	
+n04553703	washbowl	
+n04553703	lavabo	
+n04553703	wash-hand basin	
+n02415577	bighorn	
+n02415577	bighorn sheep	
+n02415577	cimarron	
+n02415577	Rocky Mountain bighorn	
+n02415577	Rocky Mountain sheep	
+n02415577	Ovis canadensis	
+n02071294	killer whale	
+n02071294	killer	killer was trying, killer was taken, killer was caught, killer was waiting, killer was known, killer was arrested, killer was standing, killer was going
+n02071294	orca	
+n02071294	grampus	
+n02071294	sea wolf	
+n02071294	Orcinus orca	
+n02769748	backpack	backpack was slung, backpack was stuffed, backpack was lying, backpack was sitting, backpack was missing, backpack was stolen, backpack was gone
+n02769748	back pack	
+n02769748	knapsack	knapsack was packed, knapsack was strapped, knapsack was opened, knapsack was slung, knapsack was gone
+n02769748	packsack	
+n02769748	rucksack	rucksack was packed, rucksack was strapped, rucksack was slung
+n02769748	haversack	haversack was gone
+n02536864	coho	
+n02536864	cohoe	
+n02536864	coho salmon	
+n02536864	blue jack	
+n02536864	silver salmon	
+n02536864	Oncorhynchus kisutch	
+n03691459	loudspeaker	loudspeaker was playing, loudspeaker was switched, loudspeaker was saying, loudspeaker was turned, loudspeaker was announcing, loudspeaker was blaring, loudspeaker was mounted
+n03691459	speaker	speaker was directed, speaker was talking, speaker was ordered, speaker was obliged, speaker was chosen, speaker was introduced, speaker was interrupted, speaker was pushed, speaker was saying, speaker was called
+n03691459	speaker unit	
+n03691459	loudspeaker system	
+n03691459	speaker system	
+n02992529	cellular telephone	
+n02992529	cellular phone	
+n02992529	cellphone	
+n02992529	cell	cell was measured, cell was constructed, cell was kept, cell was opened, cell was formed
+n02992529	mobile phone	
+n01644900	tailed frog	
+n01644900	bell toad	
+n01644900	ribbed toad	
+n01644900	tailed toad	
+n01644900	Ascaphus trui	
+n02018207	American coot	
+n02018207	marsh hen	
+n02018207	mud hen	
+n02018207	water hen	
+n02018207	Fulica americana	
+n02395406	hog	hog was shot, hog was killed, hog was baked, hog was offered, hog was slaughtered, hog was sacrificed, hog was tied
+n02395406	pig	pig was killed, pig was slaughtered, pig was given, pig was sacrificed, pig was fed, pig was taken
+n02395406	grunter	
+n02395406	squealer	
+n02395406	Sus scrofa	
+n02509815	lesser panda	
+n02509815	red panda	
+n02509815	panda	
+n02509815	bear cat	
+n02509815	cat bear	
+n02509815	Ailurus fulgens	
+n04081281	restaurant	restaurant was crowded, restaurant was filling, restaurant was packed, restaurant was opened, restaurant was located, restaurant was closed, restaurant was established, restaurant was called
+n04081281	eating house	
+n04081281	eating place	
+n04081281	eatery	
+n03047690	clog	
+n03047690	geta	
+n03047690	patten	
+n03047690	sabot	
+n03877472	pajama	
+n03877472	pyjama	
+n03877472	pj  s	
+n03877472	jammies	
+n02808440	bathtub	bathtub was introduced, bathtub was installed, bathtub was invented, bathtub was put
+n02808440	bathing tub	
+n02808440	bath	bath was taken, bath was prepared, bath was ordered, bath was removed, bath was heated, bath was given, bath was employed
+n02808440	tub	tub was produced, tub was emptied, tub was put
+n04033995	quilt	quilt was laid, quilt was spread, quilt was drawn, quilt was designed, quilt was embroidered, quilt was thrown, quilt was called, quilt was finished, quilt was done
+n04033995	comforter	comforter was wasted, comforter was folded, comforter was pulled
+n04033995	comfort	comfort was gone, comfort was concerned, comfort was denied, comfort was provided, comfort was given, comfort was derived, comfort was left, comfort was administered
+n04033995	puff	
+n03032252	cinema	cinema was beginning, cinema was opened, cinema was showing, cinema was born, cinema was invented, cinema was packed, cinema was doing
+n03032252	movie theater	
+n03032252	movie theatre	
+n03032252	movie house	
+n03032252	picture palace	
+n03110669	cornet	cornet was making, cornet was played
+n03110669	horn	horn was blowing, horn was broken, horn was slung, horn was sounded, horn was heard, horn was blown
+n03110669	trumpet	trumpet was sounding, trumpet was put, trumpet was blown, trumpet was heard, trumpet was given, trumpet was sounded, trumpet was sent
+n03110669	trump	trump was played, trump was sounding, trump was led
+n02165456	ladybug	
+n02165456	ladybeetle	
+n02165456	lady beetle	
+n02165456	ladybird	
+n02165456	ladybird beetle	
+n03461385	grocery store	
+n03461385	grocery	grocery was established, grocery was closed, grocery was located, grocery was opened
+n03461385	food market	
+n03461385	market	market was closed, market was granted, market was overstocked, market was flooded, market was opened, market was established, market was glutted, market was held
+n03485794	handkerchief	handkerchief was waved, handkerchief was tied, handkerchief was thrown, handkerchief was bound, handkerchief was knotted, handkerchief was taken, handkerchief was wrapped, handkerchief was thrust, handkerchief was drawn
+n03485794	hankie	
+n03485794	hanky	
+n03485794	hankey	
+n01695060	Komodo dragon	
+n01695060	Komodo lizard	
+n01695060	dragon lizard	
+n01695060	giant lizard	
+n01695060	Varanus komodoensis	
+n09428293	seashore	seashore was established
+n09428293	coast	coast was visited, coast was discovered, coast was covered, coast was lined, coast was called, coast was occupied, coast was reached
+n09428293	seacoast	
+n09428293	sea-coast	
+n01985128	crayfish	
+n01985128	crawfish	
+n01985128	crawdad	
+n01985128	crawdaddy	
+n02814860	beacon	beacon was rekindled, beacon was erected, beacon was blown, beacon was lighted, beacon was lit, beacon was kindled
+n02814860	lighthouse	lighthouse was completed, lighthouse was commenced, lighthouse was established, lighthouse was begun, lighthouse was erected, lighthouse was destroyed, lighthouse was constructed, lighthouse was finished
+n02814860	beacon light	
+n02814860	pharos	
+n02066245	grey whale	
+n02066245	gray whale	
+n02066245	devilfish	
+n02066245	Eschrichtius gibbosus	
+n02066245	Eschrichtius robustus	
+n02687172	aircraft carrier	
+n02687172	carrier	carrier was bound, carrier was entitled, carrier was held, carrier was sunk, carrier was touched, carrier was added, carrier was required
+n02687172	flattop	
+n02687172	attack aircraft carrier	
+n02443114	polecat	
+n02443114	fitch	
+n02443114	foulmart	
+n02443114	foumart	
+n02443114	Mustela putorius	
+n03425413	gas pump	
+n03425413	gasoline pump	
+n03425413	petrol pump	
+n03425413	island dispenser	
+n03666591	lighter	lighter was towed, lighter was lying, lighter was run, lighter was sunk, lighter was leaking, lighter was mustered, lighter was cut, lighter was moving, lighter was loaded
+n03666591	light	light was shining, light was thrown, light was reflected, light was admitted, light was shed, light was burning, light was extinguished, light was turned
+n03666591	igniter	
+n03666591	ignitor	
+n04389033	tank	tank was hit, tank was designed, tank was constructed
+n04389033	army tank	
+n04389033	armored combat vehicle	
+n04389033	armoured combat vehicle	
+n07248320	book jacket	
+n07248320	dust cover	
+n07248320	dust jacket	
+n07248320	dust wrapper	
+n02930766	cab	cab was stopped, cab was standing, cab was sent, cab was passing, cab was going, cab was called, cab was waiting, cab was drawn, cab was gone, cab was driven
+n02930766	hack	hack was called, hack was waiting, hack was produced, hack was driven, hack was turned, hack was standing
+n02930766	taxi	taxi was moving, taxi was parked, taxi was coming, taxi was called, taxi was gone, taxi was passing, taxi was standing, taxi was waiting, taxi was stopped, taxi was held
+n02930766	taxicab	taxicab was parked, taxicab was waiting
+n02641379	gar	
+n02641379	garfish	
+n02641379	garpike	
+n02641379	billfish	
+n02641379	Lepisosteus osseus	
+n03841143	odometer	
+n03841143	hodometer	
+n03841143	mileometer	
+n03841143	milometer	
+n04347754	submarine	submarine was sighted, submarine was lost, submarine was going, submarine was destroyed, submarine was reported, submarine was lying, submarine was sunk
+n04347754	pigboat	
+n04347754	sub	sub was running, sub was moving, sub was lost, sub was sighted, sub was going, sub was destroyed, sub was sunk
+n04347754	U-boat	
+n03494278	harmonica	harmonica was invented, harmonica was playing
+n03494278	mouth organ	
+n03494278	harp	harp was sent, harp was heard, harp was tuned, harp was played, harp was handed, harp was swept, harp was passed, harp was strung
+n03494278	mouth harp	
+n02114855	coyote	coyote was chasing, coyote was walking, coyote was standing, coyote was heard, coyote was going, coyote was howling, coyote was gone, coyote was killed
+n02114855	prairie wolf	
+n02114855	brush wolf	
+n02114855	Canis latrans	
+n04604644	worm fence	
+n04604644	snake fence	
+n04604644	snake-rail fence	
+n04604644	Virginia fence	
+n07615774	ice lolly	
+n07615774	lolly	
+n07615774	lollipop	
+n07615774	popsicle	
+n12057211	yellow lady  s slipper	
+n12057211	yellow lady-slipper	
+n12057211	Cypripedium calceolus	
+n12057211	Cypripedium parviflorum	
+n03188531	diaper	diaper was soaked, diaper was put, diaper was changed, diaper was removed
+n03188531	nappy	nappy was changed
+n03188531	napkin	napkin was pinned, napkin was laid, napkin was put, napkin was tied, napkin was presented, napkin was thrown, napkin was removed, napkin was spread, napkin was deemed
+n02655020	puffer	
+n02655020	pufferfish	
+n02655020	blowfish	
+n02655020	globefish	
+n01882714	koala	
+n01882714	koala bear	
+n01882714	kangaroo bear	
+n01882714	native bear	
+n01882714	Phascolarctos cinereus	
+n01955084	chiton	chiton was fastened, chiton was worn
+n01955084	coat-of-mail shell	
+n01955084	sea cradle	
+n01955084	polyplacophore	
+n01496331	electric ray	
+n01496331	crampfish	
+n01496331	numbfish	
+n01496331	torpedo	torpedo was sighted, torpedo was carried, torpedo was exploded, torpedo was fired, torpedo was invented, torpedo was discharged, torpedo was launched
+n04482393	tricycle	
+n04482393	trike	
+n04482393	velocipede	
+n02408429	water buffalo	
+n02408429	water ox	
+n02408429	Asiatic buffalo	
+n02408429	Bubalus bubalis	
+n04599235	wool	wool was imported, wool was sold, wool was produced, wool was spun, wool was exported, wool was prohibited
+n04599235	woolen	
+n04599235	woollen	
+n03895866	passenger car	
+n03895866	coach	coach was driven, coach was overturned, coach was waiting, coach was called, coach was crowded, coach was gone, coach was stopped, coach was drawn, coach was sent
+n03895866	carriage	carriage was surrounded, carriage was driven, carriage was heard, carriage was waiting, carriage was overturned, carriage was drawn, carriage was announced, carriage was sent, carriage was ordered, carriage was stopped
+n01753488	horned viper	
+n01753488	cerastes	
+n01753488	sand viper	
+n01753488	horned asp	
+n01753488	Cerastes cornutus	
+n02510455	giant panda	
+n02510455	panda	
+n02510455	panda bear	
+n02510455	coon bear	
+n02510455	Ailuropoda melanoleuca	
+n02977058	cash machine	
+n02977058	cash dispenser	
+n02977058	automated teller machine	
+n02977058	automatic teller machine	
+n02977058	automated teller	
+n02977058	automatic teller	
+n02977058	ATM	ATM was created, ATM was chosen, ATM was designed, ATM was developed, ATM was located, ATM was installed
+n03457902	greenhouse	greenhouse was added, greenhouse was attached, greenhouse was illuminated, greenhouse was erected, greenhouse was maintained, greenhouse was heated, greenhouse was constructed
+n03457902	nursery	nursery was planted, nursery was called, nursery was opened, nursery was located, nursery was closed, nursery was surrounded, nursery was situated, nursery was started, nursery was established
+n03457902	glasshouse	glasshouse was established
+n03017168	chime	chime was ringing, chime was heard, chime was passed, chime was rung
+n03017168	bell	bell was sounded, bell was tolling, bell was tolled, bell was cast, bell was heard, bell was struck, bell was rung, bell was answered, bell was hung, bell was ringing
+n03017168	gong	gong was sounded, gong was rung, gong was sounding, gong was heard, gong was suspended, gong was struck, gong was ringing, gong was beaten
+n03954731	plane	plane was going, plane was hit, plane was shot, plane was flying, plane was forced, plane was coming, plane was lost
+n03954731	carpenter  s plane	
+n03954731	woodworking plane	
+n02115641	dingo	dingo was introduced
+n02115641	warrigal	
+n02115641	warragal	
+n02115641	Canis dingo	
+n01981276	king crab	
+n01981276	Alaska crab	
+n01981276	Alaskan king crab	
+n01981276	Alaska king crab	
+n01981276	Paralithodes camtschatica	
+n02114367	timber wolf	
+n02114367	grey wolf	
+n02114367	gray wolf	
+n02114367	Canis lupus	
+n01484850	great white shark	
+n01484850	white shark	
+n01484850	man-eater	
+n01484850	man-eating shark	
+n01484850	Carcharodon carcharias	
+n03089624	confectionery	
+n03089624	confectionary	
+n03089624	candy store	
+n02398521	hippopotamus	hippopotamus was killed, hippopotamus was lying, hippopotamus was discovered, hippopotamus was dragged, hippopotamus was shot
+n02398521	hippo	hippo was standing, hippo was killed
+n02398521	river horse	
+n02398521	Hippopotamus amphibius	
+n02116738	African hunting dog	
+n02116738	hyena dog	
+n02116738	Cape hunting dog	
+n02116738	Lycaon pictus	
+n09399592	promontory	promontory was doubled, promontory was known, promontory was called, promontory was occupied, promontory was crowned, promontory was destroyed, promontory was covered, promontory was named, promontory was passed
+n09399592	headland	headland was called, headland was named, headland was reached, headland was passed, headland was fortified, headland was covered, headland was rounded, headland was sighted
+n09399592	head	head was covered, head was struck, head was bent, head was turned, head was shaved, head was sent, head was cut, head was thrown, head was severed
+n09399592	foreland	
+n02892201	brass	brass was known, brass was put, brass was laid, brass was erected, brass was held, brass was imported
+n02892201	memorial tablet	
+n02892201	plaque	plaque was dedicated, plaque was put, plaque was presented, plaque was unveiled, plaque was removed, plaque was erected
+n03792782	mountain bike	
+n03792782	all-terrain bike	
+n03792782	off-roader	
+n02871525	bookshop	bookshop was opened, bookshop was located, bookshop was closed
+n02871525	bookstore	bookstore was established, bookstore was run, bookstore was crowded, bookstore was closed, bookstore was located, bookstore was opened
+n02871525	bookstall	
+n02895154	breastplate	breastplate was worn, breastplate was fastened, breastplate was attached, breastplate was taken, breastplate was called
+n02895154	aegis	
+n02895154	egis	
+n04367480	swab	swab was inserted, swab was left, swab was obtained, swab was taken
+n04367480	swob	
+n04367480	mop	
+n03903868	pedestal	pedestal was carved, pedestal was inscribed, pedestal was designed, pedestal was erected, pedestal was formed
+n03903868	plinth	plinth was added, plinth was erected, plinth was retained, plinth was decorated
+n03903868	footstall	
+n03216828	dock	dock was commenced, dock was crowded, dock was completed, dock was constructed, dock was opened, dock was begun
+n03216828	dockage	
+n03216828	docking facility	
+n09246464	cliff	cliff was left, cliff was exposed, cliff was covered, cliff was formed, cliff was cut, cliff was composed, cliff was reached, cliff was thrown
+n09246464	drop	drop was measured, drop was drained, drop was gone, drop was observed, drop was added, drop was left, drop was spilled
+n09246464	drop-off	
+n02776631	bakery	bakery was opened, bakery was located, bakery was closed, bakery was sold, bakery was started, bakery was added, bakery was established
+n02776631	bakeshop	
+n02776631	bakehouse	
+n02279972	monarch	monarch was succeeded, monarch was compelled, monarch was seated, monarch was called, monarch was engaged, monarch was surrounded, monarch was obliged, monarch was induced
+n02279972	monarch butterfly	
+n02279972	milkweed butterfly	
+n02279972	Danaus plexippus	
+n04372370	switch	switch was turned, switch was thrown, switch was opened, switch was closed, switch was installed, switch was pulled
+n04372370	electric switch	
+n04372370	electrical switch	
+n04487081	trolleybus	
+n04487081	trolley coach	
+n04487081	trackless trolley	
+n02219486	ant	ant was crawling, ant was formed, ant was introduced, ant was observed, ant was carrying, ant was dragging
+n02219486	emmet	
+n02219486	pismire	
+n04023962	punching bag	
+n04023962	punch bag	
+n04023962	punching ball	
+n04023962	punchball	
+n02129165	lion	lion was kept, lion was obliged, lion was let, lion was heard, lion was caught, lion was killed, lion was lying
+n02129165	king of beasts	
+n02129165	Panthera leo	
+n04037443	racer	
+n04037443	race car	
+n04037443	racing car	
+n04461696	tow truck	
+n04461696	tow car	
+n04461696	wrecker	wrecker was called
+n03041632	cleaver	
+n03041632	meat cleaver	
+n03041632	chopper	chopper was amazed, chopper was hovering, chopper was coming, chopper was left, chopper was going
+n03594734	jean	
+n03594734	blue jean	
+n03594734	denim	
+n02783161	ballpoint	
+n02783161	ballpoint pen	
+n02783161	ballpen	
+n02783161	Biro	
+n02009912	American egret	
+n02009912	great white heron	
+n02009912	Egretta albus	
+n02817516	bearskin	bearskin was spread
+n02817516	busby	
+n02817516	shako	shako was worn, shako was replaced
+n02835271	bicycle-built-for-two	
+n02835271	tandem bicycle	
+n02835271	tandem	
+n03424325	gasmask	
+n03424325	respirator	respirator was removed, respirator was discontinued, respirator was turned, respirator was disconnected, respirator was stopped, respirator was breathing, respirator was withdrawn, respirator was doing
+n03424325	gas helmet	
+n02841315	binoculars	
+n02841315	field glasses	
+n02841315	opera glasses	
+n02114712	red wolf	
+n02114712	maned wolf	
+n02114712	Canis rufus	
+n02114712	Canis niger	
+n04356056	sunglasses	
+n04356056	dark glasses	
+n04356056	shades	shades was produced
+n13133613	ear	ear was turned, ear was caught, ear was strained, ear was cut, ear was saluted, ear was assailed, ear was formed, ear was struck
+n13133613	spike	spike was fixed, spike was hammered, spike was driven, spike was drawn, spike was inserted
+n13133613	capitulum	
+n04554684	washer	washer was introduced, washer was designed, washer was installed, washer was going
+n04554684	automatic washer	
+n04554684	washing machine	
+n03929660	pick	pick was inserted, pick was left, pick was offered, pick was driven, pick was heard, pick was struck
+n03929660	plectrum	
+n03929660	plectron	
+n04116512	rubber eraser	
+n04116512	rubber	rubber was discovered, rubber was obtained, rubber was introduced, rubber was produced, rubber was cut
+n04116512	pencil eraser	
+n07754684	jackfruit	
+n07754684	jak	
+n07754684	jack	jack was flying, jack was removed, jack was thrown, jack was run, jack was hoisted, jack was lowered
+n04357314	sunscreen	
+n04357314	sunblock	
+n04357314	sun blocker	
+n02445715	skunk	skunk was killed, skunk was gone
+n02445715	polecat	
+n02445715	wood pussy	
+n02110341	dalmatian	
+n02110341	coach dog	
+n02110341	carriage dog	
+n02134084	ice bear	
+n02134084	polar bear	
+n02134084	Ursus Maritimus	
+n02134084	Thalarctos maritimus	
+n01983481	American lobster	
+n01983481	Northern lobster	
+n01983481	Maine lobster	
+n01983481	Homarus americanus	
+n02120505	grey fox	
+n02120505	gray fox	
+n02120505	Urocyon cinereoargenteus	
+n02128925	jaguar	jaguar was gone, jaguar was killed, jaguar was changed
+n02128925	panther	panther was killed, panther was lying, panther was let, panther was gone, panther was shot, panther was heard
+n02128925	Panthera onca	
+n02128925	Felis onca	
+n02892767	brassiere	brassiere was invented
+n02892767	bra	bra was showing, bra was invented, bra was unhooked, bra was undone, bra was gone, bra was exposed, bra was pushed
+n02892767	bandeau	
+n03249569	drum	drum was sounded, drum was sent, drum was beaten, drum was beating, drum was heard, drum was struck, drum was beat
+n03249569	membranophone	
+n03249569	tympan	
+n12768682	buckeye	
+n12768682	horse chestnut	
+n12768682	conker	
+n01614925	bald eagle	
+n01614925	American eagle	
+n01614925	Haliaeetus leucocephalus	
+n04443257	tobacco shop	
+n04443257	tobacconist shop	
+n04443257	tobacconist	tobacconist was succeeded
+n04086273	revolver	revolver was gone, revolver was lying, revolver was fired, revolver was loaded, revolver was held, revolver was pointed, revolver was discharged, revolver was thrust
+n04086273	six-gun	
+n04086273	six-shooter	
+n02480495	orangutan	
+n02480495	orang	
+n02480495	orangutang	
+n02480495	Pongo pygmaeus	
+n02672831	accordion	accordion was heard, accordion was held, accordion was played, accordion was playing, accordion was invented, accordion was introduced
+n02672831	piano accordion	
+n02672831	squeeze box	
+n02669723	academic gown	
+n02669723	academic robe	
+n02669723	judge  s robe	
+n01682714	American chameleon	
+n01682714	anole	
+n01682714	Anolis carolinensis	
+n02111129	Leonberg	
+n02492035	capuchin	
+n02492035	ringtail	
+n02492035	Cebus capucinus	
+n15075141	toilet tissue	
+n15075141	toilet paper	
+n15075141	bathroom tissue	
+n02325366	wood rabbit	
+n02325366	cottontail	
+n02325366	cottontail rabbit	
+n02027492	red-backed sandpiper	
+n02027492	dunlin	
+n02027492	Erolia alpina	
+n03400231	frying pan	
+n03400231	frypan	
+n03400231	skillet	
+n04548362	wallet	wallet was returned, wallet was opened, wallet was stuffed, wallet was gone, wallet was lost, wallet was missing, wallet was stolen, wallet was taken
+n04548362	billfold	billfold was missing, billfold was gone
+n04548362	notecase	
+n04548362	pocketbook	pocketbook was gone, pocketbook was missing, pocketbook was stolen
+n03857828	oscilloscope	oscilloscope was triggered, oscilloscope was connected, oscilloscope was calibrated, oscilloscope was adjusted
+n03857828	scope	scope was afforded, scope was given, scope was limited, scope was opened, scope was extended, scope was broadened, scope was left, scope was widened, scope was enlarged, scope was allowed
+n03857828	cathode-ray oscilloscope	
+n03857828	CRO	
+n03160309	dam	dam was completed, dam was finished, dam was raised, dam was thrown, dam was erected, dam was broken, dam was constructed
+n03160309	dike	dike was formed, dike was constructed, dike was raised, dike was dug, dike was intruded, dike was broken, dike was completed
+n03160309	dyke	dyke was formed, dyke was broken, dyke was completed, dyke was pierced, dyke was cut, dyke was constructed, dyke was erected
+n02168699	long-horned beetle	
+n02168699	longicorn	
+n02168699	longicorn beetle	
+n12620546	hip	hip was affected, hip was flexed, hip was taken, hip was broken, hip was fixed, hip was reduced, hip was fractured, hip was dislocated, hip was performed
+n12620546	rose hip	
+n12620546	rosehip	
+n01558993	robin	robin was scattered, robin was heard, robin was signed, robin was sitting, robin was building, robin was perched, robin was singing, robin was hopping
+n01558993	American robin	
+n01558993	Turdus migratorius	
+n01728572	thunder snake	
+n01728572	worm snake	
+n01728572	Carphophis amoenus	
+n01797886	ruffed grouse	
+n01797886	partridge	partridge was introduced, partridge was flushed, partridge was heard, partridge was sitting, partridge was killed
+n01797886	Bonasa umbellus	
+n07697537	hotdog	
+n07697537	hot dog	
+n07697537	red hot	
+n06874185	traffic light	
+n06874185	traffic signal	
+n06874185	stoplight	
+n02128757	snow leopard	
+n02128757	ounce	ounce was swallowed, ounce was paid, ounce was charged, ounce was taken, ounce was given, ounce was imposed, ounce was divided
+n02128757	Panthera uncia	
+n01819313	sulphur-crested cockatoo	
+n01819313	Kakatoe galerita	
+n01819313	Cacatua galerita	
+n02114548	white wolf	
+n02114548	Arctic wolf	
+n02114548	Canis lupus tundrarum	
+n02486261	patas	
+n02486261	hussar monkey	
+n02486261	Erythrocebus patas	
+n01873310	platypus	platypus was discovered
+n01873310	duckbill	
+n01873310	duckbilled platypus	
+n01873310	duck-billed platypus	
+n01873310	Ornithorhynchus anatinus	
+n02231487	walking stick	
+n02231487	walkingstick	
+n02231487	stick insect	
+n01770081	harvestman	
+n01770081	daddy longlegs	
+n01770081	Phalangium opilio	
+n03884397	panpipe	
+n03884397	pandean pipe	
+n03884397	syrinx	
+n02797295	barrow	barrow was composed, barrow was raised, barrow was opened, barrow was destroyed, barrow was erected, barrow was formed
+n02797295	garden cart	
+n02797295	lawn cart	
+n02797295	wheelbarrow	wheelbarrow was loaded, wheelbarrow was invented
+n02132136	brown bear	
+n02132136	bruin	
+n02132136	Ursus arctos	
+n04229816	ski mask	
+n02133161	American black bear	
+n02133161	black bear	
+n02133161	Ursus americanus	
+n02133161	Euarctos americanus	
+n02948072	candle	candle was blown, candle was burning, candle was lighted, candle was held, candle was lit, candle was burnt, candle was extinguished, candle was put
+n02948072	taper	taper was plunged, taper was held, taper was put, taper was burnt, taper was introduced, taper was burning, taper was extinguished, taper was lighted
+n02948072	wax light	
+n03838899	oboe	
+n03838899	hautboy	
+n03838899	hautbois	
+n02860847	bobsled	
+n02860847	bobsleigh	
+n02860847	bob	bob was suspended, bob was attached, bob was hung
+n03271574	electric fan	
+n03271574	blower	blower was driven, blower was fitted, blower was connected, blower was added, blower was operated, blower was turned, blower was started, blower was installed
+n01872401	echidna	
+n01872401	spiny anteater	
+n01872401	anteater	
+n04200800	shoe shop	
+n04200800	shoe-shop	
+n04200800	shoe store	
+n01798484	prairie chicken	
+n01798484	prairie grouse	
+n01798484	prairie fowl	
+n04004767	printer	printer was seized, printer was tried, printer was sent, printer was ordered, printer was arrested, printer was imprisoned, printer was wanting, printer was allowed, printer was prosecuted, printer was taken
+n02481823	chimpanzee	chimpanzee was given, chimpanzee was shown, chimpanzee was trained, chimpanzee was taught, chimpanzee was observed, chimpanzee was reared
+n02481823	chimp	chimp was given, chimp was shown, chimp was taught
+n02481823	Pan troglodytes	
+n02497673	Madagascar cat	
+n02497673	ring-tailed lemur	
+n02497673	Lemur catta	
+n04118538	rugby ball	
+n01910747	jellyfish	
+n04039381	racket	racket was broken, racket was worked, racket was going, racket was heard, racket was coming, racket was getting, racket was kept
+n04039381	racquet	
+n03218198	dogsled	
+n03218198	dog sled	
+n03218198	dog sleigh	
+n03337140	file	file was given, file was opened, file was kept, file was sent, file was saved, file was closed, file was created
+n03337140	file cabinet	
+n03337140	filing cabinet	
+n02085936	Maltese dog	
+n02085936	Maltese terrier	
+n02085936	Maltese	
+n03483316	hand blower	
+n03483316	blow dryer	
+n03483316	blow drier	
+n03483316	hair dryer	
+n03483316	hair drier	
+n02396427	wild boar	
+n02396427	boar	boar was supposed, boar was sacrificed, boar was taken, boar was hunted, boar was expected, boar was killed, boar was slain
+n02396427	Sus scrofa	
+n01729322	hognose snake	
+n01729322	puff adder	
+n01729322	sand viper	
+n02106662	German shepherd	
+n02106662	German shepherd dog	
+n02106662	German police dog	
+n02106662	alsatian	
+n04264628	space bar	
+n03991062	pot	pot was boiling, pot was put, pot was kept, pot was broken
+n03991062	flowerpot	
+n04493381	tub	tub was produced, tub was emptied, tub was put
+n04493381	vat	vat was introduced, vat was covered, vat was constructed
+n03899768	patio	patio was surrounded, patio was deserted, patio was paved, patio was covered, patio was shaded, patio was enclosed, patio was crowded
+n03899768	terrace	terrace was formed, terrace was crowded, terrace was covered, terrace was cut, terrace was carried, terrace was deserted, terrace was reached, terrace was raised
+n03658185	letter opener	
+n03658185	paper knife	
+n03658185	paperknife	
+n03770439	miniskirt	
+n03770439	mini	
+n03982430	pool table	
+n03982430	billiard table	
+n03982430	snooker table	
+n04428191	thresher	thresher was stopped
+n04428191	thrasher	
+n04428191	threshing machine	
+n03459775	grille	grille was opened, grille was replaced, grille was fitted, grille was locked, grille was closed, grille was removed
+n03459775	radiator grille	
+n04252225	snowplow	
+n04252225	snowplough	
+n07716358	zucchini	
+n07716358	courgette	
+n03791053	motor scooter	
+n03791053	scooter	scooter was parked
+n04258138	solar dish	
+n04258138	solar collector	
+n04258138	solar furnace	
+n04099969	rocking chair	
+n04099969	rocker	
+n01756291	sidewinder	
+n01756291	horned rattlesnake	
+n01756291	Crotalus cerastes	
+n13052670	hen-of-the-woods	
+n13052670	hen of the woods	
+n13052670	Polyporus frondosus	
+n13052670	Grifola frondosa	
+n02093428	American Staffordshire terrier	
+n02093428	Staffordshire terrier	
+n02093428	American pit bull terrier	
+n02093428	pit bull terrier	
+n02356798	fox squirrel	
+n02356798	eastern fox squirrel	
+n02356798	Sciurus niger	
+n02120079	Arctic fox	
+n02120079	white fox	
+n02120079	Alopex lagopus	
+n03109150	corkscrew	
+n03109150	bottle screw	
+n03930630	pickup	pickup was coming, pickup was parked, pickup was mounted, pickup was loaded, pickup was going, pickup was gone
+n03930630	pickup truck	
+n01632777	axolotl	
+n01632777	mud puppy	
+n01632777	Ambystoma mexicanum	
+n03710721	maillot	
+n03710721	tank suit	
+n02437312	Arabian camel	
+n02437312	dromedary	
+n02437312	Camelus dromedarius	
+n03967562	plow	plow was introduced, plow was run, plow was developed, plow was invented, plow was drawn, plow was left
+n03967562	plough	plough was driven, plough was left, plough was known, plough was restored, plough was drawn, plough was introduced, plough was invented, plough was passed
+n03916031	perfume	perfume was wafted, perfume was gone, perfume was burning, perfume was left, perfume was intoxicating, perfume was poured, perfume was diffused
+n03916031	essence	essence was concerned, essence was known, essence was opposed, essence was lost, essence was expressed, essence was extracted, essence was distilled, essence was taken, essence was contained
+n03095699	container ship	
+n03095699	containership	
+n03095699	container vessel	
+n01930112	nematode	nematode was reported, nematode was discovered, nematode was observed
+n01930112	nematode worm	
+n01930112	roundworm	
+n02704792	amphibian	
+n02704792	amphibious vehicle	
+n02412080	ram	ram was substituted, ram was killed, ram was invented, ram was offered, ram was caught, ram was sacrificed, ram was valued
+n02412080	tup	
+n03950228	pitcher	pitcher was throwing, pitcher was given, pitcher was going, pitcher was deposited, pitcher was presented, pitcher was broken
+n03950228	ewer	
+n03532672	hook	hook was attached, hook was written, hook was baited, hook was fastened, hook was passed, hook was fixed, hook was published
+n03532672	claw	claw was attached, claw was cut, claw was flashed
+n03345487	fire engine	
+n03345487	fire truck	
+n01665541	leatherback turtle	
+n01665541	leatherback	
+n01665541	leathery turtle	
+n01665541	Dermochelys coriacea	
+n02837789	bikini	
+n02837789	two-piece	
+n03873416	paddle	paddle was heard, paddle was driven, paddle was put, paddle was turned, paddle was dipped, paddle was gone, paddle was raised
+n03873416	boat paddle	
+n03394916	French horn	
+n03394916	horn	horn was blowing, horn was broken, horn was slung, horn was sounded, horn was heard, horn was blown
+n03496892	harvester	harvester was introduced, harvester was designed, harvester was invented, harvester was developed
+n03496892	reaper	reaper was tossed, reaper was patented, reaper was invented, reaper was blindfolded, reaper was pushed, reaper was followed, reaper was introduced
+n10148035	groom	groom was ordered, groom was dispatched, groom was sent, groom was holding, groom was leading, groom was standing, groom was despatched, groom was waiting, groom was walking, groom was dressed
+n10148035	bridegroom	bridegroom was expected, bridegroom was coming, bridegroom was carried, bridegroom was taken, bridegroom was detained, bridegroom was allowed, bridegroom was dressed, bridegroom was obliged, bridegroom was conducted
+n01622779	great grey owl	
+n01622779	great gray owl	
+n01622779	Strix nebulosa	
+n02966687	carpenter  s kit	
+n02966687	tool kit	
+n01817953	African grey	
+n01817953	African gray	
+n01817953	Psittacus erithacus	
+n03492542	hard disc	
+n03492542	hard disk	
+n03492542	fixed disk	
+n02277742	ringlet	
+n02277742	ringlet butterfly	
+n02226429	grasshopper	grasshopper was attached, grasshopper was becoming, grasshopper was fluttering
+n02226429	hopper	hopper was attached, hopper was constructed
+n04141975	scale	scale was adopted, scale was developed, scale was introduced, scale was turned, scale was established, scale was devised, scale was constructed
+n04141975	weighing machine	
+n03673027	liner	liner was carrying, liner was steaming, liner was taken, liner was torpedoed, liner was coming, liner was sunk
+n03673027	ocean liner	
+n04509417	unicycle	
+n04509417	monocycle	
+n03447721	gong	gong was sounded, gong was rung, gong was sounding, gong was heard, gong was suspended, gong was struck, gong was ringing, gong was beaten
+n03447721	tam-tam	
+n03888257	parachute	parachute was attached, parachute was fastened, parachute was invented, parachute was dropped, parachute was deployed, parachute was ejected, parachute was released, parachute was suspended
+n03888257	chute	chute was constructed, chute was opened, chute was deployed, chute was blown, chute was installed
+n03692522	loupe	
+n03692522	jeweler  s loupe	
+n04350905	suit	suit was begun, suit was rejected, suit was decided, suit was commenced, suit was pending, suit was filed, suit was dismissed, suit was instituted
+n04350905	suit of clothes	
+n09468604	valley	valley was covered, valley was closed, valley was called, valley was formed, valley was occupied, valley was cut, valley was flooded, valley was reached
+n09468604	vale	vale was heard, vale was engirdled, vale was wrapped, vale was covered
+n03325584	feather boa	
+n03325584	boa	
+n02939185	caldron	caldron was boiling
+n02939185	cauldron	cauldron was suspended, cauldron was seething, cauldron was boiling, cauldron was threatening, cauldron was carried
+n01693334	green lizard	
+n01693334	Lacerta viridis	
+n01532829	house finch	
+n01532829	linnet	linnet was singing, linnet was trilling
+n01532829	Carpodacus mexicanus	
+n03131574	crib	crib was constructed, crib was moved, crib was sunk, crib was put
+n03131574	cot	cot was put, cot was swung, cot was slung, cot was hung, cot was covered
+n07718747	artichoke	
+n07718747	globe artichoke	
+n07753275	pineapple	pineapple was introduced
+n07753275	ananas	
+n01697457	African crocodile	
+n01697457	Nile crocodile	
+n01697457	Crocodylus niloticus	
+n02129604	tiger	tiger was heard, tiger was coming, tiger was roused, tiger was lying, tiger was killed, tiger was caught, tiger was shot
+n02129604	Panthera tigris	
+n03085013	computer keyboard	
+n03085013	keypad	
+n07718472	cucumber	
+n07718472	cuke	
+n07693725	bagel	
+n07693725	beigel	
+n02727426	apiary	
+n02727426	bee house	
+n03908618	pencil box	
+n03908618	pencil case	
+n03854065	organ	organ was installed, organ was removed, organ was played, organ was playing, organ was purchased, organ was erected
+n03854065	pipe organ	
+n02457408	three-toed sloth	
+n02457408	ai	
+n02457408	Bradypus tridactylus	
+n03028079	church	church was crowded, church was dedicated, church was formed, church was established, church was founded, church was erected, church was organized, church was rebuilt
+n03028079	church building	
+n03594945	jeep	jeep was driven, jeep was loaded, jeep was hit, jeep was waiting, jeep was blown, jeep was coming, jeep was stopped, jeep was standing, jeep was parked
+n03594945	landrover	
+n04346328	stupa	stupa was constructed, stupa was raised, stupa was surrounded, stupa was discovered, stupa was enlarged, stupa was opened, stupa was erected
+n04346328	tope	tope was erected, tope was opened
+n03935335	piggy bank	
+n03935335	penny bank	
+n03733281	maze	maze was learned, maze was covered, maze was rotated, maze was mastered, maze was run, maze was constructed
+n03733281	labyrinth	labyrinth was destroyed, labyrinth was designed, labyrinth was constructed, labyrinth was laid, labyrinth was removed
+n02256656	cicada	cicada was singing
+n02256656	cicala	
+n04371430	swimming trunks	
+n04371430	bathing trunks	
+n02951585	can opener	
+n02951585	tin opener	
+n02317335	starfish	
+n02317335	sea star	
+n02028035	redshank	
+n02028035	Tringa totanus	
+n02909870	bucket	bucket was emptied, bucket was let, bucket was lowered, bucket was attached, bucket was drawn, bucket was suspended
+n02909870	pail	pail was emptied, pail was frozen, pail was lifted, pail was carried
+n02927161	butcher shop	
+n02927161	meat market	
+n02422699	impala	
+n02422699	Aepyceros melampus	
+n04536866	violin	violin was played, violin was hung, violin was heard, violin was playing, violin was introduced, violin was produced, violin was destroyed
+n04536866	fiddle	fiddle was played, fiddle was playing, fiddle was laid, fiddle was heard, fiddle was produced, fiddle was tucked, fiddle was going
+n01775062	wolf spider	
+n01775062	hunting spider	
+n03207743	dishrag	
+n03207743	dishcloth	
+n03983396	pop bottle	
+n03983396	soda bottle	
+n03240683	drilling platform	
+n03240683	offshore rig	
+n01755581	diamondback	
+n01755581	diamondback rattlesnake	
+n01755581	Crotalus adamanteus	
+n04404412	television	television was introduced, television was demonstrated, television was beginning, television was becoming, television was invented, television was going, television was turned
+n04404412	television system	
+n01968897	chambered nautilus	
+n01968897	pearly nautilus	
+n01968897	nautilus	
+n03776460	mobile home	
+n03776460	manufactured home	
+n04552348	warplane	
+n04552348	military plane	
+n02013706	limpkin	
+n02013706	Aramus pictus	
+n02883205	bow tie	
+n02883205	bow-tie	
+n02883205	bowtie	
+n03670208	limousine	limousine was moving, limousine was waiting, limousine was pulling, limousine was drawn, limousine was driven, limousine was parked, limousine was purring, limousine was standing, limousine was sent
+n03670208	limo	limo was gone, limo was parked, limo was moving, limo was going, limo was waiting, limo was pulling
+n02807133	bathing cap	
+n02807133	swimming cap	
+n03347037	fire screen	
+n03347037	fireguard	
+n03947888	pirate	pirate was caught, pirate was killed, pirate was taken, pirate was considered, pirate was confined, pirate was captured, pirate was left, pirate was sailing, pirate was hanged
+n03947888	pirate ship	
+n02869837	bonnet	bonnet was tied, bonnet was formed, bonnet was lined, bonnet was decorated, bonnet was raised, bonnet was worn, bonnet was trimmed, bonnet was thrown, bonnet was put
+n02869837	poke bonnet	
+n04141076	sax	
+n04141076	saxophone	saxophone was introduced, saxophone was added, saxophone was played, saxophone was invented
+n01735189	garter snake	
+n01735189	grass snake	
+n02236044	mantis	
+n02236044	mantid	
+n03595614	jersey	jersey was soaked, jersey was worn, jersey was retired, jersey was torn
+n03595614	T-shirt	
+n03595614	tee shirt	
+n03417042	garbage truck	
+n03417042	dustcart	
+n04008634	projectile	projectile was hurled, projectile was fired, projectile was thrown, projectile was discharged, projectile was shot, projectile was launched
+n04008634	missile	missile was sent, missile was hurled, missile was designed, missile was projected, missile was launched, missile was developed, missile was thrown, missile was fired
+n04192698	shield	shield was carried, shield was borne, shield was suspended, shield was held, shield was hung, shield was painted, shield was pierced
+n04192698	buckler	buckler was carried, buckler was attached
+n03372029	flute	flute was broken, flute was playing, flute was employed, flute was held, flute was invented, flute was played, flute was heard
+n03372029	transverse flute	
+n01694178	African chameleon	
+n01694178	Chamaeleo chamaeleon	
+n02795169	barrel	barrel was fired, barrel was rolled, barrel was loaded
+n02795169	cask	cask was broached, cask was emptied, cask was put, cask was floating, cask was furnished, cask was taken, cask was opened
+n02825657	bell cote	
+n02825657	bell cot	
+n02025239	ruddy turnstone	
+n02025239	Arenaria interpres	
+n02051845	pelican	pelican was kept, pelican was thought, pelican was supposed, pelican was believed
+n02110627	affenpinscher	
+n02110627	monkey pinscher	
+n02110627	monkey dog	
+n03697007	lumbermill	
+n03697007	sawmill	sawmill was put, sawmill was destroyed, sawmill was constructed, sawmill was started, sawmill was located, sawmill was erected, sawmill was established
+n02500267	indri	
+n02500267	indris	
+n02500267	Indri indri	
+n02500267	Indri brevicaudatus	
+n02123394	Persian cat	
+n02917067	bullet train	
+n02917067	bullet	bullet was lodged, bullet was sent, bullet was fired, bullet was discovered, bullet was meant, bullet was shot, bullet was extracted, bullet was supposed, bullet was removed
+n03814639	neck brace	
+n09332890	lakeside	
+n09332890	lakeshore	
+n03124170	cowboy hat	
+n03124170	ten-gallon hat	
+n01877812	wallaby	
+n01877812	brush kangaroo	
+n02840245	binder	binder was applied, binder was removed, binder was issued, binder was developed, binder was introduced, binder was invented, binder was added
+n02840245	ring-binder	
+n03710193	mailbox	mailbox was jammed, mailbox was stuffed, mailbox was flooded, mailbox was located, mailbox was created, mailbox was crammed
+n03710193	letter box	
+n01630670	common newt	
+n01630670	Triturus vulgaris	
+n01748264	Indian cobra	
+n01748264	Naja naja	
+n02109961	Eskimo dog	
+n02109961	husky	
+n03868863	oxygen mask	
+n03970156	plunger	plunger was pressed, plunger was moved, plunger was driven, plunger was pushed, plunger was forced, plunger was raised, plunger was attached, plunger was withdrawn
+n03970156	plumber  s helper	
+n03207941	dishwasher	dishwasher was humming, dishwasher was broken, dishwasher was running, dishwasher was invented, dishwasher was installed, dishwasher was loaded
+n03207941	dish washer	
+n03207941	dishwashing machine	
+n04517823	vacuum	vacuum was created, vacuum was applied, vacuum was formed, vacuum was obtained, vacuum was maintained, vacuum was produced, vacuum was left
+n04517823	vacuum cleaner	
+n02111277	Newfoundland	Newfoundland was given, Newfoundland was ceded, Newfoundland was visited, Newfoundland was established, Newfoundland was discovered, Newfoundland was settled, Newfoundland was reached, Newfoundland was granted, Newfoundland was acknowledged
+n02111277	Newfoundland dog	
+n04074963	remote control	
+n04074963	remote	
+n01641577	bullfrog	
+n01641577	Rana catesbeiana	
+n07873807	pizza	pizza was delivered, pizza was cut, pizza was left, pizza was eaten, pizza was introduced, pizza was gone, pizza was served, pizza was ordered
+n07873807	pizza pie	
+n02123045	tabby	
+n02123045	tabby cat	
+n03720891	maraca	
+n02097298	Scotch terrier	
+n02097298	Scottish terrier	
+n02097298	Scottie	Scottie was born
+n01531178	goldfinch	
+n01531178	Carduelis carduelis	
+n02233338	cockroach	cockroach was crawling
+n02233338	roach	
+n01729977	green snake	
+n01729977	grass snake	
+n02992211	cello	cello was played
+n02992211	violoncello	
+n02102318	cocker spaniel	
+n02102318	English cocker spaniel	
+n02102318	cocker	
+n02113712	miniature poodle	
+n02870880	bookcase	bookcase was enchanted, bookcase was crammed, bookcase was left, bookcase was devoted
+n01744401	rock python	
+n01744401	rock snake	
+n01744401	Python sebae	
+n04044716	radio telescope	
+n04044716	radio reflector	
+n03637318	lampshade	
+n03637318	lamp shade	
+n03743016	megalith	
+n03743016	megalithic structure	
+n02169497	leaf beetle	
+n02169497	chrysomelid	
+n01601694	water ouzel	
+n01601694	dipper	dipper was scratched
+n03062245	cocktail shaker	
+n03788195	mosque	mosque was erected, mosque was founded, mosque was converted, mosque was commenced, mosque was destroyed, mosque was crowded, mosque was completed, mosque was constructed
+n02119022	red fox	
+n02119022	Vulpes vulpes	
+n02281787	lycaenid	
+n02281787	lycaenid butterfly	
+n03902125	pay-phone	
+n03902125	pay-station	
+n01860187	black swan	
+n01860187	Cygnus atratus	
+n01978287	Dungeness crab	
+n01978287	Cancer magister	
+n02417914	ibex	
+n02417914	Capra ibex	
+n02606052	rock beauty	
+n02606052	Holocanthus tricolor	
+n02092002	Scottish deerhound	
+n02092002	deerhound	deerhound was couched
+n02804414	bassinet	
+n04019541	puck	puck was going, puck was dropped, puck was shot, puck was passed
+n04019541	hockey puck	
+n04523525	vault	vault was constructed, vault was finished, vault was discovered, vault was opened, vault was covered, vault was completed, vault was closed
+n02437616	llama	llama was domesticated, llama was destroyed, llama was squeezed, llama was sacrificed
+n01986214	hermit crab	
+n03920288	Petri dish	
+n04070727	refrigerator	refrigerator was stocked, refrigerator was invented, refrigerator was kept, refrigerator was sold, refrigerator was working, refrigerator was installed
+n04070727	icebox	
+n03803284	muzzle	muzzle was taken, muzzle was removed, muzzle was thrust, muzzle was pointed, muzzle was elevated, muzzle was directed, muzzle was pointing, muzzle was stained, muzzle was pressed, muzzle was smeared
+n04065272	recreational vehicle	
+n04065272	RV	RV was parked
+n04065272	R.V.	
+n02017213	European gallinule	
+n02017213	Porphyrio porphyrio	
+n02110958	pug	pug was sniffing
+n02110958	pug-dog	
+n03759954	microphone	microphone was mounted, microphone was turned, microphone was located, microphone was attached, microphone was installed, microphone was thrust, microphone was connected
+n03759954	mike	mike was clipped, mike was turned
+n09256479	coral reef	
+n02692877	airship	airship was constructed, airship was wrecked, airship was flying, airship was designed, airship was completed
+n02692877	dirigible	
+n02165105	tiger beetle	
+n03775546	mixing bowl	
+n01978455	rock crab	
+n01978455	Cancer irroratus	
+n03874599	padlock	padlock was removed, padlock was locked, padlock was fastened, padlock was broken, padlock was attached, padlock was opened, padlock was hanging, padlock was fixed, padlock was put
+n04515003	upright	
+n04515003	upright piano	
+n04049303	rain barrel	
+n04243546	slot	slot was milled, slot was provided, slot was closed, slot was left, slot was cut
+n04243546	one-armed bandit	
+n02640242	sturgeon	sturgeon was eaten, sturgeon was caught, sturgeon was taken
+n01669191	box turtle	
+n01669191	box tortoise	
+n04311174	steel drum	
+n04591157	Windsor tie	
+n01677366	common iguana	
+n01677366	iguana	
+n01677366	Iguana iguana	
+n04152593	screen	screen was removed, screen was erected, screen was interposed, screen was put, screen was drawn
+n04152593	CRT screen	
+n02799071	baseball	baseball was becoming, baseball was organized, baseball was invented, baseball was played, baseball was thrown, baseball was introduced, baseball was born, baseball was concerned
+n02087046	toy terrier	
+n03661043	library	library was purchased, library was destroyed, library was opened, library was sold, library was burnt, library was formed, library was established, library was removed, library was founded
+n04254680	soccer ball	
+n03721384	marimba	marimba was playing
+n03721384	xylophone	
+n04344873	studio couch	
+n04344873	day bed	
+n11879895	rapeseed	
+n03649909	lawn mower	
+n03649909	mower	mower was running, mower was broken, mower was purchased, mower was patented, mower was kept, mower was invented, mower was manufactured, mower was going
+n02105641	Old English sheepdog	
+n02105641	bobtail	
+n02259212	leafhopper	
+n02877765	bottlecap	
+n03733131	maypole	maypole was erected
+n02128385	leopard	leopard was gone, leopard was lying, leopard was caught, leopard was killed, leopard was seeking, leopard was shot, leopard was coming
+n02128385	Panthera pardus	
+n04370456	sweatshirt	sweatshirt was soaked
+n02483362	gibbon	
+n02483362	Hylobates lar	
+n02134418	sloth bear	
+n02134418	Melursus ursinus	
+n02134418	Ursus ursinus	
+n02130308	cheetah	
+n02130308	chetah	
+n02130308	Acinonyx jubatus	
+n03976467	Polaroid camera	
+n03976467	Polaroid Land camera	
+n02056570	king penguin	
+n02056570	Aptenodytes patagonica	
+n02091467	Norwegian elkhound	
+n02091467	elkhound	
+n04591713	wine bottle	
+n07836838	chocolate sauce	
+n07836838	chocolate syrup	
+n03602883	joystick	
+n03208938	disk brake	
+n03208938	disc brake	
+n03498962	hatchet	hatchet was dug, hatchet was taken, hatchet was buried, hatchet was given, hatchet was thrown, hatchet was raised
+n02127052	lynx	lynx was caught, lynx was devoured, lynx was shot, lynx was known, lynx was killed, lynx was secured
+n02127052	catamount	
+n02666196	abacus	abacus was developed, abacus was invented, abacus was introduced
+n03534580	hoopskirt	
+n03534580	crinoline	crinoline was worn
+n02328150	Angora	
+n02328150	Angora rabbit	
+n01773157	black and gold garden spider	
+n01773157	Argiope aurantia	
+n02006656	spoonbill	
+n02113978	Mexican hairless	
+n01776313	tick	tick was heard, tick was removed, tick was attached
+n02123597	Siamese cat	
+n02123597	Siamese	
+n02749479	assault rifle	
+n02749479	assault gun	
+n04409515	tennis ball	
+n01855032	red-breasted merganser	
+n01855032	Mergus serrator	
+n02096585	Boston bull	
+n02096585	Boston terrier	
+n03355925	flagpole	flagpole was erected, flagpole was raised
+n03355925	flagstaff	flagstaff was cut, flagstaff was shot, flagstaff was erected, flagstaff was put, flagstaff was left, flagstaff was planted, flagstaff was broken, flagstaff was raised
+n04146614	school bus	
+n03529860	home theater	
+n03529860	home theatre	
+n04033901	quill	quill was cut, quill was put, quill was inserted, quill was introduced
+n04033901	quill pen	
+n07614500	ice cream	
+n07614500	icecream	
+n01914609	sea anemone	
+n01914609	anemone	
+n07871810	meat loaf	
+n07871810	meatloaf	
+n09421951	sandbar	
+n09421951	sand bar	
+n03018349	china cabinet	
+n03018349	china closet	
+n04238763	slide rule	
+n04238763	slipstick	
+n01944390	snail	snail was left, snail was introduced, snail was crawling
+n02206856	bee	bee was held, bee was known, bee was humming, bee was introduced, bee was heard, bee was buzzing, bee was taken
+n01728920	ringneck snake	
+n01728920	ring-necked snake	
+n01728920	ring snake	
+n03887697	paper towel	
+n02091134	whippet	
+n02321529	sea cucumber	
+n02321529	holothurian	
+n09472597	volcano	volcano was formed, volcano was burning, volcano was covered, volcano was heard, volcano was called, volcano was discovered, volcano was situated, volcano was observed
+n02086910	papillon	
+n01950731	sea slug	
+n01950731	nudibranch	
+n07584110	consomme	
+n02504013	Indian elephant	
+n02504013	Elephas maximus	
+n02058221	albatross	albatross was shot
+n02058221	mollymawk	
+n02106030	collie	collie was lying
+n03924679	photocopier	
+n09835506	ballplayer	
+n09835506	baseball player	
+n01692333	Gila monster	
+n01692333	Heloderma suspectum	
+n02804610	bassoon	
+n03535780	horizontal bar	
+n03535780	high bar	
+n02117135	hyena	hyena was killed
+n02117135	hyaena	
+n04542943	waffle iron	
+n04550184	wardrobe	wardrobe was limited, wardrobe was sold, wardrobe was concerned, wardrobe was packed, wardrobe was replenished, wardrobe was reduced, wardrobe was supplied, wardrobe was kept, wardrobe was estimated
+n04550184	closet	closet was hung, closet was broken, closet was examined, closet was opened, closet was shut, closet was locked
+n04550184	press	press was established, press was trodden, press was erected, press was invented, press was introduced
+n03297495	espresso maker	
+n02281406	sulphur butterfly	
+n02281406	sulfur butterfly	
+n02493793	spider monkey	
+n02493793	Ateles geoffroyi	
+n03467068	guillotine	guillotine was blunted, guillotine was working, guillotine was invented, guillotine was kept, guillotine was erected
+n01833805	hummingbird	
+n02490219	marmoset	
+n02493509	titi	
+n02493509	titi monkey	
+n02137549	mongoose	mongoose was imported, mongoose was introduced
+n02391049	zebra	
+n03742115	medicine chest	
+n03742115	medicine cabinet	
+n02113624	toy poodle	
+n03929855	pickelhaube	
+n02002556	white stork	
+n02002556	Ciconia ciconia	
+n03016953	chiffonier	
+n03016953	commode	
+n03599486	jinrikisha	
+n03599486	ricksha	
+n03599486	rickshaw	rickshaw was gone, rickshaw was waiting
+n01514668	cock	cock was turned, cock was heard, cock was perched, cock was opened, cock was crowing, cock was shut, cock was closed
+n01742172	boa constrictor	
+n01742172	Constrictor constrictor	
+n03995372	power drill	
+n02494079	squirrel monkey	
+n02494079	Saimiri sciureus	
+n01770393	scorpion	
+n02097474	Tibetan terrier	
+n02097474	chrysanthemum dog	
+n10565667	scuba diver	
+n03709823	mailbag	
+n03709823	postbag	
+n07590611	hot pot	
+n07590611	hotpot	
+n02110063	malamute	
+n02110063	malemute	
+n02110063	Alaskan malamute	
+n03201208	dining table	
+n03201208	board	board was established, board was given, board was spread, board was appointed, board was authorized, board was created, board was composed
+n02107908	Appenzeller	
+n03187595	dial telephone	
+n03187595	dial phone	
+n02483708	siamang	
+n02483708	Hylobates syndactylus	
+n02483708	Symphalangus syndactylus	
+n03840681	ocarina	
+n03840681	sweet potato	
+n01667114	mud turtle	
+n01774384	black widow	
+n01774384	Latrodectus mactans	
+n03075370	combination lock	
+n04418357	theater curtain	
+n04418357	theatre curtain	
+n01664065	loggerhead	loggerhead was applied
+n01664065	loggerhead turtle	
+n01664065	Caretta caretta	
+n03825788	nipple	nipple was attached, nipple was removed, nipple was withdrawn, nipple was drawn, nipple was put, nipple was inserted, nipple was retracted
+n02708093	analog clock	
+n07753592	banana	banana was suspended, banana was hung, banana was introduced, banana was put, banana was cultivated, banana was eaten, banana was given
+n02113799	standard poodle	
+n02342885	hamster	
+n02486410	baboon	
+n03793489	mouse	mouse was running, mouse was put, mouse was thrust, mouse was introduced, mouse was killed, mouse was sent, mouse was caught
+n03793489	computer mouse	
+n03782006	monitor	monitor was posted, monitor was appointed, monitor was designed, monitor was calibrated, monitor was destined, monitor was gone
+n02107312	miniature pinscher	
+n02504458	African elephant	
+n02504458	Loxodonta africana	
+n02859443	boathouse	boathouse was locked, boathouse was located
+n02105162	malinois	
+n03045698	cloak	cloak was flung, cloak was worn, cloak was hanging, cloak was torn, cloak was drawn, cloak was spread, cloak was wrapped, cloak was thrown
+n06785654	crossword puzzle	
+n06785654	crossword	
+n02447366	badger	badger was killed
+n02815834	beaker	beaker was covered, beaker was removed, beaker was kept, beaker was cooled, beaker was heated
+n03676483	lipstick	lipstick was applied, lipstick was gone, lipstick was smudged, lipstick was worn, lipstick was smeared
+n03676483	lip rouge	
+n07730033	cardoon	
+n04162706	seat belt	
+n04162706	seatbelt	seatbelt was fastened
+n03998194	prayer rug	
+n03998194	prayer mat	
+n02091831	Saluki	
+n02091831	gazelle hound	
+n02105855	Shetland sheepdog	
+n02105855	Shetland sheep dog	
+n02105855	Shetland	
+n02364673	guinea pig	
+n02364673	Cavia cobaya	
+n03223299	doormat	
+n03223299	welcome mat	
+n04548280	wall clock	
+n02489166	proboscis monkey	
+n02489166	Nasalis larvatus	
+n02002724	black stork	
+n02002724	Ciconia nigra	
+n02444819	otter	otter was caught, otter was introduced, otter was gone, otter was given, otter was hunted, otter was killed, otter was shot, otter was swimming
+n02119789	kit fox	
+n02119789	Vulpes macrotis	
+n01629819	European fire salamander	
+n01629819	Salamandra salamandra	
+n02113023	Pembroke	Pembroke was confined, Pembroke was declared, Pembroke was chosen, Pembroke was defeated, Pembroke was appointed, Pembroke was sent, Pembroke was intercepted, Pembroke was created, Pembroke was given
+n02113023	Pembroke Welsh corgi	
+n02782093	balloon	balloon was sent, balloon was launched, balloon was constructed, balloon was inflated
+n12998815	agaric	
+n02077923	sea lion	
+n07745940	strawberry	strawberry was cultivated, strawberry was introduced
+n03680355	Loafer	
+n01795545	black grouse	
+n02091032	Italian greyhound	
+n04380533	table lamp	
+n02346627	porcupine	porcupine was killed, porcupine was shot
+n02346627	hedgehog	hedgehog was engaged
+n02093647	Bedlington terrier	
+n02101388	Brittany spaniel	
+n03000684	chain saw	
+n03000684	chainsaw	
+n03874293	paddlewheel	
+n03874293	paddle wheel	
+n03690938	lotion	lotion was prescribed, lotion was ordered, lotion was applied, lotion was put
+n01784675	centipede	centipede was asked
+n02100735	English setter	
+n03706229	magnetic compass	
+n04399382	teddy	
+n04399382	teddy bear	
+n02105412	kelpie	
+n01688243	frilled lizard	
+n01688243	Chlamydosaurus kingi	
+n04328186	stopwatch	stopwatch was stopped, stopwatch was started
+n04328186	stop watch	
+n02102177	Welsh springer spaniel	
+n02480855	gorilla	gorilla was born, gorilla was walking, gorilla was killed, gorilla was discovered, gorilla was gone, gorilla was going
+n02480855	Gorilla gorilla	
+n04235860	sleeping bag	
+n01924916	flatworm	
+n01924916	platyhelminth	
+n13040303	stinkhorn	
+n13040303	carrion fungus	
+n02280649	cabbage butterfly	
+n03445777	golf ball	
+n02093754	Border terrier	
+n02099267	flat-coated retriever	
+n02105505	komondor	
+n02085620	Chihuahua	Chihuahua was developed, Chihuahua was founded, Chihuahua was taken
+n02090379	redbone	
+n02092339	Weimaraner	
+n02138441	meerkat	
+n02138441	mierkat	
+n02088364	beagle	
+n02363005	beaver	beaver was emblazoned, beaver was caught, beaver was taken, beaver was said, beaver was killed, beaver was hunted, beaver was thrust
+n02676566	acoustic guitar	
+n04417672	thatch	thatch was tied, thatch was removed, thatch was laid, thatch was blown, thatch was replaced, thatch was taken, thatch was put, thatch was supported
+n04417672	thatched roof	
+n03538406	horse cart	
+n03538406	horse-cart	
+n02095314	wire-haired fox terrier	
+n02104029	kuvasz	
+n03785016	moped	
+n02088094	Afghan hound	
+n02088094	Afghan	Afghan was killed
+n03794056	mousetrap	
+n04285008	sports car	
+n04285008	sport car	
+n02098413	Lhasa	Lhasa was entered, Lhasa was reached, Lhasa was closed, Lhasa was founded, Lhasa was taken, Lhasa was occupied
+n02098413	Lhasa apso	
+n02107574	Greater Swiss Mountain dog	
+n01698640	American alligator	
+n01698640	Alligator mississipiensis	
+n03888605	parallel bars	
+n03888605	bars	bars was raised, bars was measured, bars was laid, bars was fixed, bars was determined, bars was reduced
+n04505470	typewriter keyboard	
+n02107683	Bernese mountain dog	
+n02264363	lacewing	
+n02264363	lacewing fly	
+n04266014	space shuttle	
+n02099849	Chesapeake Bay retriever	
+n03134739	croquet ball	
+n02090622	borzoi	
+n02090622	Russian wolfhound	
+n02100236	German short-haired pointer	
+n02667093	abaya	
+n01537544	indigo bunting	
+n01537544	indigo finch	
+n01537544	indigo bird	
+n01537544	Passerina cyanea	
+n01773797	garden spider	
+n01773797	Aranea diademata	
+n04286575	spotlight	spotlight was switched, spotlight was focused, spotlight was trained, spotlight was fixed, spotlight was turned, spotlight was thrown, spotlight was directed
+n04286575	spot	spot was pointed, spot was reached, spot was marked, spot was chosen, spot was selected, spot was visited, spot was covered, spot was called
+n01632458	spotted salamander	
+n01632458	Ambystoma maculatum	
+n02492660	howler monkey	
+n02492660	howler	
+n04275548	spider web	
+n04275548	spider  s web	
+n01494475	hammerhead	
+n01494475	hammerhead shark	
+n01980166	fiddler crab	
+n02441942	weasel	weasel was going, weasel was stunned
+n02108915	French bulldog	
+n02690373	airliner	airliner was shot, airliner was flying, airliner was destroyed, airliner was forced, airliner was hijacked, airliner was bombed, airliner was attacked, airliner was taken, airliner was blown
+n02108422	bull mastiff	
+n02009229	little blue heron	
+n02009229	Egretta caerulea	
+n01739381	vine snake	
+n02111889	Samoyed	
+n02111889	Samoyede	
+n02865351	bolo tie	
+n02865351	bolo	
+n02865351	bola tie	
+n02865351	bola	
+n02106382	Bouvier des Flandres	
+n02106382	Bouviers des Flandres	
+n02089867	Walker hound	
+n02089867	Walker foxhound	
+n02088466	bloodhound	
+n02088466	sleuthhound	
+n02086079	Pekinese	
+n02086079	Pekingese	
+n02086079	Peke	
+n02113186	Cardigan	Cardigan was tried
+n02113186	Cardigan Welsh corgi	
+n03126707	crane	crane was fixed, crane was erected, crane was swung
+n04525038	velvet	velvet was attached, velvet was lined, velvet was spread, velvet was woven, velvet was worn, velvet was borne
+n02802426	basketball	basketball was played, basketball was born, basketball was included, basketball was added, basketball was introduced, basketball was invented, basketball was going, basketball was given
+n01443537	goldfish	goldfish was swimming
+n01443537	Carassius auratus	
+n02108089	boxer	boxer was knocked, boxer was bound
+n02093256	Staffordshire bullterrier	
+n02093256	Staffordshire bull terrier	
+n02096437	Dandie Dinmont	
+n02096437	Dandie Dinmont terrier	
+n02172182	dung beetle	
+n03617480	kimono	kimono was worn, kimono was embroidered
+n04584207	wig	wig was replaced, wig was dripping, wig was thrown, wig was worn, wig was put, wig was dressed, wig was sent, wig was finished, wig was combed
+n02101006	Gordon setter	
+n03781244	monastery	monastery was erected, monastery was dedicated, monastery was situated, monastery was dissolved, monastery was suppressed, monastery was destroyed, monastery was granted, monastery was established, monastery was founded
+n02087394	Rhodesian ridgeback	
+n01518878	ostrich	
+n01518878	Struthio camelus	
+n04265275	space heater	
+n02112706	Brabancon griffon	
+n02443484	black-footed ferret	
+n02443484	ferret	ferret was put
+n02443484	Mustela nigripes	
+n03729826	matchstick	
+n02091635	otterhound	
+n02091635	otter hound	
+n02094114	Norfolk terrier	
+n02389026	sorrel	sorrel was turned
+n02086646	Blenheim spaniel	
+n02777292	balance beam	
+n02777292	beam	beam was focused, beam was reflected, beam was sent, beam was laid, beam was directed, beam was fixed
+n02090721	Irish wolfhound	
+n02167151	ground beetle	
+n02167151	carabid beetle	
+n02097209	standard schnauzer	
+n02916936	bulletproof vest	
+n03272562	electric locomotive	
+n03452741	grand piano	
+n03452741	grand	grand was going
+n03770679	minivan	minivan was parked
+n03042490	cliff dwelling	
+n04239074	sliding door	
+n02088238	basset	
+n02088238	basset hound	
+n02823428	beer bottle	
+n01773549	barn spider	
+n01773549	Araneus cavaticus	
+n02093991	Irish terrier	
+n02488702	colobus	
+n02488702	colobus monkey	
+n02086240	Shih-Tzu	
+n03404251	fur coat	
+n07860988	dough	dough was mixed, dough was spread, dough was baked, dough was prepared, dough was put, dough was left, dough was kneaded, dough was rolled
+n03761084	microwave	microwave was invented
+n03761084	microwave oven	
+n03775071	mitten	
+n02105251	briard	
+n03657121	lens cap	
+n03657121	lens cover	
+n02100583	vizsla	
+n02100583	Hungarian pointer	
+n04131690	saltshaker	
+n04131690	salt shaker	
+n02105056	groenendael	
+n02484975	guenon	
+n02484975	guenon monkey	
+n04310018	steam locomotive	
+n02095570	Lakeland terrier	
+n02112350	keeshond	
+n02793495	barn	barn was erected, barn was burned, barn was thatched, barn was fired, barn was struck, barn was burnt
+n03777754	modem	modem was detected, modem was installed, modem was considered, modem was developed, modem was connected, modem was designed
+n04590129	window shade	
+n02097130	giant schnauzer	
+n04136333	sarong	sarong was caught, sarong was wrapped
+n07583066	guacamole	
+n02454379	armadillo	
+n03376595	folding chair	
+n02879718	bow	bow was held, bow was broken, bow was strung, bow was designed, bow was bent, bow was drawn
+n01990800	isopod	
+n02074367	dugong	
+n02074367	Dugong dugon	
+n04251144	snorkel	
+n02108551	Tibetan mastiff	
+n03763968	military uniform	
+n04277352	spindle	spindle was formed, spindle was performing, spindle was attached, spindle was fixed, spindle was rotated, spindle was broken, spindle was fitted
+n02096177	cairn	cairn was examined, cairn was opened, cairn was heaped, cairn was discovered, cairn was removed, cairn was constructed, cairn was raised, cairn was erected
+n02096177	cairn terrier	
+n03843555	oil filter	
+n04355933	sunglass	
+n04485082	tripod	tripod was dedicated, tripod was blowing, tripod was positioned, tripod was raised, tripod was erected
+n04273569	speedboat	speedboat was moored, speedboat was tied, speedboat was waiting
+n04332243	strainer	
+n01740131	night snake	
+n01740131	Hypsiglena torquata	
+n02107142	Doberman	
+n02107142	Doberman pinscher	
+n03127747	crash helmet	
+n02088632	bluetick	
+n02106166	Border collie	
+n02094258	Norwich terrier	
+n02110806	basenji	
+n07760859	custard apple	
+n02097047	miniature schnauzer	
+n03710637	maillot	
+n01685808	whiptail	
+n01685808	whiptail lizard	
+n02980441	castle	castle was garrisoned, castle was destroyed, castle was situated, castle was besieged, castle was surrendered, castle was erected, castle was taken, castle was demolished, castle was founded
+n02981792	catamaran	catamaran was overset
+n03133878	Crock Pot	
+n04040759	radiator	radiator was leaking, radiator was boiling, radiator was steaming, radiator was turned, radiator was mounted, radiator was covered
+n03933933	pier	pier was begun, pier was constructed, pier was destroyed, pier was finished, pier was completed, pier was crowded, pier was laid, pier was erected
+n03476684	hair slide	
+n04069434	reflex camera	
+n03871628	packet	packet was received, packet was opened, packet was handed, packet was delivered, packet was put, packet was taken, packet was addressed, packet was sent
+n03958227	plastic bag	
+n02108000	EntleBucher	
+n02109047	Great Dane	
+n04118776	rule	rule was laid, rule was introduced, rule was followed, rule was obtained, rule was adopted, rule was granted, rule was applied, rule was observed, rule was established
+n04118776	ruler	ruler was elected, ruler was bound, ruler was considered, ruler was forced, ruler was called, ruler was supposed, ruler was appointed, ruler was regarded
+n04371774	swing	swing was given, swing was going, swing was caused, swing was suspended, swing was taken, swing was hung, swing was put
+n01440764	tench	
+n01440764	Tinca tinca	
+n03961711	plate rack	
+n03100240	convertible	convertible was offered, convertible was issued, convertible was added, convertible was gone, convertible was waiting, convertible was parked
+n04153751	screw	screw was released, screw was fixed, screw was put, screw was employed, screw was turned, screw was applied, screw was tightened
+n02906734	broom	broom was sweeping, broom was broken, broom was needed, broom was put, broom was standing, broom was piled
+n02951358	canoe	canoe was carried, canoe was launched, canoe was overset, canoe was upset, canoe was drawn, canoe was sent
+n07715103	cauliflower	cauliflower was cooked
+n02102040	English springer	
+n02102040	English springer spaniel	
+n03445924	golfcart	
+n03445924	golf cart	
+n02104365	schipperke	
+n03976657	pole	pole was cut, pole was raised, pole was applied, pole was planted, pole was erected, pole was fixed
+n04589890	window screen	
+n03944341	pinwheel	
+n03063689	coffeepot	coffeepot was boiling, coffeepot was gone, coffeepot was perking
+n04228054	ski	ski was broken
+n04562935	water tower	
+n01644373	tree frog	
+n01644373	tree-frog	
+n04392985	tape player	
+n04456115	torch	torch was passed, torch was put, torch was carried, torch was lighted, torch was applied, torch was burning, torch was held, torch was extinguished, torch was lit
+n04259630	sombrero	sombrero was drawn, sombrero was pulled, sombrero was pushed, sombrero was tilted
+n02098286	West Highland white terrier	
+n04606251	wreck	wreck was broken, wreck was abandoned, wreck was sinking, wreck was left, wreck was cleared, wreck was discovered, wreck was sold
+n04147183	schooner	schooner was lying, schooner was wrecked, schooner was sent, schooner was anchored, schooner was taken, schooner was captured, schooner was going
+n04423845	thimble	
+n02514041	barracouta	
+n02514041	snoek	
+n02037110	oystercatcher	
+n02037110	oyster catcher	
+n04252077	snowmobile	snowmobile was parked
+n02978881	cassette	cassette was playing, cassette was designed, cassette was introduced, cassette was produced, cassette was cloned, cassette was inserted
+n07695742	pretzel	
+n07717556	butternut squash	
+n02112137	chow	chow was served
+n02112137	chow chow	
+n01675722	banded gecko	
+n01734418	king snake	
+n01734418	kingsnake	
+n02096051	Airedale	
+n02096051	Airedale terrier	
+n04330267	stove	stove was heated, stove was put, stove was kept, stove was burning, stove was lighted, stove was lit
+n02190166	fly	fly was buzzing, fly was taken, fly was observed, fly was gone, fly was caught
+n03633091	ladle	ladle was emptied, ladle was lost, ladle was walking
+n03773504	missile	missile was sent, missile was hurled, missile was designed, missile was projected, missile was launched, missile was developed, missile was thrown, missile was fired
+n07920052	espresso	espresso was served
+n01608432	kite	kite was flying, kite was sent, kite was held, kite was raised, kite was fastened, kite was flown
+n03891251	park bench	
+n02177972	weevil	weevil was introduced
+n04435653	tile roof	
+n13037406	gyromitra	
+n03623198	knee pad	
+n02115913	dhole	dhole was slinking
+n02115913	Cuon alpinus	
+n03908714	pencil sharpener	
+n04026417	purse	purse was opened, purse was presented, purse was stolen, purse was taken, purse was exhausted, purse was gone, purse was missing
+n04476259	tray	tray was taken, tray was produced, tray was covered, tray was removed
+n03291819	envelope	envelope was handed, envelope was written, envelope was sealed, envelope was addressed, envelope was enclosed, envelope was opened, envelope was marked
+n01774750	tarantula	
+n03447447	gondola	gondola was ordered, gondola was passing, gondola was gliding, gondola was moored, gondola was skimming, gondola was sunk, gondola was waiting
+n04325704	stole	stole was draped, stole was worn
+n01580077	jay	jay was going
+n07697313	cheeseburger	
+n03290653	entertainment center	
+n06596364	comic book	
+n03388043	fountain	fountain was opened, fountain was playing, fountain was cleared, fountain was erected, fountain was mingled, fountain was called
+n03530642	honeycomb	
+n03956157	planetarium	planetarium was opened
+n04204347	shopping cart	
+n04522168	vase	vase was presented, vase was painted, vase was broken, vase was discovered, vase was taken
+n07714990	broccoli	
+n01514859	hen	hen was hatching, hen was sitting, hen was taken, hen was killed, hen was frightened, hen was put
+n02808304	bath towel	
+n03777568	Model T	
+n03868242	oxcart	
+n04209133	shower cap	
+n04366367	suspension bridge	
+n02607072	anemone fish	
+n02974003	car wheel	
+n03662601	lifeboat	lifeboat was cleared, lifeboat was called, lifeboat was launched, lifeboat was manned, lifeboat was sighted, lifeboat was smashed, lifeboat was lowered
+n03769881	minibus	minibus was waiting, minibus was parked
+n07875152	potpie	
+n04133789	sandal	sandal was fastened, sandal was worn, sandal was carried
+n03393912	freight car	
+n02229544	cricket	cricket was going, cricket was singing, cricket was played, cricket was introduced, cricket was kept, cricket was heard, cricket was chirping, cricket was taken, cricket was concerned
+n02730930	apron	apron was hanging, apron was put, apron was worn, apron was embroidered, apron was tied, apron was thrown, apron was laid, apron was imbued
+n04336792	stretcher	stretcher was lifted, stretcher was improvised, stretcher was wheeled, stretcher was carried, stretcher was put, stretcher was laid
+n07747607	orange	orange was thrown, orange was conceived, orange was introduced, orange was squeezed, orange was given, orange was known, orange was added
+n02999410	chain	chain was passed, chain was removed, chain was put, chain was fixed, chain was drawn, chain was fastened, chain was broken, chain was stretched, chain was attached
+n03026506	Christmas stocking	
+n04525305	vending machine	
+n02012849	crane	crane was fixed, crane was erected, crane was swung
+n03443371	goblet	goblet was put, goblet was emptied, goblet was handed, goblet was presented, goblet was drained
+n02089078	black-and-tan coonhound	
+n03379051	football helmet	
+n03598930	jigsaw puzzle	
+n04613696	yurt	
+n03627232	knot	knot was composed, knot was untied, knot was tied, knot was loosed, knot was cut, knot was ty&#39;d, knot was loosened
+n01689811	alligator lizard	
+n03179701	desk	desk was closed, desk was covered, desk was opened, desk was littered, desk was piled, desk was supplied, desk was broken
+n07716906	spaghetti squash	
+n02106550	Rottweiler	
+n02110185	Siberian husky	
+n04009552	projector	projector was sacrificed, projector was mounted, projector was stopped, projector was designed, projector was turned
+n04179913	sewing machine	
+n04209239	shower curtain	
+n04532670	viaduct	viaduct was erected, viaduct was constructed, viaduct was rebuilt, viaduct was completed, viaduct was opened, viaduct was blown, viaduct was designed
+n02094433	Yorkshire terrier	
+n03127925	crate	crate was loaded, crate was lifted, crate was opened, crate was carried, crate was delivered, crate was raised
+n07711569	mashed potato	
+n03837869	obelisk	obelisk was destined, obelisk was discovered, obelisk was covered, obelisk was removed, obelisk was raised, obelisk was erected
+n04532106	vestment	vestment was worn
+n03444034	go-kart	
+n03980874	poncho	poncho was embroidered
+n01855672	goose	goose was put, goose was killed, goose was sauce, goose was cooked, goose was gone, goose was smoking, goose was eaten
+n02699494	altar	altar was covered, altar was raised, altar was erected, altar was dedicated, altar was adorned
+n02950826	cannon	cannon was discharged, cannon was heard, cannon was planted, cannon was taken, cannon was mounted, cannon was fired, cannon was opened
+n03796401	moving van	
+n04090263	rifle	rifle was discharged, rifle was slung, rifle was levelled, rifle was introduced, rifle was heard, rifle was loaded, rifle was fired
+n07880968	burrito	
+n04458633	totem pole	
+n07613480	trifle	trifle was served, trifle was given, trifle was written, trifle was introduced
+n07831146	carbonara	
+n01560419	bulbul	
+n02102973	Irish water spaniel	
+n03220513	dome	dome was covered, dome was supported, dome was raised, dome was erected, dome was constructed, dome was finished, dome was added, dome was completed
+n03527444	holster	holster was tied, holster was attached, holster was strapped, holster was slung
+n03630383	lab coat	
+n03630383	laboratory coat	
+n03717622	manhole cover	
+n02843684	birdhouse	
+n03384352	forklift	forklift was parked
+n04447861	toilet seat	
+n07734744	mushroom	mushroom was growing
+n04487394	trombone	
+n07802026	hay	hay was stored, hay was stacked, hay was given, hay was fed, hay was cut, hay was put
+n09193705	alp	
+n06359193	web site	
+n06359193	website	website was established, website was created, website was developed, website was accessed, website was designed, website was launched, website was receiving
+n06359193	internet site	
+n06359193	site	site was located, site was selected, site was given, site was purchased, site was excavated, site was abandoned, site was occupied, site was granted, site was chosen
+n03804744	nail	nail was driven, nail was buried, nail was removed, nail was formed, nail was hammered
+n07717410	acorn squash	
+n07720875	bell pepper	
+n09229709	bubble	bubble was attached, bubble was blown, bubble was punctured, bubble was formed, bubble was centered, bubble was broken, bubble was puffed, bubble was pricked, bubble was burst
+n04067472	reel	reel was wound, reel was stopped, reel was singing, reel was danced, reel was finished, reel was called, reel was taken
+n04398044	teapot	teapot was unwrapped, teapot was standing, teapot was whistling
+n04483307	trimaran	
+n04486054	triumphal arch	
+n02791270	barbershop	barbershop was closed, barbershop was located
+n04154565	screwdriver	
+n04462240	toyshop	
+n04596742	wok	
+n02097658	silky terrier	
+n02097658	Sydney silky	
+n07742313	Granny Smith	
+n07930864	cup	cup was presented, cup was broken, cup was given, cup was passed, cup was handed
+n02701002	ambulance	ambulance was standing, ambulance was sent, ambulance was driven, ambulance was waiting, ambulance was coming, ambulance was parked, ambulance was ordered, ambulance was called, ambulance was summoned
+n03344393	fireboat	
+n04479046	trench coat	
+n04204238	shopping basket	
+n02102480	Sussex spaniel	
+n04592741	wing	wing was covered, wing was added, wing was broken, wing was completed, wing was composed, wing was led, wing was posted, wing was thrown, wing was commanded
+n04254777	sock	sock was stuffed, sock was pulled, sock was worn, sock was soaked, sock was removed, sock was missing, sock was put
+n04465501	tractor	tractor was purchased, tractor was introduced, tractor was driven, tractor was sold, tractor was developed, tractor was designed
+n03197337	digital watch	
+n03125729	cradle	cradle was suspended, cradle was put, cradle was carried, cradle was rocked, cradle was surrounded, cradle was overturned
+n04127249	safety pin	
+n07892512	red wine	
+n02988304	CD player	
+n02093859	Kerry blue terrier	
+n02096294	Australian terrier	
+n04579145	whiskey jug	
+n07579787	plate	plate was taken, plate was presented, plate was developed, plate was engraved, plate was exposed, plate was removed
+n02268853	damselfly	
+n04317175	stethoscope	stethoscope was applied, stethoscope was draped, stethoscope was invented, stethoscope was moved, stethoscope was introduced
+n02423022	gazelle	
+n02319095	sea urchin	
+n04326547	stone wall	
+n04597913	wooden spoon	
+n01806143	peacock	peacock was displaying, peacock was eaten, peacock was introduced, peacock was considered, peacock was served, peacock was strutting
+n02963159	cardigan	cardigan was buttoned
+n04355338	sundial	sundial was invented, sundial was erected
+n03272010	electric guitar	
+n07714571	head cabbage	
+n02791124	barber chair	
+n03733805	measuring cup	
+n03814906	necklace	necklace was esteemed, necklace was stolen, necklace was paste, necklace was delivered, necklace was worn, necklace was composed, necklace was taken, necklace was gone
+n13044778	earthstar	
+n02361337	marmot	
+n03314780	face powder	
+n04376876	syringe	syringe was opened, syringe was applied, syringe was introduced, syringe was inserted, syringe was employed, syringe was invented, syringe was removed
+n02033041	dowitcher	
+n04442312	toaster	toaster was invented
+n03388549	four-poster	
+n04201297	shoji	
+n03255030	dumbbell	
+n03495258	harp	harp was sent, harp was heard, harp was tuned, harp was played, harp was handed, harp was swept, harp was passed, harp was strung
+n01534433	junco	
+n01534433	snowbird	
+n01843065	jacamar	
+n03584829	iron	iron was produced, iron was discovered, iron was introduced, iron was known, iron was smelted
+n03584829	smoothing iron	
+n04560804	water jug	
+n12267677	acorn	acorn was planted
+n01491361	tiger shark	
+n01491361	Galeocerdo cuvieri	
+n01818515	macaw	
+n02790996	barbell	
+n03891332	parking meter	
+n07932039	eggnog	
+n01829413	hornbill	
+n02091244	Ibizan hound	
+n02091244	Ibizan Podenco	
+n04612504	yawl	yawl was manned, yawl was lowered, yawl was hoisted, yawl was sent, yawl was gone, yawl was put, yawl was towed, yawl was making, yawl was launched
+n01768244	trilobite	
+n02965783	car mirror	
+n07749582	lemon	lemon was introduced, lemon was squeezed, lemon was added
+n01820546	lorikeet	
+n02098105	soft-coated wheaten terrier	
+n02971356	carton	carton was designed, carton was marked, carton was opened
+n04579432	whistle	whistle was sounding, whistle was blown, whistle was given, whistle was blowing, whistle was repeated, whistle was answered, whistle was heard, whistle was sounded
+n01704323	triceratops	
+n07768694	pomegranate	
+n01883070	wombat	
+n02397096	warthog	
+n03788365	mosquito net	
+n03792972	mountain tent	
+n04125021	safe	safe was robbed, safe was blown, safe was opened, safe was locked, safe was kept, safe was left, safe was discovered, safe was broken, safe was unlocked
+n01498041	stingray	
+n01828970	bee eater	
+n01943899	conch	conch was heard, conch was suspended, conch was blown, conch was sounded, conch was speaking
+n02410509	bison	bison was discovered, bison was shot, bison was saved, bison was killed, bison was hunted
+n02910353	buckle	buckle was missing, buckle was fastened, buckle was broken, buckle was undone, buckle was worn, buckle was attached
+n01631663	eft	
+n02123159	tiger cat	
+n03930313	picket fence	
+n03930313	paling	
+n12144580	corn	corn was growing, corn was sold, corn was grown, corn was cut, corn was planted, corn was sown, corn was ground, corn was raised
+n01917289	brain coral	
+n04005630	prison	prison was crowded, prison was established, prison was situated, prison was forced, prison was erected, prison was called, prison was opened
+n04005630	prison house	
+n03146219	cuirass	cuirass was pierced, cuirass was worn, cuirass was embossed
+n04296562	stage	stage was crowded, stage was erected, stage was occupied, stage was reached, stage was marked
+n01737021	water snake	
+n01807496	partridge	partridge was introduced, partridge was flushed, partridge was heard, partridge was sitting, partridge was killed
+n02786058	Band Aid	
+n04141327	scabbard	scabbard was decorated, scabbard was thrown, scabbard was worn, scabbard was attached, scabbard was covered
+n04263257	soup bowl	
+n03481172	hammer	hammer was lifted, hammer was raised, hammer was invented, hammer was heard, hammer was cocked
+n02018795	bustard	bustard was shot
+n04540053	volleyball	volleyball was invented, volleyball was played
+n03724870	mask	mask was thrown, mask was dropped, mask was worn, mask was removed, mask was torn, mask was taken, mask was put, mask was allowed
+n03938244	pillow	pillow was stuffed, pillow was covered, pillow was smoothed, pillow was soaked, pillow was put, pillow was stained
+n04501370	turnstile	
+n01806567	quail	quail was heard, quail was calling
+n03063599	coffee mug	
+n03124043	cowboy boot	
+n02007558	flamingo	flamingo was gone
+n03478589	half track	
+n03786901	mortar	mortar was fired, mortar was laid, mortar was composed, mortar was prepared, mortar was mixed
+n04149813	scoreboard	scoreboard was installed
+n01530575	brambling	
+n01530575	Fringilla montifringilla	
+n02099429	curly-coated retriever	
+n03764736	milk can	
+n03876231	paintbrush	
+n01667778	terrapin	
+n01847000	drake	drake was recovered
+n03000134	chainlink fence	
+n01796340	ptarmigan	ptarmigan was running
+n02422106	hartebeest	
+n02403003	ox	ox was computed, ox was roasted, ox was killed, ox was sold, ox was sacrificed, ox was slaughtered, ox was given
+n03642806	laptop	laptop was missing, laptop was sitting, laptop was gone, laptop was stolen, laptop was plugged, laptop was connected
+n03642806	laptop computer	
+n04311004	steel arch bridge	
+n03485407	hand-held computer	
+n03485407	hand-held microcomputer	
+n01843383	toucan	
+n07753113	fig	fig was introduced, fig was planted, fig was given
+n01749939	green mamba	
+n03832673	notebook	notebook was opened, notebook was taken, notebook was kept, notebook was gone, notebook was asking, notebook was written
+n03832673	notebook computer	
+n04270147	spatula	spatula was inserted
+n02100877	Irish setter	
+n02100877	red setter	
+n03937543	pill bottle	
+n03482405	hamper	hamper was taken, hamper was packed, hamper was opened, hamper was directed
+n02823750	beer glass	
+n02488291	langur	
+n03014705	chest	chest was taken, chest was opened, chest was heaving, chest was exhausted, chest was covered
+n04557648	water bottle	
+n02101556	clumber	
+n02101556	clumber spaniel	
+n03787032	mortarboard	
+n03544143	hourglass	hourglass was running, hourglass was turned
+n09288635	geyser	
+n01582220	magpie	magpie was perched, magpie was standing, magpie was said
+n01592084	chickadee	chickadee was calling
+n02787622	banjo	banjo was lying, banjo was invented, banjo was played, banjo was introduced
+n02834397	bib	
+n02011460	bittern	bittern was shot, bittern was heard
+n03141823	crutch	crutch was propped, crutch was heard, crutch was lying
+n12985857	coral fungus	
+n01871265	tusker	
+n03877845	palace	palace was situated, palace was adorned, palace was erected, palace was begun, palace was crowded, palace was destroyed, palace was burnt, palace was surrounded
+n01824575	coucal	
+n02276258	admiral	admiral was created, admiral was informed, admiral was forced, admiral was determined, admiral was received, admiral was obliged, admiral was sent, admiral was killed, admiral was taken
+n02442845	mink	
+n03942813	ping-pong ball	
+n04429376	throne	throne was disputed, throne was occupied, throne was declared, throne was erected, throne was surrounded, throne was supported
+n04507155	umbrella	umbrella was spread, umbrella was carried, umbrella was broken, umbrella was opened, umbrella was raised, umbrella was left, umbrella was held
+n01616318	vulture	vulture was regarded, vulture was circling, vulture was perched, vulture was sent, vulture was sitting, vulture was flying
+n03250847	drumstick	
+n04120489	running shoe	
+n02326432	hare	hare was put, hare was sold, hare was shot, hare was killed, hare was caught, hare was hunted, hare was coming, hare was started
+n07565083	menu	menu was planned, menu was composed, menu was varied, menu was prepared, menu was discussed, menu was served, menu was limited, menu was printed, menu was written
+n02099712	Labrador retriever	
+n02979186	cassette player	
+n01687978	agama	
+n02112018	Pomeranian	
+n02124075	Egyptian cat	
+n03388183	fountain pen	
+n02111500	Great Pyrenees	
+n06794110	street sign	
+n04041544	radio	radio was playing, radio was tuned, radio was blaring, radio was broadcasting, radio was going, radio was turned, radio was working, radio was invented
+n04041544	wireless	wireless was invented, wireless was put, wireless was received, wireless was sent, wireless was playing, wireless was working, wireless was turned, wireless was switched
+n01945685	slug	slug was crawling, slug was trying, slug was removed, slug was fired
+n04254120	soap dispenser	
+n03584254	iPod	iPod was introduced
+n03992509	potter  s wheel	
+n11939491	daisy	
+n02174001	rhinoceros beetle	
+n02109525	Saint Bernard	
+n02109525	St Bernard	
+n02794156	barometer	barometer was broken, barometer was invented, barometer was observed, barometer was carried, barometer was falling, barometer was rising
+n04208210	shovel	shovel was put, shovel was scraping, shovel was working, shovel was moved
+n02095889	Sealyham terrier	
+n02095889	Sealyham	
+n03866082	overskirt	overskirt was caught, overskirt was looped
+n02487347	macaque	
+n03196217	digital clock	
+n07684084	French loaf	
+n03476991	hair spray	
+n03590841	jack-o  -lantern	
+n03450230	gown	gown was scoured, gown was stained, gown was fastened, gown was cut, gown was thrown, gown was torn, gown was wrapped, gown was worn, gown was covered
+n02099601	golden retriever	
+n03180011	desktop computer	
+n03259280	Dutch oven	
+n02526121	eel	eel was taken, eel was cooked, eel was caught
+n02643566	lionfish	
+n13054560	bolete	
+n01751748	sea snake	
+n04111531	rotisserie	
+n02089973	English foxhound	
+n02085782	Japanese spaniel	
+NA	dog	dog was lying, dog was tied, dog was killed, dog was kept, dog was barking, dog was heard, dog was given
+NA	butterfly	butterfly was forced, butterfly was taken, butterfly was introduced, butterfly was flying, butterfly was observed, butterfly was captured, butterfly was fluttering
+NA	airplane	airplane was flown, airplane was equipped, airplane was invented, airplane was going, airplane was designed, airplane was flying
+NA	bird	bird was singing, bird was observed, bird was taken, bird was killed, bird was shot, bird was heard, bird was flown, bird was sitting

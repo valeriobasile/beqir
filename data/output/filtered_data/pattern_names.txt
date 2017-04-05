@@ -1,0 +1,7 @@
+pattern_1: *_ADJ [lemma]
+pattern_2: [lemma] in the *
+pattern_3: [lemma] is *_VERB
+pattern_4: [lemma] was *_VERB
+pattern_5: *_NOUN [lemma]
+pattern_6: * [lemma]
+pattern_7: [lemma] *
